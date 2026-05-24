@@ -1,0 +1,4841 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Interconnections",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Fate Enchantment — Magesight",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/0.jpg"
+			}
+		},
+		{
+			"name": "Oaths Fulfilled",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Fate Enchantment — Saga",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Serendipity",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Fate Instant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Exceptional Luck",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{hazard.png}",
+			"type": "Fate Sorcery",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Fabricate Fortune",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{hazard.png}",
+			"type": "Fate Instant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Shifting the Odds",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Fate Enchantment — Saga",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Grave Misfortune",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{hazard.png}",
+			"type": "Fate Enchantment — Aura Saga",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Monkey's Paw",
+			"rarity": "special",
+			"mana_cost": "{W}{hazard.png}",
+			"type": "Fate Enchantment — Saga",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Shared Fate",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{hazard.png}",
+			"type": "Fate Enchantment — Class",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Sworn Oaths",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Fate Enchantment",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Atonement",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}{hazard.png}{hazard.png}",
+			"type": "Fate Enchantment — Saga",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Chaos Mastery",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}{hazard.png}{hazard.png}",
+			"type": "Fate Enchantment — Saga",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Divine Intervention",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}{hazard.png}{hazard.png}",
+			"type": "Fate Enchantment — Saga",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Strings of Fate",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{hazard.png}{hazard.png}",
+			"type": "Fate Enchantment — Saga",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Forge Destiny",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}{hazard.png}{hazard.png}{hazard.png}",
+			"type": "Fate Enchantment — Saga",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Miracle",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}{hazard.png}{hazard.png}{hazard.png}",
+			"type": "Fate Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Anathema",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{hazard.png}{hazard.png}{hazard.png}",
+			"type": "Fate Enchantment — Aura",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Swarm of Locusts",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}{hazard.png}{hazard.png}{hazard.png}",
+			"type": "Fate Enchantment — Saga",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Bonis Avibus",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{hazard.png}",
+			"type": "Fate Creature — Bird Knight",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Quo Fata Ferunt",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{hazard.png}",
+			"type": "Fate Creature — Dog Archer",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Ceteris Paribus",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{hazard.png}",
+			"type": "Fate Creature — Mouse Cleric",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Terminus Ad Quem",
+			"rarity": "special",
+			"mana_cost": "{W}{hazard.png}",
+			"type": "Fate Creature — Rat Assassin",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Audentes Fortuna Iuvat",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{hazard.png}",
+			"type": "Fate Creature — Wolverine Berserker",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Capricious Moira",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Fate Creature — Supernal Fae",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Volatile Moira",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}{W}",
+			"type": "Fate Creature — Supernal Fae",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Capacious Imp",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}{U}",
+			"type": "Space Creature — Supernal Demon",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Mercurian Mantis",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{hazard.png}",
+			"type": "Space Creature — Alien Insect",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Nibiruan Cnidomorph",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{hazard.png}",
+			"type": "Space Creature — Alien Jellyfish",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Enceladean Slime",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}{hazard.png}",
+			"type": "Space Creature — Alien Ooze",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Pleiadian Explorer",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Space Creature — Alien Scout",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Ionian Arcanophage",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{hazard.png}",
+			"type": "Space Creature — Alien Slug",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Light Elemental",
+			"rarity": "special",
+			"mana_cost": "{R}{hazard.png}",
+			"type": "Forces Creature — Elemental",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Sonic Elemental",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{hazard.png}",
+			"type": "Forces Creature — Elemental",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Gravity Elemental",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{hazard.png}",
+			"type": "Forces Creature — Elemental",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Electricity Elemental",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{hazard.png}",
+			"type": "Forces Creature — Elemental",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Heat Elemental",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}{hazard.png}",
+			"type": "Forces Creature — Elemental",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "A Forgotten Memory",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Spirit Creature — Avatar",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "A Gruesome Murder",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{hazard.png}",
+			"type": "Spirit Creature — Avatar",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "A Poor Child's Hunger",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{hazard.png}",
+			"type": "Spirit Creature — Avatar",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "An Implacable Angst",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Spirit Creature — Avatar",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "An Untold Secret",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{hazard.png}",
+			"type": "Spirit Creature — Avatar",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Ambrosial Behemoth",
+			"rarity": "special",
+			"mana_cost": "{4}{G}{G}{hazard.png}",
+			"type": "Life Creature — Hydra",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Bloodpetal Bramble",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Life Creature — Plant",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Rampaging Rhinoceros",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}{hazard.png}",
+			"type": "Life Creature — Rhino",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Carcinizing Crustacean",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Life Creature — Crab",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Broodling Mother",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Life Creature — Spider",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Goetia of Pride",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Mind Creature — Nightmare Bird",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Goetia of Wrath",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}{hazard.png}",
+			"type": "Mind Creature — Nightmare Cat",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Goetia of Gluttony",
+			"rarity": "special",
+			"mana_cost": "{X}{1}{U}{U}{hazard.png}",
+			"type": "Mind Creature — Nightmare Shark",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Goetia of Sloth",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Mind Creature — Nightmare Sloth",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Goetia of Envy",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{hazard.png}",
+			"type": "Mind Creature — Nightmare Snake",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Erupting Carcass",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Death Creature — Skeleton",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Resonant Corpse",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Death Creature — Skeleton",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Pesky Poltergeist",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Death Creature — Ghost",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Tethered Soul",
+			"rarity": "special",
+			"mana_cost": "{B}{B}",
+			"type": "Death Creature — Ghost",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Insatiable Ghast",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Death Creature — Ghost",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Surveillance Drone Mark IV",
+			"rarity": "special",
+			"mana_cost": "{B}{hazard.png}",
+			"type": "Matter Artifact Creature — Drone Construct",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Autoguardian Mark VI",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{hazard.png}",
+			"type": "Matter Artifact Creature — Robot Construct",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Antimatter Field",
+			"rarity": "special",
+			"mana_cost": "{B}{hazard.png}",
+			"type": "Matter Artifact Creature — Wall",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Brick Barricade",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Matter Artifact Creature — Wall",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Crystalline Seal",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{hazard.png}",
+			"type": "Matter Artifact Creature — Wall",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "The Adamantine Arrow",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Pentacle Order",
+			"collector_number": "333",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "The Silver Ladder",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Pentacle Order",
+			"collector_number": "348",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "The Free Council",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Pentacle Order",
+			"collector_number": "340",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "The Guardians of the Veil",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Pentacle Order",
+			"collector_number": "341",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "The Mysterium",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Pentacle Order",
+			"collector_number": "343",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Talon Medal",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact — Clue",
+			"collector_number": "355",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Théarch Badge",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact — Clue",
+			"collector_number": "356",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Libertine Invitation",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact — Clue",
+			"collector_number": "351",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Guardian Memento",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact — Clue",
+			"collector_number": "350",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Mystagogue Trinket",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact — Clue",
+			"collector_number": "352",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Forgotten Wending",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "339",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Historical Monument",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Fate Land — Hallow",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Languid Cul-de-sac",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Time Land — Hallow",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Psionic Skyscraper",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Mind Land — Hallow",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Vacant Lot",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Space Land — Hallow",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Desecrated Graveyard",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Death Land — Hallow",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Contaminated Scrapyard",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Matter Land — Hallow",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Sacred Temple",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Prime Land — Hallow",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Thrumming Substation",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Forces Land — Hallow",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Pristine Parkland",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Spirit Land — Hallow",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Undeveloped Overgrowth",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Life Land — Hallow",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Lucifuge Descendent",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Creature — Human Hunter Devil",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Aegis Kai Doru Archivist",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Creature — Human Hunter Artificer",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Cheiron Grafter",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Creature — Human Hunter Scientist",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Task Force Commando",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Creature — Human Hunter Soldier",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Ashwood Abbot",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Creature — Human Hunter Cleric",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Zeka Monstrosity",
+			"rarity": "special",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Golem Horror",
+			"collector_number": "332",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Galateid Muse",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Golem Advisor",
+			"collector_number": "329",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Patchwork Wretched",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Golem Warrior",
+			"collector_number": "330",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Tammuz Golem",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Golem Soldier",
+			"collector_number": "331",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Distant Future",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{hazard.png}{hazard.png}",
+			"type": "Time Enchantment Creature — Epoch",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Leap Second",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Time Enchantment Creature — Moment",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Atlantean Age",
+			"rarity": "special",
+			"mana_cost": "{5}{W}{W}{hazard.png}{hazard.png}",
+			"type": "Time Enchantment Creature — Epoch",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Solstice Sunset",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Time Enchantment Creature — Moment",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Mesozoic Era",
+			"rarity": "special",
+			"mana_cost": "{4}{W}{hazard.png}{hazard.png}",
+			"type": "Time Enchantment Creature — Epoch",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Deepen Shadows",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Death Enchantment",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Forensic Gaze",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Death Instant",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Shadow Sculpting",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Death Sorcery",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Soul Marks",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Death Enchantment — Magesight",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Decay",
+			"rarity": "special",
+			"mana_cost": "{B}{hazard.png}",
+			"type": "Death Sorcery",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Ghost Shield",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Death Kindred Enchantment — Ghost Aura",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Soul Armor",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{hazard.png}",
+			"type": "Death Enchantment — Aura",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Suppress Life",
+			"rarity": "special",
+			"mana_cost": "{B}{hazard.png}",
+			"type": "Death Instant",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Devouring the Slain",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{hazard.png}",
+			"type": "Death Enchantment",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Ghost Gate",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{hazard.png}",
+			"type": "Death Kindred Sorcery — Ghost",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Quicken Corpse",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{hazard.png}",
+			"type": "Death Sorcery",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Shadow Crafting",
+			"rarity": "special",
+			"mana_cost": "{X}{B}{hazard.png}",
+			"type": "Death Sorcery",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Enervation",
+			"rarity": "special",
+			"mana_cost": "{X}{B}{hazard.png}{hazard.png}",
+			"type": "Death Sorcery",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Exorcism",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{hazard.png}{hazard.png}",
+			"type": "Death Instant",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Unearth Revenant",
+			"rarity": "special",
+			"mana_cost": "{B}{B}{B}{hazard.png}{hazard.png}",
+			"type": "Death Sorcery",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Shadow Flesh",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{hazard.png}",
+			"type": "Death Enchantment — Aura",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Withering",
+			"rarity": "special",
+			"mana_cost": "{X}{B}{B}{B}{hazard.png}{hazard.png}",
+			"type": "Death Sorcery",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Create Avernian Gate",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{hazard.png}{hazard.png}{hazard.png}",
+			"type": "Death Sorcery",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Deny the Reaper",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{hazard.png}{hazard.png}{hazard.png}",
+			"type": "Death Kindred Enchantment — Ghost",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Empty Presence",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{hazard.png}{hazard.png}{hazard.png}",
+			"type": "Death Sorcery",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Artisan's Eye",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Matter Instant",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Detect Substance",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Matter Enchantment — Magesight",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Remote Control",
+			"rarity": "special",
+			"mana_cost": "{X}{B}",
+			"type": "Matter Sorcery",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Alchemist's Touch",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Matter Instant",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Hidden Hoard",
+			"rarity": "special",
+			"mana_cost": "{B}{hazard.png}",
+			"type": "Matter Instant",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Machine Invisibility",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{hazard.png}",
+			"type": "Matter Enchantment — Aura",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Shaping",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{hazard.png}",
+			"type": "Matter Sorcery",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Alter Conductivity",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{hazard.png}",
+			"type": "Matter Enchantment",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Crucible",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{hazard.png}",
+			"type": "Matter Enchantment",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Windstrike",
+			"rarity": "special",
+			"mana_cost": "{B}{hazard.png}",
+			"type": "Matter Instant",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Golem",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{hazard.png}",
+			"type": "Matter Kindred Enchantment — Construct Aura",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Endless Bounty",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{hazard.png}",
+			"type": "Matter Enchantment",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Supernal Forging",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{hazard.png}{hazard.png}",
+			"type": "Matter Kindred Sorcery — Construct",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Ghostwall",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{hazard.png}{hazard.png}",
+			"type": "Matter Sorcery",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Wonderful Machine",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}{hazard.png}{hazard.png}",
+			"type": "Matter Kindred Instant — Construct",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Piercing Earth",
+			"rarity": "special",
+			"mana_cost": "{4}{B}{hazard.png}{hazard.png}",
+			"type": "Matter Sorcery",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Transubstantiation",
+			"rarity": "special",
+			"mana_cost": "{X}{B}{B}{hazard.png}{hazard.png}",
+			"type": "Matter Kindred Sorcery — Construct",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Annihilate Matter",
+			"rarity": "special",
+			"mana_cost": "{B}{hazard.png}",
+			"type": "Matter Instant",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Ex Nihilo",
+			"rarity": "special",
+			"mana_cost": "{B}{B}{B}{hazard.png}{hazard.png}{hazard.png}",
+			"type": "Matter Sorcery",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Self-Repairing Machine",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{hazard.png}{hazard.png}{hazard.png}",
+			"type": "Matter Enchantment — Aura",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Know Nature",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Mind Sorcery",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Mental Scan",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Mind Instant",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "One Mind, Two Thoughts",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Mind Enchantment",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Perfect Recall",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Mind Enchantment — Magesight",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Alter Mental Pattern",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Mind Instant",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Memory Hole",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{hazard.png}",
+			"type": "Mind Sorcery",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Mental Shield",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}{hazard.png}",
+			"type": "Mind Enchantment",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Psychic Domination",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{hazard.png}",
+			"type": "Mind Sorcery",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/143.jpg"
+			}
+		},
+		{
+			"name": "Supernal Telepathy",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}{hazard.png}{hazard.png}",
+			"type": "Mind Sorcery",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "Augment Mind",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}{hazard.png}{hazard.png}",
+			"type": "Mind Enchantment",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "Psychic Assault",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{hazard.png}",
+			"type": "Mind Instant",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Read the Depths",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{hazard.png}",
+			"type": "Mind Sorcery",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Universal Language",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Mind Instant",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Mind Flay",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}{hazard.png}{hazard.png}",
+			"type": "Mind Sorcery",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Possession",
+			"rarity": "special",
+			"mana_cost": "{X}{U}{U}{hazard.png}{hazard.png}",
+			"type": "Mind Kindred Sorcery — Nightmare",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "Hallucination",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}{hazard.png}{hazard.png}",
+			"type": "Mind Kindred Enchantment — Nightmare Aura",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Terrorize",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{hazard.png}{hazard.png}",
+			"type": "Mind Kindred Enchantment — Nightmare",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Mind Wipe",
+			"rarity": "special",
+			"mana_cost": "{U}{hazard.png}",
+			"type": "Mind Kindred Instant — Nightmare",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Psychic Genesis",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}{hazard.png}{hazard.png}{hazard.png}",
+			"type": "Mind Kindred Sorcery — Nightmare",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "Social Networking",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Mind Enchantment",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Correspondence",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Space Instant",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Ground Eater",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Space Enchantment — Class",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "Isolation",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Space Sorcery",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "Locate Object",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Space Instant",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/159.jpg"
+			}
+		},
+		{
+			"name": "The Outward and Inward Eye",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Space Enchantment — Magesight",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "Lying Maps",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}{hazard.png}",
+			"type": "Space Sorcery",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Break Boundary",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Space Sorcery",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/162.jpg"
+			}
+		},
+		{
+			"name": "Ward",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Space Enchantment",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "Ban",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{hazard.png}",
+			"type": "Space Enchantment",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/164.jpg"
+			}
+		},
+		{
+			"name": "Co-Location",
+			"rarity": "special",
+			"mana_cost": "{U}{hazard.png}",
+			"type": "Space Instant",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/165.jpg"
+			}
+		},
+		{
+			"name": "Perfect Sympathy",
+			"rarity": "special",
+			"mana_cost": "{U}{hazard.png}",
+			"type": "Space Instant",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/166.jpg"
+			}
+		},
+		{
+			"name": "Warp",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}{hazard.png}",
+			"type": "Space Sorcery",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/167.jpg"
+			}
+		},
+		{
+			"name": "Alter Direction",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Space Instant",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "Collapse",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{hazard.png}{hazard.png}",
+			"type": "Space Enchantment",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "Cut Threads",
+			"rarity": "special",
+			"mana_cost": "{U}{hazard.png}{hazard.png}",
+			"type": "Space Sorcery",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/170.jpg"
+			}
+		},
+		{
+			"name": "Teleportation",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{hazard.png}{hazard.png}",
+			"type": "Space Enchantment",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Forge No Chains",
+			"rarity": "special",
+			"mana_cost": "{U}{hazard.png}{hazard.png}{hazard.png}",
+			"type": "Space Instant",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Pocket Dimension",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}{hazard.png}{hazard.png}{hazard.png}",
+			"type": "Space Enchantment",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/173.jpg"
+			}
+		},
+		{
+			"name": "Quarantine",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}{hazard.png}{hazard.png}{hazard.png}",
+			"type": "Space Sorcery",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/174.jpg"
+			}
+		},
+		{
+			"name": "Unnaming",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{hazard.png}{hazard.png}{hazard.png}",
+			"type": "Space Enchantment",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/175.jpg"
+			}
+		},
+		{
+			"name": "Dispel Magic",
+			"rarity": "special",
+			"mana_cost": "{R}{R}",
+			"type": "Prime Instant",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/176.jpg"
+			}
+		},
+		{
+			"name": "Nimbus Tuning",
+			"rarity": "special",
+			"mana_cost": "{R}{R}",
+			"type": "Prime Instant",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "Pierce Deception",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Prime Enchantment",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/178.jpg"
+			}
+		},
+		{
+			"name": "Sacred Geometry",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Prime Instant",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/179.jpg"
+			}
+		},
+		{
+			"name": "Supernal Vision",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Prime Enchantment — Magesight",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/180.jpg"
+			}
+		},
+		{
+			"name": "As Above, So Below",
+			"rarity": "special",
+			"mana_cost": "{R}{R}",
+			"type": "Prime Instant",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/181.jpg"
+			}
+		},
+		{
+			"name": "Invisible Runes",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Prime Enchantment",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/182.jpg"
+			}
+		},
+		{
+			"name": "Nimbus Forgery",
+			"rarity": "special",
+			"mana_cost": "{R}{R}",
+			"type": "Prime Instant",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/183.jpg"
+			}
+		},
+		{
+			"name": "Words of Truth",
+			"rarity": "special",
+			"mana_cost": "{R}{R}{hazard.png}",
+			"type": "Prime Instant",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/184.jpg"
+			}
+		},
+		{
+			"name": "Aetheric Winds",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{hazard.png}",
+			"type": "Prime Instant",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/185.jpg"
+			}
+		},
+		{
+			"name": "Display of Gnosis",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}{hazard.png}",
+			"type": "Prime Sorcery",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/186.jpg"
+			}
+		},
+		{
+			"name": "Mana Battery",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}{hazard.png}{hazard.png}",
+			"type": "Prime Enchantment",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/187.jpg"
+			}
+		},
+		{
+			"name": "Celestial Fire",
+			"rarity": "special",
+			"mana_cost": "{X}{X}{R}{R}{hazard.png}{hazard.png}",
+			"type": "Prime Sorcery",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/188.jpg"
+			}
+		},
+		{
+			"name": "Destroy Tass",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{hazard.png}{hazard.png}",
+			"type": "Prime Sorcery",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/189.jpg"
+			}
+		},
+		{
+			"name": "Hallow Dance",
+			"rarity": "special",
+			"mana_cost": "{R}{hazard.png}{hazard.png}",
+			"type": "Prime Enchantment — Aura Class",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/190.jpg"
+			}
+		},
+		{
+			"name": "Primal Transfer",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}{hazard.png}{hazard.png}",
+			"type": "Prime Sorcery",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/191.jpg"
+			}
+		},
+		{
+			"name": "Supernal Dispellation",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{hazard.png}{hazard.png}",
+			"type": "Prime Enchantment",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/192.jpg"
+			}
+		},
+		{
+			"name": "Blasphemy",
+			"rarity": "special",
+			"mana_cost": "{6}{R}{hazard.png}{hazard.png}{hazard.png}",
+			"type": "Prime Sorcery",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/193.jpg"
+			}
+		},
+		{
+			"name": "Create Truth",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}{hazard.png}{hazard.png}{hazard.png}",
+			"type": "Prime Sorcery",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/194.jpg"
+			}
+		},
+		{
+			"name": "Word of Unmaking",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{hazard.png}",
+			"type": "Prime Instant",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/195.jpg"
+			}
+		},
+		{
+			"name": "Arcadian Robes",
+			"rarity": "special",
+			"mana_cost": "{2/W}{2/W}",
+			"type": "Fate Time Artifact — Equipment",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/196.jpg"
+			}
+		},
+		{
+			"name": "Pandemonic Casque",
+			"rarity": "special",
+			"mana_cost": "{2/U}{2/U}",
+			"type": "Mind Space Artifact — Equipment",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/197.jpg"
+			}
+		},
+		{
+			"name": "Aethereal Targe",
+			"rarity": "special",
+			"mana_cost": "{2/R}{2/R}",
+			"type": "Prime Forces Artifact — Equipment",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/198.jpg"
+			}
+		},
+		{
+			"name": "Stygian Gauntlet",
+			"rarity": "special",
+			"mana_cost": "{2/B}{2/B}",
+			"type": "Death Matter Artifact — Equipment",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/199.jpg"
+			}
+		},
+		{
+			"name": "Primal Longbow",
+			"rarity": "special",
+			"mana_cost": "{2/G}{2/G}",
+			"type": "Spirit Life Artifact — Equipment",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/200.jpg"
+			}
+		},
+		{
+			"name": "Supernal Divination",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Time Instant",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/201.jpg"
+			}
+		},
+		{
+			"name": "Green Light/Red Light",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Time Instant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/202.jpg"
+			}
+		},
+		{
+			"name": "Momentary Flux",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Time Enchantment",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/203.jpg"
+			}
+		},
+		{
+			"name": "Perfect Timing",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Time Enchantment — Magesight",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/204.jpg"
+			}
+		},
+		{
+			"name": "Choose the Thread",
+			"rarity": "special",
+			"mana_cost": "{X}{W}{hazard.png}",
+			"type": "Time Instant",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/205.jpg"
+			}
+		},
+		{
+			"name": "Constant Presence",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Time Enchantment",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/206.jpg"
+			}
+		},
+		{
+			"name": "Shield of Chronos",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{hazard.png}",
+			"type": "Time Enchantment",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/207.jpg"
+			}
+		},
+		{
+			"name": "Veil of Moments",
+			"rarity": "special",
+			"mana_cost": "{W}{hazard.png}",
+			"type": "Time Instant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/208.jpg"
+			}
+		},
+		{
+			"name": "Acceleration",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{hazard.png}",
+			"type": "Time Instant",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/209.jpg"
+			}
+		},
+		{
+			"name": "Chronos' Curse",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{hazard.png}",
+			"type": "Time Enchantment",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/210.jpg"
+			}
+		},
+		{
+			"name": "Shifting Sands",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}{hazard.png}{hazard.png}",
+			"type": "Time Instant",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/211.jpg"
+			}
+		},
+		{
+			"name": "Temporal Summoning",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{hazard.png}",
+			"type": "Time Enchantment",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/212.jpg"
+			}
+		},
+		{
+			"name": "Weight of Years",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{hazard.png}",
+			"type": "Time Enchantment",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/213.jpg"
+			}
+		},
+		{
+			"name": "Present as Past",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}{hazard.png}{hazard.png}",
+			"type": "Time Instant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/214.jpg"
+			}
+		},
+		{
+			"name": "Supernal Prophecy",
+			"rarity": "special",
+			"mana_cost": "{W}{W}{hazard.png}{hazard.png}",
+			"type": "Time Enchantment",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/215.jpg"
+			}
+		},
+		{
+			"name": "Temporal Stutter",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{hazard.png}{hazard.png}",
+			"type": "Time Instant",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/216.jpg"
+			}
+		},
+		{
+			"name": "Corridors of Time",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}{hazard.png}{hazard.png}",
+			"type": "Time Instant",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/217.jpg"
+			}
+		},
+		{
+			"name": "Rewrite History",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}{hazard.png}{hazard.png}{hazard.png}",
+			"type": "Time Instant",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/218.jpg"
+			}
+		},
+		{
+			"name": "Blink of an Eye",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{hazard.png}{hazard.png}",
+			"type": "Time Enchantment",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/219.jpg"
+			}
+		},
+		{
+			"name": "Temporal Pocket",
+			"rarity": "special",
+			"mana_cost": "{W}{W}{W}{hazard.png}{hazard.png}{hazard.png}",
+			"type": "Time Instant",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/220.jpg"
+			}
+		},
+		{
+			"name": "Influence Electricity",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Forces Instant",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/221.jpg"
+			}
+		},
+		{
+			"name": "Kinetic Efficiency",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Forces Sorcery",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/222.jpg"
+			}
+		},
+		{
+			"name": "Nightvision",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Forces Enchantment — Magesight",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/223.jpg"
+			}
+		},
+		{
+			"name": "Tune In",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Forces Instant",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/224.jpg"
+			}
+		},
+		{
+			"name": "Control Electricity",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Forces Enchantment",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/225.jpg"
+			}
+		},
+		{
+			"name": "Control Fire",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Forces Enchantment",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/226.jpg"
+			}
+		},
+		{
+			"name": "Control Gravity",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Forces Enchantment",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/227.jpg"
+			}
+		},
+		{
+			"name": "Environmental Shield",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{hazard.png}",
+			"type": "Forces Enchantment",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/228.jpg"
+			}
+		},
+		{
+			"name": "Invisibility",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Forces Enchantment — Aura",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/229.jpg"
+			}
+		},
+		{
+			"name": "Kinetic Blow",
+			"rarity": "special",
+			"mana_cost": "{X}{R}{hazard.png}",
+			"type": "Forces Instant",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/230.jpg"
+			}
+		},
+		{
+			"name": "Call Lightning",
+			"rarity": "special",
+			"mana_cost": "{R}{hazard.png}",
+			"type": "Forces Sorcery",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/231.jpg"
+			}
+		},
+		{
+			"name": "Telekinetic Strike",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{hazard.png}",
+			"type": "Forces Instant",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/232.jpg"
+			}
+		},
+		{
+			"name": "Velocity Control",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{hazard.png}",
+			"type": "Forces Enchantment",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/233.jpg"
+			}
+		},
+		{
+			"name": "Gravitic Levitation",
+			"rarity": "special",
+			"mana_cost": "{R}{hazard.png}",
+			"type": "Forces Instant",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/234.jpg"
+			}
+		},
+		{
+			"name": "Rend Friction",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}{hazard.png}{hazard.png}",
+			"type": "Forces Enchantment",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/235.jpg"
+			}
+		},
+		{
+			"name": "Transform Energy",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}{hazard.png}{hazard.png}",
+			"type": "Forces Instant",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/236.jpg"
+			}
+		},
+		{
+			"name": "Adverse Weather",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}{hazard.png}{hazard.png}",
+			"type": "Forces Enchantment",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/237.jpg"
+			}
+		},
+		{
+			"name": "Create Energy",
+			"rarity": "special",
+			"mana_cost": "{X}{R}{hazard.png}{hazard.png}{hazard.png}",
+			"type": "Forces Sorcery",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/238.jpg"
+			}
+		},
+		{
+			"name": "Seismic Tremors",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}{hazard.png}{hazard.png}{hazard.png}",
+			"type": "Forces Sorcery",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/239.jpg"
+			}
+		},
+		{
+			"name": "Eradicate Energy",
+			"rarity": "special",
+			"mana_cost": "{R}{R}{hazard.png}{hazard.png}{hazard.png}",
+			"type": "Forces Instant",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/240.jpg"
+			}
+		},
+		{
+			"name": "Shifting Anachronism",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Time Creature — Supernal Fae",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/241.jpg"
+			}
+		},
+		{
+			"name": "Splitting Anachronism",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}{W}",
+			"type": "Time Creature — Supernal Fae",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/242.jpg"
+			}
+		},
+		{
+			"name": "Psychic Wraith",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Mind Creature — Supernal Demon",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/243.jpg"
+			}
+		},
+		{
+			"name": "Noetic Wraith",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}{U}",
+			"type": "Mind Creature — Supernal Demon",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/244.jpg"
+			}
+		},
+		{
+			"name": "Disintegrating Spectre",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Death Creature — Supernal Shade",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/245.jpg"
+			}
+		},
+		{
+			"name": "Pernicious Spectre",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}{B}",
+			"type": "Death Creature — Supernal Shade",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/246.jpg"
+			}
+		},
+		{
+			"name": "Resilient Apeiron",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Matter Creature — Supernal Shade",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/247.jpg"
+			}
+		},
+		{
+			"name": "Replicating Apeiron",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}{B}",
+			"type": "Matter Creature — Supernal Shade",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/248.jpg"
+			}
+		},
+		{
+			"name": "Intransigent Cherub",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Prime Creature — Supernal Angel",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/249.jpg"
+			}
+		},
+		{
+			"name": "Exuberant Cherub",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}{R}",
+			"type": "Prime Creature — Supernal Angel",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/250.jpg"
+			}
+		},
+		{
+			"name": "Amplifying Seraph",
+			"rarity": "special",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Forces Creature — Supernal Angel",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/251.jpg"
+			}
+		},
+		{
+			"name": "Vengeful Seraph",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}{R}",
+			"type": "Forces Creature — Supernal Angel",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/252.jpg"
+			}
+		},
+		{
+			"name": "Barbarous Totem",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Spirit Creature — Supernal Beast",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/253.jpg"
+			}
+		},
+		{
+			"name": "Rapacious Totem",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{G}{G}",
+			"type": "Spirit Creature — Supernal Beast",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/254.jpg"
+			}
+		},
+		{
+			"name": "Flourishing Atavism",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Life Creature — Supernal Beast",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/255.jpg"
+			}
+		},
+		{
+			"name": "Proliferant Atavism",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}{G}",
+			"type": "Life Creature — Supernal Beast",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/256.jpg"
+			}
+		},
+		{
+			"name": "Scourge of Oblation",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "354",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/257.jpg"
+			}
+		},
+		{
+			"name": "Profane Urim",
+			"rarity": "special",
+			"mana_cost": "{5}",
+			"type": "Artifact",
+			"collector_number": "353",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/258.jpg"
+			}
+		},
+		{
+			"name": "Astral Astrolabe",
+			"rarity": "special",
+			"mana_cost": "{7}",
+			"type": "Artifact",
+			"collector_number": "349",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/259.jpg"
+			}
+		},
+		{
+			"name": "Coaxing the Spirits",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Spirit Instant",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/260.jpg"
+			}
+		},
+		{
+			"name": "Exorcist's Eye",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Spirit Enchantment — Magesight",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/261.jpg"
+			}
+		},
+		{
+			"name": "Invoke Bane",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Spirit Enchantment — Aura",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/262.jpg"
+			}
+		},
+		{
+			"name": "Know Spirit",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Spirit Instant",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/263.jpg"
+			}
+		},
+		{
+			"name": "Channel Essence",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{hazard.png}",
+			"type": "Spirit Sorcery",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/264.jpg"
+			}
+		},
+		{
+			"name": "Command Spirit",
+			"rarity": "special",
+			"mana_cost": "{X}{G}{hazard.png}",
+			"type": "Spirit Sorcery",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/265.jpg"
+			}
+		},
+		{
+			"name": "Gossamer Touch",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{hazard.png}",
+			"type": "Spirit Enchantment",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/266.jpg"
+			}
+		},
+		{
+			"name": "Slumber",
+			"rarity": "special",
+			"mana_cost": "{G}{hazard.png}",
+			"type": "Spirit Instant",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/267.jpg"
+			}
+		},
+		{
+			"name": "Bolster Spirit",
+			"rarity": "special",
+			"mana_cost": "{X}{G}{hazard.png}",
+			"type": "Spirit Instant",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/268.jpg"
+			}
+		},
+		{
+			"name": "Erode Resonance",
+			"rarity": "special",
+			"mana_cost": "{G}{hazard.png}",
+			"type": "Spirit Instant",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/269.jpg"
+			}
+		},
+		{
+			"name": "Place of Power",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{hazard.png}",
+			"type": "Spirit Enchantment — Aura",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/270.jpg"
+			}
+		},
+		{
+			"name": "Rouse Spirit",
+			"rarity": "special",
+			"mana_cost": "{X}{G}{hazard.png}",
+			"type": "Spirit Instant",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/271.jpg"
+			}
+		},
+		{
+			"name": "Spirit Summons",
+			"rarity": "special",
+			"mana_cost": "{X}{G}{hazard.png}",
+			"type": "Spirit Sorcery",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/272.jpg"
+			}
+		},
+		{
+			"name": "Bind Spirit",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{hazard.png}{hazard.png}",
+			"type": "Spirit Enchantment — Aura",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/273.jpg"
+			}
+		},
+		{
+			"name": "Shadow Scream",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{hazard.png}{hazard.png}",
+			"type": "Spirit Sorcery",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/274.jpg"
+			}
+		},
+		{
+			"name": "Shape Spirit",
+			"rarity": "special",
+			"mana_cost": "{G}{hazard.png}{hazard.png}",
+			"type": "Spirit Sorcery",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/275.jpg"
+			}
+		},
+		{
+			"name": "Twilit Body",
+			"rarity": "special",
+			"mana_cost": "{G}{hazard.png}{hazard.png}",
+			"type": "Spirit Instant",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/276.jpg"
+			}
+		},
+		{
+			"name": "Annihilate Spirit",
+			"rarity": "special",
+			"mana_cost": "{G}{hazard.png}{hazard.png}{hazard.png}",
+			"type": "Spirit Instant",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/277.jpg"
+			}
+		},
+		{
+			"name": "Create Locus",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{hazard.png}{hazard.png}{hazard.png}",
+			"type": "Spirit Sorcery",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/278.jpg"
+			}
+		},
+		{
+			"name": "Essence Fountain",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{G}{hazard.png}{hazard.png}{hazard.png}",
+			"type": "Spirit Enchantment",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/279.jpg"
+			}
+		},
+		{
+			"name": "Cleanse the Body",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Life Sorcery",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/280.jpg"
+			}
+		},
+		{
+			"name": "Heightened Senses",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Life Instant",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/281.jpg"
+			}
+		},
+		{
+			"name": "Speak With Beasts",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Life Enchantment — Magesight",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/282.jpg"
+			}
+		},
+		{
+			"name": "Web of Life",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Life Instant",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/283.jpg"
+			}
+		},
+		{
+			"name": "Control Instincts",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{G}{hazard.png}",
+			"type": "Life Enchantment — Aura",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/284.jpg"
+			}
+		},
+		{
+			"name": "Lure and Repel",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{G}{hazard.png}",
+			"type": "Life Enchantment — Aura",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/285.jpg"
+			}
+		},
+		{
+			"name": "Mutable Mask",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{hazard.png}",
+			"type": "Life Enchantment — Aura",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/286.jpg"
+			}
+		},
+		{
+			"name": "Bruise Flesh",
+			"rarity": "special",
+			"mana_cost": "{G}{hazard.png}",
+			"type": "Life Sorcery",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/287.jpg"
+			}
+		},
+		{
+			"name": "Degrading the Form",
+			"rarity": "special",
+			"mana_cost": "{G}{hazard.png}",
+			"type": "Life Enchantment — Aura",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/288.jpg"
+			}
+		},
+		{
+			"name": "Honing the Form",
+			"rarity": "special",
+			"mana_cost": "{X}{G}{hazard.png}",
+			"type": "Life Sorcery",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/289.jpg"
+			}
+		},
+		{
+			"name": "Many Faces",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{G}{hazard.png}",
+			"type": "Life Enchantment — Aura",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/290.jpg"
+			}
+		},
+		{
+			"name": "Transform Life",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{G}{hazard.png}",
+			"type": "Life Enchantment",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/291.jpg"
+			}
+		},
+		{
+			"name": "Accelerate Growth",
+			"rarity": "special",
+			"mana_cost": "{4}{G}{G}{hazard.png}{hazard.png}",
+			"type": "Life Enchantment",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/292.jpg"
+			}
+		},
+		{
+			"name": "Life-Force Assault",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Life Sorcery",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/293.jpg"
+			}
+		},
+		{
+			"name": "Mend",
+			"rarity": "special",
+			"mana_cost": "{G}{G}{hazard.png}{hazard.png}",
+			"type": "Life Instant",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/294.jpg"
+			}
+		},
+		{
+			"name": "Regeneration",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{hazard.png}",
+			"type": "Life Instant",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/295.jpg"
+			}
+		},
+		{
+			"name": "Shapechanging",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{hazard.png}{hazard.png}",
+			"type": "Life Enchantment — Aura",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/296.jpg"
+			}
+		},
+		{
+			"name": "Contagion",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}{hazard.png}{hazard.png}{hazard.png}",
+			"type": "Life Enchantment",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/297.jpg"
+			}
+		},
+		{
+			"name": "Create Life",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{G}{G}{hazard.png}{hazard.png}{hazard.png}",
+			"type": "Life Sorcery",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/298.jpg"
+			}
+		},
+		{
+			"name": "Salt the Earth",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{G}{hazard.png}{hazard.png}{hazard.png}",
+			"type": "Life Sorcery",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/299.jpg"
+			}
+		},
+		{
+			"name": "Trained Marine",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Creature — Human Sleeper Soldier",
+			"collector_number": "327",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/300.jpg"
+			}
+		},
+		{
+			"name": "Martial Artist",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Creature — Human Sleeper Monk",
+			"collector_number": "321",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/301.jpg"
+			}
+		},
+		{
+			"name": "Security Guard",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Creature — Human Sleeper Mercenary",
+			"collector_number": "325",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/302.jpg"
+			}
+		},
+		{
+			"name": "Street Thug",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Creature — Human Sleeper Rogue",
+			"collector_number": "326",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/303.jpg"
+			}
+		},
+		{
+			"name": "Mystery Cult Leader",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Creature — Human Sleeper Ally",
+			"collector_number": "322",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/304.jpg"
+			}
+		},
+		{
+			"name": "City Bureaucrat",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Creature — Human Sleeper Citizen",
+			"collector_number": "319",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/305.jpg"
+			}
+		},
+		{
+			"name": "Corrupt Cop",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Creature — Human Sleeper Detective",
+			"collector_number": "320",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/306.jpg"
+			}
+		},
+		{
+			"name": "Rummaging Vagrant",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Creature — Human Sleeper Nomad",
+			"collector_number": "324",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/307.jpg"
+			}
+		},
+		{
+			"name": "University Professor",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Creature — Human Sleeper Scientist",
+			"collector_number": "328",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/308.jpg"
+			}
+		},
+		{
+			"name": "Punk Vandal",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Creature — Human Sleeper Rebel",
+			"collector_number": "323",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/309.jpg"
+			}
+		},
+		{
+			"name": "Blessed Retainer",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Creature — Human Sleepwalker Mystic",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/310.jpg"
+			}
+		},
+		{
+			"name": "Xenobiologist",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Sleepwalker Doctor",
+			"collector_number": "317",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/311.jpg"
+			}
+		},
+		{
+			"name": "Time Traveler",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Sleepwalker Advisor",
+			"collector_number": "309",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/312.jpg"
+			}
+		},
+		{
+			"name": "Zealous Interceptor",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Sleepwalker Hero",
+			"collector_number": "315",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/313.jpg"
+			}
+		},
+		{
+			"name": "Gruesome Graverobber",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Sleepwalker Scout",
+			"collector_number": "313",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/314.jpg"
+			}
+		},
+		{
+			"name": "Willing Test Subject",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Sleepwalker Survivor",
+			"collector_number": "316",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/315.jpg"
+			}
+		},
+		{
+			"name": "Destined One",
+			"rarity": "special",
+			"mana_cost": "{2/W}",
+			"type": "Creature — Human Sleepwalker Ally",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/316.jpg"
+			}
+		},
+		{
+			"name": "Psychic Medium",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Sleepwalker Shaman",
+			"collector_number": "311",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/317.jpg"
+			}
+		},
+		{
+			"name": "Paranormal Skeptic",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Sleepwalker Inquisitor",
+			"collector_number": "314",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/318.jpg"
+			}
+		},
+		{
+			"name": "Elite Hacker",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Sleepwalker Pirate",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/319.jpg"
+			}
+		},
+		{
+			"name": "Nosferatu Horror",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Creature — Vampire Horror",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/320.jpg"
+			}
+		},
+		{
+			"name": "Mekhet Secret Trader",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Creature — Vampire Rogue",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/321.jpg"
+			}
+		},
+		{
+			"name": "Gangrel Brawler",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Creature — Vampire Warrior",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/322.jpg"
+			}
+		},
+		{
+			"name": "Daeva Acolyte",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Creature — Vampire Warlock",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/323.jpg"
+			}
+		},
+		{
+			"name": "Ventrue Prince",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Creature — Vampire Noble",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/324.jpg"
+			}
+		},
+		{
+			"name": "Blood Doll",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Creature — Human Sleeper Minion",
+			"collector_number": "318",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/325.jpg"
+			}
+		},
+		{
+			"name": "Spring Court Beast",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Creature — Human Faerie Giant",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/326.jpg"
+			}
+		},
+		{
+			"name": "Autumn Court Elemental",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Creature — Human Faerie Ranger",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/327.jpg"
+			}
+		},
+		{
+			"name": "Winter Court Darkling",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Creature — Human Faerie Rogue",
+			"collector_number": "307",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/328.jpg"
+			}
+		},
+		{
+			"name": "Spring Court Fairest",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Creature — Human Faerie Shaman",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/329.jpg"
+			}
+		},
+		{
+			"name": "Summer Court Wizened",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Creature — Human Faerie Artificer",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/330.jpg"
+			}
+		},
+		{
+			"name": "Autumn Court Ogre",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Creature — Human Faerie Ogre",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/331.jpg"
+			}
+		},
+		{
+			"name": "Blood Talon Ripper",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Creature — Human Shapeshifter",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/332.jpg"
+			}
+		},
+		{
+			"name": "Bone Shadow Binder",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Creature — Human Shapeshifter",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/333.jpg"
+			}
+		},
+		{
+			"name": "Hunter in Darkness",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Creature — Human Shapeshifter",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/334.jpg"
+			}
+		},
+		{
+			"name": "Iron Master Warden",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Creature — Human Shapeshifter",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/335.jpg"
+			}
+		},
+		{
+			"name": "Storm Lord Howler",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Creature — Human Shapeshifter",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/336.jpg"
+			}
+		},
+		{
+			"name": "Illusory Grizzly",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Prime Creature — Bear Illusion",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/337.jpg"
+			}
+		},
+		{
+			"name": "Illusory Tyrannosaur",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}{hazard.png}",
+			"type": "Prime Creature — Dinosaur Illusion",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/338.jpg"
+			}
+		},
+		{
+			"name": "Illusory Drake",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{hazard.png}",
+			"type": "Prime Creature — Drake Illusion",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/339.jpg"
+			}
+		},
+		{
+			"name": "Illusory Monster",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{hazard.png}",
+			"type": "Prime Creature — Horror Illusion",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/340.jpg"
+			}
+		},
+		{
+			"name": "Illusory Recluse",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{hazard.png}",
+			"type": "Prime Creature — Spider Illusion",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/341.jpg"
+			}
+		},
+		{
+			"name": "Abyssal Backlash",
+			"rarity": "special",
+			"mana_cost": "{hazard.png}",
+			"type": "Instant — Anomaly",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/342.jpg"
+			}
+		},
+		{
+			"name": "Abyssal Rebuke",
+			"rarity": "special",
+			"mana_cost": "{hazard.png}",
+			"type": "Instant — Anomaly",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/343.jpg"
+			}
+		},
+		{
+			"name": "Abyssal Shock",
+			"rarity": "special",
+			"mana_cost": "{hazard.png}",
+			"type": "Instant — Anomaly",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/344.jpg"
+			}
+		},
+		{
+			"name": "Mental Aberration",
+			"rarity": "special",
+			"mana_cost": "{hazard.png}",
+			"type": "Instant — Anomaly",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/345.jpg"
+			}
+		},
+		{
+			"name": "Mental Anomaly",
+			"rarity": "special",
+			"mana_cost": "{hazard.png}",
+			"type": "Instant — Anomaly",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/346.jpg"
+			}
+		},
+		{
+			"name": "Mental Regression",
+			"rarity": "special",
+			"mana_cost": "{hazard.png}",
+			"type": "Instant — Anomaly",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/347.jpg"
+			}
+		},
+		{
+			"name": "Void Pocket",
+			"rarity": "special",
+			"mana_cost": "{hazard.png}",
+			"type": "Instant — Anomaly",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/348.jpg"
+			}
+		},
+		{
+			"name": "Void Bubble",
+			"rarity": "special",
+			"mana_cost": "{hazard.png}",
+			"type": "Instant — Anomaly",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/349.jpg"
+			}
+		},
+		{
+			"name": "Void Episode",
+			"rarity": "special",
+			"mana_cost": "{hazard.png}",
+			"type": "Instant — Anomaly",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/350.jpg"
+			}
+		},
+		{
+			"name": "Creeping End",
+			"rarity": "special",
+			"mana_cost": "{hazard.png}",
+			"type": "Instant — Anomaly",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/351.jpg"
+			}
+		},
+		{
+			"name": "Seeping End",
+			"rarity": "special",
+			"mana_cost": "{hazard.png}",
+			"type": "Instant — Anomaly",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/352.jpg"
+			}
+		},
+		{
+			"name": "Weeping End",
+			"rarity": "special",
+			"mana_cost": "{hazard.png}",
+			"type": "Instant — Anomaly",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/353.jpg"
+			}
+		},
+		{
+			"name": "Null Resonance",
+			"rarity": "special",
+			"mana_cost": "{hazard.png}",
+			"type": "Instant — Anomaly",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/354.jpg"
+			}
+		},
+		{
+			"name": "Reality Erasure",
+			"rarity": "special",
+			"mana_cost": "{hazard.png}",
+			"type": "Instant — Anomaly",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/355.jpg"
+			}
+		},
+		{
+			"name": "Reality Decay",
+			"rarity": "special",
+			"mana_cost": "{hazard.png}",
+			"type": "Instant — Anomaly",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/356.jpg"
+			}
+		},
+		{
+			"name": "Reality Erosion",
+			"rarity": "special",
+			"mana_cost": "{hazard.png}",
+			"type": "Instant — Anomaly",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/357.jpg"
+			}
+		},
+		{
+			"name": "Faulty Imago",
+			"rarity": "special",
+			"mana_cost": "{hazard.png}",
+			"type": "Enchantment — Aura Bedlam",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/358.jpg"
+			}
+		},
+		{
+			"name": "Nothingness",
+			"rarity": "special",
+			"mana_cost": "{X}",
+			"type": "Instant — Anomaly",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/359.jpg"
+			}
+		},
+		{
+			"name": "Abyssal Wave",
+			"rarity": "special",
+			"mana_cost": "{hazard.png}{hazard.png}",
+			"type": "Instant — Anomaly",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/360.jpg"
+			}
+		},
+		{
+			"name": "Cognitive Dissonance",
+			"rarity": "special",
+			"mana_cost": "{hazard.png}{hazard.png}",
+			"type": "Instant — Anomaly",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/361.jpg"
+			}
+		},
+		{
+			"name": "Cerebral Dissonance",
+			"rarity": "special",
+			"mana_cost": "{hazard.png}{hazard.png}",
+			"type": "Instant — Anomaly",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/362.jpg"
+			}
+		},
+		{
+			"name": "Flawed Imago",
+			"rarity": "special",
+			"mana_cost": "{hazard.png}{hazard.png}{hazard.png}",
+			"type": "Enchantment — Aura Bedlam",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/363.jpg"
+			}
+		},
+		{
+			"name": "Voidwrought Reckoning",
+			"rarity": "special",
+			"mana_cost": "{hazard.png}{hazard.png}{hazard.png}",
+			"type": "Battle — Havoc",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/364.jpg"
+			}
+		},
+		{
+			"name": "Spraxedar's Soul",
+			"rarity": "special",
+			"mana_cost": "{hazard.png}{hazard.png}{hazard.png}",
+			"type": "Battle — Havoc",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/365.jpg"
+			}
+		},
+		{
+			"name": "Kurkemach, Hastened End",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Manifestation — Acamoth",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/366.jpg"
+			}
+		},
+		{
+			"name": "Inviolate Substance",
+			"rarity": "special",
+			"mana_cost": "{6}",
+			"type": "Enchantment Artifact",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/367.jpg"
+			}
+		},
+		{
+			"name": "Ixa, Recursive Void",
+			"rarity": "special",
+			"mana_cost": "{hazard.png}{hazard.png}{hazard.png}{hazard.png}",
+			"type": "Manifestation — Gulmoth",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/368.jpg"
+			}
+		},
+		{
+			"name": "Engraneg, Thrice Nothing",
+			"rarity": "special",
+			"mana_cost": "{hazard.png}{hazard.png}{hazard.png}",
+			"type": "Manifestation — Acamoth",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/369.jpg"
+			}
+		},
+		{
+			"name": "Noalmaunun, Moment Eater",
+			"rarity": "special",
+			"mana_cost": "{5}",
+			"type": "Manifestation — Acamoth",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/370.jpg"
+			}
+		},
+		{
+			"name": "Narrowing",
+			"rarity": "special",
+			"mana_cost": "{hazard.png}{hazard.png}",
+			"type": "Battle — Havoc",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/371.jpg"
+			}
+		},
+		{
+			"name": "Prince of 100,000 Leaves",
+			"rarity": "special",
+			"mana_cost": "{hazard.png}{hazard.png}{hazard.png}{hazard.png}{hazard.png}{hazard.png}",
+			"type": "Battle — Havoc",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/372.jpg"
+			}
+		},
+		{
+			"name": "Supervene Reality",
+			"rarity": "special",
+			"mana_cost": "{hazard.png}{hazard.png}{hazard.png}{hazard.png}{hazard.png}",
+			"type": "Battle — Havoc",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/373.jpg"
+			}
+		},
+		{
+			"name": "Nimbus Fragment",
+			"rarity": "special",
+			"mana_cost": "{hazard.png}",
+			"type": "Instant — Anomaly",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/374.jpg"
+			}
+		},
+		{
+			"name": "Nimbus Shard",
+			"rarity": "special",
+			"mana_cost": "{hazard.png}",
+			"type": "Instant — Anomaly",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/375.jpg"
+			}
+		},
+		{
+			"name": "Nimbus Shrapnel",
+			"rarity": "special",
+			"mana_cost": "{hazard.png}",
+			"type": "Instant — Anomaly",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/376.jpg"
+			}
+		},
+		{
+			"name": "Dorrarech, Soul Drinker",
+			"rarity": "special",
+			"mana_cost": "{hazard.png}{hazard.png}{hazard.png}",
+			"type": "Manifestation — Gulmoth",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/377.jpg"
+			}
+		},
+		{
+			"name": "Abyssal Pox",
+			"rarity": "special",
+			"mana_cost": "{hazard.png}{hazard.png}{hazard.png}{hazard.png}{hazard.png}",
+			"type": "Instant — Anomaly",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/378.jpg"
+			}
+		},
+		{
+			"name": "Abyssal Blight",
+			"rarity": "special",
+			"mana_cost": "{hazard.png}{hazard.png}{hazard.png}{hazard.png}",
+			"type": "Instant — Anomaly",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/379.jpg"
+			}
+		},
+		{
+			"name": "Abyssal Drain",
+			"rarity": "special",
+			"mana_cost": "{X}",
+			"type": "Instant — Anomaly",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/380.jpg"
+			}
+		},
+		{
+			"name": "Annuledes, Veiled Unthing",
+			"rarity": "special",
+			"mana_cost": "{5}",
+			"type": "Manifestation — Gulmoth",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/381.jpg"
+			}
+		},
+		{
+			"name": "Irrememberance",
+			"rarity": "special",
+			"mana_cost": "{hazard.png}{hazard.png}",
+			"type": "Battle — Havoc",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/382.jpg"
+			}
+		},
+		{
+			"name": "Soul Nullifier",
+			"rarity": "special",
+			"mana_cost": "{hazard.png}{hazard.png}",
+			"type": "Enchantment — Aura Bedlam",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/383.jpg"
+			}
+		},
+		{
+			"name": "Expose Soul",
+			"rarity": "special",
+			"mana_cost": "{hazard.png}{hazard.png}{hazard.png}{hazard.png}",
+			"type": "Enchantment — Aura Bedlam",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/384.jpg"
+			}
+		},
+		{
+			"name": "Fwdre, Viral Assertion",
+			"rarity": "special",
+			"mana_cost": "{hazard.png}{hazard.png}",
+			"type": "Manifestation — Acamoth",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/385.jpg"
+			}
+		},
+		{
+			"name": "Goroldoth, Marrow Borrower",
+			"rarity": "special",
+			"mana_cost": "{0}",
+			"type": "Manifestation — Gulmoth",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/386.jpg"
+			}
+		},
+		{
+			"name": "Oracle's Will",
+			"rarity": "special",
+			"mana_cost": "{X}",
+			"type": "Legendary Instant — Anomaly",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/387.jpg"
+			}
+		},
+		{
+			"name": "Deletion",
+			"rarity": "special",
+			"mana_cost": "{hazard.png}{hazard.png}{hazard.png}",
+			"type": "Battle — Havoc",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/388.jpg"
+			}
+		},
+		{
+			"name": "Essence Inversion",
+			"rarity": "special",
+			"mana_cost": "{X}",
+			"type": "Enchantment — Bedlam",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/389.jpg"
+			}
+		},
+		{
+			"name": "Thought Drought",
+			"rarity": "special",
+			"mana_cost": "{0}",
+			"type": "Instant — Anomaly",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/390.jpg"
+			}
+		},
+		{
+			"name": "Nrôrn, Truth Denied",
+			"rarity": "special",
+			"mana_cost": "{6}",
+			"type": "Manifestation — Acamoth",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/391.jpg"
+			}
+		},
+		{
+			"name": "Oun, Bifurcation Dæmon",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Manifestation — Acamoth",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/392.jpg"
+			}
+		},
+		{
+			"name": "Mental Flush",
+			"rarity": "special",
+			"mana_cost": "{hazard.png}{hazard.png}",
+			"type": "Enchantment — Aura Bedlam",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/393.jpg"
+			}
+		},
+		{
+			"name": "Idea Infection",
+			"rarity": "special",
+			"mana_cost": "{hazard.png}{hazard.png}",
+			"type": "Instant — Anomaly",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/394.jpg"
+			}
+		},
+		{
+			"name": "Viirrax, Imago Collapse",
+			"rarity": "special",
+			"mana_cost": "{hazard.png}{hazard.png}",
+			"type": "Manifestation — Gulmoth",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/395.jpg"
+			}
+		},
+		{
+			"name": "Yytromox, from Without",
+			"rarity": "special",
+			"mana_cost": "{X}",
+			"type": "Manifestation — Gulmoth",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/396.jpg"
+			}
+		},
+		{
+			"name": "Watchtower of the Lunargent Thorn",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Watchtower",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/397.jpg"
+			}
+		},
+		{
+			"name": "Watchtower of the Iron Gauntlet",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Watchtower",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/398.jpg"
+			}
+		},
+		{
+			"name": "Watchtower of the Lead Coin",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Watchtower",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/399.jpg"
+			}
+		},
+		{
+			"name": "Watchtower of the Singing Stone",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Watchtower",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/400.jpg"
+			}
+		},
+		{
+			"name": "Watchtower of the Golden Key",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Watchtower",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/401.jpg"
+			}
+		},
+		{
+			"name": "Tass",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Tass",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/402.jpg"
+			}
+		},
+		{
+			"name": "Wisdom",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Counters",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/403.jpg"
+			}
+		},
+		{
+			"name": "Hubris",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Counters",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/404.jpg"
+			}
+		},
+		{
+			"name": "Human Sleeper Cult",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Human Sleeper Cult",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/405.jpg"
+			}
+		},
+		{
+			"name": "Familiar",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Legendary Spirit Creature — Familiar",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/406.jpg"
+			}
+		},
+		{
+			"name": "Insect",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Insect",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/407.jpg"
+			}
+		},
+		{
+			"name": "Mouse",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Mouse",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/408.jpg"
+			}
+		},
+		{
+			"name": "Dinosaur",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Dinosaur",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/409.jpg"
+			}
+		},
+		{
+			"name": "Nightmare Copy",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Enchantment Creature — Nightmare",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/410.jpg"
+			}
+		},
+		{
+			"name": "Spirit Mote",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Spirit Creature — Mote",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/411.jpg"
+			}
+		},
+		{
+			"name": "Spirit Avatar",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Spirit Creature — Avatar",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/412.jpg"
+			}
+		},
+		{
+			"name": "Spider",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Spider",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/413.jpg"
+			}
+		},
+		{
+			"name": "Assault Rifle",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Equipment",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/414.jpg"
+			}
+		},
+		{
+			"name": "Human Sleeper Rogue",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Human Sleeper Rogue",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/415.jpg"
+			}
+		},
+		{
+			"name": "Residue of Viirrax",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Enchantment",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/416.jpg"
+			}
+		},
+		{
+			"name": "Spawn",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Spawn",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/417.jpg"
+			}
+		},
+		{
+			"name": "Scion",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Scion",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/418.jpg"
+			}
+		},
+		{
+			"name": "Scrap",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/419.jpg"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/420.jpg"
+			}
+		},
+		{
+			"name": "Map",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Map",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/421.jpg"
+			}
+		},
+		{
+			"name": "Blood",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Blood",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/422.jpg"
+			}
+		},
+		{
+			"name": "Copy",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/423.jpg"
+			}
+		},
+		{
+			"name": "Ooze",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Ooze",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/424.jpg"
+			}
+		},
+		{
+			"name": "Sever Oaths",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{hazard.png}",
+			"type": "Fate Enchantment — Class",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/425.jpg"
+			}
+		},
+		{
+			"name": "Illusion Copy",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Illusion",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/426.jpg"
+			}
+		},
+		{
+			"name": "Vampire",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Vampire",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/427.jpg"
+			}
+		},
+		{
+			"name": "Brain Donor",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Sleepwalker Artificer",
+			"collector_number": "312",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/428.jpg"
+			}
+		},
+		{
+			"name": "Familiar Merit",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Merit",
+			"collector_number": "338",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/429.jpg"
+			}
+		},
+		{
+			"name": "Bibliotheca Occulta",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Merit",
+			"collector_number": "334",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/430.jpg"
+			}
+		},
+		{
+			"name": "City Hall",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Merit",
+			"collector_number": "335",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/431.jpg"
+			}
+		},
+		{
+			"name": "Dining District",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Merit",
+			"collector_number": "337",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/432.jpg"
+			}
+		},
+		{
+			"name": "Consilium Convocation",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Merit",
+			"collector_number": "336",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/433.jpg"
+			}
+		},
+		{
+			"name": "Mob Hideout",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Merit",
+			"collector_number": "342",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/434.jpg"
+			}
+		},
+		{
+			"name": "News Outlet",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Merit",
+			"collector_number": "344",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/435.jpg"
+			}
+		},
+		{
+			"name": "Precinct Headquarters",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Merit",
+			"collector_number": "345",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/436.jpg"
+			}
+		},
+		{
+			"name": "Sanctum Sanctorum",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Merit",
+			"collector_number": "346",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/437.jpg"
+			}
+		},
+		{
+			"name": "Sanitation Plant",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Merit",
+			"collector_number": "347",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/438.jpg"
+			}
+		},
+		{
+			"name": "Bantam Imp",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Space Creature — Supernal Demon",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/439.jpg"
+			}
+		},
+		{
+			"name": "Fools Rush In",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}{hazard.png}",
+			"type": "Fate Sorcery",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/440.jpg"
+			}
+		},
+		{
+			"name": "Void",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Land",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/441.jpg"
+			}
+		}
+	]
+
+[cube(15)]
+	1 Interconnections
+	1 Oaths Fulfilled
+	1 Serendipity
+	1 Exceptional Luck
+	1 Fabricate Fortune
+	1 Shifting the Odds
+	1 Grave Misfortune
+	1 Monkey's Paw
+	1 Shared Fate
+	1 Sworn Oaths
+	1 Atonement
+	1 Chaos Mastery
+	1 Divine Intervention
+	1 Strings of Fate
+	1 Forge Destiny
+	1 Miracle
+	1 Anathema
+	1 Swarm of Locusts
+	1 Bonis Avibus
+	1 Quo Fata Ferunt
+	1 Ceteris Paribus
+	1 Terminus Ad Quem
+	1 Audentes Fortuna Iuvat
+	1 Capricious Moira
+	1 Volatile Moira
+	1 Capacious Imp
+	1 Mercurian Mantis
+	1 Nibiruan Cnidomorph
+	1 Enceladean Slime
+	1 Pleiadian Explorer
+	1 Ionian Arcanophage
+	1 Light Elemental
+	1 Sonic Elemental
+	1 Gravity Elemental
+	1 Electricity Elemental
+	1 Heat Elemental
+	1 A Forgotten Memory
+	1 A Gruesome Murder
+	1 A Poor Child's Hunger
+	1 An Implacable Angst
+	1 An Untold Secret
+	1 Ambrosial Behemoth
+	1 Bloodpetal Bramble
+	1 Rampaging Rhinoceros
+	1 Carcinizing Crustacean
+	1 Broodling Mother
+	1 Goetia of Pride
+	1 Goetia of Wrath
+	1 Goetia of Gluttony
+	1 Goetia of Sloth
+	1 Goetia of Envy
+	1 Erupting Carcass
+	1 Resonant Corpse
+	1 Pesky Poltergeist
+	1 Tethered Soul
+	1 Insatiable Ghast
+	1 Surveillance Drone Mark IV
+	1 Autoguardian Mark VI
+	1 Antimatter Field
+	1 Brick Barricade
+	1 Crystalline Seal
+	1 The Adamantine Arrow
+	1 The Silver Ladder
+	1 The Free Council
+	1 The Guardians of the Veil
+	1 The Mysterium
+	1 Talon Medal
+	1 Théarch Badge
+	1 Libertine Invitation
+	1 Guardian Memento
+	1 Mystagogue Trinket
+	1 Forgotten Wending
+	1 Historical Monument
+	1 Languid Cul-de-sac
+	1 Psionic Skyscraper
+	1 Vacant Lot
+	1 Desecrated Graveyard
+	1 Contaminated Scrapyard
+	1 Sacred Temple
+	1 Thrumming Substation
+	1 Pristine Parkland
+	1 Undeveloped Overgrowth
+	1 Lucifuge Descendent
+	1 Aegis Kai Doru Archivist
+	1 Cheiron Grafter
+	1 Task Force Commando
+	1 Ashwood Abbot
+	1 Zeka Monstrosity
+	1 Galateid Muse
+	1 Patchwork Wretched
+	1 Tammuz Golem
+	1 Distant Future
+	1 Leap Second
+	1 Atlantean Age
+	1 Solstice Sunset
+	1 Mesozoic Era
+	1 Deepen Shadows
+	1 Forensic Gaze
+	1 Shadow Sculpting
+	1 Soul Marks
+	1 Decay
+	1 Ghost Shield
+	1 Soul Armor
+	1 Suppress Life
+	1 Devouring the Slain
+	1 Ghost Gate
+	1 Quicken Corpse
+	1 Shadow Crafting
+	1 Enervation
+	1 Exorcism
+	1 Unearth Revenant
+	1 Shadow Flesh
+	1 Withering
+	1 Create Avernian Gate
+	1 Deny the Reaper
+	1 Empty Presence
+	1 Artisan's Eye
+	1 Detect Substance
+	1 Remote Control
+	1 Alchemist's Touch
+	1 Hidden Hoard
+	1 Machine Invisibility
+	1 Shaping
+	1 Alter Conductivity
+	1 Crucible
+	1 Windstrike
+	1 Golem
+	1 Endless Bounty
+	1 Supernal Forging
+	1 Ghostwall
+	1 Wonderful Machine
+	1 Piercing Earth
+	1 Transubstantiation
+	1 Annihilate Matter
+	1 Ex Nihilo
+	1 Self-Repairing Machine
+	1 Know Nature
+	1 Mental Scan
+	1 One Mind, Two Thoughts
+	1 Perfect Recall
+	1 Alter Mental Pattern
+	1 Memory Hole
+	1 Mental Shield
+	1 Psychic Domination
+	1 Supernal Telepathy
+	1 Augment Mind
+	1 Psychic Assault
+	1 Read the Depths
+	1 Universal Language
+	1 Mind Flay
+	1 Possession
+	1 Hallucination
+	1 Terrorize
+	1 Mind Wipe
+	1 Psychic Genesis
+	1 Social Networking
+	1 Correspondence
+	1 Ground Eater
+	1 Isolation
+	1 Locate Object
+	1 The Outward and Inward Eye
+	1 Lying Maps
+	1 Break Boundary
+	1 Ward
+	1 Ban
+	1 Co-Location
+	1 Perfect Sympathy
+	1 Warp
+	1 Alter Direction
+	1 Collapse
+	1 Cut Threads
+	1 Teleportation
+	1 Forge No Chains
+	1 Pocket Dimension
+	1 Quarantine
+	1 Unnaming
+	1 Dispel Magic
+	1 Nimbus Tuning
+	1 Pierce Deception
+	1 Sacred Geometry
+	1 Supernal Vision
+	1 As Above, So Below
+	1 Invisible Runes
+	1 Nimbus Forgery
+	1 Words of Truth
+	1 Aetheric Winds
+	1 Display of Gnosis
+	1 Mana Battery
+	1 Celestial Fire
+	1 Destroy Tass
+	1 Hallow Dance
+	1 Primal Transfer
+	1 Supernal Dispellation
+	1 Blasphemy
+	1 Create Truth
+	1 Word of Unmaking
+	1 Arcadian Robes
+	1 Pandemonic Casque
+	1 Aethereal Targe
+	1 Stygian Gauntlet
+	1 Primal Longbow
+	1 Supernal Divination
+	1 Green Light/Red Light
+	1 Momentary Flux
+	1 Perfect Timing
+	1 Choose the Thread
+	1 Constant Presence
+	1 Shield of Chronos
+	1 Veil of Moments
+	1 Acceleration
+	1 Chronos' Curse
+	1 Shifting Sands
+	1 Temporal Summoning
+	1 Weight of Years
+	1 Present as Past
+	1 Supernal Prophecy
+	1 Temporal Stutter
+	1 Corridors of Time
+	1 Rewrite History
+	1 Blink of an Eye
+	1 Temporal Pocket
+	1 Influence Electricity
+	1 Kinetic Efficiency
+	1 Nightvision
+	1 Tune In
+	1 Control Electricity
+	1 Control Fire
+	1 Control Gravity
+	1 Environmental Shield
+	1 Invisibility
+	1 Kinetic Blow
+	1 Call Lightning
+	1 Telekinetic Strike
+	1 Velocity Control
+	1 Gravitic Levitation
+	1 Rend Friction
+	1 Transform Energy
+	1 Adverse Weather
+	1 Create Energy
+	1 Seismic Tremors
+	1 Eradicate Energy
+	1 Shifting Anachronism
+	1 Splitting Anachronism
+	1 Psychic Wraith
+	1 Noetic Wraith
+	1 Disintegrating Spectre
+	1 Pernicious Spectre
+	1 Resilient Apeiron
+	1 Replicating Apeiron
+	1 Intransigent Cherub
+	1 Exuberant Cherub
+	1 Amplifying Seraph
+	1 Vengeful Seraph
+	1 Barbarous Totem
+	1 Rapacious Totem
+	1 Flourishing Atavism
+	1 Proliferant Atavism
+	1 Scourge of Oblation
+	1 Profane Urim
+	1 Astral Astrolabe
+	1 Coaxing the Spirits
+	1 Exorcist's Eye
+	1 Invoke Bane
+	1 Know Spirit
+	1 Channel Essence
+	1 Command Spirit
+	1 Gossamer Touch
+	1 Slumber
+	1 Bolster Spirit
+	1 Erode Resonance
+	1 Place of Power
+	1 Rouse Spirit
+	1 Spirit Summons
+	1 Bind Spirit
+	1 Shadow Scream
+	1 Shape Spirit
+	1 Twilit Body
+	1 Annihilate Spirit
+	1 Create Locus
+	1 Essence Fountain
+	1 Cleanse the Body
+	1 Heightened Senses
+	1 Speak With Beasts
+	1 Web of Life
+	1 Control Instincts
+	1 Lure and Repel
+	1 Mutable Mask
+	1 Bruise Flesh
+	1 Degrading the Form
+	1 Honing the Form
+	1 Many Faces
+	1 Transform Life
+	1 Accelerate Growth
+	1 Life-Force Assault
+	1 Mend
+	1 Regeneration
+	1 Shapechanging
+	1 Contagion
+	1 Create Life
+	1 Salt the Earth
+	1 Trained Marine
+	1 Martial Artist
+	1 Security Guard
+	1 Street Thug
+	1 Mystery Cult Leader
+	1 City Bureaucrat
+	1 Corrupt Cop
+	1 Rummaging Vagrant
+	1 University Professor
+	1 Punk Vandal
+	1 Blessed Retainer
+	1 Xenobiologist
+	1 Time Traveler
+	1 Zealous Interceptor
+	1 Gruesome Graverobber
+	1 Willing Test Subject
+	1 Destined One
+	1 Psychic Medium
+	1 Paranormal Skeptic
+	1 Elite Hacker
+	1 Nosferatu Horror
+	1 Mekhet Secret Trader
+	1 Gangrel Brawler
+	1 Daeva Acolyte
+	1 Ventrue Prince
+	1 Blood Doll
+	1 Spring Court Beast
+	1 Autumn Court Elemental
+	1 Winter Court Darkling
+	1 Spring Court Fairest
+	1 Summer Court Wizened
+	1 Autumn Court Ogre
+	1 Blood Talon Ripper
+	1 Bone Shadow Binder
+	1 Hunter in Darkness
+	1 Iron Master Warden
+	1 Storm Lord Howler
+	1 Illusory Grizzly
+	1 Illusory Tyrannosaur
+	1 Illusory Drake
+	1 Illusory Monster
+	1 Illusory Recluse
+	1 Abyssal Backlash
+	1 Abyssal Rebuke
+	1 Abyssal Shock
+	1 Mental Aberration
+	1 Mental Anomaly
+	1 Mental Regression
+	1 Void Pocket
+	1 Void Bubble
+	1 Void Episode
+	1 Creeping End
+	1 Seeping End
+	1 Weeping End
+	1 Null Resonance
+	1 Reality Erasure
+	1 Reality Decay
+	1 Reality Erosion
+	1 Faulty Imago
+	1 Nothingness
+	1 Abyssal Wave
+	1 Cognitive Dissonance
+	1 Cerebral Dissonance
+	1 Flawed Imago
+	1 Voidwrought Reckoning
+	1 Spraxedar's Soul
+	1 Kurkemach, Hastened End
+	1 Inviolate Substance
+	1 Ixa, Recursive Void
+	1 Engraneg, Thrice Nothing
+	1 Noalmaunun, Moment Eater
+	1 Narrowing
+	1 Prince of 100,000 Leaves
+	1 Supervene Reality
+	1 Nimbus Fragment
+	1 Nimbus Shard
+	1 Nimbus Shrapnel
+	1 Dorrarech, Soul Drinker
+	1 Abyssal Pox
+	1 Abyssal Blight
+	1 Abyssal Drain
+	1 Annuledes, Veiled Unthing
+	1 Irrememberance
+	1 Soul Nullifier
+	1 Expose Soul
+	1 Fwdre, Viral Assertion
+	1 Goroldoth, Marrow Borrower
+	1 Oracle's Will
+	1 Deletion
+	1 Essence Inversion
+	1 Thought Drought
+	1 Nrôrn, Truth Denied
+	1 Oun, Bifurcation Dæmon
+	1 Mental Flush
+	1 Idea Infection
+	1 Viirrax, Imago Collapse
+	1 Yytromox, from Without
+	1 Watchtower of the Lunargent Thorn
+	1 Watchtower of the Iron Gauntlet
+	1 Watchtower of the Lead Coin
+	1 Watchtower of the Singing Stone
+	1 Watchtower of the Golden Key
+	1 Sever Oaths
+	1 Brain Donor
+	1 Familiar Merit
+	1 Bibliotheca Occulta
+	1 City Hall
+	1 Dining District
+	1 Consilium Convocation
+	1 Mob Hideout
+	1 News Outlet
+	1 Precinct Headquarters
+	1 Sanctum Sanctorum
+	1 Sanitation Plant
+	1 Bantam Imp
+	1 Fools Rush In
