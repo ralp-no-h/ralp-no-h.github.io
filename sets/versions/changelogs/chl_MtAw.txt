@@ -1,4 +1,593 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Abandoned Wending added.
+Junk added.
+
+Forgotten Wending removed.
+Scrap removed.
+
+Oaths Fulfilled
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Fateseal 1 [i](To fateseal X, look at the top X cards of an opponent's library, then put any number of them on the bottom of that player's library and the rest on top in any order.)[/i]
+Fateseal 2
+III — Fateseal 3, then draw a card. => 
+Fateseal 1 [i](To fateseal X, look at the top X cards of an opponent's library, then put any number of them on the bottom of that player's library and the rest on top in any order.)[/i]
+Fateseal 2
+Fateseal 3, then draw a card.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Fateseal 1 [i](To fateseal X, look at the top X cards of an opponent's library, then put any number of them on the bottom of that player's library and the rest on top in any order.)[/i]
+Fateseal 2
+III — Fateseal 3, then draw a card. => 
+Fateseal 1 [i](To fateseal X, look at the top X cards of an opponent's library, then put any number of them on the bottom of that player's library and the rest on top in any order.)[/i]
+Fateseal 2
+Fateseal 3, then draw a card.
+
+Shifting the Odds
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Choose creature, enchantment, land, or life. If you chose life, you gain 3 life for each opponent who has more life than you. Otherwise, if an opponent controls more permanents of the chosen type than you, reveal cards from the top of your library until you reveal a card of the chosen type. Put it into your hand and the rest on the bottom of your library in a random order.
+​
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Choose creature, enchantment, land, or life. If you chose life, you gain 3 life for each opponent who has more life than you. Otherwise, if an opponent controls more permanents of the chosen type than you, reveal cards from the top of your library until you reveal a card of the chosen type. Put it into your hand and the rest on the bottom of your library in a random order.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Choose creature, enchantment, land, or life. If you chose life, you gain 3 life for each opponent who has more life than you. Otherwise, if an opponent controls more permanents of the chosen type than you, reveal cards from the top of your library until you reveal a card of the chosen type. Put it into your hand and the rest on the bottom of your library in a random order.
+​
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Choose creature, enchantment, land, or life. If you chose life, you gain 3 life for each opponent who has more life than you. Otherwise, if an opponent controls more permanents of the chosen type than you, reveal cards from the top of your library until you reveal a card of the chosen type. Put it into your hand and the rest on the bottom of your library in a random order.
+
+Grave Misfortune
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]
+Enchant creature
+When enchanted creature is dealt damage, it deals that much damage to its controller.
+When Grave Misfortune is put into a graveyard from the battle-
+field, draw a card.
+I, II, III, IV, V — Grave Misfortune deals 1 damage to enchanted creature for each lore counter on it.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]
+Enchant creature
+When enchanted creature is dealt damage, it deals that much damage to its controller.
+When Grave Misfortune is put into a graveyard from the battle-
+field, draw a card.
+Grave Misfortune deals 1 damage to enchanted creature for each lore counter on it.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]
+Enchant creature
+When enchanted creature is dealt damage, it deals that much damage to its controller.
+When Grave Misfortune is put into a graveyard from the battle-
+field, draw a card.
+I, II, III, IV, V — Grave Misfortune deals 1 damage to enchanted creature for each lore counter on it.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]
+Enchant creature
+When enchanted creature is dealt damage, it deals that much damage to its controller.
+When Grave Misfortune is put into a graveyard from the battle-
+field, draw a card.
+Grave Misfortune deals 1 damage to enchanted creature for each lore counter on it.
+​
+
+Monkey's Paw
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I, II — Search your library for a card, then shuffle and put that card on top.
+III — Exile Monkey's Paw and return it to the battlefield under an opponent's control.
+​ => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Search your library for a card, then shuffle and put that card on top.
+Exile Monkey's Paw and return it to the battlefield under an opponent's control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I, II — Search your library for a card, then shuffle and put that card on top.
+III — Exile Monkey's Paw and return it to the battlefield under an opponent's control.
+​ => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Search your library for a card, then shuffle and put that card on top.
+Exile Monkey's Paw and return it to the battlefield under an opponent's control.
+
+Atonement
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Destroy target enchantment.
+III — Destroy target enchantment, then Atonement deals damage to each opponent equal to the greatest mana value among enchantment cards in their graveyard.
+​ => 
+Destroy target enchantment.
+Destroy target enchantment, then Atonement deals damage to each opponent equal to the greatest mana value among enchantment cards in their graveyard.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Destroy target enchantment.
+III — Destroy target enchantment, then Atonement deals damage to each opponent equal to the greatest mana value among enchantment cards in their graveyard.
+​ => 
+Destroy target enchantment.
+Destroy target enchantment, then Atonement deals damage to each opponent equal to the greatest mana value among enchantment cards in their graveyard.
+
+Chaos Mastery
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+When you cast this spell, gain 3 Wisdom.
+I, II, III, IV — Scry X, draw a card, then shuffle, where X is the number of lore counters on Chaos Mastery.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+When you cast this spell, gain 3 Wisdom.
+Scry X, draw a card, then shuffle, where X is the number of lore counters on Chaos Mastery.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+When you cast this spell, gain 3 Wisdom.
+I, II, III, IV — Scry X, draw a card, then shuffle, where X is the number of lore counters on Chaos Mastery.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+When you cast this spell, gain 3 Wisdom.
+Scry X, draw a card, then shuffle, where X is the number of lore counters on Chaos Mastery.
+
+Divine Intervention
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Up to one target creature phases out. It can't phase in for as long as you control Divine Intervention.
+III — Creatures your opponents control lose all abilities. Destroy all creatures.
+​ => 
+Up to one target creature phases out. It can't phase in for as long as you control Divine Intervention.
+Creatures your opponents control lose all abilities. Destroy all creatures.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Up to one target creature phases out. It can't phase in for as long as you control Divine Intervention.
+III — Creatures your opponents control lose all abilities. Destroy all creatures.
+​ => 
+Up to one target creature phases out. It can't phase in for as long as you control Divine Intervention.
+Creatures your opponents control lose all abilities. Destroy all creatures.
+
+Strings of Fate
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Look at target opponent's hand. Choose a card name. At the beginning of that player's next end step, they reveal their hand and discard all nonland cards with the chosen name and mana value less than or equal to the number of lands they control.
+Whenever a player discards a card this way, they lose life equal to that card's mana value and you may draw two cards.
+​
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Look at target opponent's hand. Choose a card name. At the beginning of that player's next end step, they reveal their hand and discard all nonland cards with the chosen name and mana value less than or equal to the number of lands they control.
+Whenever a player discards a card this way, they lose life equal to that card's mana value and you may draw two cards.
+​
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Look at target opponent's hand. Choose a card name. At the beginning of that player's next end step, they reveal their hand and discard all nonland cards with the chosen name and mana value less than or equal to the number of lands they control.
+Whenever a player discards a card this way, they lose life equal to that card's mana value and you may draw two cards.
+​
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Look at target opponent's hand. Choose a card name. At the beginning of that player's next end step, they reveal their hand and discard all nonland cards with the chosen name and mana value less than or equal to the number of lands they control.
+Whenever a player discards a card this way, they lose life equal to that card's mana value and you may draw two cards.
+​
+​
+
+Forge Destiny
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Remove a lore counter from each of any number of other Sagas you control.
+I — Put a lore counter on each of any number of other Sagas you control.
+Whenever you sacrifice a Saga this turn, add {W}{W}. Spend this mana only to cast Fate spells. => 
+Remove a lore counter from each of any number of other Sagas you control.
+Put a lore counter on each of any number of other Sagas you control.
+Whenever you sacrifice a Saga this turn, add {W}{W}. Spend this mana only to cast Fate spells.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Remove a lore counter from each of any number of other Sagas you control.
+I — Put a lore counter on each of any number of other Sagas you control.
+Whenever you sacrifice a Saga this turn, add {W}{W}. Spend this mana only to cast Fate spells. => 
+Remove a lore counter from each of any number of other Sagas you control.
+Put a lore counter on each of any number of other Sagas you control.
+Whenever you sacrifice a Saga this turn, add {W}{W}. Spend this mana only to cast Fate spells.
+
+Swarm of Locusts
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Create two Food tokens.
+III — Create four 1/1 white Insect creature tokens with flying. 
+You may sacrifice a Food. If you do, remove a lore counter from Swarm of Locusts.
+​ => 
+Create two Food tokens.
+Create four 1/1 white Insect creature tokens with flying. 
+You may sacrifice a Food. If you do, remove a lore counter from Swarm of Locusts.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Create two Food tokens.
+III — Create four 1/1 white Insect creature tokens with flying. 
+You may sacrifice a Food. If you do, remove a lore counter from Swarm of Locusts.
+​ => 
+Create two Food tokens.
+Create four 1/1 white Insect creature tokens with flying. 
+You may sacrifice a Food. If you do, remove a lore counter from Swarm of Locusts.
+
+Mercurian Mantis
+rules_text: Flying
+When Mercurian Mantis enters, draw three cards, then discard two cards unless you discard a land card.
+Warp {2}{U} [i](You may cast this spell from your hand for its warp cost. Exile this creature at the beginning of your next end step, then you may cast it from exile on a later turn.)[/i] => Flying
+When Mercurian Mantis enters, draw two cards.
+Warp {2}{U} [i](You may cast this spell from your hand for its warp cost. Exile this creature at the beginning of your next end step, then you may cast it from exile on a later turn.)[/i]
+
+Brick Barricade
+rules_text: Defender
+When Brick Barricade dies, create two colorless artifact tokens named Scrap. => Defender
+When Brick Barricade dies, create a Junk token. [i](It's an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+
+The Adamantine Arrow
+
+The Silver Ladder
+
+The Free Council
+
+The Guardians of the Veil
+
+The Mysterium
+
+Desecrated Graveyard
+
+Contaminated Scrapyard
+rules_text: {T}: Add {B}.
+{T}: Add {C}. When you spend this mana to cast an artifact spell or activate an ability of an artifact, create a colorless artifact token named Scrap. Crystallize. [i](Create a Tass token. It's an artifact with “When you sacrifice this, the next spell you cast this turn costs one mana less of any color.” Whenever you sacrifice a non-Tass permanent, you may also sacrifice a Tass.)[/i] => {T}: Add {B}.
+{T}: You may sacrifice a non-Tass artifact. Crystallize. [i](Create a Tass token. It's an artifact with “When you sacrifice this, the next spell you cast this turn costs one mana less of any color.” Whenever you sacrifice a non-Tass permanent, you may also sacrifice a Tass.)[/i]
+
+Sacred Temple
+
+Thrumming Substation
+
+Pristine Parkland
+
+Undeveloped Overgrowth
+
+Lucifuge Descendent
+
+Aegis Kai Doru Archivist
+
+Cheiron Grafter
+
+Task Force Commando
+
+Ashwood Abbot
+
+Zeka Monstrosity
+
+Galateid Muse
+
+Patchwork Wretched
+
+Tammuz Golem
+
+Distant Future
+rules_text: Impending 2—{1}{W} [i](If you cast this spell for its impending cost, it enters with two time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter from it.)[/i]
+Prevent all combat damage Distant Future would deal to a player. When damage is prevented this way, there is an additional beginning phase after this phase. => Impending 2—{W} [i](If you cast this spell for its impending cost, it enters with two time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter from it.)[/i]
+Prevent all combat damage Distant Future would deal to a player. When damage is prevented this way, there is an additional beginning phase after this phase.
+
+Forensic Gaze
+
+Soul Marks
+
+Unearth Revenant
+
+Artisan's Eye
+
+Detect Substance
+rules_text: Whenever you cast an artifact spell or a spell that targets one or more artifacts you control, gain 1 Wisdom.
+Whenever a nontoken artifact you control dies, create a colorless artifact token named Scrap. => Whenever you cast an artifact spell or a spell that targets one or more artifacts you control, gain 1 Wisdom.
+
+Remote Control
+rules_text: Gain control of target Equipment with mana value X or less. You may attach it to a creature you control.
+[i]Channel[/i] — {B}, Discard this card: Draw a card. Create a colorless artifact token named Scrap. => Gain control of target Equipment with mana value X or less. You may attach it to a creature you control.
+[i]Channel[/i] — {1}{B}, Discard this card: Draw a card. Create a Junk token. [i](It's an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+
+Endless Bounty
+rules_text: When Endless Bounty enters and at the beginning of your upkeep, choose one —
+• Create a Clue token. [i](It's an artifact with “{2}, Sacrifice this artifact: Draw a card”)[/i]
+• Create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i]
+• Create a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i] => When Endless Bounty enters and at the beginning of your upkeep, choose one —
+• Create a Clue token. [i](It's an artifact with “{2}, Sacrifice this artifact: Draw a card”)[/i]
+• Create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i]
+• Create a Junk token. [i](It's an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+
+Transubstantiation
+
+Dispel Magic
+
+Supernal Vision
+
+Destroy Tass
+
+Nightvision
+
+Tune In
+
+Transform Energy
+
+Disintegrating Spectre
+
+Pernicious Spectre
+
+Resilient Apeiron
+
+Replicating Apeiron
+
+Intransigent Cherub
+
+Exuberant Cherub
+
+Amplifying Seraph
+
+Vengeful Seraph
+
+Barbarous Totem
+
+Rapacious Totem
+
+Flourishing Atavism
+
+Proliferant Atavism
+
+Exorcist's Eye
+
+Know Spirit
+
+Twilit Body
+
+Speak With Beasts
+
+Web of Life
+
+Mend
+
+Trained Marine
+
+Martial Artist
+
+Security Guard
+
+Street Thug
+
+Mystery Cult Leader
+
+City Bureaucrat
+
+Corrupt Cop
+
+Rummaging Vagrant
+
+University Professor
+
+Punk Vandal
+
+Xenobiologist
+
+Time Traveler
+
+Zealous Interceptor
+
+Gruesome Graverobber
+
+Willing Test Subject
+
+Destined One
+
+Psychic Medium
+
+Paranormal Skeptic
+
+Elite Hacker
+
+Nosferatu Horror
+
+Mekhet Secret Trader
+
+Gangrel Brawler
+
+Daeva Acolyte
+
+Ventrue Prince
+
+Blood Doll
+
+Spring Court Beast
+
+Autumn Court Elemental
+
+Winter Court Darkling
+
+Spring Court Fairest
+
+Summer Court Wizened
+
+Autumn Court Ogre
+
+Blood Talon Ripper
+
+Bone Shadow Binder
+
+Hunter in Darkness
+
+Iron Master Warden
+
+Storm Lord Howler
+
+Abyssal Backlash
+
+Abyssal Rebuke
+
+Abyssal Shock
+
+Mental Aberration
+
+Mental Anomaly
+
+Mental Regression
+
+Void Pocket
+
+Void Bubble
+
+Void Episode
+
+Creeping End
+
+Seeping End
+
+Weeping End
+
+Null Resonance
+
+Reality Erasure
+
+Reality Decay
+
+Reality Erosion
+
+Faulty Imago
+
+Nothingness
+
+Abyssal Wave
+
+Cognitive Dissonance
+
+Cerebral Dissonance
+
+Flawed Imago
+
+Voidwrought Reckoning
+
+Spraxedar's Soul
+
+Kurkemach, Hastened End
+
+Inviolate Substance
+
+Ixa, Recursive Void
+
+Engraneg, Thrice Nothing
+
+Noalmaunun, Moment Eater
+
+Narrowing
+
+Prince of 100,000 Leaves
+
+Supervene Reality
+
+Nimbus Fragment
+
+Nimbus Shard
+
+Nimbus Shrapnel
+
+Dorrarech, Soul Drinker
+
+Abyssal Pox
+
+Abyssal Blight
+
+Abyssal Drain
+
+Annuledes, Veiled Unthing
+
+Irrememberance
+
+Soul Nullifier
+
+Expose Soul
+
+Fwdre, Viral Assertion
+
+Goroldoth, Marrow Borrower
+
+Oracle's Will
+
+Deletion
+
+Essence Inversion
+
+Thought Drought
+
+Nrôrn, Truth Denied
+
+Oun, Bifurcation Dæmon
+
+Mental Flush
+
+Idea Infection
+
+Viirrax, Imago Collapse
+
+Yytromox, from Without
+
+Watchtower of the Lunargent Thorn
+
+Watchtower of the Iron Gauntlet
+
+Watchtower of the Lead Coin
+
+Watchtower of the Singing Stone
+
+Watchtower of the Golden Key
+
+Human Sleeper Cult
+
+Familiar
+
+Insect
+
+Mouse
+
+Dinosaur
+
+Nightmare Copy
+
+Spirit Mote
+
+Spirit Avatar
+
+Spider
+
+Assault Rifle
+
+Human Sleeper Rogue
+
+Residue of Viirrax
+
+Spawn
+
+Scion
+
+Food
+
+Map
+
+Blood
+
+Copy
+
+Ooze
+
+Sever Oaths
+
+Illusion Copy
+
+Vampire
+
+Brain Donor
+
+Familiar Merit
+
+Bibliotheca Occulta
+
+City Hall
+
+Dining District
+
+Consilium Convocation
+
+Mob Hideout
+
+News Outlet
+
+Precinct Headquarters
+
+Sanctum Sanctorum
+
+Sanitation Plant
+
+Bantam Imp
+
+Fools Rush In
+
+Void
+
+Wisdom
+type: Counters => 
+rules_text: [i](You start the game with 7 Wisdom. Your maximum Wisdom is 10.)[/i]
+{1}, Pay 1 Wisdom: Scry 1. Activate only as a sorcery.
+Pay 1 Wisdom: The next time you would scry this turn, scry that many cards plus one instead. => ​
+
+Hubris
+type: Counters => 
+rules_text: {hazard.png} represents paradox. Pay {hazard.png} by paying {1}, or by paying 2 Wisdom, or by gaining a Hubris counter.
+At the beginning of your Breach step, if you have gained Hubris since the beginning of your last Breach step, the Abyss casts spells with that much total paradox value from the top of the Abyss deck. => {hazard.png} represents paradox. Pay {hazard.png} by paying {1}, or by paying 2 Wisdom, or by gaining a Hubris counter.
+
+At the beginning of your Breach step, if you have gained Hubris since the beginning of your last Breach step, the Abyss casts spells with that much total paradox value from the top of the Abyss deck.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 No changes.

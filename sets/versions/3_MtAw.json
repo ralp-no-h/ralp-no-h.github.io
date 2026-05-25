@@ -36,10 +36,10 @@
             "number": 13,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Fateseal 1 [i](To fateseal X, look at the top X cards of an opponent's library, then put any number of them on the bottom of that player's library and the rest on top in any order.)[/i]\nFateseal 2\nIII \u2014 Fateseal 3, then draw a card.",
+            "rules_text": "\nFateseal 1 [i](To fateseal X, look at the top X cards of an opponent's library, then put any number of them on the bottom of that player's library and the rest on top in any order.)[/i]\nFateseal 2\nFateseal 3, then draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Fateseal 1 [i](To fateseal X, look at the top X cards of an opponent's library, then put any number of them on the bottom of that player's library and the rest on top in any order.)[/i]\nFateseal 2\nIII \u2014 Fateseal 3, then draw a card.",
+            "special_text": "\nFateseal 1 [i](To fateseal X, look at the top X cards of an opponent's library, then put any number of them on the bottom of that player's library and the rest on top in any order.)[/i]\nFateseal 2\nFateseal 3, then draw a card.",
             "shape": "saga",
             "set": "MtAw",
             "loyalty": "",
@@ -120,10 +120,10 @@
             "number": 17,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II, III \u2014 Choose creature, enchantment, land, or life. If you chose life, you gain 3 life for each opponent who has more life than you. Otherwise, if an opponent controls more permanents of the chosen type than you, reveal cards from the top of your library until you reveal a card of the chosen type. Put it into your hand and the rest on the bottom of your library in a random order.\n\u200b\n\u200b",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nChoose creature, enchantment, land, or life. If you chose life, you gain 3 life for each opponent who has more life than you. Otherwise, if an opponent controls more permanents of the chosen type than you, reveal cards from the top of your library until you reveal a card of the chosen type. Put it into your hand and the rest on the bottom of your library in a random order.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II, III \u2014 Choose creature, enchantment, land, or life. If you chose life, you gain 3 life for each opponent who has more life than you. Otherwise, if an opponent controls more permanents of the chosen type than you, reveal cards from the top of your library until you reveal a card of the chosen type. Put it into your hand and the rest on the bottom of your library in a random order.\n\u200b\n\u200b",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nChoose creature, enchantment, land, or life. If you chose life, you gain 3 life for each opponent who has more life than you. Otherwise, if an opponent controls more permanents of the chosen type than you, reveal cards from the top of your library until you reveal a card of the chosen type. Put it into your hand and the rest on the bottom of your library in a random order.",
             "shape": "saga",
             "set": "MtAw",
             "loyalty": "",
@@ -141,10 +141,10 @@
             "number": 9,
             "color_identity": "W",
             "cost": "{1}{W}{hazard.png}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]\nEnchant creature\nWhen enchanted creature is dealt damage, it deals that much damage to its controller.\nWhen Grave Misfortune is put into a graveyard from the battle-\nfield, draw a card.\nI, II, III, IV, V \u2014 Grave Misfortune deals 1 damage to enchanted creature for each lore counter on it.\n\u200b",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]\nEnchant creature\nWhen enchanted creature is dealt damage, it deals that much damage to its controller.\nWhen Grave Misfortune is put into a graveyard from the battle-\nfield, draw a card.\nGrave Misfortune deals 1 damage to enchanted creature for each lore counter on it.\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]\nEnchant creature\nWhen enchanted creature is dealt damage, it deals that much damage to its controller.\nWhen Grave Misfortune is put into a graveyard from the battle-\nfield, draw a card.\nI, II, III, IV, V \u2014 Grave Misfortune deals 1 damage to enchanted creature for each lore counter on it.\n\u200b",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]\nEnchant creature\nWhen enchanted creature is dealt damage, it deals that much damage to its controller.\nWhen Grave Misfortune is put into a graveyard from the battle-\nfield, draw a card.\nGrave Misfortune deals 1 damage to enchanted creature for each lore counter on it.\n\u200b",
             "shape": "saga",
             "set": "MtAw",
             "loyalty": "",
@@ -162,10 +162,10 @@
             "number": 12,
             "color_identity": "W",
             "cost": "{W}{hazard.png}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter.)[/i]\nI, II \u2014 Search your library for a card, then shuffle and put that card on top.\nIII \u2014 Exile Monkey's Paw and return it to the battlefield under an opponent's control.\n\u200b",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter.)[/i]\nSearch your library for a card, then shuffle and put that card on top.\nExile Monkey's Paw and return it to the battlefield under an opponent's control.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter.)[/i]\nI, II \u2014 Search your library for a card, then shuffle and put that card on top.\nIII \u2014 Exile Monkey's Paw and return it to the battlefield under an opponent's control.\n\u200b",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter.)[/i]\nSearch your library for a card, then shuffle and put that card on top.\nExile Monkey's Paw and return it to the battlefield under an opponent's control.",
             "shape": "saga",
             "set": "MtAw",
             "loyalty": "",
@@ -225,10 +225,10 @@
             "number": 2,
             "color_identity": "W",
             "cost": "{2}{W}{W}{hazard.png}{hazard.png}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Destroy target enchantment.\nIII \u2014 Destroy target enchantment, then Atonement deals damage to each opponent equal to the greatest mana value among enchantment cards in their graveyard.\n\u200b",
+            "rules_text": "\nDestroy target enchantment.\nDestroy target enchantment, then Atonement deals damage to each opponent equal to the greatest mana value among enchantment cards in their graveyard.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Destroy target enchantment.\nIII \u2014 Destroy target enchantment, then Atonement deals damage to each opponent equal to the greatest mana value among enchantment cards in their graveyard.\n\u200b",
+            "special_text": "\nDestroy target enchantment.\nDestroy target enchantment, then Atonement deals damage to each opponent equal to the greatest mana value among enchantment cards in their graveyard.",
             "shape": "saga",
             "set": "MtAw",
             "loyalty": "",
@@ -246,10 +246,10 @@
             "number": 3,
             "color_identity": "W",
             "cost": "{2}{W}{W}{hazard.png}{hazard.png}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nWhen you cast this spell, gain 3 Wisdom.\nI, II, III, IV \u2014 Scry X, draw a card, then shuffle, where X is the number of lore counters on Chaos Mastery.\n\u200b",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nWhen you cast this spell, gain 3 Wisdom.\nScry X, draw a card, then shuffle, where X is the number of lore counters on Chaos Mastery.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nWhen you cast this spell, gain 3 Wisdom.\nI, II, III, IV \u2014 Scry X, draw a card, then shuffle, where X is the number of lore counters on Chaos Mastery.\n\u200b",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nWhen you cast this spell, gain 3 Wisdom.\nScry X, draw a card, then shuffle, where X is the number of lore counters on Chaos Mastery.",
             "shape": "saga",
             "set": "MtAw",
             "loyalty": "",
@@ -267,10 +267,10 @@
             "number": 4,
             "color_identity": "W",
             "cost": "{2}{W}{W}{hazard.png}{hazard.png}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Up to one target creature phases out. It can't phase in for as long as you control Divine Intervention.\nIII \u2014 Creatures your opponents control lose all abilities. Destroy all creatures.\n\u200b",
+            "rules_text": "\nUp to one target creature phases out. It can't phase in for as long as you control Divine Intervention.\nCreatures your opponents control lose all abilities. Destroy all creatures.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Up to one target creature phases out. It can't phase in for as long as you control Divine Intervention.\nIII \u2014 Creatures your opponents control lose all abilities. Destroy all creatures.\n\u200b",
+            "special_text": "\nUp to one target creature phases out. It can't phase in for as long as you control Divine Intervention.\nCreatures your opponents control lose all abilities. Destroy all creatures.",
             "shape": "saga",
             "set": "MtAw",
             "loyalty": "",
@@ -288,10 +288,10 @@
             "number": 18,
             "color_identity": "W",
             "cost": "{2}{W}{hazard.png}{hazard.png}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II, III \u2014 Look at target opponent's hand. Choose a card name. At the beginning of that player's next end step, they reveal their hand and discard all nonland cards with the chosen name and mana value less than or equal to the number of lands they control.\nWhenever a player discards a card this way, they lose life equal to that card's mana value and you may draw two cards.\n\u200b\n\u200b",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nLook at target opponent's hand. Choose a card name. At the beginning of that player's next end step, they reveal their hand and discard all nonland cards with the chosen name and mana value less than or equal to the number of lands they control.\nWhenever a player discards a card this way, they lose life equal to that card's mana value and you may draw two cards.\n\u200b\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II, III \u2014 Look at target opponent's hand. Choose a card name. At the beginning of that player's next end step, they reveal their hand and discard all nonland cards with the chosen name and mana value less than or equal to the number of lands they control.\nWhenever a player discards a card this way, they lose life equal to that card's mana value and you may draw two cards.\n\u200b\n\u200b",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nLook at target opponent's hand. Choose a card name. At the beginning of that player's next end step, they reveal their hand and discard all nonland cards with the chosen name and mana value less than or equal to the number of lands they control.\nWhenever a player discards a card this way, they lose life equal to that card's mana value and you may draw two cards.\n\u200b\n\u200b",
             "shape": "saga",
             "set": "MtAw",
             "loyalty": "",
@@ -309,10 +309,10 @@
             "number": 8,
             "color_identity": "W",
             "cost": "{1}{W}{W}{hazard.png}{hazard.png}{hazard.png}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nRemove a lore counter from each of any number of other Sagas you control.\nI \u2014 Put a lore counter on each of any number of other Sagas you control.\nWhenever you sacrifice a Saga this turn, add {W}{W}. Spend this mana only to cast Fate spells.",
+            "rules_text": "\nRemove a lore counter from each of any number of other Sagas you control.\nPut a lore counter on each of any number of other Sagas you control.\nWhenever you sacrifice a Saga this turn, add {W}{W}. Spend this mana only to cast Fate spells.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nRemove a lore counter from each of any number of other Sagas you control.\nI \u2014 Put a lore counter on each of any number of other Sagas you control.\nWhenever you sacrifice a Saga this turn, add {W}{W}. Spend this mana only to cast Fate spells.",
+            "special_text": "\nRemove a lore counter from each of any number of other Sagas you control.\nPut a lore counter on each of any number of other Sagas you control.\nWhenever you sacrifice a Saga this turn, add {W}{W}. Spend this mana only to cast Fate spells.",
             "shape": "saga",
             "set": "MtAw",
             "loyalty": "",
@@ -372,10 +372,10 @@
             "number": 19,
             "color_identity": "W",
             "cost": "{2}{W}{W}{hazard.png}{hazard.png}{hazard.png}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Create two Food tokens.\nIII \u2014 Create four 1/1 white Insect creature tokens with flying. \nYou may sacrifice a Food. If you do, remove a lore counter from Swarm of Locusts.\n\u200b",
+            "rules_text": "\nCreate two Food tokens.\nCreate four 1/1 white Insect creature tokens with flying. \nYou may sacrifice a Food. If you do, remove a lore counter from Swarm of Locusts.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Create two Food tokens.\nIII \u2014 Create four 1/1 white Insect creature tokens with flying. \nYou may sacrifice a Food. If you do, remove a lore counter from Swarm of Locusts.\n\u200b",
+            "special_text": "\nCreate two Food tokens.\nCreate four 1/1 white Insect creature tokens with flying. \nYou may sacrifice a Food. If you do, remove a lore counter from Swarm of Locusts.",
             "shape": "saga",
             "set": "MtAw",
             "loyalty": "",
@@ -561,7 +561,7 @@
             "number": 110,
             "color_identity": "U",
             "cost": "{3}{U}{hazard.png}",
-            "rules_text": "Flying\nWhen Mercurian Mantis enters, draw three cards, then discard two cards unless you discard a land card.\nWarp {2}{U} [i](You may cast this spell from your hand for its warp cost. Exile this creature at the beginning of your next end step, then you may cast it from exile on a later turn.)[/i]",
+            "rules_text": "Flying\nWhen Mercurian Mantis enters, draw two cards.\nWarp {2}{U} [i](You may cast this spell from your hand for its warp cost. Exile this creature at the beginning of your next end step, then you may cast it from exile on a later turn.)[/i]",
             "flavor_text": "[i]Synodic rotation period: 176 d\nOrbital period (sidereal): 88 d[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -1254,8 +1254,8 @@
             "number": 165,
             "color_identity": "B",
             "cost": "{B}",
-            "rules_text": "Defender\nWhen Brick Barricade dies, create two colorless artifact tokens named Scrap.",
-            "flavor_text": "[i]Daddy's flown across the ocean\nLeaving just a memory\nA snapshot in the family album\n\u2014Pink Floyd[/i]",
+            "rules_text": "Defender\nWhen Brick Barricade dies, create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "flavor_text": "[i]Daddy's flown across the ocean\nLeaving just a memory\n\u2014Pink Floyd[/i]",
             "pt": "0/4",
             "special_text": "",
             "shape": "normal",
@@ -1293,7 +1293,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Legendary Land \u2014 Pentacle Order",
-            "number": 333,
+            "number": 334,
             "color_identity": "WR",
             "cost": "",
             "rules_text": "The Adamantine Arrow enters tapped. When it enters, sacrifice all other Orders you control.\n{T}: Add {R} or {W}.\nSleepers and Sleepwalkers you control have training. [i](Whenever one attacks with another creature with greater power, put a +1/+1 counter on it.)[/i]\nAt end of combat on your turn, if a creature you control was dealt combat damage, gain 1 Wisdom.",
@@ -1307,7 +1307,7 @@
             "alias": "",
             "position": "61",
             "rotated": false,
-            "notes": ""
+            "notes": "!group order"
         },
         {
             "card_name": "The Silver Ladder",
@@ -1328,7 +1328,7 @@
             "alias": "",
             "position": "62",
             "rotated": false,
-            "notes": ""
+            "notes": "!group order"
         },
         {
             "card_name": "The Free Council",
@@ -1349,7 +1349,7 @@
             "alias": "",
             "position": "63",
             "rotated": false,
-            "notes": ""
+            "notes": "!group order"
         },
         {
             "card_name": "The Guardians of the Veil",
@@ -1370,7 +1370,7 @@
             "alias": "",
             "position": "64",
             "rotated": false,
-            "notes": ""
+            "notes": "!group order"
         },
         {
             "card_name": "The Mysterium",
@@ -1391,7 +1391,7 @@
             "alias": "",
             "position": "65",
             "rotated": false,
-            "notes": ""
+            "notes": "!group order"
         },
         {
             "card_name": "Talon Medal",
@@ -1499,14 +1499,14 @@
             "notes": ""
         },
         {
-            "card_name": "Forgotten Wending",
+            "card_name": "Abandoned Wending",
             "color": "",
             "rarity": "cube",
             "type": "Legendary Land",
-            "number": 339,
+            "number": 333,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "[i]Imprint[/i]\u2014When Forgotten Wending enters, you may exile a nonartifact, nonland card from your hand.\n{T}, Pay 1 life: Add two mana of any one color. Spend this mana only to cast spells that share an arcanum with the exiled card.\n{T}, Sacrifice Forgotten Wending: Put the exiled card into your hand.",
+            "rules_text": "[i]Imprint[/i]\u2014When Abandoned Wending enters, you may exile a nonartifact, nonland card from your hand.\nYou have no maximum Wisdom.\n{T}, Pay 1 life: Add two mana of any one color. Spend this mana only to cast spells that share an arcanum with the exiled card.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1622,7 +1622,7 @@
             "alias": "",
             "position": "76",
             "rotated": false,
-            "notes": ""
+            "notes": "!group hallow"
         },
         {
             "card_name": "Contaminated Scrapyard",
@@ -1632,7 +1632,7 @@
             "number": 170,
             "color_identity": "B",
             "cost": "",
-            "rules_text": "{T}: Add {B}.\n{T}: Add {C}. When you spend this mana to cast an artifact spell or activate an ability of an artifact, create a colorless artifact token named Scrap. Crystallize. [i](Create a Tass token. It's an artifact with \u201cWhen you sacrifice this, the next spell you cast this turn costs one mana less of any color.\u201d Whenever you sacrifice a non-Tass permanent, you may also sacrifice a Tass.)[/i]",
+            "rules_text": "{T}: Add {B}.\n{T}: You may sacrifice a non-Tass artifact. Crystallize. [i](Create a Tass token. It's an artifact with \u201cWhen you sacrifice this, the next spell you cast this turn costs one mana less of any color.\u201d Whenever you sacrifice a non-Tass permanent, you may also sacrifice a Tass.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1643,7 +1643,7 @@
             "alias": "",
             "position": "77",
             "rotated": false,
-            "notes": ""
+            "notes": "!group hallow"
         },
         {
             "card_name": "Sacred Temple",
@@ -1664,7 +1664,7 @@
             "alias": "",
             "position": "78",
             "rotated": false,
-            "notes": ""
+            "notes": "!group hallow"
         },
         {
             "card_name": "Thrumming Substation",
@@ -1685,7 +1685,7 @@
             "alias": "",
             "position": "79",
             "rotated": false,
-            "notes": ""
+            "notes": "!group hallow"
         },
         {
             "card_name": "Pristine Parkland",
@@ -1706,7 +1706,7 @@
             "alias": "",
             "position": "80",
             "rotated": false,
-            "notes": ""
+            "notes": "!group hallow"
         },
         {
             "card_name": "Undeveloped Overgrowth",
@@ -1727,7 +1727,7 @@
             "alias": "",
             "position": "81",
             "rotated": false,
-            "notes": ""
+            "notes": "!group hallow"
         },
         {
             "card_name": "Lucifuge Descendent",
@@ -1748,7 +1748,7 @@
             "alias": "",
             "position": "82",
             "rotated": false,
-            "notes": ""
+            "notes": "!group hunter"
         },
         {
             "card_name": "Aegis Kai Doru Archivist",
@@ -1769,7 +1769,7 @@
             "alias": "",
             "position": "83",
             "rotated": false,
-            "notes": ""
+            "notes": "!group hunter"
         },
         {
             "card_name": "Cheiron Grafter",
@@ -1790,7 +1790,7 @@
             "alias": "",
             "position": "84",
             "rotated": false,
-            "notes": ""
+            "notes": "!group hunter"
         },
         {
             "card_name": "Task Force Commando",
@@ -1811,7 +1811,7 @@
             "alias": "",
             "position": "85",
             "rotated": false,
-            "notes": ""
+            "notes": "!group hunter"
         },
         {
             "card_name": "Ashwood Abbot",
@@ -1832,7 +1832,7 @@
             "alias": "",
             "position": "86",
             "rotated": false,
-            "notes": ""
+            "notes": "!group hunter"
         },
         {
             "card_name": "Zeka Monstrosity",
@@ -1853,7 +1853,7 @@
             "alias": "",
             "position": "87",
             "rotated": false,
-            "notes": ""
+            "notes": "!group promethean"
         },
         {
             "card_name": "Galateid Muse",
@@ -1874,7 +1874,7 @@
             "alias": "",
             "position": "88",
             "rotated": false,
-            "notes": ""
+            "notes": "!group promethean"
         },
         {
             "card_name": "Patchwork Wretched",
@@ -1895,7 +1895,7 @@
             "alias": "",
             "position": "89",
             "rotated": false,
-            "notes": ""
+            "notes": "!group promethean"
         },
         {
             "card_name": "Tammuz Golem",
@@ -1916,7 +1916,7 @@
             "alias": "",
             "position": "90",
             "rotated": false,
-            "notes": ""
+            "notes": "!group promethean"
         },
         {
             "card_name": "Distant Future",
@@ -1926,7 +1926,7 @@
             "number": 50,
             "color_identity": "W",
             "cost": "{3}{W}{hazard.png}{hazard.png}",
-            "rules_text": "Impending 2\u2014{1}{W} [i](If you cast this spell for its impending cost, it enters with two time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter from it.)[/i]\nPrevent all combat damage Distant Future would deal to a player. When damage is prevented this way, there is an additional beginning phase after this phase.",
+            "rules_text": "Impending 2\u2014{W} [i](If you cast this spell for its impending cost, it enters with two time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter from it.)[/i]\nPrevent all combat damage Distant Future would deal to a player. When damage is prevented this way, there is an additional beginning phase after this phase.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -2063,7 +2063,7 @@
             "alias": "",
             "position": "97",
             "rotated": false,
-            "notes": ""
+            "notes": "!group c2w"
         },
         {
             "card_name": "Shadow Sculpting",
@@ -2105,7 +2105,7 @@
             "alias": "",
             "position": "99",
             "rotated": false,
-            "notes": ""
+            "notes": "!group magesight"
         },
         {
             "card_name": "Decay",
@@ -2336,7 +2336,7 @@
             "alias": "",
             "position": "110",
             "rotated": false,
-            "notes": ""
+            "notes": "!group c3w"
         },
         {
             "card_name": "Shadow Flesh",
@@ -2462,7 +2462,7 @@
             "alias": "",
             "position": "116",
             "rotated": false,
-            "notes": ""
+            "notes": "!group c2w"
         },
         {
             "card_name": "Detect Substance",
@@ -2472,7 +2472,7 @@
             "number": 148,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Whenever you cast an artifact spell or a spell that targets one or more artifacts you control, gain 1 Wisdom.\nWhenever a nontoken artifact you control dies, create a colorless artifact token named Scrap.",
+            "rules_text": "Whenever you cast an artifact spell or a spell that targets one or more artifacts you control, gain 1 Wisdom.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2483,7 +2483,7 @@
             "alias": "",
             "position": "117",
             "rotated": false,
-            "notes": ""
+            "notes": "!group magesight"
         },
         {
             "card_name": "Remote Control",
@@ -2493,7 +2493,7 @@
             "number": 156,
             "color_identity": "B",
             "cost": "{X}{B}",
-            "rules_text": "Gain control of target Equipment with mana value X or less. You may attach it to a creature you control.\n[i]Channel[/i] \u2014 {B}, Discard this card: Draw a card. Create a colorless artifact token named Scrap.",
+            "rules_text": "Gain control of target Equipment with mana value X or less. You may attach it to a creature you control.\n[i]Channel[/i] \u2014 {1}{B}, Discard this card: Draw a card. Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2682,7 +2682,7 @@
             "number": 149,
             "color_identity": "B",
             "cost": "{2}{B}{hazard.png}",
-            "rules_text": "When Endless Bounty enters and at the beginning of your upkeep, choose one \u2014\n\u2022 Create a Clue token. [i](It's an artifact with \u201c{2}, Sacrifice this artifact: Draw a card\u201d)[/i]\n\u2022 Create a Food token. [i](It's an artifact with \u201c{2}, {T}, Sacrifice this artifact: You gain 3 life.\u201d)[/i]\n\u2022 Create a Map token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "When Endless Bounty enters and at the beginning of your upkeep, choose one \u2014\n\u2022 Create a Clue token. [i](It's an artifact with \u201c{2}, Sacrifice this artifact: Draw a card\u201d)[/i]\n\u2022 Create a Food token. [i](It's an artifact with \u201c{2}, {T}, Sacrifice this artifact: You gain 3 life.\u201d)[/i]\n\u2022 Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2798,7 +2798,7 @@
             "alias": "",
             "position": "132",
             "rotated": false,
-            "notes": ""
+            "notes": "!group c3w"
         },
         {
             "card_name": "Annihilate Matter",
@@ -3722,7 +3722,7 @@
             "alias": "",
             "position": "176",
             "rotated": false,
-            "notes": ""
+            "notes": "!group c2w"
         },
         {
             "card_name": "Nimbus Tuning",
@@ -3806,7 +3806,7 @@
             "alias": "",
             "position": "180",
             "rotated": false,
-            "notes": ""
+            "notes": "!group magesight"
         },
         {
             "card_name": "As Above, So Below",
@@ -3995,7 +3995,7 @@
             "alias": "",
             "position": "189",
             "rotated": false,
-            "notes": ""
+            "notes": "!group c3w"
         },
         {
             "card_name": "Hallow Dance",
@@ -4709,7 +4709,7 @@
             "alias": "",
             "position": "223",
             "rotated": false,
-            "notes": ""
+            "notes": "!group magesight"
         },
         {
             "card_name": "Tune In",
@@ -4730,7 +4730,7 @@
             "alias": "",
             "position": "224",
             "rotated": false,
-            "notes": ""
+            "notes": "!group c2w"
         },
         {
             "card_name": "Control Electricity",
@@ -4982,7 +4982,7 @@
             "alias": "",
             "position": "236",
             "rotated": false,
-            "notes": ""
+            "notes": "!group c3w"
         },
         {
             "card_name": "Adverse Weather",
@@ -5171,7 +5171,7 @@
             "alias": "",
             "position": "245",
             "rotated": false,
-            "notes": ""
+            "notes": "!group supernal2m"
         },
         {
             "card_name": "Pernicious Spectre",
@@ -5192,7 +5192,7 @@
             "alias": "",
             "position": "246",
             "rotated": false,
-            "notes": ""
+            "notes": "!group supernal3m"
         },
         {
             "card_name": "Resilient Apeiron",
@@ -5213,7 +5213,7 @@
             "alias": "",
             "position": "247",
             "rotated": false,
-            "notes": ""
+            "notes": "!group supernal2m"
         },
         {
             "card_name": "Replicating Apeiron",
@@ -5234,7 +5234,7 @@
             "alias": "",
             "position": "248",
             "rotated": false,
-            "notes": ""
+            "notes": "!group supernal3m"
         },
         {
             "card_name": "Intransigent Cherub",
@@ -5255,7 +5255,7 @@
             "alias": "",
             "position": "249",
             "rotated": false,
-            "notes": ""
+            "notes": "!group supernal2m"
         },
         {
             "card_name": "Exuberant Cherub",
@@ -5276,7 +5276,7 @@
             "alias": "",
             "position": "250",
             "rotated": false,
-            "notes": ""
+            "notes": "!group supernal3m"
         },
         {
             "card_name": "Amplifying Seraph",
@@ -5297,7 +5297,7 @@
             "alias": "",
             "position": "251",
             "rotated": false,
-            "notes": ""
+            "notes": "!group supernal2m"
         },
         {
             "card_name": "Vengeful Seraph",
@@ -5318,7 +5318,7 @@
             "alias": "",
             "position": "252",
             "rotated": false,
-            "notes": ""
+            "notes": "!group supernal3m"
         },
         {
             "card_name": "Barbarous Totem",
@@ -5339,7 +5339,7 @@
             "alias": "",
             "position": "253",
             "rotated": false,
-            "notes": ""
+            "notes": "!group supernal2m"
         },
         {
             "card_name": "Rapacious Totem",
@@ -5360,7 +5360,7 @@
             "alias": "",
             "position": "254",
             "rotated": false,
-            "notes": ""
+            "notes": "!group supernal3m"
         },
         {
             "card_name": "Flourishing Atavism",
@@ -5381,7 +5381,7 @@
             "alias": "",
             "position": "255",
             "rotated": false,
-            "notes": ""
+            "notes": "!group supernal2m"
         },
         {
             "card_name": "Proliferant Atavism",
@@ -5402,7 +5402,7 @@
             "alias": "",
             "position": "256",
             "rotated": false,
-            "notes": ""
+            "notes": "!group supernal3m"
         },
         {
             "card_name": "Scourge of Oblation",
@@ -5507,7 +5507,7 @@
             "alias": "",
             "position": "261",
             "rotated": false,
-            "notes": ""
+            "notes": "!group magesight"
         },
         {
             "card_name": "Invoke Bane",
@@ -5549,7 +5549,7 @@
             "alias": "",
             "position": "263",
             "rotated": false,
-            "notes": ""
+            "notes": "!group c2w"
         },
         {
             "card_name": "Channel Essence",
@@ -5822,7 +5822,7 @@
             "alias": "",
             "position": "276",
             "rotated": false,
-            "notes": ""
+            "notes": "!group c3w"
         },
         {
             "card_name": "Annihilate Spirit",
@@ -5948,7 +5948,7 @@
             "alias": "",
             "position": "282",
             "rotated": false,
-            "notes": ""
+            "notes": "!group magesight"
         },
         {
             "card_name": "Web of Life",
@@ -5969,7 +5969,7 @@
             "alias": "",
             "position": "283",
             "rotated": false,
-            "notes": ""
+            "notes": "!group c2w"
         },
         {
             "card_name": "Control Instincts",
@@ -6200,7 +6200,7 @@
             "alias": "",
             "position": "294",
             "rotated": false,
-            "notes": ""
+            "notes": "!group c3w"
         },
         {
             "card_name": "Regeneration",
@@ -6326,7 +6326,7 @@
             "alias": "",
             "position": "300",
             "rotated": false,
-            "notes": ""
+            "notes": "!group sleeper"
         },
         {
             "card_name": "Martial Artist",
@@ -6347,7 +6347,7 @@
             "alias": "",
             "position": "301",
             "rotated": false,
-            "notes": ""
+            "notes": "!group sleeper"
         },
         {
             "card_name": "Security Guard",
@@ -6368,7 +6368,7 @@
             "alias": "",
             "position": "302",
             "rotated": false,
-            "notes": ""
+            "notes": "!group sleeper"
         },
         {
             "card_name": "Street Thug",
@@ -6389,7 +6389,7 @@
             "alias": "",
             "position": "303",
             "rotated": false,
-            "notes": ""
+            "notes": "!group sleeper"
         },
         {
             "card_name": "Mystery Cult Leader",
@@ -6410,7 +6410,7 @@
             "alias": "",
             "position": "304",
             "rotated": false,
-            "notes": ""
+            "notes": "!group sleeper"
         },
         {
             "card_name": "City Bureaucrat",
@@ -6431,7 +6431,7 @@
             "alias": "",
             "position": "305",
             "rotated": false,
-            "notes": ""
+            "notes": "!group sleeper"
         },
         {
             "card_name": "Corrupt Cop",
@@ -6452,7 +6452,7 @@
             "alias": "",
             "position": "306",
             "rotated": false,
-            "notes": ""
+            "notes": "!group sleeper"
         },
         {
             "card_name": "Rummaging Vagrant",
@@ -6473,7 +6473,7 @@
             "alias": "",
             "position": "307",
             "rotated": false,
-            "notes": ""
+            "notes": "!group sleeper"
         },
         {
             "card_name": "University Professor",
@@ -6494,7 +6494,7 @@
             "alias": "",
             "position": "308",
             "rotated": false,
-            "notes": ""
+            "notes": "!group sleeper"
         },
         {
             "card_name": "Punk Vandal",
@@ -6515,7 +6515,7 @@
             "alias": "",
             "position": "309",
             "rotated": false,
-            "notes": ""
+            "notes": "!group sleeper"
         },
         {
             "card_name": "Blessed Retainer",
@@ -6557,7 +6557,7 @@
             "alias": "",
             "position": "311",
             "rotated": false,
-            "notes": ""
+            "notes": "!group sleepwalker"
         },
         {
             "card_name": "Time Traveler",
@@ -6578,7 +6578,7 @@
             "alias": "",
             "position": "312",
             "rotated": false,
-            "notes": ""
+            "notes": "!group sleepwalker"
         },
         {
             "card_name": "Zealous Interceptor",
@@ -6599,7 +6599,7 @@
             "alias": "",
             "position": "313",
             "rotated": false,
-            "notes": ""
+            "notes": "!group sleepwalker"
         },
         {
             "card_name": "Gruesome Graverobber",
@@ -6620,7 +6620,7 @@
             "alias": "",
             "position": "314",
             "rotated": false,
-            "notes": ""
+            "notes": "!group sleepwalker"
         },
         {
             "card_name": "Willing Test Subject",
@@ -6641,7 +6641,7 @@
             "alias": "",
             "position": "315",
             "rotated": false,
-            "notes": ""
+            "notes": "!group sleepwalker"
         },
         {
             "card_name": "Destined One",
@@ -6662,7 +6662,7 @@
             "alias": "",
             "position": "316",
             "rotated": false,
-            "notes": ""
+            "notes": "!group sleepwalker"
         },
         {
             "card_name": "Psychic Medium",
@@ -6683,7 +6683,7 @@
             "alias": "",
             "position": "317",
             "rotated": false,
-            "notes": ""
+            "notes": "!group sleepwalker"
         },
         {
             "card_name": "Paranormal Skeptic",
@@ -6704,7 +6704,7 @@
             "alias": "",
             "position": "318",
             "rotated": false,
-            "notes": ""
+            "notes": "!group sleepwalker"
         },
         {
             "card_name": "Elite Hacker",
@@ -6725,7 +6725,7 @@
             "alias": "",
             "position": "319",
             "rotated": false,
-            "notes": ""
+            "notes": "!group sleepwalker"
         },
         {
             "card_name": "Nosferatu Horror",
@@ -6746,7 +6746,7 @@
             "alias": "",
             "position": "320",
             "rotated": false,
-            "notes": ""
+            "notes": "!group vampire"
         },
         {
             "card_name": "Mekhet Secret Trader",
@@ -6767,7 +6767,7 @@
             "alias": "",
             "position": "321",
             "rotated": false,
-            "notes": ""
+            "notes": "!group vampire"
         },
         {
             "card_name": "Gangrel Brawler",
@@ -6788,7 +6788,7 @@
             "alias": "",
             "position": "322",
             "rotated": false,
-            "notes": ""
+            "notes": "!group vampire"
         },
         {
             "card_name": "Daeva Acolyte",
@@ -6809,7 +6809,7 @@
             "alias": "",
             "position": "323",
             "rotated": false,
-            "notes": ""
+            "notes": "!group vampire"
         },
         {
             "card_name": "Ventrue Prince",
@@ -6830,7 +6830,7 @@
             "alias": "",
             "position": "324",
             "rotated": false,
-            "notes": ""
+            "notes": "!group vampire"
         },
         {
             "card_name": "Blood Doll",
@@ -6851,7 +6851,7 @@
             "alias": "",
             "position": "325",
             "rotated": false,
-            "notes": ""
+            "notes": "!group sleeper"
         },
         {
             "card_name": "Spring Court Beast",
@@ -6872,7 +6872,7 @@
             "alias": "",
             "position": "326",
             "rotated": false,
-            "notes": ""
+            "notes": "!group changeling"
         },
         {
             "card_name": "Autumn Court Elemental",
@@ -6893,7 +6893,7 @@
             "alias": "",
             "position": "327",
             "rotated": false,
-            "notes": ""
+            "notes": "!group changeling"
         },
         {
             "card_name": "Winter Court Darkling",
@@ -6914,7 +6914,7 @@
             "alias": "",
             "position": "328",
             "rotated": false,
-            "notes": ""
+            "notes": "!group changeling"
         },
         {
             "card_name": "Spring Court Fairest",
@@ -6935,7 +6935,7 @@
             "alias": "",
             "position": "329",
             "rotated": false,
-            "notes": ""
+            "notes": "!group changeling"
         },
         {
             "card_name": "Summer Court Wizened",
@@ -6956,7 +6956,7 @@
             "alias": "",
             "position": "330",
             "rotated": false,
-            "notes": ""
+            "notes": "!group changeling"
         },
         {
             "card_name": "Autumn Court Ogre",
@@ -6977,7 +6977,7 @@
             "alias": "",
             "position": "331",
             "rotated": false,
-            "notes": ""
+            "notes": "!group changeling"
         },
         {
             "card_name": "Blood Talon Ripper",
@@ -6998,7 +6998,7 @@
             "alias": "",
             "position": "332",
             "rotated": false,
-            "notes": ""
+            "notes": "!group werewolf"
         },
         {
             "card_name": "Bone Shadow Binder",
@@ -7019,7 +7019,7 @@
             "alias": "",
             "position": "333",
             "rotated": false,
-            "notes": ""
+            "notes": "!group werewolf"
         },
         {
             "card_name": "Hunter in Darkness",
@@ -7040,7 +7040,7 @@
             "alias": "",
             "position": "334",
             "rotated": false,
-            "notes": ""
+            "notes": "!group werewolf"
         },
         {
             "card_name": "Iron Master Warden",
@@ -7061,7 +7061,7 @@
             "alias": "",
             "position": "335",
             "rotated": false,
-            "notes": ""
+            "notes": "!group werewolf"
         },
         {
             "card_name": "Storm Lord Howler",
@@ -7082,7 +7082,7 @@
             "alias": "",
             "position": "336",
             "rotated": false,
-            "notes": ""
+            "notes": "!group werewolf"
         },
         {
             "card_name": "Illusory Grizzly",
@@ -7208,7 +7208,7 @@
             "alias": "",
             "position": "342",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Abyssal Rebuke",
@@ -7229,7 +7229,7 @@
             "alias": "",
             "position": "343",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Abyssal Shock",
@@ -7250,7 +7250,7 @@
             "alias": "",
             "position": "344",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Mental Aberration",
@@ -7271,7 +7271,7 @@
             "alias": "",
             "position": "345",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Mental Anomaly",
@@ -7292,7 +7292,7 @@
             "alias": "",
             "position": "346",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Mental Regression",
@@ -7313,7 +7313,7 @@
             "alias": "",
             "position": "347",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Void Pocket",
@@ -7334,7 +7334,7 @@
             "alias": "",
             "position": "348",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Void Bubble",
@@ -7355,7 +7355,7 @@
             "alias": "",
             "position": "349",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Void Episode",
@@ -7376,7 +7376,7 @@
             "alias": "",
             "position": "350",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Creeping End",
@@ -7397,7 +7397,7 @@
             "alias": "",
             "position": "351",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Seeping End",
@@ -7418,7 +7418,7 @@
             "alias": "",
             "position": "352",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Weeping End",
@@ -7439,7 +7439,7 @@
             "alias": "",
             "position": "353",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Null Resonance",
@@ -7460,7 +7460,7 @@
             "alias": "",
             "position": "354",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Reality Erasure",
@@ -7481,7 +7481,7 @@
             "alias": "",
             "position": "355",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Reality Decay",
@@ -7502,7 +7502,7 @@
             "alias": "",
             "position": "356",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Reality Erosion",
@@ -7523,7 +7523,7 @@
             "alias": "",
             "position": "357",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Faulty Imago",
@@ -7544,7 +7544,7 @@
             "alias": "",
             "position": "358",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Nothingness",
@@ -7565,7 +7565,7 @@
             "alias": "",
             "position": "359",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Abyssal Wave",
@@ -7586,7 +7586,7 @@
             "alias": "",
             "position": "360",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Cognitive Dissonance",
@@ -7607,7 +7607,7 @@
             "alias": "",
             "position": "361",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Cerebral Dissonance",
@@ -7628,7 +7628,7 @@
             "alias": "",
             "position": "362",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Flawed Imago",
@@ -7649,7 +7649,7 @@
             "alias": "",
             "position": "363",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Voidwrought Reckoning",
@@ -7670,7 +7670,7 @@
             "alias": "",
             "position": "364",
             "rotated": true,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Spraxedar's Soul",
@@ -7691,7 +7691,7 @@
             "alias": "",
             "position": "365",
             "rotated": true,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Kurkemach, Hastened End",
@@ -7712,7 +7712,7 @@
             "alias": "",
             "position": "366",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Inviolate Substance",
@@ -7733,7 +7733,7 @@
             "alias": "",
             "position": "367",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Ixa, Recursive Void",
@@ -7754,7 +7754,7 @@
             "alias": "",
             "position": "368",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Engraneg, Thrice Nothing",
@@ -7775,7 +7775,7 @@
             "alias": "",
             "position": "369",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Noalmaunun, Moment Eater",
@@ -7796,7 +7796,7 @@
             "alias": "",
             "position": "370",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Narrowing",
@@ -7817,7 +7817,7 @@
             "alias": "",
             "position": "371",
             "rotated": true,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Prince of 100,000 Leaves",
@@ -7838,7 +7838,7 @@
             "alias": "",
             "position": "372",
             "rotated": true,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Supervene Reality",
@@ -7859,7 +7859,7 @@
             "alias": "",
             "position": "373",
             "rotated": true,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Nimbus Fragment",
@@ -7880,7 +7880,7 @@
             "alias": "",
             "position": "374",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Nimbus Shard",
@@ -7901,7 +7901,7 @@
             "alias": "",
             "position": "375",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Nimbus Shrapnel",
@@ -7922,7 +7922,7 @@
             "alias": "",
             "position": "376",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Dorrarech, Soul Drinker",
@@ -7943,7 +7943,7 @@
             "alias": "",
             "position": "377",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Abyssal Pox",
@@ -7964,7 +7964,7 @@
             "alias": "",
             "position": "378",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Abyssal Blight",
@@ -7985,7 +7985,7 @@
             "alias": "",
             "position": "379",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Abyssal Drain",
@@ -8006,7 +8006,7 @@
             "alias": "",
             "position": "380",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Annuledes, Veiled Unthing",
@@ -8027,7 +8027,7 @@
             "alias": "",
             "position": "381",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Irrememberance",
@@ -8048,7 +8048,7 @@
             "alias": "",
             "position": "382",
             "rotated": true,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Soul Nullifier",
@@ -8069,7 +8069,7 @@
             "alias": "",
             "position": "383",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Expose Soul",
@@ -8090,7 +8090,7 @@
             "alias": "",
             "position": "384",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Fwdre, Viral Assertion",
@@ -8111,7 +8111,7 @@
             "alias": "",
             "position": "385",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Goroldoth, Marrow Borrower",
@@ -8132,7 +8132,7 @@
             "alias": "",
             "position": "386",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Oracle's Will",
@@ -8153,7 +8153,7 @@
             "alias": "",
             "position": "387",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Deletion",
@@ -8174,7 +8174,7 @@
             "alias": "",
             "position": "388",
             "rotated": true,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Essence Inversion",
@@ -8195,7 +8195,7 @@
             "alias": "",
             "position": "389",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Thought Drought",
@@ -8216,7 +8216,7 @@
             "alias": "",
             "position": "390",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Nr\u00f4rn, Truth Denied",
@@ -8237,7 +8237,7 @@
             "alias": "",
             "position": "391",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Oun, Bifurcation D\u00e6mon",
@@ -8258,7 +8258,7 @@
             "alias": "",
             "position": "392",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Mental Flush",
@@ -8279,7 +8279,7 @@
             "alias": "",
             "position": "393",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Idea Infection",
@@ -8300,7 +8300,7 @@
             "alias": "",
             "position": "394",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Viirrax, Imago Collapse",
@@ -8321,7 +8321,7 @@
             "alias": "",
             "position": "395",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Yytromox, from Without",
@@ -8342,7 +8342,7 @@
             "alias": "",
             "position": "396",
             "rotated": false,
-            "notes": ""
+            "notes": "!group abyss"
         },
         {
             "card_name": "Watchtower of the Lunargent Thorn",
@@ -8363,7 +8363,7 @@
             "alias": "",
             "position": "397",
             "rotated": false,
-            "notes": ""
+            "notes": "!group watchtower"
         },
         {
             "card_name": "Watchtower of the Iron Gauntlet",
@@ -8384,7 +8384,7 @@
             "alias": "",
             "position": "398",
             "rotated": false,
-            "notes": ""
+            "notes": "!group watchtower"
         },
         {
             "card_name": "Watchtower of the Lead Coin",
@@ -8405,7 +8405,7 @@
             "alias": "",
             "position": "399",
             "rotated": false,
-            "notes": ""
+            "notes": "!group watchtower"
         },
         {
             "card_name": "Watchtower of the Singing Stone",
@@ -8426,7 +8426,7 @@
             "alias": "",
             "position": "400",
             "rotated": false,
-            "notes": ""
+            "notes": "!group watchtower"
         },
         {
             "card_name": "Watchtower of the Golden Key",
@@ -8447,7 +8447,7 @@
             "alias": "",
             "position": "401",
             "rotated": false,
-            "notes": ""
+            "notes": "!group watchtower"
         },
         {
             "card_name": "Tass",
@@ -8471,48 +8471,6 @@
             "notes": ""
         },
         {
-            "card_name": "Wisdom",
-            "color": "",
-            "rarity": "cube",
-            "type": "Counters",
-            "number": 7,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "[i](You start the game with 7 Wisdom. Your maximum Wisdom is 10.)[/i]\n{1}, Pay 1 Wisdom: Scry 1. Activate only as a sorcery.\nPay 1 Wisdom: The next time you would scry this turn, scry that many cards plus one instead.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "token",
-            "set": "MtAw",
-            "loyalty": "",
-            "artist": "Rafael Javier",
-            "alias": "",
-            "position": "403",
-            "rotated": false,
-            "notes": ""
-        },
-        {
-            "card_name": "Hubris",
-            "color": "",
-            "rarity": "cube",
-            "type": "Counters",
-            "number": 4,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "{hazard.png} represents paradox. Pay {hazard.png} by paying {1}, or by paying 2 Wisdom, or by gaining a Hubris counter.\nAt the beginning of your Breach step, if you have gained Hubris since the beginning of your last Breach step, the Abyss casts spells with that much total paradox value from the top of the Abyss deck.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "token",
-            "set": "MtAw",
-            "loyalty": "",
-            "artist": "Jacob Peter Gowy",
-            "alias": "",
-            "position": "404",
-            "rotated": false,
-            "notes": ""
-        },
-        {
             "card_name": "Human Sleeper Cult",
             "color": "WUBRG",
             "rarity": "cube",
@@ -8529,7 +8487,7 @@
             "loyalty": "",
             "artist": "Herculaneum fresco circa 200 B.C.",
             "alias": "",
-            "position": "405",
+            "position": "403",
             "rotated": false,
             "notes": ""
         },
@@ -8550,7 +8508,7 @@
             "loyalty": "",
             "artist": "Ohara Koson",
             "alias": "",
-            "position": "406",
+            "position": "404",
             "rotated": false,
             "notes": ""
         },
@@ -8571,7 +8529,7 @@
             "loyalty": "",
             "artist": "Sergio Cerrato",
             "alias": "",
-            "position": "407",
+            "position": "405",
             "rotated": false,
             "notes": ""
         },
@@ -8592,7 +8550,7 @@
             "loyalty": "",
             "artist": "ajwetton",
             "alias": "",
-            "position": "408",
+            "position": "406",
             "rotated": false,
             "notes": ""
         },
@@ -8613,7 +8571,7 @@
             "loyalty": "",
             "artist": "Wiroth Unjaipuan",
             "alias": "",
-            "position": "409",
+            "position": "407",
             "rotated": false,
             "notes": ""
         },
@@ -8634,7 +8592,7 @@
             "loyalty": "",
             "artist": "Eden Moon",
             "alias": "",
-            "position": "410",
+            "position": "408",
             "rotated": false,
             "notes": ""
         },
@@ -8655,7 +8613,7 @@
             "loyalty": "",
             "artist": "Pete Linforth",
             "alias": "",
-            "position": "411",
+            "position": "409",
             "rotated": false,
             "notes": ""
         },
@@ -8676,7 +8634,7 @@
             "loyalty": "",
             "artist": "Andrey Safonov",
             "alias": "",
-            "position": "412",
+            "position": "410",
             "rotated": false,
             "notes": ""
         },
@@ -8697,7 +8655,7 @@
             "loyalty": "",
             "artist": "Nicole K\u00f6hler",
             "alias": "",
-            "position": "413",
+            "position": "411",
             "rotated": false,
             "notes": ""
         },
@@ -8718,7 +8676,7 @@
             "loyalty": "",
             "artist": "Michal Ren\u010do",
             "alias": "",
-            "position": "414",
+            "position": "412",
             "rotated": false,
             "notes": ""
         },
@@ -8739,7 +8697,7 @@
             "loyalty": "",
             "artist": "Vika_Glitter",
             "alias": "",
-            "position": "415",
+            "position": "413",
             "rotated": false,
             "notes": ""
         },
@@ -8760,7 +8718,7 @@
             "loyalty": "",
             "artist": "Sergey Meshkov",
             "alias": "",
-            "position": "416",
+            "position": "414",
             "rotated": false,
             "notes": ""
         },
@@ -8781,7 +8739,7 @@
             "loyalty": "",
             "artist": "Fran Dekkers",
             "alias": "",
-            "position": "417",
+            "position": "415",
             "rotated": false,
             "notes": ""
         },
@@ -8802,19 +8760,19 @@
             "loyalty": "",
             "artist": "Jason Reid",
             "alias": "",
-            "position": "418",
+            "position": "416",
             "rotated": false,
             "notes": ""
         },
         {
-            "card_name": "Scrap",
+            "card_name": "Junk",
             "color": "",
             "rarity": "cube",
-            "type": "Token Artifact",
-            "number": 25,
+            "type": "Token Artifact \u2014 Junk",
+            "number": 24,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "",
+            "rules_text": "{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -8823,7 +8781,7 @@
             "loyalty": "",
             "artist": "sate148",
             "alias": "",
-            "position": "419",
+            "position": "417",
             "rotated": false,
             "notes": ""
         },
@@ -8844,7 +8802,7 @@
             "loyalty": "",
             "artist": "Karolina Grabowska",
             "alias": "",
-            "position": "420",
+            "position": "418",
             "rotated": false,
             "notes": ""
         },
@@ -8853,7 +8811,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Token Artifact \u2014 Map",
-            "number": 24,
+            "number": 25,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]",
@@ -8865,7 +8823,7 @@
             "loyalty": "",
             "artist": "Markus Spiske",
             "alias": "",
-            "position": "421",
+            "position": "419",
             "rotated": false,
             "notes": ""
         },
@@ -8886,7 +8844,7 @@
             "loyalty": "",
             "artist": "Anna Shvets",
             "alias": "",
-            "position": "422",
+            "position": "420",
             "rotated": false,
             "notes": ""
         },
@@ -8895,7 +8853,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Token",
-            "number": 6,
+            "number": 7,
             "color_identity": "C",
             "cost": "",
             "rules_text": "[i]This token can be used to represent a token that's a copy of a permanent.[/i]",
@@ -8907,7 +8865,7 @@
             "loyalty": "",
             "artist": "halilibrahimxq",
             "alias": "",
-            "position": "423",
+            "position": "421",
             "rotated": false,
             "notes": ""
         },
@@ -8928,7 +8886,7 @@
             "loyalty": "",
             "artist": "Anni Roenkae",
             "alias": "",
-            "position": "424",
+            "position": "422",
             "rotated": false,
             "notes": ""
         },
@@ -8949,7 +8907,7 @@
             "loyalty": "",
             "artist": "Ernie A. Stephens",
             "alias": "",
-            "position": "425",
+            "position": "423",
             "rotated": false,
             "notes": ""
         },
@@ -8970,7 +8928,7 @@
             "loyalty": "",
             "artist": "Nils Fieseler",
             "alias": "",
-            "position": "426",
+            "position": "424",
             "rotated": false,
             "notes": ""
         },
@@ -8991,7 +8949,7 @@
             "loyalty": "",
             "artist": "Wellington Cunha",
             "alias": "",
-            "position": "427",
+            "position": "425",
             "rotated": false,
             "notes": ""
         },
@@ -9012,16 +8970,16 @@
             "loyalty": "",
             "artist": "aytuguluturk",
             "alias": "",
-            "position": "428",
+            "position": "426",
             "rotated": false,
-            "notes": ""
+            "notes": "!group sleepwalker"
         },
         {
             "card_name": "Familiar Merit",
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Merit",
-            "number": 338,
+            "number": 339,
             "color_identity": "C",
             "cost": "",
             "rules_text": "[i](Gain the next level as a sorcery to add its ability.)[/i]\nAs Familiar Merit enters, choose a name for your familiar. It can't be the same as any legal card name or token name.\nCreatures with the chosen name get +1/+1.\n{2}, {T}: Create a legendary 0/0 green Spirit Familiar creature token with the chosen name. Activate only as a sorcery.\n{3}: Level 2\nCreatures with the chosen name get +2/+2 and have lifelink and vigilance.\n{3}: Level 3\nCreatures with the chosen name get +2/+2 and have flying and trample.",
@@ -9033,16 +8991,16 @@
             "loyalty": "",
             "artist": "Borb\u00e1la K\u0151halmi",
             "alias": "",
-            "position": "429",
+            "position": "427",
             "rotated": false,
-            "notes": ""
+            "notes": "!group merit"
         },
         {
             "card_name": "Bibliotheca Occulta",
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Merit",
-            "number": 334,
+            "number": 335,
             "color_identity": "C",
             "cost": "",
             "rules_text": "[i](Gain the next level as a sorcery to add its ability.)[/i]\n{T}: Add {C}.\n{1}: Level 2\nYour maximum hand size is increased by one for each level of this Merit.\n{2}: Level 3\n{T}: Add one mana of any color.\n{3}: Level 4\n{2}, {T}: Draw a card.",
@@ -9054,16 +9012,16 @@
             "loyalty": "",
             "artist": "Borb\u00e1la K\u0151halmi",
             "alias": "",
-            "position": "430",
+            "position": "428",
             "rotated": false,
-            "notes": ""
+            "notes": "!group merit"
         },
         {
             "card_name": "City Hall",
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Merit",
-            "number": 335,
+            "number": 336,
             "color_identity": "C",
             "cost": "",
             "rules_text": "[i](Gain the next level as a sorcery to add its ability.)[/i]\n{T}: Add {C}.\n{1}: Level 2\n{T}: Add {C}{C}. Spend this mana only to activate level abilities of other Merits.\n{3}: Level 3\nWhenever you tap another Merit for mana, add an additional mana of any color.\n{2}: Level 4\nLands your opponents control enter tapped.",
@@ -9075,16 +9033,16 @@
             "loyalty": "",
             "artist": "Atanas Paskalev",
             "alias": "",
-            "position": "431",
+            "position": "429",
             "rotated": false,
-            "notes": ""
+            "notes": "!group merit"
         },
         {
             "card_name": "Dining District",
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Merit",
-            "number": 337,
+            "number": 338,
             "color_identity": "C",
             "cost": "",
             "rules_text": "[i](Gain the next level as a sorcery to add its ability.)[/i]\n{T}: Add {C}.\n{1}: Level 2\n{T}: Create a Food token. [i](It's an artifact with \u201c{2}, {T}, Sacrifice this artifact: You gain 3 life.\u201d)[/i]\n{2}: Level 3\nActivated abilities of Foods you control cost {1} less to activate.\n{2}: Level 4\nTap two untapped Foods you control: Add one mana of any color.",
@@ -9096,16 +9054,16 @@
             "loyalty": "",
             "artist": "Milne Ramsey",
             "alias": "",
-            "position": "432",
+            "position": "430",
             "rotated": false,
-            "notes": ""
+            "notes": "!group merit"
         },
         {
             "card_name": "Consilium Convocation",
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Merit",
-            "number": 336,
+            "number": 337,
             "color_identity": "C",
             "cost": "",
             "rules_text": "[i](Gain the next level as a sorcery to add its ability.)[/i]\n{T}: Add {C}.\n{2}: Level 2\nWhen this Merit becomes level 2, search your library for a Pentacle Order card, reveal it, put it into your hand, then shuffle.\n{1}: Level 3\n{T}: Add one mana of any color.\n{3}: Level 4\nAbilities of Pentacle Orders you control trigger an additional time.",
@@ -9117,9 +9075,9 @@
             "loyalty": "",
             "artist": "Dresden Codex c. 1200\u20131345",
             "alias": "",
-            "position": "433",
+            "position": "431",
             "rotated": false,
-            "notes": ""
+            "notes": "!group merit"
         },
         {
             "card_name": "Mob Hideout",
@@ -9138,9 +9096,9 @@
             "loyalty": "",
             "artist": "Jahanzeb Ahsan",
             "alias": "",
-            "position": "434",
+            "position": "432",
             "rotated": false,
-            "notes": ""
+            "notes": "!group merit"
         },
         {
             "card_name": "News Outlet",
@@ -9159,9 +9117,9 @@
             "loyalty": "",
             "artist": "H\u00fcm\u00e2 H. Yard\u0131m",
             "alias": "",
-            "position": "435",
+            "position": "433",
             "rotated": false,
-            "notes": ""
+            "notes": "!group merit"
         },
         {
             "card_name": "Precinct Headquarters",
@@ -9180,9 +9138,9 @@
             "loyalty": "",
             "artist": "Pierre Herman",
             "alias": "",
-            "position": "436",
+            "position": "434",
             "rotated": false,
-            "notes": ""
+            "notes": "!group merit"
         },
         {
             "card_name": "Sanctum Sanctorum",
@@ -9201,9 +9159,9 @@
             "loyalty": "",
             "artist": "Leonardo Barucci",
             "alias": "",
-            "position": "437",
+            "position": "435",
             "rotated": false,
-            "notes": ""
+            "notes": "!group merit"
         },
         {
             "card_name": "Sanitation Plant",
@@ -9222,9 +9180,9 @@
             "loyalty": "",
             "artist": "Samuel Regan-Asante",
             "alias": "",
-            "position": "438",
+            "position": "436",
             "rotated": false,
-            "notes": ""
+            "notes": "!group merit"
         },
         {
             "card_name": "Bantam Imp",
@@ -9243,7 +9201,7 @@
             "loyalty": "",
             "artist": "Tracy Lundgren",
             "alias": "",
-            "position": "439",
+            "position": "437",
             "rotated": false,
             "notes": "!group supernal2c"
         },
@@ -9264,7 +9222,7 @@
             "loyalty": "",
             "artist": "Oswaldo L\u00f3pez",
             "alias": "",
-            "position": "440",
+            "position": "438",
             "rotated": false,
             "notes": ""
         },
@@ -9284,6 +9242,48 @@
             "set": "MtAw",
             "loyalty": "",
             "artist": "NASA and the European Space Agency",
+            "alias": "",
+            "position": "439",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Wisdom",
+            "color": "",
+            "rarity": "cube",
+            "type": "",
+            "number": 6,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "\u200b",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "MtAw",
+            "loyalty": "",
+            "artist": "Rafael Javier",
+            "alias": "",
+            "position": "440",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Hubris",
+            "color": "",
+            "rarity": "cube",
+            "type": "",
+            "number": 4,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "{hazard.png} represents paradox. Pay {hazard.png} by paying {1}, or by paying 2 Wisdom, or by gaining a Hubris counter.\n\nAt the beginning of your Breach step, if you have gained Hubris since the beginning of your last Breach step, the Abyss casts spells with that much total paradox value from the top of the Abyss deck.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "MtAw",
+            "loyalty": "",
+            "artist": "Jacob Peter Gowy",
             "alias": "",
             "position": "441",
             "rotated": false,
