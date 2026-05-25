@@ -1,4 +1,200 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+
+
+Destined One
+rules_text: {2G}: If Destined One is an Mystic, it becomes a Human Sleepwalker Warrior with vigilance. Put a +1/+1 counter on it.
+{2R}: If Destined One is a Warrior, it becomes a Human Sleepwalker Monk with prowess. Put a +1/+1 counter on it.
+{2U}{2B}: If Destined One is a Monk, it becomes a Human Sleepwalker Demigod with flying and menace. Put a +1/+1 counter on it. => {2G}: If Destined One is a Mystic, it becomes a Human Sleepwalker Warrior with vigilance. Put a +1/+1 counter on it.
+{2R}: If Destined One is a Warrior, it becomes a Human Sleepwalker Monk with prowess. Put a +1/+1 counter on it.
+{2U}{2B}: If Destined One is a Monk, it becomes a Human Sleepwalker Demigod with flying and menace. Put a +1/+1 counter on it.
+
+
+VERSION 4 CHANGELOG
+====================
+
+
+
+Oaths Fulfilled
+rules_text: 
+Fateseal 1 [i](To fateseal X, look at the top X cards of an opponent's library, then put any number of them on the bottom of that player's library and the rest on top in any order.)[/i]
+Fateseal 2
+Fateseal 3, then draw a card. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Fateseal 1 [i](To fateseal X, look at the top X cards of an opponent's library, then put any number of them on the bottom of that player's library and the rest on top in any order.)[/i]
+Fateseal 2
+III — Fateseal 3, then draw a card.
+special_text: 
+Fateseal 1 [i](To fateseal X, look at the top X cards of an opponent's library, then put any number of them on the bottom of that player's library and the rest on top in any order.)[/i]
+Fateseal 2
+Fateseal 3, then draw a card. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Fateseal 1 [i](To fateseal X, look at the top X cards of an opponent's library, then put any number of them on the bottom of that player's library and the rest on top in any order.)[/i]
+Fateseal 2
+III — Fateseal 3, then draw a card.
+
+Shifting the Odds
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Choose creature, enchantment, land, or life. If you chose life, you gain 3 life for each opponent who has more life than you. Otherwise, if an opponent controls more permanents of the chosen type than you, reveal cards from the top of your library until you reveal a card of the chosen type. Put it into your hand and the rest on the bottom of your library in a random order. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Choose creature, enchantment, land, or life. If you chose life, you gain 3 life for each opponent who has more life than you. Otherwise, if an opponent controls more permanents of the chosen type than you, reveal cards from the top of your library until you reveal a card of the chosen type. Put it into your hand and the rest on the bottom of your library in a random order.
+​
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Choose creature, enchantment, land, or life. If you chose life, you gain 3 life for each opponent who has more life than you. Otherwise, if an opponent controls more permanents of the chosen type than you, reveal cards from the top of your library until you reveal a card of the chosen type. Put it into your hand and the rest on the bottom of your library in a random order. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Choose creature, enchantment, land, or life. If you chose life, you gain 3 life for each opponent who has more life than you. Otherwise, if an opponent controls more permanents of the chosen type than you, reveal cards from the top of your library until you reveal a card of the chosen type. Put it into your hand and the rest on the bottom of your library in a random order.
+​
+​
+
+Grave Misfortune
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]
+Enchant creature
+When enchanted creature is dealt damage, it deals that much damage to its controller.
+When Grave Misfortune is put into a graveyard from the battle-
+field, draw a card.
+Grave Misfortune deals 1 damage to enchanted creature for each lore counter on it.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]
+I, II, III, IV — Enchant creature
+When enchanted creature is dealt damage, it deals that much damage to its controller.
+When Grave Misfortune is put into a graveyard from the battle-
+field, draw a card.
+V — Grave Misfortune deals 1 damage to enchanted creature for each lore counter on it.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]
+Enchant creature
+When enchanted creature is dealt damage, it deals that much damage to its controller.
+When Grave Misfortune is put into a graveyard from the battle-
+field, draw a card.
+Grave Misfortune deals 1 damage to enchanted creature for each lore counter on it.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]
+I, II, III, IV — Enchant creature
+When enchanted creature is dealt damage, it deals that much damage to its controller.
+When Grave Misfortune is put into a graveyard from the battle-
+field, draw a card.
+V — Grave Misfortune deals 1 damage to enchanted creature for each lore counter on it.
+​
+
+Monkey's Paw
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Search your library for a card, then shuffle and put that card on top.
+Exile Monkey's Paw and return it to the battlefield under an opponent's control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I, II — Search your library for a card, then shuffle and put that card on top.
+III — Exile Monkey's Paw and return it to the battlefield under an opponent's control.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Search your library for a card, then shuffle and put that card on top.
+Exile Monkey's Paw and return it to the battlefield under an opponent's control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I, II — Search your library for a card, then shuffle and put that card on top.
+III — Exile Monkey's Paw and return it to the battlefield under an opponent's control.
+​
+
+Atonement
+rules_text: 
+Destroy target enchantment.
+Destroy target enchantment, then Atonement deals damage to each opponent equal to the greatest mana value among enchantment cards in their graveyard. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Destroy target enchantment.
+III — Destroy target enchantment, then Atonement deals damage to each opponent equal to the greatest mana value among enchantment cards in their graveyard.
+​
+special_text: 
+Destroy target enchantment.
+Destroy target enchantment, then Atonement deals damage to each opponent equal to the greatest mana value among enchantment cards in their graveyard. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Destroy target enchantment.
+III — Destroy target enchantment, then Atonement deals damage to each opponent equal to the greatest mana value among enchantment cards in their graveyard.
+​
+
+Chaos Mastery
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+When you cast this spell, gain 3 Wisdom.
+Scry X, draw a card, then shuffle, where X is the number of lore counters on Chaos Mastery. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+When you cast this spell, gain 3 Wisdom.
+I, II, III, IV — Scry X, draw a card, then shuffle, where X is the number of lore counters on Chaos Mastery.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+When you cast this spell, gain 3 Wisdom.
+Scry X, draw a card, then shuffle, where X is the number of lore counters on Chaos Mastery. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+When you cast this spell, gain 3 Wisdom.
+I, II, III, IV — Scry X, draw a card, then shuffle, where X is the number of lore counters on Chaos Mastery.
+​
+
+Divine Intervention
+rules_text: 
+Up to one target creature phases out. It can't phase in for as long as you control Divine Intervention.
+Creatures your opponents control lose all abilities. Destroy all creatures. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Up to one target creature phases out. It can't phase in for as long as you control Divine Intervention.
+Creatures your opponents control lose all abilities. Destroy all creatures.
+​
+special_text: 
+Up to one target creature phases out. It can't phase in for as long as you control Divine Intervention.
+Creatures your opponents control lose all abilities. Destroy all creatures. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Up to one target creature phases out. It can't phase in for as long as you control Divine Intervention.
+Creatures your opponents control lose all abilities. Destroy all creatures.
+​
+
+Strings of Fate
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Look at target opponent's hand. Choose a card name. At the beginning of that player's next end step, they reveal their hand and discard all nonland cards with the chosen name and mana value less than or equal to the number of lands they control.
+Whenever a player discards a card this way, they lose life equal to that card's mana value and you may draw two cards.
+​
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Look at target opponent's hand. Choose a card name. At the beginning of that player's next end step, they reveal their hand and discard all nonland cards with the chosen name and mana value less than or equal to the number of lands they control.
+Whenever a player discards a card this way, they lose life equal to that card's mana value and you may draw two cards.
+​
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Look at target opponent's hand. Choose a card name. At the beginning of that player's next end step, they reveal their hand and discard all nonland cards with the chosen name and mana value less than or equal to the number of lands they control.
+Whenever a player discards a card this way, they lose life equal to that card's mana value and you may draw two cards.
+​
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Look at target opponent's hand. Choose a card name. At the beginning of that player's next end step, they reveal their hand and discard all nonland cards with the chosen name and mana value less than or equal to the number of lands they control.
+Whenever a player discards a card this way, they lose life equal to that card's mana value and you may draw two cards.
+​
+​
+
+Forge Destiny
+rules_text: 
+Remove a lore counter from each of any number of other Sagas you control.
+Put a lore counter on each of any number of other Sagas you control.
+Whenever you sacrifice a Saga this turn, add {W}{W}. Spend this mana only to cast Fate spells. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Remove a lore counter from each of any number of other Sagas you control.
+II — Put a lore counter on each of any number of other Sagas you control.
+III — Whenever you sacrifice a Saga this turn, add {W}{W}. Spend this mana only to cast Fate spells.
+special_text: 
+Remove a lore counter from each of any number of other Sagas you control.
+Put a lore counter on each of any number of other Sagas you control.
+Whenever you sacrifice a Saga this turn, add {W}{W}. Spend this mana only to cast Fate spells. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Remove a lore counter from each of any number of other Sagas you control.
+II — Put a lore counter on each of any number of other Sagas you control.
+III — Whenever you sacrifice a Saga this turn, add {W}{W}. Spend this mana only to cast Fate spells.
+
+Swarm of Locusts
+rules_text: 
+Create two Food tokens.
+Create four 1/1 white Insect creature tokens with flying. 
+You may sacrifice a Food. If you do, remove a lore counter from Swarm of Locusts. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Create two Food tokens.
+III — Create four 1/1 white Insect creature tokens with flying. 
+You may sacrifice a Food. If you do, remove a lore counter from Swarm of Locusts.
+​
+special_text: 
+Create two Food tokens.
+Create four 1/1 white Insect creature tokens with flying. 
+You may sacrifice a Food. If you do, remove a lore counter from Swarm of Locusts. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Create two Food tokens.
+III — Create four 1/1 white Insect creature tokens with flying. 
+You may sacrifice a Food. If you do, remove a lore counter from Swarm of Locusts.
+​
+
+Blessed Retainer
+type: Creature — Human Sleepwalker Mystic => Creature — Human Sleepwalker Ally
+
+Destined One
+type: Creature — Human Sleepwalker Ally => Creature — Human Sleepwalker Mystic
+rules_text: {2G}: If Destined One is an Ally, it becomes a Human Sleepwalker Warrior with vigilance. Put a +1/+1 counter on it.
+{2R}: If Destined One is a Warrior, it becomes a Human Sleepwalker Monk with prowess. Put a +1/+1 counter on it.
+{2U}{2B}: If Destined One is a Monk, it becomes a Human Sleepwalker Demigod with flying and menace. Put a +1/+1 counter on it. => {2G}: If Destined One is an Mystic, it becomes a Human Sleepwalker Warrior with vigilance. Put a +1/+1 counter on it.
+{2R}: If Destined One is a Warrior, it becomes a Human Sleepwalker Monk with prowess. Put a +1/+1 counter on it.
+{2U}{2B}: If Destined One is a Monk, it becomes a Human Sleepwalker Demigod with flying and menace. Put a +1/+1 counter on it.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Abandoned Wending added.

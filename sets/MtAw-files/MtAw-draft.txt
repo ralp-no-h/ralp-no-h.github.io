@@ -3104,7 +3104,7 @@
 			"name": "Blessed Retainer",
 			"rarity": "special",
 			"mana_cost": "{1}",
-			"type": "Creature — Human Sleepwalker Mystic",
+			"type": "Creature — Human Sleepwalker Ally",
 			"collector_number": "290",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/310.jpg"
@@ -3164,7 +3164,7 @@
 			"name": "Destined One",
 			"rarity": "special",
 			"mana_cost": "{2/W}",
-			"type": "Creature — Human Sleepwalker Ally",
+			"type": "Creature — Human Sleepwalker Mystic",
 			"collector_number": "308",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/316.jpg"
