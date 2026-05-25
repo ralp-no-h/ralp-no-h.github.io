@@ -1,4 +1,243 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+Blood Doll removed.
+
+Spring Court Beast
+
+Autumn Court Elemental
+
+Winter Court Darkling
+
+Spring Court Fairest
+
+Summer Court Wizened
+
+Autumn Court Ogre
+
+Blood Talon Ripper
+
+Bone Shadow Binder
+
+Hunter in Darkness
+
+Iron Master Warden
+
+Storm Lord Howler
+
+Illusory Grizzly
+
+Illusory Tyrannosaur
+
+Illusory Drake
+
+Illusory Monster
+
+Illusory Recluse
+
+Abyssal Backlash
+
+Abyssal Rebuke
+
+Abyssal Shock
+
+Mental Aberration
+
+Mental Anomaly
+
+Mental Regression
+
+Void Pocket
+
+Void Bubble
+
+Void Episode
+
+Creeping End
+
+Seeping End
+
+Weeping End
+
+Null Resonance
+
+Reality Erasure
+
+Reality Decay
+
+Reality Erosion
+
+Faulty Imago
+
+Nothingness
+
+Abyssal Wave
+
+Cognitive Dissonance
+
+Cerebral Dissonance
+
+Flawed Imago
+
+Voidwrought Reckoning
+
+Spraxedar's Soul
+
+Kurkemach, Hastened End
+
+Inviolate Substance
+
+Ixa, Recursive Void
+
+Engraneg, Thrice Nothing
+
+Noalmaunun, Moment Eater
+
+Narrowing
+
+Prince of 100,000 Leaves
+
+Supervene Reality
+
+Nimbus Fragment
+
+Nimbus Shard
+
+Nimbus Shrapnel
+
+Dorrarech, Soul Drinker
+
+Abyssal Pox
+
+Abyssal Blight
+
+Abyssal Drain
+
+Annuledes, Veiled Unthing
+
+Irrememberance
+
+Soul Nullifier
+
+Expose Soul
+
+Fwdre, Viral Assertion
+
+Goroldoth, Marrow Borrower
+
+Oracle's Will
+
+Deletion
+
+Essence Inversion
+
+Thought Drought
+
+Nrôrn, Truth Denied
+
+Oun, Bifurcation Dæmon
+
+Mental Flush
+
+Idea Infection
+
+Viirrax, Imago Collapse
+
+Yytromox, from Without
+
+Watchtower of the Lunargent Thorn
+
+Watchtower of the Iron Gauntlet
+
+Watchtower of the Lead Coin
+
+Watchtower of the Singing Stone
+
+Watchtower of the Golden Key
+
+Tass
+
+Human Sleeper Cult
+
+Familiar
+
+Insect
+
+Mouse
+
+Dinosaur
+
+Nightmare Copy
+
+Spirit Mote
+
+Spirit Avatar
+
+Spider
+
+Assault Rifle
+
+Human Sleeper Rogue
+
+Residue of Viirrax
+
+Spawn
+
+Scion
+
+Junk
+
+Food
+
+Map
+
+Blood
+
+Copy
+
+Ooze
+
+Sever Oaths
+
+Illusion Copy
+
+Vampire
+
+Brain Donor
+
+Familiar Merit
+
+Bibliotheca Occulta
+
+City Hall
+
+Dining District
+
+Consilium Convocation
+
+Mob Hideout
+
+News Outlet
+
+Precinct Headquarters
+
+Sanctum Sanctorum
+
+Sanitation Plant
+
+Bantam Imp
+
+Fools Rush In
+
+Void
+
+Wisdom
+
+Hubris
+
+
+VERSION 5 CHANGELOG
 ====================
 
 

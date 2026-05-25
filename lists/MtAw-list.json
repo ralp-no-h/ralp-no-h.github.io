@@ -205,7 +205,7 @@
         "shape": "normal",
         "set": "MtAw",
         "rotated": false,
-        "position": "438"
+        "position": "437"
     },
     {
         "card_name": "Mind Flay",
@@ -445,7 +445,7 @@
         "shape": "class",
         "set": "MtAw",
         "rotated": false,
-        "position": "423"
+        "position": "422"
     },
     {
         "card_name": "Psychic Genesis",
@@ -709,7 +709,7 @@
         "shape": "normal",
         "set": "MtAw",
         "rotated": false,
-        "position": "339"
+        "position": "338"
     },
     {
         "card_name": "A Forgotten Memory",
@@ -749,7 +749,7 @@
         "shape": "normal",
         "set": "MtAw",
         "rotated": false,
-        "position": "337"
+        "position": "336"
     },
     {
         "card_name": "A Gruesome Murder",
@@ -789,7 +789,7 @@
         "shape": "normal",
         "set": "MtAw",
         "rotated": false,
-        "position": "340"
+        "position": "339"
     },
     {
         "card_name": "An Implacable Angst",
@@ -829,7 +829,7 @@
         "shape": "normal",
         "set": "MtAw",
         "rotated": false,
-        "position": "341"
+        "position": "340"
     },
     {
         "card_name": "A Poor Child's Hunger",
@@ -869,7 +869,7 @@
         "shape": "normal",
         "set": "MtAw",
         "rotated": false,
-        "position": "338"
+        "position": "337"
     },
     {
         "card_name": "An Untold Secret",
@@ -1814,7 +1814,7 @@
     "a->colorless",
     {
         "card_name": "Astral Astrolabe",
-        "number": 349,
+        "number": 348,
         "shape": "normal",
         "set": "MtAw",
         "rotated": false,
@@ -1822,7 +1822,7 @@
     },
     {
         "card_name": "Guardian Memento",
-        "number": 350,
+        "number": 349,
         "shape": "normal",
         "set": "MtAw",
         "rotated": false,
@@ -1830,7 +1830,7 @@
     },
     {
         "card_name": "Libertine Invitation",
-        "number": 351,
+        "number": 350,
         "shape": "normal",
         "set": "MtAw",
         "rotated": false,
@@ -1838,7 +1838,7 @@
     },
     {
         "card_name": "Mystagogue Trinket",
-        "number": 352,
+        "number": 351,
         "shape": "normal",
         "set": "MtAw",
         "rotated": false,
@@ -1846,7 +1846,7 @@
     },
     {
         "card_name": "Profane Urim",
-        "number": 353,
+        "number": 352,
         "shape": "normal",
         "set": "MtAw",
         "rotated": false,
@@ -1854,7 +1854,7 @@
     },
     {
         "card_name": "Scourge of Oblation",
-        "number": 354,
+        "number": 353,
         "shape": "normal",
         "set": "MtAw",
         "rotated": false,
@@ -1862,7 +1862,7 @@
     },
     {
         "card_name": "Talon Medal",
-        "number": 355,
+        "number": 354,
         "shape": "normal",
         "set": "MtAw",
         "rotated": false,
@@ -1870,7 +1870,7 @@
     },
     {
         "card_name": "Th\u00e9arch Badge",
-        "number": 356,
+        "number": 355,
         "shape": "normal",
         "set": "MtAw",
         "rotated": false,
@@ -1899,7 +1899,7 @@
     },
     {
         "card_name": "Abandoned Wending",
-        "number": 333,
+        "number": 332,
         "shape": "normal",
         "set": "MtAw",
         "rotated": false,
@@ -1936,7 +1936,7 @@
         "shape": "token",
         "set": "MtAw",
         "rotated": false,
-        "position": "441"
+        "position": "440"
     },
     {
         "card_name": "Residue of Viirrax",
@@ -1944,7 +1944,7 @@
         "shape": "token",
         "set": "MtAw",
         "rotated": false,
-        "position": "414"
+        "position": "413"
     },
     {
         "card_name": "Wisdom",
@@ -1952,7 +1952,7 @@
         "shape": "token",
         "set": "MtAw",
         "rotated": false,
-        "position": "440"
+        "position": "439"
     },
     {
         "card_name": "Copy",
@@ -1960,7 +1960,7 @@
         "shape": "token",
         "set": "MtAw",
         "rotated": false,
-        "position": "421"
+        "position": "420"
     },
     {
         "card_name": "Scion",
@@ -1968,7 +1968,7 @@
         "shape": "token",
         "set": "MtAw",
         "rotated": false,
-        "position": "416"
+        "position": "415"
     },
     {
         "card_name": "Spawn",
@@ -1976,7 +1976,7 @@
         "shape": "token",
         "set": "MtAw",
         "rotated": false,
-        "position": "415"
+        "position": "414"
     },
     {
         "card_name": "Void",
@@ -1984,7 +1984,7 @@
         "shape": "token",
         "set": "MtAw",
         "rotated": false,
-        "position": "439"
+        "position": "438"
     },
     {
         "card_name": "Assault Rifle",
@@ -1992,7 +1992,7 @@
         "shape": "token",
         "set": "MtAw",
         "rotated": false,
-        "position": "412"
+        "position": "411"
     },
     {
         "card_name": "Blood",
@@ -2000,7 +2000,7 @@
         "shape": "token",
         "set": "MtAw",
         "rotated": false,
-        "position": "420"
+        "position": "419"
     },
     {
         "card_name": "Food",
@@ -2008,7 +2008,7 @@
         "shape": "token",
         "set": "MtAw",
         "rotated": false,
-        "position": "418"
+        "position": "417"
     },
     {
         "card_name": "Junk",
@@ -2016,7 +2016,7 @@
         "shape": "token",
         "set": "MtAw",
         "rotated": false,
-        "position": "417"
+        "position": "416"
     },
     {
         "card_name": "Map",
@@ -2024,7 +2024,7 @@
         "shape": "token",
         "set": "MtAw",
         "rotated": false,
-        "position": "419"
+        "position": "418"
     },
     {
         "card_name": "Tass",
@@ -2032,7 +2032,7 @@
         "shape": "token",
         "set": "MtAw",
         "rotated": false,
-        "position": "402"
+        "position": "401"
     },
     {
         "card_name": "Familiar",
@@ -2040,7 +2040,7 @@
         "shape": "token",
         "set": "MtAw",
         "rotated": false,
-        "position": "404"
+        "position": "403"
     },
     {
         "card_name": "Spirit Avatar",
@@ -2048,7 +2048,7 @@
         "shape": "token",
         "set": "MtAw",
         "rotated": false,
-        "position": "410"
+        "position": "409"
     },
     {
         "card_name": "Spirit Mote",
@@ -2056,7 +2056,7 @@
         "shape": "token",
         "set": "MtAw",
         "rotated": false,
-        "position": "409"
+        "position": "408"
     },
     {
         "card_name": "Dinosaur",
@@ -2064,7 +2064,7 @@
         "shape": "token",
         "set": "MtAw",
         "rotated": false,
-        "position": "407"
+        "position": "406"
     },
     {
         "card_name": "Insect",
@@ -2072,7 +2072,7 @@
         "shape": "token",
         "set": "MtAw",
         "rotated": false,
-        "position": "405"
+        "position": "404"
     },
     {
         "card_name": "Mouse",
@@ -2080,7 +2080,7 @@
         "shape": "token",
         "set": "MtAw",
         "rotated": false,
-        "position": "406"
+        "position": "405"
     },
     {
         "card_name": "Nightmare Copy",
@@ -2088,7 +2088,7 @@
         "shape": "token",
         "set": "MtAw",
         "rotated": false,
-        "position": "408"
+        "position": "407"
     },
     {
         "card_name": "Ooze",
@@ -2096,7 +2096,7 @@
         "shape": "token",
         "set": "MtAw",
         "rotated": false,
-        "position": "422"
+        "position": "421"
     },
     {
         "card_name": "Vampire",
@@ -2104,7 +2104,7 @@
         "shape": "token",
         "set": "MtAw",
         "rotated": false,
-        "position": "425"
+        "position": "424"
     },
     {
         "card_name": "Illusion Copy",
@@ -2112,7 +2112,7 @@
         "shape": "token",
         "set": "MtAw",
         "rotated": false,
-        "position": "424"
+        "position": "423"
     },
     {
         "card_name": "Spider",
@@ -2120,7 +2120,7 @@
         "shape": "token",
         "set": "MtAw",
         "rotated": false,
-        "position": "411"
+        "position": "410"
     },
     {
         "card_name": "Human Sleeper Cult",
@@ -2128,7 +2128,7 @@
         "shape": "token",
         "set": "MtAw",
         "rotated": false,
-        "position": "403"
+        "position": "402"
     },
     {
         "card_name": "Human Sleeper Rogue",
@@ -2136,7 +2136,7 @@
         "shape": "token",
         "set": "MtAw",
         "rotated": false,
-        "position": "413"
+        "position": "412"
     },
     {
         "card_name": "e"
