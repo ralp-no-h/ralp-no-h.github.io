@@ -4469,7 +4469,6 @@
 	1 Goetia of Gluttony
 	1 Resonant Corpse
 	1 Autoguardian Mark VI
-	1 Abandoned Wending
 	1 Task Force Commando
 	1 Zeka Monstrosity
 	1 Atlantean Age
@@ -4540,16 +4539,6 @@
 	1 Atonement
 	1 Strings of Fate
 	1 Forge Destiny
-	1 Historical Monument
-	1 Languid Cul-de-sac
-	1 Psionic Skyscraper
-	1 Vacant Lot
-	1 Desecrated Graveyard
-	1 Contaminated Scrapyard
-	1 Sacred Temple
-	1 Thrumming Substation
-	1 Pristine Parkland
-	1 Undeveloped Overgrowth
 	1 Galateid Muse
 	1 Patchwork Wretched
 	1 Tammuz Golem
@@ -4660,16 +4649,6 @@
 	1 Paranormal Skeptic
 	1 Elite Hacker
 	1 Brain Donor
-	1 Familiar Merit
-	1 Bibliotheca Occulta
-	1 Municipal Center
-	1 Dining District
-	1 Consilium Convocation
-	1 Mob Hideout
-	1 News Outlet
-	1 Precinct Headquarters
-	1 Sanctum Sanctorum
-	1 Sanitation Plant
 	1 Fools Rush In
 [common(8)]
 	1 Interconnections
@@ -4710,11 +4689,6 @@
 	1 Antimatter Field
 	1 Brick Barricade
 	1 Crystalline Seal
-	1 The Adamantine Arrow
-	1 The Silver Ladder
-	1 The Free Council
-	1 The Guardians of the Veil
-	1 The Mysterium
 	1 Talon Medal
 	1 Théarch Badge
 	1 Libertine Invitation
