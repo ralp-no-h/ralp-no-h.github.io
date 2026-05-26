@@ -1,1 +1,3593 @@
-﻿[]
+﻿[
+    {
+        "card_name": "Interconnections",
+        "number": 10,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "0"
+    },
+    {
+        "card_name": "Perfect Timing",
+        "number": 37,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "204"
+    },
+    {
+        "card_name": "Perfect Recall",
+        "number": 68,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "139"
+    },
+    {
+        "card_name": "The Outward and Inward Eye",
+        "number": 98,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "160"
+    },
+    {
+        "card_name": "Soul Marks",
+        "number": 131,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "99"
+    },
+    {
+        "card_name": "Detect Substance",
+        "number": 148,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "117"
+    },
+    {
+        "card_name": "Supernal Vision",
+        "number": 189,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "180"
+    },
+    {
+        "card_name": "Nightvision",
+        "number": 213,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "223"
+    },
+    {
+        "card_name": "Exorcist's Eye",
+        "number": 238,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "261"
+    },
+    {
+        "card_name": "Speak With Beasts",
+        "number": 274,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "282"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Serendipity",
+        "number": 14,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "2"
+    },
+    {
+        "card_name": "Chaos Mastery",
+        "number": 3,
+        "shape": "saga",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "11"
+    },
+    {
+        "card_name": "Supernal Divination",
+        "number": 42,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "201"
+    },
+    {
+        "card_name": "Present as Past",
+        "number": 38,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "214"
+    },
+    {
+        "card_name": "Know Nature",
+        "number": 61,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "136"
+    },
+    {
+        "card_name": "Hallucination",
+        "number": 60,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "151"
+    },
+    {
+        "card_name": "Correspondence",
+        "number": 91,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "156"
+    },
+    {
+        "card_name": "Unearth Revenant",
+        "number": 133,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "110"
+    },
+    {
+        "card_name": "Warp",
+        "number": 105,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "167"
+    },
+    {
+        "card_name": "Transubstantiation",
+        "number": 160,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "132"
+    },
+    {
+        "card_name": "Forensic Gaze",
+        "number": 123,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "97"
+    },
+    {
+        "card_name": "Destroy Tass",
+        "number": 177,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "189"
+    },
+    {
+        "card_name": "Artisan's Eye",
+        "number": 146,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "116"
+    },
+    {
+        "card_name": "Transform Energy",
+        "number": 217,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "236"
+    },
+    {
+        "card_name": "Dispel Magic",
+        "number": 178,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "176"
+    },
+    {
+        "card_name": "Twilit Body",
+        "number": 248,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "276"
+    },
+    {
+        "card_name": "Tune In",
+        "number": 218,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "224"
+    },
+    {
+        "card_name": "Mend",
+        "number": 269,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "294"
+    },
+    {
+        "card_name": "Know Spirit",
+        "number": 241,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "263"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Web of Life",
+        "number": 276,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "283"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Anathema",
+        "number": 1,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "16"
+    },
+    {
+        "card_name": "Alter Mental Pattern",
+        "number": 58,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "140"
+    },
+    {
+        "card_name": "Create Avernian Gate",
+        "number": 115,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "113"
+    },
+    {
+        "card_name": "Aetheric Winds",
+        "number": 172,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "185"
+    },
+    {
+        "card_name": "Annihilate Spirit",
+        "number": 229,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "277"
+    },
+    {
+        "card_name": "Atonement",
+        "number": 2,
+        "shape": "saga",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "10"
+    },
+    {
+        "card_name": "Augment Mind",
+        "number": 59,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "145"
+    },
+    {
+        "card_name": "Decay",
+        "number": 116,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "100"
+    },
+    {
+        "card_name": "As Above, So Below",
+        "number": 173,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "181"
+    },
+    {
+        "card_name": "Bind Spirit",
+        "number": 230,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "273"
+    },
+    {
+        "card_name": "Divine Intervention",
+        "number": 4,
+        "shape": "saga",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "12"
+    },
+    {
+        "card_name": "Memory Hole",
+        "number": 62,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "141"
+    },
+    {
+        "card_name": "Deepen Shadows",
+        "number": 117,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "96"
+    },
+    {
+        "card_name": "Blasphemy",
+        "number": 174,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "193"
+    },
+    {
+        "card_name": "Bolster Spirit",
+        "number": 231,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "268"
+    },
+    {
+        "card_name": "Exceptional Luck",
+        "number": 5,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "3"
+    },
+    {
+        "card_name": "Mental Scan",
+        "number": 63,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "137"
+    },
+    {
+        "card_name": "Deny the Reaper",
+        "number": 118,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "114"
+    },
+    {
+        "card_name": "Celestial Fire",
+        "number": 175,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "188"
+    },
+    {
+        "card_name": "Channel Essence",
+        "number": 232,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "264"
+    },
+    {
+        "card_name": "Fabricate Fortune",
+        "number": 6,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "4"
+    },
+    {
+        "card_name": "Mental Shield",
+        "number": 64,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "142"
+    },
+    {
+        "card_name": "Devouring the Slain",
+        "number": 119,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "104"
+    },
+    {
+        "card_name": "Create Truth",
+        "number": 176,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "194"
+    },
+    {
+        "card_name": "Coaxing the Spirits",
+        "number": 233,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "260"
+    },
+    {
+        "card_name": "Fools Rush In",
+        "number": 7,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "437"
+    },
+    {
+        "card_name": "Mind Flay",
+        "number": 65,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "149"
+    },
+    {
+        "card_name": "Empty Presence",
+        "number": 120,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "115"
+    },
+    {
+        "card_name": "Display of Gnosis",
+        "number": 179,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "186"
+    },
+    {
+        "card_name": "Command Spirit",
+        "number": 234,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "265"
+    },
+    {
+        "card_name": "Forge Destiny",
+        "number": 8,
+        "shape": "saga",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "14"
+    },
+    {
+        "card_name": "Mind Wipe",
+        "number": 66,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "153"
+    },
+    {
+        "card_name": "Enervation",
+        "number": 121,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "108"
+    },
+    {
+        "card_name": "Hallow Dance",
+        "number": 180,
+        "shape": "class",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "190"
+    },
+    {
+        "card_name": "Create Locus",
+        "number": 235,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "278"
+    },
+    {
+        "card_name": "Grave Misfortune",
+        "number": 9,
+        "shape": "saga",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "6"
+    },
+    {
+        "card_name": "One Mind, Two Thoughts",
+        "number": 67,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "138"
+    },
+    {
+        "card_name": "Exorcism",
+        "number": 122,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "109"
+    },
+    {
+        "card_name": "Invisible Runes",
+        "number": 181,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "182"
+    },
+    {
+        "card_name": "Erode Resonance",
+        "number": 236,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "269"
+    },
+    {
+        "card_name": "Miracle",
+        "number": 11,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "15"
+    },
+    {
+        "card_name": "Possession",
+        "number": 69,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "150"
+    },
+    {
+        "card_name": "Ghost Gate",
+        "number": 124,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "105"
+    },
+    {
+        "card_name": "Mana Battery",
+        "number": 182,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "187"
+    },
+    {
+        "card_name": "Essence Fountain",
+        "number": 237,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "279"
+    },
+    {
+        "card_name": "Monkey's Paw",
+        "number": 12,
+        "shape": "saga",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "7"
+    },
+    {
+        "card_name": "Psychic Assault",
+        "number": 70,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "146"
+    },
+    {
+        "card_name": "Ghost Shield",
+        "number": 125,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "101"
+    },
+    {
+        "card_name": "Nimbus Forgery",
+        "number": 183,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "183"
+    },
+    {
+        "card_name": "Gossamer Touch",
+        "number": 239,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "266"
+    },
+    {
+        "card_name": "Oaths Fulfilled",
+        "number": 13,
+        "shape": "saga",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "1"
+    },
+    {
+        "card_name": "Psychic Domination",
+        "number": 71,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "143"
+    },
+    {
+        "card_name": "Quicken Corpse",
+        "number": 126,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "106"
+    },
+    {
+        "card_name": "Nimbus Tuning",
+        "number": 184,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "177"
+    },
+    {
+        "card_name": "Invoke Bane",
+        "number": 240,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "262"
+    },
+    {
+        "card_name": "Sever Oaths",
+        "number": 15,
+        "shape": "class",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "422"
+    },
+    {
+        "card_name": "Psychic Genesis",
+        "number": 72,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "154"
+    },
+    {
+        "card_name": "Shadow Crafting",
+        "number": 127,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "107"
+    },
+    {
+        "card_name": "Pierce Deception",
+        "number": 185,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "178"
+    },
+    {
+        "card_name": "Place of Power",
+        "number": 242,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "270"
+    },
+    {
+        "card_name": "Shared Fate",
+        "number": 16,
+        "shape": "class",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "8"
+    },
+    {
+        "card_name": "Read the Depths",
+        "number": 73,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "147"
+    },
+    {
+        "card_name": "Shadow Flesh",
+        "number": 128,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "111"
+    },
+    {
+        "card_name": "Primal Transfer",
+        "number": 186,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "191"
+    },
+    {
+        "card_name": "Rouse Spirit",
+        "number": 243,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "271"
+    },
+    {
+        "card_name": "Shifting the Odds",
+        "number": 17,
+        "shape": "saga",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "5"
+    },
+    {
+        "card_name": "Social Networking",
+        "number": 74,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "155"
+    },
+    {
+        "card_name": "Shadow Sculpting",
+        "number": 129,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "98"
+    },
+    {
+        "card_name": "Sacred Geometry",
+        "number": 187,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "179"
+    },
+    {
+        "card_name": "Shadow Scream",
+        "number": 244,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "274"
+    },
+    {
+        "card_name": "Strings of Fate",
+        "number": 18,
+        "shape": "saga",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "13"
+    },
+    {
+        "card_name": "Supernal Telepathy",
+        "number": 75,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "144"
+    },
+    {
+        "card_name": "Soul Armor",
+        "number": 130,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "102"
+    },
+    {
+        "card_name": "Supernal Dispellation",
+        "number": 188,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "192"
+    },
+    {
+        "card_name": "Shape Spirit",
+        "number": 245,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "275"
+    },
+    {
+        "card_name": "Swarm of Locusts",
+        "number": 19,
+        "shape": "saga",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "17"
+    },
+    {
+        "card_name": "Terrorize",
+        "number": 76,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "152"
+    },
+    {
+        "card_name": "Suppress Life",
+        "number": 132,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "103"
+    },
+    {
+        "card_name": "Word of Unmaking",
+        "number": 190,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "195"
+    },
+    {
+        "card_name": "Slumber",
+        "number": 246,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "267"
+    },
+    {
+        "card_name": "Sworn Oaths",
+        "number": 20,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "9"
+    },
+    {
+        "card_name": "Universal Language",
+        "number": 77,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "148"
+    },
+    {
+        "card_name": "Withering",
+        "number": 134,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "112"
+    },
+    {
+        "card_name": "Words of Truth",
+        "number": 191,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "184"
+    },
+    {
+        "card_name": "Spirit Summons",
+        "number": 247,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "272"
+    },
+    {
+        "card_name": "Audentes Fortuna Iuvat",
+        "number": 21,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "22"
+    },
+    {
+        "card_name": "Goetia of Envy",
+        "number": 78,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "50"
+    },
+    {
+        "card_name": "Erupting Carcass",
+        "number": 136,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "51"
+    },
+    {
+        "card_name": "Illusory Drake",
+        "number": 193,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "338"
+    },
+    {
+        "card_name": "A Forgotten Memory",
+        "number": 250,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "36"
+    },
+    {
+        "card_name": "Bonis Avibus",
+        "number": 22,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "18"
+    },
+    {
+        "card_name": "Goetia of Gluttony",
+        "number": 79,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "48"
+    },
+    {
+        "card_name": "Insatiable Ghast",
+        "number": 137,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "55"
+    },
+    {
+        "card_name": "Illusory Grizzly",
+        "number": 194,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "336"
+    },
+    {
+        "card_name": "A Gruesome Murder",
+        "number": 251,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "37"
+    },
+    {
+        "card_name": "Ceteris Paribus",
+        "number": 24,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "20"
+    },
+    {
+        "card_name": "Goetia of Pride",
+        "number": 80,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "46"
+    },
+    {
+        "card_name": "Pesky Poltergeist",
+        "number": 139,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "53"
+    },
+    {
+        "card_name": "Illusory Monster",
+        "number": 195,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "339"
+    },
+    {
+        "card_name": "An Implacable Angst",
+        "number": 252,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "39"
+    },
+    {
+        "card_name": "Quo Fata Ferunt",
+        "number": 25,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "19"
+    },
+    {
+        "card_name": "Goetia of Sloth",
+        "number": 81,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "49"
+    },
+    {
+        "card_name": "Resonant Corpse",
+        "number": 140,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "52"
+    },
+    {
+        "card_name": "Illusory Recluse",
+        "number": 196,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "340"
+    },
+    {
+        "card_name": "A Poor Child's Hunger",
+        "number": 253,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "38"
+    },
+    {
+        "card_name": "Terminus Ad Quem",
+        "number": 26,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "21"
+    },
+    {
+        "card_name": "Goetia of Wrath",
+        "number": 82,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "47"
+    },
+    {
+        "card_name": "Tethered Soul",
+        "number": 141,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "54"
+    },
+    {
+        "card_name": "Illusory Tyrannosaur",
+        "number": 197,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "337"
+    },
+    {
+        "card_name": "An Untold Secret",
+        "number": 255,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "40"
+    },
+    {
+        "card_name": "Acceleration",
+        "number": 29,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "209"
+    },
+    {
+        "card_name": "Alter Direction",
+        "number": 86,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "168"
+    },
+    {
+        "card_name": "Alchemist's Touch",
+        "number": 143,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "119"
+    },
+    {
+        "card_name": "Adverse Weather",
+        "number": 200,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "237"
+    },
+    {
+        "card_name": "Accelerate Growth",
+        "number": 257,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "292"
+    },
+    {
+        "card_name": "Blink of an Eye",
+        "number": 30,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "219"
+    },
+    {
+        "card_name": "Ban",
+        "number": 87,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "164"
+    },
+    {
+        "card_name": "Alter Conductivity",
+        "number": 144,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "123"
+    },
+    {
+        "card_name": "Call Lightning",
+        "number": 201,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "231"
+    },
+    {
+        "card_name": "Bruise Flesh",
+        "number": 258,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "287"
+    },
+    {
+        "card_name": "Choose the Thread",
+        "number": 31,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "205"
+    },
+    {
+        "card_name": "Break Boundary",
+        "number": 88,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "162"
+    },
+    {
+        "card_name": "Annihilate Matter",
+        "number": 145,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "133"
+    },
+    {
+        "card_name": "Control Electricity",
+        "number": 202,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "225"
+    },
+    {
+        "card_name": "Cleanse the Body",
+        "number": 259,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "280"
+    },
+    {
+        "card_name": "Chronos' Curse",
+        "number": 32,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "210"
+    },
+    {
+        "card_name": "Co-Location",
+        "number": 89,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "165"
+    },
+    {
+        "card_name": "Crucible",
+        "number": 147,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "124"
+    },
+    {
+        "card_name": "Control Fire",
+        "number": 203,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "226"
+    },
+    {
+        "card_name": "Contagion",
+        "number": 260,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "297"
+    },
+    {
+        "card_name": "Constant Presence",
+        "number": 33,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "206"
+    },
+    {
+        "card_name": "Collapse",
+        "number": 90,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "169"
+    },
+    {
+        "card_name": "Endless Bounty",
+        "number": 149,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "127"
+    },
+    {
+        "card_name": "Control Gravity",
+        "number": 204,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "227"
+    },
+    {
+        "card_name": "Control Instincts",
+        "number": 261,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "284"
+    },
+    {
+        "card_name": "Corridors of Time",
+        "number": 34,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "217"
+    },
+    {
+        "card_name": "Cut Threads",
+        "number": 92,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "170"
+    },
+    {
+        "card_name": "Ex Nihilo",
+        "number": 150,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "134"
+    },
+    {
+        "card_name": "Create Energy",
+        "number": 205,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "238"
+    },
+    {
+        "card_name": "Create Life",
+        "number": 262,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "298"
+    },
+    {
+        "card_name": "Green Light/Red Light",
+        "number": 35,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "202"
+    },
+    {
+        "card_name": "Forge No Chains",
+        "number": 93,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "172"
+    },
+    {
+        "card_name": "Ghostwall",
+        "number": 151,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "129"
+    },
+    {
+        "card_name": "Environmental Shield",
+        "number": 206,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "228"
+    },
+    {
+        "card_name": "Degrading the Form",
+        "number": 263,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "288"
+    },
+    {
+        "card_name": "Momentary Flux",
+        "number": 36,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "203"
+    },
+    {
+        "card_name": "Ground Eater",
+        "number": 94,
+        "shape": "class",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "157"
+    },
+    {
+        "card_name": "Golem",
+        "number": 152,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "126"
+    },
+    {
+        "card_name": "Eradicate Energy",
+        "number": 207,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "240"
+    },
+    {
+        "card_name": "Heightened Senses",
+        "number": 264,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "281"
+    },
+    {
+        "card_name": "Rewrite History",
+        "number": 39,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "218"
+    },
+    {
+        "card_name": "Isolation",
+        "number": 95,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "158"
+    },
+    {
+        "card_name": "Hidden Hoard",
+        "number": 153,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "120"
+    },
+    {
+        "card_name": "Gravitic Levitation",
+        "number": 208,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "234"
+    },
+    {
+        "card_name": "Honing the Form",
+        "number": 265,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "289"
+    },
+    {
+        "card_name": "Shield of Chronos",
+        "number": 40,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "207"
+    },
+    {
+        "card_name": "Locate Object",
+        "number": 96,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "159"
+    },
+    {
+        "card_name": "Machine Invisibility",
+        "number": 154,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "121"
+    },
+    {
+        "card_name": "Influence Electricity",
+        "number": 209,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "221"
+    },
+    {
+        "card_name": "Life-Force Assault",
+        "number": 266,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "293"
+    },
+    {
+        "card_name": "Shifting Sands",
+        "number": 41,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "211"
+    },
+    {
+        "card_name": "Lying Maps",
+        "number": 97,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "161"
+    },
+    {
+        "card_name": "Piercing Earth",
+        "number": 155,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "131"
+    },
+    {
+        "card_name": "Invisibility",
+        "number": 210,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "229"
+    },
+    {
+        "card_name": "Lure and Repel",
+        "number": 267,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "285"
+    },
+    {
+        "card_name": "Supernal Prophecy",
+        "number": 43,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "215"
+    },
+    {
+        "card_name": "Perfect Sympathy",
+        "number": 99,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "166"
+    },
+    {
+        "card_name": "Remote Control",
+        "number": 156,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "118"
+    },
+    {
+        "card_name": "Kinetic Blow",
+        "number": 211,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "230"
+    },
+    {
+        "card_name": "Many Faces",
+        "number": 268,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "290"
+    },
+    {
+        "card_name": "Temporal Pocket",
+        "number": 44,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "220"
+    },
+    {
+        "card_name": "Pocket Dimension",
+        "number": 100,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "173"
+    },
+    {
+        "card_name": "Self-Repairing Machine",
+        "number": 157,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "135"
+    },
+    {
+        "card_name": "Kinetic Efficiency",
+        "number": 212,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "222"
+    },
+    {
+        "card_name": "Mutable Mask",
+        "number": 270,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "286"
+    },
+    {
+        "card_name": "Temporal Stutter",
+        "number": 45,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "216"
+    },
+    {
+        "card_name": "Quarantine",
+        "number": 101,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "174"
+    },
+    {
+        "card_name": "Shaping",
+        "number": 158,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "122"
+    },
+    {
+        "card_name": "Rend Friction",
+        "number": 214,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "235"
+    },
+    {
+        "card_name": "Regeneration",
+        "number": 271,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "295"
+    },
+    {
+        "card_name": "Temporal Summoning",
+        "number": 46,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "212"
+    },
+    {
+        "card_name": "Teleportation",
+        "number": 102,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "171"
+    },
+    {
+        "card_name": "Supernal Forging",
+        "number": 159,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "128"
+    },
+    {
+        "card_name": "Seismic Tremors",
+        "number": 215,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "239"
+    },
+    {
+        "card_name": "Salt the Earth",
+        "number": 272,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "299"
+    },
+    {
+        "card_name": "Veil of Moments",
+        "number": 47,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "208"
+    },
+    {
+        "card_name": "Unnaming",
+        "number": 103,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "175"
+    },
+    {
+        "card_name": "Windstrike",
+        "number": 161,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "125"
+    },
+    {
+        "card_name": "Telekinetic Strike",
+        "number": 216,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "232"
+    },
+    {
+        "card_name": "Shapechanging",
+        "number": 273,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "296"
+    },
+    {
+        "card_name": "Weight of Years",
+        "number": 48,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "213"
+    },
+    {
+        "card_name": "Ward",
+        "number": 104,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "163"
+    },
+    {
+        "card_name": "Wonderful Machine",
+        "number": 162,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "130"
+    },
+    {
+        "card_name": "Velocity Control",
+        "number": 219,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "233"
+    },
+    {
+        "card_name": "Transform Life",
+        "number": 275,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "291"
+    },
+    {
+        "card_name": "Atlantean Age",
+        "number": 49,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "93"
+    },
+    {
+        "card_name": "Enceladean Slime",
+        "number": 108,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "28"
+    },
+    {
+        "card_name": "Antimatter Field",
+        "number": 163,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "58"
+    },
+    {
+        "card_name": "Electricity Elemental",
+        "number": 221,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "34"
+    },
+    {
+        "card_name": "Ambrosial Behemoth",
+        "number": 277,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "41"
+    },
+    {
+        "card_name": "Distant Future",
+        "number": 50,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "91"
+    },
+    {
+        "card_name": "Ionian Arcanophage",
+        "number": 109,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "30"
+    },
+    {
+        "card_name": "Autoguardian Mark VI",
+        "number": 164,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "57"
+    },
+    {
+        "card_name": "Gravity Elemental",
+        "number": 222,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "33"
+    },
+    {
+        "card_name": "Bloodpetal Bramble",
+        "number": 278,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "42"
+    },
+    {
+        "card_name": "Leap Second",
+        "number": 51,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "92"
+    },
+    {
+        "card_name": "Mercurian Mantis",
+        "number": 110,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "26"
+    },
+    {
+        "card_name": "Brick Barricade",
+        "number": 165,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "59"
+    },
+    {
+        "card_name": "Heat Elemental",
+        "number": 223,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "35"
+    },
+    {
+        "card_name": "Broodling Mother",
+        "number": 279,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "45"
+    },
+    {
+        "card_name": "Mesozoic Era",
+        "number": 52,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "95"
+    },
+    {
+        "card_name": "Nibiruan Cnidomorph",
+        "number": 111,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "27"
+    },
+    {
+        "card_name": "Crystalline Seal",
+        "number": 166,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "60"
+    },
+    {
+        "card_name": "Light Elemental",
+        "number": 224,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "31"
+    },
+    {
+        "card_name": "Carcinizing Crustacean",
+        "number": 280,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "44"
+    },
+    {
+        "card_name": "Solstice Sunset",
+        "number": 54,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "94"
+    },
+    {
+        "card_name": "Pleiadian Explorer",
+        "number": 112,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "29"
+    },
+    {
+        "card_name": "Surveillance Drone Mark IV",
+        "number": 169,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "56"
+    },
+    {
+        "card_name": "Sonic Elemental",
+        "number": 225,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "32"
+    },
+    {
+        "card_name": "Rampaging Rhinoceros",
+        "number": 283,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "43"
+    },
+    {
+        "card_name": "Arcadian Robes",
+        "number": 57,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "196"
+    },
+    {
+        "card_name": "Pandemonic Casque",
+        "number": 114,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "197"
+    },
+    {
+        "card_name": "Stygian Gauntlet",
+        "number": 171,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "199"
+    },
+    {
+        "card_name": "Aethereal Targe",
+        "number": 228,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "198"
+    },
+    {
+        "card_name": "Primal Longbow",
+        "number": 285,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "200"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Astral Astrolabe",
+        "number": 348,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "259"
+    },
+    {
+        "card_name": "Profane Urim",
+        "number": 352,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "258"
+    },
+    {
+        "card_name": "Scourge of Oblation",
+        "number": 353,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "257"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Abandoned Wending",
+        "number": 332,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "71"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->Supernals",
+    {
+        "card_name": "Capricious Moira",
+        "number": 23,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "23"
+    },
+    {
+        "card_name": "Volatile Moira",
+        "number": 27,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "24"
+    },
+    {
+        "card_name": "Shifting Anachronism",
+        "number": 53,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "241"
+    },
+    {
+        "card_name": "Splitting Anachronism",
+        "number": 55,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "242"
+    },
+    {
+        "card_name": "Noetic Wraith",
+        "number": 83,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "244"
+    },
+    {
+        "card_name": "Psychic Wraith",
+        "number": 84,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "243"
+    },
+    {
+        "card_name": "Disintegrating Spectre",
+        "number": 135,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "245"
+    },
+    {
+        "card_name": "Pernicious Spectre",
+        "number": 138,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "246"
+    },
+    {
+        "card_name": "Resilient Apeiron",
+        "number": 168,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "247"
+    },
+    {
+        "card_name": "Replicating Apeiron",
+        "number": 167,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "248"
+    },
+    {
+        "card_name": "Intransigent Cherub",
+        "number": 198,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "249"
+    },
+    {
+        "card_name": "Exuberant Cherub",
+        "number": 192,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "250"
+    },
+    {
+        "card_name": "Amplifying Seraph",
+        "number": 220,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "251"
+    },
+    {
+        "card_name": "Vengeful Seraph",
+        "number": 226,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "252"
+    },
+    {
+        "card_name": "Barbarous Totem",
+        "number": 249,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "253"
+    },
+    {
+        "card_name": "Rapacious Totem",
+        "number": 254,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "254"
+    },
+    {
+        "card_name": "Flourishing Atavism",
+        "number": 281,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "255"
+    },
+    {
+        "card_name": "Proliferant Atavism",
+        "number": 282,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "256"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->Sleepers",
+    {
+        "card_name": "City Bureaucrat",
+        "number": 318,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "305"
+    },
+    {
+        "card_name": "Corrupt Cop",
+        "number": 319,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "306"
+    },
+    {
+        "card_name": "Martial Artist",
+        "number": 320,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "301"
+    },
+    {
+        "card_name": "Mystery Cult Leader",
+        "number": 321,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "304"
+    },
+    {
+        "card_name": "Punk Vandal",
+        "number": 322,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "309"
+    },
+    {
+        "card_name": "Rummaging Vagrant",
+        "number": 323,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "307"
+    },
+    {
+        "card_name": "Security Guard",
+        "number": 324,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "302"
+    },
+    {
+        "card_name": "Street Thug",
+        "number": 325,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "303"
+    },
+    {
+        "card_name": "Trained Marine",
+        "number": 326,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "300"
+    },
+    {
+        "card_name": "University Professor",
+        "number": 327,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "308"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->Sleepwalkers",
+    {
+        "card_name": "Blessed Retainer",
+        "number": 290,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "310"
+    },
+    {
+        "card_name": "Destined One",
+        "number": 308,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "316"
+    },
+    {
+        "card_name": "Time Traveler",
+        "number": 309,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "312"
+    },
+    {
+        "card_name": "Elite Hacker",
+        "number": 310,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "319"
+    },
+    {
+        "card_name": "Psychic Medium",
+        "number": 311,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "317"
+    },
+    {
+        "card_name": "Brain Donor",
+        "number": 312,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "425"
+    },
+    {
+        "card_name": "Gruesome Graverobber",
+        "number": 313,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "314"
+    },
+    {
+        "card_name": "Paranormal Skeptic",
+        "number": 314,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "318"
+    },
+    {
+        "card_name": "Zealous Interceptor",
+        "number": 315,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "313"
+    },
+    {
+        "card_name": "Willing Test Subject",
+        "number": 316,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "315"
+    },
+    {
+        "card_name": "Xenobiologist",
+        "number": 317,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "311"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->Vampires",
+    {
+        "card_name": "Daeva Acolyte",
+        "number": 294,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "323"
+    },
+    {
+        "card_name": "Gangrel Brawler",
+        "number": 295,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "322"
+    },
+    {
+        "card_name": "Mekhet Secret Trader",
+        "number": 299,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "321"
+    },
+    {
+        "card_name": "Nosferatu Horror",
+        "number": 300,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "320"
+    },
+    {
+        "card_name": "Ventrue Prince",
+        "number": 306,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "324"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->Werewolves",
+    {
+        "card_name": "Blood Talon Ripper",
+        "number": 291,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "331"
+    },
+    {
+        "card_name": "Bone Shadow Binder",
+        "number": 292,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "332"
+    },
+    {
+        "card_name": "Hunter in Darkness",
+        "number": 296,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "333"
+    },
+    {
+        "card_name": "Iron Master Warden",
+        "number": 297,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "334"
+    },
+    {
+        "card_name": "Storm Lord Howler",
+        "number": 303,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "335"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->Changelings",
+    {
+        "card_name": "Autumn Court Elemental",
+        "number": 288,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "326"
+    },
+    {
+        "card_name": "Autumn Court Ogre",
+        "number": 289,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "330"
+    },
+    {
+        "card_name": "Spring Court Beast",
+        "number": 301,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "325"
+    },
+    {
+        "card_name": "Spring Court Fairest",
+        "number": 302,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "328"
+    },
+    {
+        "card_name": "Summer Court Wizened",
+        "number": 304,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "329"
+    },
+    {
+        "card_name": "Winter Court Darkling",
+        "number": 307,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "327"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->Prometheans",
+    {
+        "card_name": "Galateid Muse",
+        "number": 328,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "88"
+    },
+    {
+        "card_name": "Patchwork Wretched",
+        "number": 329,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "89"
+    },
+    {
+        "card_name": "Tammuz Golem",
+        "number": 330,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "90"
+    },
+    {
+        "card_name": "Zeka Monstrosity",
+        "number": 331,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "87"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->Hunters",
+    {
+        "card_name": "Aegis Kai Doru Archivist",
+        "number": 286,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "83"
+    },
+    {
+        "card_name": "Ashwood Abbot",
+        "number": 287,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "86"
+    },
+    {
+        "card_name": "Cheiron Grafter",
+        "number": 293,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "84"
+    },
+    {
+        "card_name": "Lucifuge Descendent",
+        "number": 298,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "82"
+    },
+    {
+        "card_name": "Task Force Commando",
+        "number": 305,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "85"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->Hallows",
+    {
+        "card_name": "Historical Monument",
+        "number": 28,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "72"
+    },
+    {
+        "card_name": "Languid Cul-de-sac",
+        "number": 56,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "73"
+    },
+    {
+        "card_name": "Psionic Skyscraper",
+        "number": 85,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "74"
+    },
+    {
+        "card_name": "Vacant Lot",
+        "number": 113,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "75"
+    },
+    {
+        "card_name": "Desecrated Graveyard",
+        "number": 142,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "76"
+    },
+    {
+        "card_name": "Contaminated Scrapyard",
+        "number": 170,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "77"
+    },
+    {
+        "card_name": "Sacred Temple",
+        "number": 199,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "78"
+    },
+    {
+        "card_name": "Thrumming Substation",
+        "number": 227,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "79"
+    },
+    {
+        "card_name": "Pristine Parkland",
+        "number": 256,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "80"
+    },
+    {
+        "card_name": "Undeveloped Overgrowth",
+        "number": 284,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "81"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Hubris",
+        "number": 4,
+        "shape": "token",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "440"
+    },
+    {
+        "card_name": "Residue of Viirrax",
+        "number": 5,
+        "shape": "token",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "413"
+    },
+    {
+        "card_name": "Wisdom",
+        "number": 6,
+        "shape": "token",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "439"
+    },
+    {
+        "card_name": "Copy",
+        "number": 7,
+        "shape": "token",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "420"
+    },
+    {
+        "card_name": "Scion",
+        "number": 8,
+        "shape": "token",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "415"
+    },
+    {
+        "card_name": "Spawn",
+        "number": 9,
+        "shape": "token",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "414"
+    },
+    {
+        "card_name": "Void",
+        "number": 20,
+        "shape": "token",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "438"
+    },
+    {
+        "card_name": "Assault Rifle",
+        "number": 21,
+        "shape": "token",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "411"
+    },
+    {
+        "card_name": "Blood",
+        "number": 22,
+        "shape": "token",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "419"
+    },
+    {
+        "card_name": "Food",
+        "number": 23,
+        "shape": "token",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "417"
+    },
+    {
+        "card_name": "Junk",
+        "number": 24,
+        "shape": "token",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "416"
+    },
+    {
+        "card_name": "Map",
+        "number": 25,
+        "shape": "token",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "418"
+    },
+    {
+        "card_name": "Tass",
+        "number": 26,
+        "shape": "token",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "401"
+    },
+    {
+        "card_name": "Familiar",
+        "number": 1,
+        "shape": "token",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "403"
+    },
+    {
+        "card_name": "Spirit Avatar",
+        "number": 2,
+        "shape": "token",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "409"
+    },
+    {
+        "card_name": "Spirit Mote",
+        "number": 3,
+        "shape": "token",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "408"
+    },
+    {
+        "card_name": "Dinosaur",
+        "number": 10,
+        "shape": "token",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "406"
+    },
+    {
+        "card_name": "Insect",
+        "number": 11,
+        "shape": "token",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "404"
+    },
+    {
+        "card_name": "Mouse",
+        "number": 12,
+        "shape": "token",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "405"
+    },
+    {
+        "card_name": "Nightmare Copy",
+        "number": 13,
+        "shape": "token",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "407"
+    },
+    {
+        "card_name": "Ooze",
+        "number": 14,
+        "shape": "token",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "421"
+    },
+    {
+        "card_name": "Vampire",
+        "number": 15,
+        "shape": "token",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "424"
+    },
+    {
+        "card_name": "Illusion Copy",
+        "number": 16,
+        "shape": "token",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "423"
+    },
+    {
+        "card_name": "Spider",
+        "number": 17,
+        "shape": "token",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "410"
+    },
+    {
+        "card_name": "Human Sleeper Cult",
+        "number": 18,
+        "shape": "token",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "402"
+    },
+    {
+        "card_name": "Human Sleeper Rogue",
+        "number": 19,
+        "shape": "token",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "412"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->Abyss Deck",
+    {
+        "card_name": "Abyssal Backlash",
+        "number": 361,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "341"
+    },
+    {
+        "card_name": "Abyssal Blight",
+        "number": 362,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "378"
+    },
+    {
+        "card_name": "Abyssal Drain",
+        "number": 363,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "379"
+    },
+    {
+        "card_name": "Abyssal Pox",
+        "number": 364,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "377"
+    },
+    {
+        "card_name": "Abyssal Rebuke",
+        "number": 365,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "342"
+    },
+    {
+        "card_name": "Abyssal Shock",
+        "number": 366,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "343"
+    },
+    {
+        "card_name": "Abyssal Wave",
+        "number": 367,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "359"
+    },
+    {
+        "card_name": "Annuledes, Veiled Unthing",
+        "number": 368,
+        "shape": "leveler",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "380"
+    },
+    {
+        "card_name": "Cerebral Dissonance",
+        "number": 369,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "361"
+    },
+    {
+        "card_name": "Cognitive Dissonance",
+        "number": 370,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "360"
+    },
+    {
+        "card_name": "Creeping End",
+        "number": 371,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "350"
+    },
+    {
+        "card_name": "Deletion",
+        "number": 372,
+        "shape": "battle split",
+        "set": "MtAw",
+        "rotated": true,
+        "position": "387"
+    },
+    {
+        "card_name": "Dorrarech, Soul Drinker",
+        "number": 373,
+        "shape": "leveler",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "376"
+    },
+    {
+        "card_name": "Engraneg, Thrice Nothing",
+        "number": 374,
+        "shape": "leveler",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "368"
+    },
+    {
+        "card_name": "Essence Inversion",
+        "number": 375,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "388"
+    },
+    {
+        "card_name": "Expose Soul",
+        "number": 376,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "383"
+    },
+    {
+        "card_name": "Faulty Imago",
+        "number": 377,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "357"
+    },
+    {
+        "card_name": "Flawed Imago",
+        "number": 378,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "362"
+    },
+    {
+        "card_name": "Fwdre, Viral Assertion",
+        "number": 379,
+        "shape": "leveler",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "384"
+    },
+    {
+        "card_name": "Goroldoth, Marrow Borrower",
+        "number": 380,
+        "shape": "leveler",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "385"
+    },
+    {
+        "card_name": "Idea Infection",
+        "number": 381,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "393"
+    },
+    {
+        "card_name": "Irrememberance",
+        "number": 382,
+        "shape": "battle split",
+        "set": "MtAw",
+        "rotated": true,
+        "position": "381"
+    },
+    {
+        "card_name": "Ixa, Recursive Void",
+        "number": 383,
+        "shape": "leveler",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "367"
+    },
+    {
+        "card_name": "Kurkemach, Hastened End",
+        "number": 384,
+        "shape": "leveler",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "365"
+    },
+    {
+        "card_name": "Mental Aberration",
+        "number": 385,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "344"
+    },
+    {
+        "card_name": "Mental Anomaly",
+        "number": 386,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "345"
+    },
+    {
+        "card_name": "Mental Flush",
+        "number": 387,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "392"
+    },
+    {
+        "card_name": "Mental Regression",
+        "number": 388,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "346"
+    },
+    {
+        "card_name": "Narrowing",
+        "number": 389,
+        "shape": "battle split",
+        "set": "MtAw",
+        "rotated": true,
+        "position": "370"
+    },
+    {
+        "card_name": "Nimbus Fragment",
+        "number": 390,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "373"
+    },
+    {
+        "card_name": "Nimbus Shard",
+        "number": 391,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "374"
+    },
+    {
+        "card_name": "Nimbus Shrapnel",
+        "number": 392,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "375"
+    },
+    {
+        "card_name": "Noalmaunun, Moment Eater",
+        "number": 393,
+        "shape": "leveler",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "369"
+    },
+    {
+        "card_name": "Nothingness",
+        "number": 394,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "358"
+    },
+    {
+        "card_name": "Nr\u00f4rn, Truth Denied",
+        "number": 395,
+        "shape": "leveler",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "390"
+    },
+    {
+        "card_name": "Null Resonance",
+        "number": 396,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "353"
+    },
+    {
+        "card_name": "Oracle's Will",
+        "number": 397,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "386"
+    },
+    {
+        "card_name": "Oun, Bifurcation D\u00e6mon",
+        "number": 398,
+        "shape": "leveler",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "391"
+    },
+    {
+        "card_name": "Prince of 100,000 Leaves",
+        "number": 399,
+        "shape": "battle split",
+        "set": "MtAw",
+        "rotated": true,
+        "position": "371"
+    },
+    {
+        "card_name": "Reality Decay",
+        "number": 400,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "355"
+    },
+    {
+        "card_name": "Reality Erasure",
+        "number": 401,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "354"
+    },
+    {
+        "card_name": "Reality Erosion",
+        "number": 402,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "356"
+    },
+    {
+        "card_name": "Seeping End",
+        "number": 403,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "351"
+    },
+    {
+        "card_name": "Soul Nullifier",
+        "number": 404,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "382"
+    },
+    {
+        "card_name": "Spraxedar's Soul",
+        "number": 405,
+        "shape": "battle split",
+        "set": "MtAw",
+        "rotated": true,
+        "position": "364"
+    },
+    {
+        "card_name": "Supervene Reality",
+        "number": 406,
+        "shape": "battle split",
+        "set": "MtAw",
+        "rotated": true,
+        "position": "372"
+    },
+    {
+        "card_name": "Thought Drought",
+        "number": 407,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "389"
+    },
+    {
+        "card_name": "Viirrax, Imago Collapse",
+        "number": 408,
+        "shape": "leveler",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "394"
+    },
+    {
+        "card_name": "Void Bubble",
+        "number": 409,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "348"
+    },
+    {
+        "card_name": "Void Episode",
+        "number": 410,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "349"
+    },
+    {
+        "card_name": "Void Pocket",
+        "number": 411,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "347"
+    },
+    {
+        "card_name": "Voidwrought Reckoning",
+        "number": 412,
+        "shape": "battle split",
+        "set": "MtAw",
+        "rotated": true,
+        "position": "363"
+    },
+    {
+        "card_name": "Weeping End",
+        "number": 413,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "352"
+    },
+    {
+        "card_name": "Yytromox, from Without",
+        "number": 414,
+        "shape": "leveler",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "395"
+    },
+    {
+        "card_name": "Inviolate Substance",
+        "number": 415,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "366"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]
