@@ -2165,6 +2165,112 @@
     {
         "card_name": "er"
     },
+    "a->Orders",
+    {
+        "card_name": "The Adamantine Arrow",
+        "number": 333,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "61"
+    },
+    {
+        "card_name": "The Free Council",
+        "number": 338,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "63"
+    },
+    {
+        "card_name": "The Guardians of the Veil",
+        "number": 339,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "64"
+    },
+    {
+        "card_name": "The Mysterium",
+        "number": 342,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "65"
+    },
+    {
+        "card_name": "The Silver Ladder",
+        "number": 347,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "62"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->Clues",
+    {
+        "card_name": "Guardian Memento",
+        "number": 349,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "69"
+    },
+    {
+        "card_name": "Libertine Invitation",
+        "number": 350,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "68"
+    },
+    {
+        "card_name": "Mystagogue Trinket",
+        "number": 351,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "70"
+    },
+    {
+        "card_name": "Talon Medal",
+        "number": 354,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "66"
+    },
+    {
+        "card_name": "Th\u00e9arch Badge",
+        "number": 355,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "67"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
     "a->Supernals",
     {
         "card_name": "Capricious Moira",
@@ -2904,6 +3010,152 @@
         "set": "MtAw",
         "rotated": false,
         "position": "81"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->Merits",
+    {
+        "card_name": "Bibliotheca Occulta",
+        "number": 334,
+        "shape": "class",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "426"
+    },
+    {
+        "card_name": "Consilium Convocation",
+        "number": 335,
+        "shape": "class",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "429"
+    },
+    {
+        "card_name": "Dining District",
+        "number": 336,
+        "shape": "class",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "428"
+    },
+    {
+        "card_name": "Familiar Merit",
+        "number": 337,
+        "shape": "class",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "425"
+    },
+    {
+        "card_name": "Mob Hideout",
+        "number": 340,
+        "shape": "class",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "430"
+    },
+    {
+        "card_name": "Municipal Center",
+        "number": 341,
+        "shape": "class",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "427"
+    },
+    {
+        "card_name": "News Outlet",
+        "number": 343,
+        "shape": "class",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "431"
+    },
+    {
+        "card_name": "Precinct Headquarters",
+        "number": 344,
+        "shape": "class",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "432"
+    },
+    {
+        "card_name": "Sanctum Sanctorum",
+        "number": 345,
+        "shape": "class",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "433"
+    },
+    {
+        "card_name": "Sanitation Plant",
+        "number": 346,
+        "shape": "class",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "434"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->Watchtowers",
+    {
+        "card_name": "Watchtower of the Golden Key",
+        "number": 356,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "400"
+    },
+    {
+        "card_name": "Watchtower of the Iron Gauntlet",
+        "number": 357,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "397"
+    },
+    {
+        "card_name": "Watchtower of the Lead Coin",
+        "number": 358,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "398"
+    },
+    {
+        "card_name": "Watchtower of the Lunargent Thorn",
+        "number": 359,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "396"
+    },
+    {
+        "card_name": "Watchtower of the Singing Stone",
+        "number": 360,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "399"
     },
     {
         "card_name": "er"

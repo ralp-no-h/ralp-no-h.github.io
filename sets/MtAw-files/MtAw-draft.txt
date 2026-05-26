@@ -4439,11 +4439,6 @@
 	1 Thrumming Substation
 	1 Pristine Parkland
 	1 Undeveloped Overgrowth
-	1 Watchtower of the Lunargent Thorn
-	1 Watchtower of the Iron Gauntlet
-	1 Watchtower of the Lead Coin
-	1 Watchtower of the Singing Stone
-	1 Watchtower of the Golden Key
 	1 Familiar Merit
 	1 Bibliotheca Occulta
 	1 Municipal Center

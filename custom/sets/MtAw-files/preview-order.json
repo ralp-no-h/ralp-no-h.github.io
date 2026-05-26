@@ -13,6 +13,8 @@
 	{ "cards":  [ "WBL", "URL", "BGL", "RWL", "GUL" ] },
 	{ "cards":  [ "L" ] },
 	{ "cards":  [ "basic" ] },
+	{ "cards": ["!group order"], "title": "Orders" },
+	{ "cards": ["!group ordercycler"], "title": "Clues" },
 	{ "cards": ["!group supernal2m", "!group supernal3m"], "title": "Supernals" },
 	{ "cards": ["!group sleeper"], "title": "Sleepers" },
 	{ "cards": ["!group sleepwalker"], "title": "Sleepwalkers" },
@@ -22,6 +24,8 @@
 	{ "cards": ["!group promethean"], "title": "Prometheans" },
 	{ "cards": ["!group hunter"], "title": "Hunters" },
 	{ "cards": ["!group hallow"], "title": "Hallows" },
+	{ "cards": ["!group merit"], "title": "Merits" },
+	{ "cards": ["!group watchtower"], "title": "Watchtowers" },
 	{ "title": "token", "cards":  [ "token" ] },
 	{ "cards": ["!group abyss"], "title": "Abyss Deck" }
 ]
