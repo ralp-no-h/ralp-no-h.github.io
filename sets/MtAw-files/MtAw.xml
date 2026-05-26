@@ -218,7 +218,7 @@ III — Destroy target enchantment, then Atonement deals damage to each opponent
 		<card>
 			<name>Chaos Mastery</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
-When you cast this spell, gain 3 Wisdom.
+When you cast this spell, gain 2 Wisdom.
 I, II, III, IV — Scry X, draw a card, then shuffle, where X is the number of lore counters on Chaos Mastery.
 ​</text>
 			<set rarity="rare" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/11.jpg" num="3">MtAw</set>
@@ -1997,7 +1997,7 @@ Flashback {3}{B}{hazard.png}{hazard.png} (You may cast this card from your grave
 		</card>
 		<card>
 			<name>Unearth Revenant</name>
-			<text>When you cast this spell from your graveyard, gain 3 Wisdom.
+			<text>When you cast this spell from your graveyard, gain 2 Wisdom.
 Return target creature card from your graveyard to the battlefield.
 Flashback {hazard.png}{hazard.png}, Pay life equal to the card&apos;s mana value. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
 			<set rarity="rare" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/110.jpg" num="133">MtAw</set>
@@ -2386,7 +2386,7 @@ Target creature without flying loses indestructible until end of turn. Piercing 
 		</card>
 		<card>
 			<name>Transubstantiation</name>
-			<text>When you cast this spell, gain 3 Wisdom.
+			<text>When you cast this spell, gain 2 Wisdom.
 Each of up to twice X target artifacts you control becomes a 3/3 Construct artifact creature until your next turn.</text>
 			<set rarity="rare" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/132.jpg" num="160">MtAw</set>
 			<prop>
@@ -2717,7 +2717,7 @@ Madness {3}{U}{U}{hazard.png}, Pay X life.</text>
 		</card>
 		<card>
 			<name>Hallucination</name>
-			<text>When you cast this spell, gain 3 Wisdom.
+			<text>When you cast this spell, gain 2 Wisdom.
 Enchant creature
 You control enchanted creature. It&apos;s a Nightmare in addition to its other types.
 Whenever a creature an opponent controls enters, attach this Aura to that creature.</text>
@@ -2998,7 +2998,7 @@ Until end of turn, spells and abilities you cast or activate that target one or 
 		<card>
 			<name>Warp</name>
 			<text>This spell costs {U}{hazard.png} less to cast if it targets a permanent you control.
-When you cast this spell, gain 3 Wisdom.
+When you cast this spell, gain 2 Wisdom.
 Return target nonland permanent to its owner&apos;s hand. Warp deals damage to another target creature equal to that permanent&apos;s mana value.</text>
 			<set rarity="rare" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/167.jpg" num="105">MtAw</set>
 			<prop>
@@ -3385,7 +3385,7 @@ Entwine {R}{R}</text>
 		</card>
 		<card>
 			<name>Destroy Tass</name>
-			<text>When you cast this spell, gain 3 Wisdom.
+			<text>When you cast this spell, gain 2 Wisdom.
 Sacrifice any number of Tass, then destroy all Tass.
 Channel — {R}, Sacrifice a Tass, Discard this card: Draw a card.</text>
 			<set rarity="rare" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/189.jpg" num="177">MtAw</set>
@@ -3836,7 +3836,7 @@ When you sacrifice Weight of Years, you gain life equal to the number of age cou
 		</card>
 		<card>
 			<name>Present as Past</name>
-			<text>When you cast this spell, gain 3 Wisdom.
+			<text>When you cast this spell, gain 2 Wisdom.
 Return each card that entered your graveyard this turn to your hand. Each permanent that entered this turn phases out. (Treat them and anything attached to them as though they don&apos;t exist until their controller&apos;s next turn.)</text>
 			<set rarity="rare" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/214.jpg" num="38">MtAw</set>
 			<prop>
@@ -4210,7 +4210,7 @@ If a source would deal combat damage to you or a permanent you control, prevent 
 		</card>
 		<card>
 			<name>Transform Energy</name>
-			<text>When you cast this spell, gain 3 Wisdom.
+			<text>When you cast this spell, gain 2 Wisdom.
 Counter target noncreature spell. Transform Energy deals damage equal to the mana value of that spell to that spell&apos;s controller.</text>
 			<set rarity="rare" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/236.jpg" num="217">MtAw</set>
 			<prop>
@@ -4919,7 +4919,7 @@ Enchanted creature can&apos;t attack or block, and its controller can&apos;t act
 		</card>
 		<card>
 			<name>Twilit Body</name>
-			<text>When you cast this spell, gain 3 Wisdom.
+			<text>When you cast this spell, gain 2 Wisdom.
 Choose one or both —
 • Target non-Human creature gains shadow until end of turn. (That creature can block or be blocked by only creatures with shadow.)
 • Target non-Human creature loses shadow until end of turn.</text>
@@ -5225,7 +5225,7 @@ Overload {3}{G}{G}{hazard.png}{hazard.png} (You may cast this spell for its over
 		</card>
 		<card>
 			<name>Mend</name>
-			<text>When you cast this spell, gain 3 Wisdom.
+			<text>When you cast this spell, gain 2 Wisdom.
 Prevent all combat damage that would be dealt this turn. You gain 1 life for each attacking creature.</text>
 			<set rarity="rare" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/294.jpg" num="269">MtAw</set>
 			<prop>
@@ -7388,8 +7388,8 @@ Creatures entering or leaving the battlefield don&apos;t cause abilities of perm
 				<side>front</side>
 				<type>Creature — Human Sleepwalker Artificer</type>
 				<maintype>Creature</maintype>
-				<manacost>B</manacost>
-				<cmc>1</cmc>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>WUBRG</coloridentity>
 				<pt>1/1</pt>

@@ -246,10 +246,10 @@
             "number": 3,
             "color_identity": "W",
             "cost": "{2}{W}{W}{hazard.png}{hazard.png}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nWhen you cast this spell, gain 3 Wisdom.\nI, II, III, IV \u2014 Scry X, draw a card, then shuffle, where X is the number of lore counters on Chaos Mastery.\n\u200b",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nWhen you cast this spell, gain 2 Wisdom.\nI, II, III, IV \u2014 Scry X, draw a card, then shuffle, where X is the number of lore counters on Chaos Mastery.\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nWhen you cast this spell, gain 3 Wisdom.\nI, II, III, IV \u2014 Scry X, draw a card, then shuffle, where X is the number of lore counters on Chaos Mastery.\n\u200b",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nWhen you cast this spell, gain 2 Wisdom.\nI, II, III, IV \u2014 Scry X, draw a card, then shuffle, where X is the number of lore counters on Chaos Mastery.\n\u200b",
             "shape": "saga",
             "set": "MtAw",
             "loyalty": "",
@@ -1412,7 +1412,7 @@
             "alias": "",
             "position": "66",
             "rotated": false,
-            "notes": ""
+            "notes": "!group ordercycler"
         },
         {
             "card_name": "Th\u00e9arch Badge",
@@ -1433,7 +1433,7 @@
             "alias": "",
             "position": "67",
             "rotated": false,
-            "notes": ""
+            "notes": "!group ordercycler"
         },
         {
             "card_name": "Libertine Invitation",
@@ -1454,7 +1454,7 @@
             "alias": "",
             "position": "68",
             "rotated": false,
-            "notes": ""
+            "notes": "!group ordercycler"
         },
         {
             "card_name": "Guardian Memento",
@@ -1475,7 +1475,7 @@
             "alias": "",
             "position": "69",
             "rotated": false,
-            "notes": ""
+            "notes": "!group ordercycler"
         },
         {
             "card_name": "Mystagogue Trinket",
@@ -1496,7 +1496,7 @@
             "alias": "",
             "position": "70",
             "rotated": false,
-            "notes": ""
+            "notes": "!group ordercycler"
         },
         {
             "card_name": "Abandoned Wending",
@@ -2325,7 +2325,7 @@
             "number": 133,
             "color_identity": "B",
             "cost": "{B}{B}{B}{hazard.png}{hazard.png}",
-            "rules_text": "When you cast this spell from your graveyard, gain 3 Wisdom.\nReturn target creature card from your graveyard to the battlefield.\nFlashback {hazard.png}{hazard.png}, Pay life equal to the card's mana value. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]",
+            "rules_text": "When you cast this spell from your graveyard, gain 2 Wisdom.\nReturn target creature card from your graveyard to the battlefield.\nFlashback {hazard.png}{hazard.png}, Pay life equal to the card's mana value. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2787,7 +2787,7 @@
             "number": 160,
             "color_identity": "B",
             "cost": "{X}{B}{B}{hazard.png}{hazard.png}",
-            "rules_text": "When you cast this spell, gain 3 Wisdom.\nEach of up to twice X target artifacts you control becomes a 3/3 Construct artifact creature until your next turn.",
+            "rules_text": "When you cast this spell, gain 2 Wisdom.\nEach of up to twice X target artifacts you control becomes a 3/3 Construct artifact creature until your next turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3186,7 +3186,7 @@
             "number": 60,
             "color_identity": "U",
             "cost": "{2}{U}{U}{hazard.png}{hazard.png}",
-            "rules_text": "When you cast this spell, gain 3 Wisdom.\nEnchant creature\nYou control enchanted creature. It's a Nightmare in addition to its other types.\nWhenever a creature an opponent controls enters, attach this Aura to that creature.",
+            "rules_text": "When you cast this spell, gain 2 Wisdom.\nEnchant creature\nYou control enchanted creature. It's a Nightmare in addition to its other types.\nWhenever a creature an opponent controls enters, attach this Aura to that creature.",
             "flavor_text": "[i]\u201cWhen you see me again, it won't be me.\u201d\n\u2014The Man from Another Place[/i]",
             "pt": "",
             "special_text": "",
@@ -3522,7 +3522,7 @@
             "number": 105,
             "color_identity": "U",
             "cost": "{1}{U}{U}{hazard.png}",
-            "rules_text": "This spell costs {U}{hazard.png} less to cast if it targets a permanent you control.\nWhen you cast this spell, gain 3 Wisdom.\nReturn target nonland permanent to its owner's hand. Warp deals damage to another target creature equal to that permanent's mana value.",
+            "rules_text": "This spell costs {U}{hazard.png} less to cast if it targets a permanent you control.\nWhen you cast this spell, gain 2 Wisdom.\nReturn target nonland permanent to its owner's hand. Warp deals damage to another target creature equal to that permanent's mana value.",
             "flavor_text": "[i]\u201cLet's see what's out there. Engage!\u201d[/i]",
             "pt": "",
             "special_text": "",
@@ -3984,7 +3984,7 @@
             "number": 177,
             "color_identity": "R",
             "cost": "{1}{R}{hazard.png}{hazard.png}",
-            "rules_text": "When you cast this spell, gain 3 Wisdom.\nSacrifice any number of Tass, then destroy all Tass.\n[i]Channel[/i] \u2014 {R}, Sacrifice a Tass, Discard this card: Draw a card.",
+            "rules_text": "When you cast this spell, gain 2 Wisdom.\nSacrifice any number of Tass, then destroy all Tass.\n[i]Channel[/i] \u2014 {R}, Sacrifice a Tass, Discard this card: Draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4509,7 +4509,7 @@
             "number": 38,
             "color_identity": "W",
             "cost": "{1}{W}{W}{hazard.png}{hazard.png}",
-            "rules_text": "When you cast this spell, gain 3 Wisdom.\nReturn each card that entered your graveyard this turn to your hand. Each permanent that entered this turn phases out. [i](Treat them and anything attached to them as though they don't exist until their controller's next turn.)[/i]",
+            "rules_text": "When you cast this spell, gain 2 Wisdom.\nReturn each card that entered your graveyard this turn to your hand. Each permanent that entered this turn phases out. [i](Treat them and anything attached to them as though they don't exist until their controller's next turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4971,7 +4971,7 @@
             "number": 217,
             "color_identity": "R",
             "cost": "{1}{R}{R}{hazard.png}{hazard.png}",
-            "rules_text": "When you cast this spell, gain 3 Wisdom.\nCounter target noncreature spell. Transform Energy deals damage equal to the mana value of that spell to that spell's controller.",
+            "rules_text": "When you cast this spell, gain 2 Wisdom.\nCounter target noncreature spell. Transform Energy deals damage equal to the mana value of that spell to that spell's controller.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5811,7 +5811,7 @@
             "number": 248,
             "color_identity": "G",
             "cost": "{G}{hazard.png}{hazard.png}",
-            "rules_text": "When you cast this spell, gain 3 Wisdom.\nChoose one or both \u2014\n\u2022 Target non-Human creature gains shadow until end of turn. [i](That creature can block or be blocked by only creatures with shadow.)[/i]\n\u2022 Target non-Human creature loses shadow until end of turn.",
+            "rules_text": "When you cast this spell, gain 2 Wisdom.\nChoose one or both \u2014\n\u2022 Target non-Human creature gains shadow until end of turn. [i](That creature can block or be blocked by only creatures with shadow.)[/i]\n\u2022 Target non-Human creature loses shadow until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -6189,7 +6189,7 @@
             "number": 269,
             "color_identity": "G",
             "cost": "{G}{G}{hazard.png}{hazard.png}",
-            "rules_text": "When you cast this spell, gain 3 Wisdom.\nPrevent all combat damage that would be dealt this turn. You gain 1 life for each attacking creature.",
+            "rules_text": "When you cast this spell, gain 2 Wisdom.\nPrevent all combat damage that would be dealt this turn. You gain 1 life for each attacking creature.",
             "flavor_text": "[i]\u201cHealing is a matter of time, but it is sometimes also a matter of opportunity.\u201d\n\u2014Hippocrates[/i]",
             "pt": "",
             "special_text": "",
@@ -8939,7 +8939,7 @@
             "type": "Creature \u2014 Human Sleepwalker Artificer",
             "number": 312,
             "color_identity": "WUBRG",
-            "cost": "{B}",
+            "cost": "{1}{B}",
             "rules_text": "If Brain Donor would be destroyed and it isn't an artifact, instead remove all damage from it and it becomes a 3/3 Human Sleepwalker Robot artifact creature.",
             "flavor_text": "[i]\u201cThere's no point in making just another person. You want to make one that can do things we can't.\u201d \u2014Marvin Minsky[/i]",
             "pt": "1/1",
@@ -9269,5 +9269,5 @@
             "notes": ""
         }
     ],
-    "version": 7
+    "version": 9
 }

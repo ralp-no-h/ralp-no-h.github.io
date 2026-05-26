@@ -1,0 +1,14 @@
+[
+	{ "cards": ["magesight"], "title": "Magesight" },
+	{ "cards": ["", "c2w", "c3w"] },
+	{ "cards": ["supernal2m", "supernal3m"], "title": "Supernals" },
+	{ "cards": ["sleeper"], "title": "Sleepers" },
+	{ "cards": ["sleepwalker"], "title": "Sleepwalkers" },
+	{ "cards": ["vampire"], "title": "Vampires" },
+	{ "cards": ["werewolf"], "title": "Werewolves" },
+	{ "cards": ["changeling"], "title": "Changelings" },
+	{ "cards": ["promethean"], "title": "Prometheans" },
+	{ "cards": ["hunter"], "title": "Hunters" },
+	{ "cards": ["hallow"], "title": "Hallows" },
+	{ "cards": ["abyss"], "title": "Abyss Deck" }
+]

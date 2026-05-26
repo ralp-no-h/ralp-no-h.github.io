@@ -1,4 +1,108 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+
+
+Interconnections
+
+Chaos Mastery
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+When you cast this spell, gain 3 Wisdom.
+I, II, III, IV — Scry X, draw a card, then shuffle, where X is the number of lore counters on Chaos Mastery.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+When you cast this spell, gain 2 Wisdom.
+I, II, III, IV — Scry X, draw a card, then shuffle, where X is the number of lore counters on Chaos Mastery.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+When you cast this spell, gain 3 Wisdom.
+I, II, III, IV — Scry X, draw a card, then shuffle, where X is the number of lore counters on Chaos Mastery.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+When you cast this spell, gain 2 Wisdom.
+I, II, III, IV — Scry X, draw a card, then shuffle, where X is the number of lore counters on Chaos Mastery.
+​
+
+Talon Medal
+
+Théarch Badge
+
+Libertine Invitation
+
+Guardian Memento
+
+Mystagogue Trinket
+
+Unearth Revenant
+rules_text: When you cast this spell from your graveyard, gain 3 Wisdom.
+Return target creature card from your graveyard to the battlefield.
+Flashback {hazard.png}{hazard.png}, Pay life equal to the card's mana value. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => When you cast this spell from your graveyard, gain 2 Wisdom.
+Return target creature card from your graveyard to the battlefield.
+Flashback {hazard.png}{hazard.png}, Pay life equal to the card's mana value. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Transubstantiation
+rules_text: When you cast this spell, gain 3 Wisdom.
+Each of up to twice X target artifacts you control becomes a 3/3 Construct artifact creature until your next turn. => When you cast this spell, gain 2 Wisdom.
+Each of up to twice X target artifacts you control becomes a 3/3 Construct artifact creature until your next turn.
+
+Hallucination
+rules_text: When you cast this spell, gain 3 Wisdom.
+Enchant creature
+You control enchanted creature. It's a Nightmare in addition to its other types.
+Whenever a creature an opponent controls enters, attach this Aura to that creature. => When you cast this spell, gain 2 Wisdom.
+Enchant creature
+You control enchanted creature. It's a Nightmare in addition to its other types.
+Whenever a creature an opponent controls enters, attach this Aura to that creature.
+
+Warp
+rules_text: This spell costs {U}{hazard.png} less to cast if it targets a permanent you control.
+When you cast this spell, gain 3 Wisdom.
+Return target nonland permanent to its owner's hand. Warp deals damage to another target creature equal to that permanent's mana value. => This spell costs {U}{hazard.png} less to cast if it targets a permanent you control.
+When you cast this spell, gain 2 Wisdom.
+Return target nonland permanent to its owner's hand. Warp deals damage to another target creature equal to that permanent's mana value.
+
+Destroy Tass
+rules_text: When you cast this spell, gain 3 Wisdom.
+Sacrifice any number of Tass, then destroy all Tass.
+[i]Channel[/i] — {R}, Sacrifice a Tass, Discard this card: Draw a card. => When you cast this spell, gain 2 Wisdom.
+Sacrifice any number of Tass, then destroy all Tass.
+[i]Channel[/i] — {R}, Sacrifice a Tass, Discard this card: Draw a card.
+
+Present as Past
+rules_text: When you cast this spell, gain 3 Wisdom.
+Return each card that entered your graveyard this turn to your hand. Each permanent that entered this turn phases out. [i](Treat them and anything attached to them as though they don't exist until their controller's next turn.)[/i] => When you cast this spell, gain 2 Wisdom.
+Return each card that entered your graveyard this turn to your hand. Each permanent that entered this turn phases out. [i](Treat them and anything attached to them as though they don't exist until their controller's next turn.)[/i]
+
+Transform Energy
+rules_text: When you cast this spell, gain 3 Wisdom.
+Counter target noncreature spell. Transform Energy deals damage equal to the mana value of that spell to that spell's controller. => When you cast this spell, gain 2 Wisdom.
+Counter target noncreature spell. Transform Energy deals damage equal to the mana value of that spell to that spell's controller.
+
+Twilit Body
+rules_text: When you cast this spell, gain 3 Wisdom.
+Choose one or both —
+• Target non-Human creature gains shadow until end of turn. [i](That creature can block or be blocked by only creatures with shadow.)[/i]
+• Target non-Human creature loses shadow until end of turn. => When you cast this spell, gain 2 Wisdom.
+Choose one or both —
+• Target non-Human creature gains shadow until end of turn. [i](That creature can block or be blocked by only creatures with shadow.)[/i]
+• Target non-Human creature loses shadow until end of turn.
+
+Mend
+rules_text: When you cast this spell, gain 3 Wisdom.
+Prevent all combat damage that would be dealt this turn. You gain 1 life for each attacking creature. => When you cast this spell, gain 2 Wisdom.
+Prevent all combat damage that would be dealt this turn. You gain 1 life for each attacking creature.
+
+Brain Donor
+cost: {B} => {1}{B}
+
+
+VERSION 8 CHANGELOG
+====================
+
+
+
+Interconnections
+
+
+VERSION 7 CHANGELOG
 ====================
 
 No changes.

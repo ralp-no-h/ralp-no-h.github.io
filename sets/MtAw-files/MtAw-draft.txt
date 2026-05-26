@@ -4253,7 +4253,7 @@
 		{
 			"name": "Brain Donor",
 			"rarity": "special",
-			"mana_cost": "{B}",
+			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Sleepwalker Artificer",
 			"collector_number": "312",
 			"image_uris": {
