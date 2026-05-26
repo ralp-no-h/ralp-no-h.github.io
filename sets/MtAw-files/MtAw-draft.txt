@@ -4015,7 +4015,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Tass",
-			"collector_number": "26",
+			"collector_number": "23",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/401.jpg"
 			}
@@ -4025,7 +4025,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Human Sleeper Cult",
-			"collector_number": "18",
+			"collector_number": "13",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/402.jpg"
 			}
@@ -4035,7 +4035,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Legendary Spirit Creature — Familiar",
-			"collector_number": "1",
+			"collector_number": "3",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/403.jpg"
 			}
@@ -4045,7 +4045,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Insect",
-			"collector_number": "11",
+			"collector_number": "6",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/404.jpg"
 			}
@@ -4055,7 +4055,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Mouse",
-			"collector_number": "12",
+			"collector_number": "7",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/405.jpg"
 			}
@@ -4065,39 +4065,29 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Dinosaur",
-			"collector_number": "10",
+			"collector_number": "5",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/406.jpg"
 			}
 		},
 		{
-			"name": "Nightmare Copy",
+			"name": "Nightmare",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Enchantment Creature — Nightmare",
-			"collector_number": "13",
+			"collector_number": "8",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/407.jpg"
 			}
 		},
 		{
-			"name": "Spirit Mote",
+			"name": "Mote",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Spirit Creature — Mote",
-			"collector_number": "3",
+			"collector_number": "4",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/408.jpg"
-			}
-		},
-		{
-			"name": "Spirit Avatar",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Spirit Creature — Avatar",
-			"collector_number": "2",
-			"image_uris": {
-				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/409.jpg"
 			}
 		},
 		{
@@ -4105,9 +4095,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Spider",
-			"collector_number": "17",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/410.jpg"
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/409.jpg"
 			}
 		},
 		{
@@ -4115,9 +4105,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Equipment",
-			"collector_number": "21",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/411.jpg"
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/410.jpg"
 			}
 		},
 		{
@@ -4125,9 +4115,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Human Sleeper Rogue",
-			"collector_number": "19",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/412.jpg"
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/411.jpg"
 			}
 		},
 		{
@@ -4135,9 +4125,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Enchantment",
-			"collector_number": "5",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/413.jpg"
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/412.jpg"
 			}
 		},
 		{
@@ -4145,9 +4135,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Spawn",
-			"collector_number": "9",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/414.jpg"
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/413.jpg"
 			}
 		},
 		{
@@ -4155,9 +4145,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Scion",
-			"collector_number": "8",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/415.jpg"
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/414.jpg"
 			}
 		},
 		{
@@ -4165,9 +4155,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Junk",
-			"collector_number": "24",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/416.jpg"
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/415.jpg"
 			}
 		},
 		{
@@ -4175,9 +4165,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Food",
-			"collector_number": "23",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/417.jpg"
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/416.jpg"
 			}
 		},
 		{
@@ -4185,9 +4175,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Map",
-			"collector_number": "25",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/418.jpg"
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/417.jpg"
 			}
 		},
 		{
@@ -4195,9 +4185,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Blood",
-			"collector_number": "22",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/419.jpg"
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/418.jpg"
 			}
 		},
 		{
@@ -4205,9 +4195,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token",
-			"collector_number": "7",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/420.jpg"
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/419.jpg"
 			}
 		},
 		{
@@ -4215,9 +4205,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Ooze",
-			"collector_number": "14",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/421.jpg"
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/420.jpg"
 			}
 		},
 		{
@@ -4227,17 +4217,17 @@
 			"type": "Fate Enchantment — Class",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/422.jpg"
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/421.jpg"
 			}
 		},
 		{
-			"name": "Illusion Copy",
+			"name": "Illusion",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Illusion",
-			"collector_number": "16",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/423.jpg"
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/422.jpg"
 			}
 		},
 		{
@@ -4245,9 +4235,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Vampire",
-			"collector_number": "15",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/424.jpg"
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/423.jpg"
 			}
 		},
 		{
@@ -4257,7 +4247,7 @@
 			"type": "Creature — Human Sleepwalker Artificer",
 			"collector_number": "312",
 			"image_uris": {
-				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/425.jpg"
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/424.jpg"
 			}
 		},
 		{
@@ -4267,7 +4257,7 @@
 			"type": "Land — Merit",
 			"collector_number": "338",
 			"image_uris": {
-				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/426.jpg"
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/425.jpg"
 			}
 		},
 		{
@@ -4277,7 +4267,7 @@
 			"type": "Land — Merit",
 			"collector_number": "334",
 			"image_uris": {
-				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/427.jpg"
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/426.jpg"
 			}
 		},
 		{
@@ -4287,7 +4277,7 @@
 			"type": "Land — Merit",
 			"collector_number": "335",
 			"image_uris": {
-				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/428.jpg"
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/427.jpg"
 			}
 		},
 		{
@@ -4297,7 +4287,7 @@
 			"type": "Land — Merit",
 			"collector_number": "337",
 			"image_uris": {
-				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/429.jpg"
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/428.jpg"
 			}
 		},
 		{
@@ -4307,7 +4297,7 @@
 			"type": "Land — Merit",
 			"collector_number": "336",
 			"image_uris": {
-				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/430.jpg"
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/429.jpg"
 			}
 		},
 		{
@@ -4317,7 +4307,7 @@
 			"type": "Land — Merit",
 			"collector_number": "341",
 			"image_uris": {
-				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/431.jpg"
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/430.jpg"
 			}
 		},
 		{
@@ -4327,7 +4317,7 @@
 			"type": "Land — Merit",
 			"collector_number": "343",
 			"image_uris": {
-				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/432.jpg"
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/431.jpg"
 			}
 		},
 		{
@@ -4337,7 +4327,7 @@
 			"type": "Land — Merit",
 			"collector_number": "344",
 			"image_uris": {
-				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/433.jpg"
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/432.jpg"
 			}
 		},
 		{
@@ -4347,7 +4337,7 @@
 			"type": "Land — Merit",
 			"collector_number": "345",
 			"image_uris": {
-				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/434.jpg"
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/433.jpg"
 			}
 		},
 		{
@@ -4357,7 +4347,7 @@
 			"type": "Land — Merit",
 			"collector_number": "346",
 			"image_uris": {
-				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/435.jpg"
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/434.jpg"
 			}
 		},
 		{
@@ -4367,7 +4357,7 @@
 			"type": "Space Creature — Supernal Demon",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/436.jpg"
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/435.jpg"
 			}
 		},
 		{
@@ -4377,7 +4367,7 @@
 			"type": "Fate Sorcery",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/437.jpg"
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/436.jpg"
 			}
 		},
 		{
@@ -4385,9 +4375,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Land",
-			"collector_number": "20",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/438.jpg"
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/437.jpg"
 			}
 		},
 		{
@@ -4395,9 +4385,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "6",
+			"collector_number": "2",
 			"image_uris": {
-				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/439.jpg"
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/438.jpg"
 			}
 		},
 		{
@@ -4405,9 +4395,29 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "4",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/439.jpg"
+			}
+		},
+		{
+			"name": "Construct",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Construct",
+			"collector_number": "15",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/440.jpg"
+			}
+		},
+		{
+			"name": "Locus",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Land — Plains Island Swamp Mountain Forest",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/441.jpg"
 			}
 		}
 	]

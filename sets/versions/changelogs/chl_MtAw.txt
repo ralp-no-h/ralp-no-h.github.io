@@ -1,4 +1,232 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+Nightmare added.
+Illusion added.
+Construct added.
+Locus added.
+
+Nightmare Copy removed.
+Illusion Copy removed.
+
+Swarm of Locusts
+
+Ceteris Paribus
+
+Enceladean Slime
+
+Pleiadian Explorer
+
+Ambrosial Behemoth
+
+Rampaging Rhinoceros
+
+Broodling Mother
+
+Goetia of Gluttony
+
+Brick Barricade
+
+Crystalline Seal
+
+The Silver Ladder
+
+Historical Monument
+
+Languid Cul-de-sac
+
+Psionic Skyscraper
+
+Vacant Lot
+
+Desecrated Graveyard
+
+Contaminated Scrapyard
+
+Sacred Temple
+
+Thrumming Substation
+
+Pristine Parkland
+
+Undeveloped Overgrowth
+
+Mesozoic Era
+
+Remote Control
+
+Endless Bounty
+
+Wonderful Machine
+
+Possession
+
+Psychic Genesis
+rules_text: As an additional cost to cast this spell, behold a creature. [i](Choose a creature you control or reveal a creature card from your hand.)[/i]
+Create a token that's a copy of that creature except it isn't legendary and it's a blue enchantment Nightmare in addition to its other colors and types. If that creature has mana value 3 or less, create two token copies instead. => As an additional cost to cast this spell, behold a creature. [i](Choose a creature you control or reveal a creature card from your hand.)[/i]
+Create a token that's a copy of that creature except it isn't legendary and it's a blue enchantment Nightmare in addition to its other colors and types. If that creature's mana value is 3 or less, create two token copies instead.
+
+Social Networking
+
+Locate Object
+
+Lying Maps
+
+Teleportation
+
+Pierce Deception
+
+Sacred Geometry
+
+Hallow Dance
+
+Aethereal Targe
+
+Flourishing Atavism
+rules_text: Reach
+Whenever a nontoken non-Human creature you control enters, create a 1/1 token copy of it.
+[i]Channel[/i] — {G}{G}, Discard this card: Gain 1 Wisdom. Search your library for a Magesight card, reveal it, put it into your hand, then shuffle. => Reach
+Whenever a nontoken non-Human creature you control enters, create a token that's a copy of it, except it has power and toughness 1/1.
+[i]Channel[/i] — {G}{G}, Discard this card: Gain 1 Wisdom. Search your library for a Magesight card, reveal it, put it into your hand, then shuffle.
+
+Scourge of Oblation
+
+Profane Urim
+
+Know Spirit
+
+Spirit Summons
+
+Create Locus
+rules_text: Create a colorless Spirit Locus land token that's all basic land types and has “{2}{G}, {T}: Proliferate.” => Create a colorless land token named Locus that's all basic land types and has “{2}{G}, {T}: Proliferate.”
+
+Trained Marine
+
+Mystery Cult Leader
+
+Xenobiologist
+
+Nosferatu Horror
+
+Mekhet Secret Trader
+
+Gangrel Brawler
+
+Daeva Acolyte
+
+Ventrue Prince
+
+Bone Shadow Binder
+
+Ixa, Recursive Void
+
+Annuledes, Veiled Unthing
+
+Deletion
+
+Viirrax, Imago Collapse
+
+Familiar Merit
+
+Dining District
+
+Mob Hideout
+
+News Outlet
+
+Precinct Headquarters
+
+
+VERSION 11 CHANGELOG
+====================
+
+No changes.
+
+VERSION 10 CHANGELOG
+====================
+
+Mote added.
+
+Spirit Mote removed.
+Spirit Avatar removed.
+
+Galateid Muse
+
+Patchwork Wretched
+
+Tammuz Golem
+
+Spirit Summons
+rules_text: Create a 0/0 green Spirit Avatar creature token.
+For each mana spent to cast this spell, put a +1/+1, deathtouch, first strike, flying, haste, lifelink, menace, trample, or vigilance counter on the token.
+If X is 5 or more, draw a card. => Create a 0/0 green Spirit Mote creature token.
+For each mana spent to cast this spell, put a +1/+1, deathtouch, first strike, flying, haste, lifelink, menace, trample, or vigilance counter on the token.
+If X is 5 or more, draw a card.
+
+Spider
+
+Assault Rifle
+
+Human Sleeper Rogue
+
+Residue of Viirrax
+
+Spawn
+
+Scion
+
+Junk
+
+Food
+
+Map
+
+Blood
+
+Copy
+
+Ooze
+
+Sever Oaths
+
+Illusion Copy
+
+Vampire
+
+Brain Donor
+
+Familiar Merit
+
+Bibliotheca Occulta
+
+City Hall
+
+Dining District
+
+Consilium Convocation
+
+Mob Hideout
+
+News Outlet
+
+Precinct Headquarters
+
+Sanctum Sanctorum
+
+Sanitation Plant
+
+Bantam Imp
+
+Fools Rush In
+
+Void
+
+Wisdom
+
+Hubris
+
+
+VERSION 9 CHANGELOG
 ====================
 
 
