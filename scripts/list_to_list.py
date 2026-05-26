@@ -245,7 +245,7 @@ def convertList(setCode):
 					if len(r['cards']) == 1 and r['cards'][0] in sort_groups:
 						cards_arr[x] = sorted(cards_arr[x], key=lambda x : (x['notes'], x['rarity'], x['number']))
 					else:
-						cards_arr[x] = sorted(cards_arr[x], key=lambda x : (len(x['color']), x['rarity'], x['notes'], x['number'])) # start with len() for 3+c cards
+						cards_arr[x] = sorted(cards_arr[x], key=lambda x : x['number']) # start with len() for 3+c cards
 					# otherwise, preserve order of basics from set file
 
 			for row in range(row_count):

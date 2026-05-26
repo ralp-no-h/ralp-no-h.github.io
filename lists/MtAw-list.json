@@ -2903,6 +2903,30 @@
     },
     "a->token",
     {
+        "card_name": "Familiar",
+        "number": 1,
+        "shape": "token",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "403"
+    },
+    {
+        "card_name": "Spirit Avatar",
+        "number": 2,
+        "shape": "token",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "409"
+    },
+    {
+        "card_name": "Spirit Mote",
+        "number": 3,
+        "shape": "token",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "408"
+    },
+    {
         "card_name": "Hubris",
         "number": 4,
         "shape": "token",
@@ -2949,86 +2973,6 @@
         "set": "MtAw",
         "rotated": false,
         "position": "414"
-    },
-    {
-        "card_name": "Void",
-        "number": 20,
-        "shape": "token",
-        "set": "MtAw",
-        "rotated": false,
-        "position": "438"
-    },
-    {
-        "card_name": "Assault Rifle",
-        "number": 21,
-        "shape": "token",
-        "set": "MtAw",
-        "rotated": false,
-        "position": "411"
-    },
-    {
-        "card_name": "Blood",
-        "number": 22,
-        "shape": "token",
-        "set": "MtAw",
-        "rotated": false,
-        "position": "419"
-    },
-    {
-        "card_name": "Food",
-        "number": 23,
-        "shape": "token",
-        "set": "MtAw",
-        "rotated": false,
-        "position": "417"
-    },
-    {
-        "card_name": "Junk",
-        "number": 24,
-        "shape": "token",
-        "set": "MtAw",
-        "rotated": false,
-        "position": "416"
-    },
-    {
-        "card_name": "Map",
-        "number": 25,
-        "shape": "token",
-        "set": "MtAw",
-        "rotated": false,
-        "position": "418"
-    },
-    {
-        "card_name": "Tass",
-        "number": 26,
-        "shape": "token",
-        "set": "MtAw",
-        "rotated": false,
-        "position": "401"
-    },
-    {
-        "card_name": "Familiar",
-        "number": 1,
-        "shape": "token",
-        "set": "MtAw",
-        "rotated": false,
-        "position": "403"
-    },
-    {
-        "card_name": "Spirit Avatar",
-        "number": 2,
-        "shape": "token",
-        "set": "MtAw",
-        "rotated": false,
-        "position": "409"
-    },
-    {
-        "card_name": "Spirit Mote",
-        "number": 3,
-        "shape": "token",
-        "set": "MtAw",
-        "rotated": false,
-        "position": "408"
     },
     {
         "card_name": "Dinosaur",
@@ -3109,6 +3053,62 @@
         "set": "MtAw",
         "rotated": false,
         "position": "412"
+    },
+    {
+        "card_name": "Void",
+        "number": 20,
+        "shape": "token",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "438"
+    },
+    {
+        "card_name": "Assault Rifle",
+        "number": 21,
+        "shape": "token",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "411"
+    },
+    {
+        "card_name": "Blood",
+        "number": 22,
+        "shape": "token",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "419"
+    },
+    {
+        "card_name": "Food",
+        "number": 23,
+        "shape": "token",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "417"
+    },
+    {
+        "card_name": "Junk",
+        "number": 24,
+        "shape": "token",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "416"
+    },
+    {
+        "card_name": "Map",
+        "number": 25,
+        "shape": "token",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "418"
+    },
+    {
+        "card_name": "Tass",
+        "number": 26,
+        "shape": "token",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "401"
     },
     {
         "card_name": "e"
