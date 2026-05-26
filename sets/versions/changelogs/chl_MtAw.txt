@@ -1,4 +1,894 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+Shared Destinies added.
+Supernal Intervention added.
+Split Second added.
+Supernal Invisibility added.
+Supernal Regeneration added.
+Pandemic added.
+
+Shared Fate removed.
+Divine Intervention removed.
+Blink of an Eye removed.
+Invisibility removed.
+Regeneration removed.
+Contagion removed.
+
+Interconnections
+
+Oaths Fulfilled
+
+Serendipity
+
+Exceptional Luck
+
+Fabricate Fortune
+
+Shifting the Odds
+
+Grave Misfortune
+
+Monkey's Paw
+
+Sworn Oaths
+
+Atonement
+
+Chaos Mastery
+
+Strings of Fate
+
+Forge Destiny
+
+Miracle
+
+Anathema
+
+Swarm of Locusts
+
+Bonis Avibus
+
+Quo Fata Ferunt
+
+Ceteris Paribus
+
+Terminus Ad Quem
+
+Audentes Fortuna Iuvat
+
+Capricious Moira
+
+Volatile Moira
+
+Capacious Imp
+
+Mercurian Mantis
+
+Nibiruan Cnidomorph
+
+Enceladean Slime
+
+Pleiadian Explorer
+
+Ionian Arcanophage
+
+Light Elemental
+
+Sonic Elemental
+
+Gravity Elemental
+
+Electricity Elemental
+
+Heat Elemental
+
+A Forgotten Memory
+
+A Gruesome Murder
+
+A Poor Child's Hunger
+
+An Implacable Angst
+
+An Untold Secret
+
+Ambrosial Behemoth
+
+Bloodpetal Bramble
+
+Rampaging Rhinoceros
+
+Carcinizing Crustacean
+
+Broodling Mother
+
+Goetia of Pride
+
+Goetia of Wrath
+
+Goetia of Gluttony
+
+Goetia of Sloth
+
+Goetia of Envy
+
+Erupting Carcass
+
+Resonant Corpse
+
+Pesky Poltergeist
+
+Tethered Soul
+
+Insatiable Ghast
+
+Surveillance Drone Mark IV
+
+Autoguardian Mark VI
+
+Antimatter Field
+
+Brick Barricade
+
+Crystalline Seal
+
+The Adamantine Arrow
+
+The Silver Ladder
+
+The Free Council
+
+The Guardians of the Veil
+
+The Mysterium
+
+Talon Medal
+
+Théarch Badge
+
+Libertine Invitation
+
+Guardian Memento
+
+Mystagogue Trinket
+
+Abandoned Wending
+
+Historical Monument
+
+Languid Cul-de-sac
+
+Psionic Skyscraper
+
+Vacant Lot
+
+Desecrated Graveyard
+
+Contaminated Scrapyard
+
+Sacred Temple
+
+Thrumming Substation
+
+Pristine Parkland
+
+Undeveloped Overgrowth
+
+Lucifuge Descendent
+
+Aegis Kai Doru Archivist
+
+Cheiron Grafter
+
+Task Force Commando
+
+Ashwood Abbot
+
+Zeka Monstrosity
+
+Galateid Muse
+
+Patchwork Wretched
+
+Tammuz Golem
+
+Distant Future
+
+Leap Second
+
+Atlantean Age
+
+Solstice Sunset
+
+Mesozoic Era
+
+Deepen Shadows
+
+Forensic Gaze
+
+Shadow Sculpting
+
+Soul Marks
+
+Decay
+
+Ghost Shield
+
+Soul Armor
+
+Suppress Life
+
+Devouring the Slain
+
+Ghost Gate
+
+Quicken Corpse
+
+Shadow Crafting
+
+Enervation
+
+Exorcism
+
+Unearth Revenant
+
+Shadow Flesh
+
+Withering
+
+Create Avernian Gate
+
+Deny the Reaper
+
+Empty Presence
+
+Artisan's Eye
+
+Detect Substance
+
+Remote Control
+
+Alchemist's Touch
+
+Hidden Hoard
+
+Machine Invisibility
+
+Shaping
+
+Alter Conductivity
+
+Crucible
+
+Windstrike
+
+Golem
+
+Endless Bounty
+
+Supernal Forging
+
+Ghostwall
+
+Wonderful Machine
+
+Piercing Earth
+
+Transubstantiation
+
+Annihilate Matter
+
+Ex Nihilo
+
+Self-Repairing Machine
+
+Know Nature
+
+Mental Scan
+
+One Mind, Two Thoughts
+
+Perfect Recall
+
+Alter Mental Pattern
+
+Memory Hole
+
+Mental Shield
+
+Psychic Domination
+
+Supernal Telepathy
+
+Augment Mind
+
+Psychic Assault
+
+Read the Depths
+
+Universal Language
+
+Mind Flay
+
+Possession
+
+Hallucination
+
+Terrorize
+
+Mind Wipe
+
+Psychic Genesis
+
+Social Networking
+
+Correspondence
+
+Ground Eater
+
+Isolation
+
+Locate Object
+
+The Outward and Inward Eye
+
+Lying Maps
+
+Break Boundary
+
+Ward
+
+Ban
+
+Co-Location
+
+Perfect Sympathy
+
+Warp
+
+Alter Direction
+
+Collapse
+
+Cut Threads
+
+Teleportation
+
+Forge No Chains
+
+Pocket Dimension
+
+Quarantine
+
+Unnaming
+
+Dispel Magic
+
+Nimbus Tuning
+
+Pierce Deception
+
+Sacred Geometry
+
+Supernal Vision
+
+As Above, So Below
+
+Invisible Runes
+
+Nimbus Forgery
+
+Words of Truth
+
+Aetheric Winds
+
+Display of Gnosis
+
+Mana Battery
+
+Celestial Fire
+
+Destroy Tass
+
+Hallow Dance
+
+Primal Transfer
+
+Supernal Dispellation
+
+Blasphemy
+
+Create Truth
+
+Word of Unmaking
+
+Arcadian Robes
+
+Pandemonic Casque
+
+Aethereal Targe
+
+Stygian Gauntlet
+
+Primal Longbow
+
+Supernal Divination
+
+Green Light/Red Light
+
+Momentary Flux
+
+Perfect Timing
+
+Choose the Thread
+
+Constant Presence
+
+Shield of Chronos
+
+Veil of Moments
+
+Acceleration
+
+Chronos' Curse
+
+Shifting Sands
+
+Temporal Summoning
+
+Weight of Years
+
+Present as Past
+
+Supernal Prophecy
+
+Temporal Stutter
+
+Corridors of Time
+
+Rewrite History
+
+Temporal Pocket
+
+Influence Electricity
+
+Kinetic Efficiency
+
+Nightvision
+
+Tune In
+
+Control Electricity
+
+Control Fire
+
+Control Gravity
+
+Environmental Shield
+
+Kinetic Blow
+
+Call Lightning
+
+Telekinetic Strike
+
+Velocity Control
+
+Gravitic Levitation
+
+Rend Friction
+
+Transform Energy
+
+Adverse Weather
+
+Create Energy
+
+Seismic Tremors
+
+Eradicate Energy
+
+Shifting Anachronism
+
+Splitting Anachronism
+
+Psychic Wraith
+
+Noetic Wraith
+
+Disintegrating Spectre
+
+Pernicious Spectre
+
+Resilient Apeiron
+
+Replicating Apeiron
+
+Intransigent Cherub
+
+Exuberant Cherub
+
+Amplifying Seraph
+
+Vengeful Seraph
+
+Barbarous Totem
+
+Rapacious Totem
+
+Flourishing Atavism
+
+Proliferant Atavism
+
+Scourge of Oblation
+
+Profane Urim
+
+Astral Astrolabe
+
+Coaxing the Spirits
+
+Exorcist's Eye
+
+Invoke Bane
+
+Know Spirit
+
+Channel Essence
+
+Command Spirit
+
+Gossamer Touch
+
+Slumber
+
+Bolster Spirit
+
+Erode Resonance
+
+Place of Power
+
+Rouse Spirit
+
+Spirit Summons
+
+Bind Spirit
+
+Shadow Scream
+
+Shape Spirit
+
+Twilit Body
+
+Annihilate Spirit
+
+Create Locus
+
+Essence Fountain
+
+Cleanse the Body
+
+Heightened Senses
+
+Speak With Beasts
+
+Web of Life
+
+Control Instincts
+
+Lure and Repel
+
+Mutable Mask
+
+Bruise Flesh
+
+Degrading the Form
+
+Honing the Form
+
+Many Faces
+
+Transform Life
+
+Accelerate Growth
+
+Life-Force Assault
+
+Mend
+
+Shapechanging
+
+Create Life
+
+Salt the Earth
+
+Trained Marine
+
+Martial Artist
+
+Security Guard
+
+Street Thug
+
+Mystery Cult Leader
+
+City Bureaucrat
+
+Corrupt Cop
+
+Rummaging Vagrant
+
+University Professor
+
+Punk Vandal
+
+Blessed Retainer
+
+Xenobiologist
+
+Time Traveler
+
+Zealous Interceptor
+
+Gruesome Graverobber
+
+Willing Test Subject
+
+Destined One
+
+Psychic Medium
+
+Paranormal Skeptic
+
+Elite Hacker
+
+Nosferatu Horror
+
+Mekhet Secret Trader
+
+Gangrel Brawler
+
+Daeva Acolyte
+
+Ventrue Prince
+
+Spring Court Beast
+
+Autumn Court Elemental
+
+Winter Court Darkling
+
+Spring Court Fairest
+
+Summer Court Wizened
+
+Autumn Court Ogre
+
+Blood Talon Ripper
+
+Bone Shadow Binder
+
+Hunter in Darkness
+
+Iron Master Warden
+
+Storm Lord Howler
+
+Illusory Grizzly
+
+Illusory Tyrannosaur
+
+Illusory Drake
+
+Illusory Monster
+
+Illusory Recluse
+
+Abyssal Backlash
+
+Abyssal Rebuke
+
+Abyssal Shock
+
+Mental Aberration
+
+Mental Anomaly
+
+Mental Regression
+
+Void Pocket
+
+Void Bubble
+
+Void Episode
+
+Creeping End
+
+Seeping End
+
+Weeping End
+
+Null Resonance
+
+Reality Erasure
+
+Reality Decay
+
+Reality Erosion
+
+Faulty Imago
+
+Nothingness
+
+Abyssal Wave
+
+Cognitive Dissonance
+
+Cerebral Dissonance
+
+Flawed Imago
+
+Voidwrought Reckoning
+
+Spraxedar's Soul
+
+Kurkemach, Hastened End
+
+Inviolate Substance
+
+Ixa, Recursive Void
+
+Engraneg, Thrice Nothing
+
+Noalmaunun, Moment Eater
+
+Narrowing
+
+Prince of 100,000 Leaves
+
+Supervene Reality
+
+Nimbus Fragment
+
+Nimbus Shard
+
+Nimbus Shrapnel
+
+Dorrarech, Soul Drinker
+
+Abyssal Pox
+
+Abyssal Blight
+
+Abyssal Drain
+
+Annuledes, Veiled Unthing
+
+Irrememberance
+
+Soul Nullifier
+
+Expose Soul
+
+Fwdre, Viral Assertion
+
+Goroldoth, Marrow Borrower
+
+Oracle's Will
+
+Deletion
+
+Essence Inversion
+
+Thought Drought
+
+Nrôrn, Truth Denied
+
+Oun, Bifurcation Dæmon
+
+Mental Flush
+
+Idea Infection
+
+Viirrax, Imago Collapse
+
+Yytromox, from Without
+
+Watchtower of the Lunargent Thorn
+
+Watchtower of the Iron Gauntlet
+
+Watchtower of the Lead Coin
+
+Watchtower of the Singing Stone
+
+Watchtower of the Golden Key
+
+Tass
+
+Human Sleeper Cult
+
+Familiar
+
+Insect
+
+Mouse
+
+Dinosaur
+
+Nightmare
+
+Mote
+
+Spider
+
+Assault Rifle
+
+Human Sleeper Rogue
+
+Residue of Viirrax
+
+Spawn
+
+Scion
+
+Junk
+
+Food
+
+Map
+
+Blood
+
+Copy
+
+Ooze
+
+Sever Oaths
+
+Illusion
+
+Vampire
+
+Brain Donor
+
+Familiar Merit
+
+Bibliotheca Occulta
+
+City Hall
+
+Dining District
+
+Consilium Convocation
+
+Mob Hideout
+
+News Outlet
+
+Precinct Headquarters
+
+Sanctum Sanctorum
+
+Sanitation Plant
+
+Bantam Imp
+
+Fools Rush In
+
+Void
+
+Wisdom
+
+Hubris
+
+Construct
+
+Locus
+
+
+VERSION 12 CHANGELOG
 ====================
 
 Nightmare added.

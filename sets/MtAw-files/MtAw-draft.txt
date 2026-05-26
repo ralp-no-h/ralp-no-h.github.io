@@ -2,97 +2,97 @@
 	[
 		{
 			"name": "Interconnections",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Fate Enchantment — Magesight",
-			"collector_number": "10",
+			"collector_number": "9",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/0.jpg"
 			}
 		},
 		{
 			"name": "Oaths Fulfilled",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Fate Enchantment — Saga",
-			"collector_number": "13",
+			"collector_number": "12",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/1.jpg"
 			}
 		},
 		{
 			"name": "Serendipity",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Fate Instant",
-			"collector_number": "14",
+			"collector_number": "13",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/2.jpg"
 			}
 		},
 		{
 			"name": "Exceptional Luck",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{2}{W}{hazard.png}",
 			"type": "Fate Sorcery",
-			"collector_number": "5",
+			"collector_number": "4",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/3.jpg"
 			}
 		},
 		{
 			"name": "Fabricate Fortune",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{hazard.png}",
 			"type": "Fate Instant",
-			"collector_number": "6",
+			"collector_number": "5",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/4.jpg"
 			}
 		},
 		{
 			"name": "Shifting the Odds",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Fate Enchantment — Saga",
-			"collector_number": "17",
+			"collector_number": "16",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/5.jpg"
 			}
 		},
 		{
 			"name": "Grave Misfortune",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{hazard.png}",
 			"type": "Fate Enchantment — Aura Saga",
-			"collector_number": "9",
+			"collector_number": "8",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/6.jpg"
 			}
 		},
 		{
 			"name": "Monkey's Paw",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{W}{hazard.png}",
 			"type": "Fate Enchantment — Saga",
-			"collector_number": "12",
+			"collector_number": "11",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/7.jpg"
 			}
 		},
 		{
-			"name": "Shared Fate",
-			"rarity": "special",
+			"name": "Shared Destinies",
+			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{hazard.png}",
 			"type": "Fate Enchantment — Class",
-			"collector_number": "16",
+			"collector_number": "15",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/8.jpg"
 			}
 		},
 		{
 			"name": "Sworn Oaths",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Fate Enchantment",
 			"collector_number": "20",
@@ -102,7 +102,7 @@
 		},
 		{
 			"name": "Atonement",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{W}{hazard.png}{hazard.png}",
 			"type": "Fate Enchantment — Saga",
 			"collector_number": "2",
@@ -112,7 +112,7 @@
 		},
 		{
 			"name": "Chaos Mastery",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{2}{W}{W}{hazard.png}{hazard.png}",
 			"type": "Fate Enchantment — Saga",
 			"collector_number": "3",
@@ -121,48 +121,48 @@
 			}
 		},
 		{
-			"name": "Divine Intervention",
-			"rarity": "special",
+			"name": "Supernal Intervention",
+			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}{hazard.png}{hazard.png}",
 			"type": "Fate Enchantment — Saga",
-			"collector_number": "4",
+			"collector_number": "18",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/12.jpg"
 			}
 		},
 		{
 			"name": "Strings of Fate",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{hazard.png}{hazard.png}",
 			"type": "Fate Enchantment — Saga",
-			"collector_number": "18",
+			"collector_number": "17",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/13.jpg"
 			}
 		},
 		{
 			"name": "Forge Destiny",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{W}{hazard.png}{hazard.png}{hazard.png}",
 			"type": "Fate Enchantment — Saga",
-			"collector_number": "8",
+			"collector_number": "7",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/14.jpg"
 			}
 		},
 		{
 			"name": "Miracle",
-			"rarity": "special",
+			"rarity": "mythic",
 			"mana_cost": "{1}{W}{W}{hazard.png}{hazard.png}{hazard.png}",
 			"type": "Fate Instant",
-			"collector_number": "11",
+			"collector_number": "10",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/15.jpg"
 			}
 		},
 		{
 			"name": "Anathema",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{2}{W}{hazard.png}{hazard.png}{hazard.png}",
 			"type": "Fate Enchantment — Aura",
 			"collector_number": "1",
@@ -172,7 +172,7 @@
 		},
 		{
 			"name": "Swarm of Locusts",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{2}{W}{W}{hazard.png}{hazard.png}{hazard.png}",
 			"type": "Fate Enchantment — Saga",
 			"collector_number": "19",
@@ -182,7 +182,7 @@
 		},
 		{
 			"name": "Bonis Avibus",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{2}{W}{hazard.png}",
 			"type": "Fate Creature — Bird Knight",
 			"collector_number": "22",
@@ -192,7 +192,7 @@
 		},
 		{
 			"name": "Quo Fata Ferunt",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{3}{W}{hazard.png}",
 			"type": "Fate Creature — Dog Archer",
 			"collector_number": "25",
@@ -202,7 +202,7 @@
 		},
 		{
 			"name": "Ceteris Paribus",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{W}{hazard.png}",
 			"type": "Fate Creature — Mouse Cleric",
 			"collector_number": "24",
@@ -212,7 +212,7 @@
 		},
 		{
 			"name": "Terminus Ad Quem",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{W}{hazard.png}",
 			"type": "Fate Creature — Rat Assassin",
 			"collector_number": "26",
@@ -222,7 +222,7 @@
 		},
 		{
 			"name": "Audentes Fortuna Iuvat",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{2}{W}{hazard.png}",
 			"type": "Fate Creature — Wolverine Berserker",
 			"collector_number": "21",
@@ -232,7 +232,7 @@
 		},
 		{
 			"name": "Capricious Moira",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Fate Creature — Supernal Fae",
 			"collector_number": "23",
@@ -242,7 +242,7 @@
 		},
 		{
 			"name": "Volatile Moira",
-			"rarity": "special",
+			"rarity": "mythic",
 			"mana_cost": "{3}{W}{W}{W}",
 			"type": "Fate Creature — Supernal Fae",
 			"collector_number": "27",
@@ -252,7 +252,7 @@
 		},
 		{
 			"name": "Capacious Imp",
-			"rarity": "special",
+			"rarity": "mythic",
 			"mana_cost": "{3}{U}{U}{U}",
 			"type": "Space Creature — Supernal Demon",
 			"collector_number": "107",
@@ -262,7 +262,7 @@
 		},
 		{
 			"name": "Mercurian Mantis",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{3}{U}{hazard.png}",
 			"type": "Space Creature — Alien Insect",
 			"collector_number": "110",
@@ -272,7 +272,7 @@
 		},
 		{
 			"name": "Nibiruan Cnidomorph",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{2}{U}{hazard.png}",
 			"type": "Space Creature — Alien Jellyfish",
 			"collector_number": "111",
@@ -282,7 +282,7 @@
 		},
 		{
 			"name": "Enceladean Slime",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{3}{U}{U}{hazard.png}",
 			"type": "Space Creature — Alien Ooze",
 			"collector_number": "108",
@@ -292,7 +292,7 @@
 		},
 		{
 			"name": "Pleiadian Explorer",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Space Creature — Alien Scout",
 			"collector_number": "112",
@@ -302,7 +302,7 @@
 		},
 		{
 			"name": "Ionian Arcanophage",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{2}{U}{hazard.png}",
 			"type": "Space Creature — Alien Slug",
 			"collector_number": "109",
@@ -312,7 +312,7 @@
 		},
 		{
 			"name": "Light Elemental",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{R}{hazard.png}",
 			"type": "Forces Creature — Elemental",
 			"collector_number": "224",
@@ -322,7 +322,7 @@
 		},
 		{
 			"name": "Sonic Elemental",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{R}{hazard.png}",
 			"type": "Forces Creature — Elemental",
 			"collector_number": "225",
@@ -332,7 +332,7 @@
 		},
 		{
 			"name": "Gravity Elemental",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{2}{R}{hazard.png}",
 			"type": "Forces Creature — Elemental",
 			"collector_number": "222",
@@ -342,7 +342,7 @@
 		},
 		{
 			"name": "Electricity Elemental",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{2}{R}{hazard.png}",
 			"type": "Forces Creature — Elemental",
 			"collector_number": "221",
@@ -352,7 +352,7 @@
 		},
 		{
 			"name": "Heat Elemental",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{2}{R}{R}{hazard.png}",
 			"type": "Forces Creature — Elemental",
 			"collector_number": "223",
@@ -362,7 +362,7 @@
 		},
 		{
 			"name": "A Forgotten Memory",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Spirit Creature — Avatar",
 			"collector_number": "250",
@@ -372,7 +372,7 @@
 		},
 		{
 			"name": "A Gruesome Murder",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{2}{G}{hazard.png}",
 			"type": "Spirit Creature — Avatar",
 			"collector_number": "251",
@@ -382,7 +382,7 @@
 		},
 		{
 			"name": "A Poor Child's Hunger",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{3}{G}{hazard.png}",
 			"type": "Spirit Creature — Avatar",
 			"collector_number": "253",
@@ -392,7 +392,7 @@
 		},
 		{
 			"name": "An Implacable Angst",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Spirit Creature — Avatar",
 			"collector_number": "252",
@@ -402,7 +402,7 @@
 		},
 		{
 			"name": "An Untold Secret",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{3}{G}{hazard.png}",
 			"type": "Spirit Creature — Avatar",
 			"collector_number": "255",
@@ -412,7 +412,7 @@
 		},
 		{
 			"name": "Ambrosial Behemoth",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{4}{G}{G}{hazard.png}",
 			"type": "Life Creature — Hydra",
 			"collector_number": "277",
@@ -422,7 +422,7 @@
 		},
 		{
 			"name": "Bloodpetal Bramble",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Life Creature — Plant",
 			"collector_number": "278",
@@ -432,7 +432,7 @@
 		},
 		{
 			"name": "Rampaging Rhinoceros",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}{hazard.png}",
 			"type": "Life Creature — Rhino",
 			"collector_number": "283",
@@ -442,7 +442,7 @@
 		},
 		{
 			"name": "Carcinizing Crustacean",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Life Creature — Crab",
 			"collector_number": "280",
@@ -452,7 +452,7 @@
 		},
 		{
 			"name": "Broodling Mother",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Life Creature — Spider",
 			"collector_number": "279",
@@ -462,7 +462,7 @@
 		},
 		{
 			"name": "Goetia of Pride",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Mind Creature — Nightmare Bird",
 			"collector_number": "80",
@@ -472,7 +472,7 @@
 		},
 		{
 			"name": "Goetia of Wrath",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{3}{U}{U}{hazard.png}",
 			"type": "Mind Creature — Nightmare Cat",
 			"collector_number": "82",
@@ -482,7 +482,7 @@
 		},
 		{
 			"name": "Goetia of Gluttony",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{X}{1}{U}{U}{hazard.png}",
 			"type": "Mind Creature — Nightmare Shark",
 			"collector_number": "79",
@@ -492,7 +492,7 @@
 		},
 		{
 			"name": "Goetia of Sloth",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Mind Creature — Nightmare Sloth",
 			"collector_number": "81",
@@ -502,7 +502,7 @@
 		},
 		{
 			"name": "Goetia of Envy",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{3}{U}{hazard.png}",
 			"type": "Mind Creature — Nightmare Snake",
 			"collector_number": "78",
@@ -512,7 +512,7 @@
 		},
 		{
 			"name": "Erupting Carcass",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Death Creature — Skeleton",
 			"collector_number": "136",
@@ -522,7 +522,7 @@
 		},
 		{
 			"name": "Resonant Corpse",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Death Creature — Skeleton",
 			"collector_number": "140",
@@ -532,7 +532,7 @@
 		},
 		{
 			"name": "Pesky Poltergeist",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Death Creature — Ghost",
 			"collector_number": "139",
@@ -542,7 +542,7 @@
 		},
 		{
 			"name": "Tethered Soul",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{B}{B}",
 			"type": "Death Creature — Ghost",
 			"collector_number": "141",
@@ -552,7 +552,7 @@
 		},
 		{
 			"name": "Insatiable Ghast",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Death Creature — Ghost",
 			"collector_number": "137",
@@ -562,7 +562,7 @@
 		},
 		{
 			"name": "Surveillance Drone Mark IV",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{B}{hazard.png}",
 			"type": "Matter Artifact Creature — Drone Construct",
 			"collector_number": "169",
@@ -572,7 +572,7 @@
 		},
 		{
 			"name": "Autoguardian Mark VI",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{2}{B}{hazard.png}",
 			"type": "Matter Artifact Creature — Robot Construct",
 			"collector_number": "164",
@@ -582,7 +582,7 @@
 		},
 		{
 			"name": "Antimatter Field",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{B}{hazard.png}",
 			"type": "Matter Artifact Creature — Wall",
 			"collector_number": "163",
@@ -592,7 +592,7 @@
 		},
 		{
 			"name": "Brick Barricade",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Matter Artifact Creature — Wall",
 			"collector_number": "165",
@@ -602,7 +602,7 @@
 		},
 		{
 			"name": "Crystalline Seal",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{2}{B}{hazard.png}",
 			"type": "Matter Artifact Creature — Wall",
 			"collector_number": "166",
@@ -612,7 +612,7 @@
 		},
 		{
 			"name": "The Adamantine Arrow",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Legendary Land — Pentacle Order",
 			"collector_number": "333",
@@ -622,7 +622,7 @@
 		},
 		{
 			"name": "The Silver Ladder",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Legendary Land — Pentacle Order",
 			"collector_number": "347",
@@ -632,7 +632,7 @@
 		},
 		{
 			"name": "The Free Council",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Legendary Land — Pentacle Order",
 			"collector_number": "339",
@@ -642,7 +642,7 @@
 		},
 		{
 			"name": "The Guardians of the Veil",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Legendary Land — Pentacle Order",
 			"collector_number": "340",
@@ -652,7 +652,7 @@
 		},
 		{
 			"name": "The Mysterium",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Legendary Land — Pentacle Order",
 			"collector_number": "342",
@@ -662,7 +662,7 @@
 		},
 		{
 			"name": "Talon Medal",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact — Clue",
 			"collector_number": "354",
@@ -672,7 +672,7 @@
 		},
 		{
 			"name": "Théarch Badge",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact — Clue",
 			"collector_number": "355",
@@ -682,7 +682,7 @@
 		},
 		{
 			"name": "Libertine Invitation",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact — Clue",
 			"collector_number": "350",
@@ -692,7 +692,7 @@
 		},
 		{
 			"name": "Guardian Memento",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact — Clue",
 			"collector_number": "349",
@@ -702,7 +702,7 @@
 		},
 		{
 			"name": "Mystagogue Trinket",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact — Clue",
 			"collector_number": "351",
@@ -712,7 +712,7 @@
 		},
 		{
 			"name": "Abandoned Wending",
-			"rarity": "special",
+			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "332",
@@ -722,7 +722,7 @@
 		},
 		{
 			"name": "Historical Monument",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Fate Land — Hallow",
 			"collector_number": "28",
@@ -732,7 +732,7 @@
 		},
 		{
 			"name": "Languid Cul-de-sac",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Time Land — Hallow",
 			"collector_number": "56",
@@ -742,7 +742,7 @@
 		},
 		{
 			"name": "Psionic Skyscraper",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Mind Land — Hallow",
 			"collector_number": "85",
@@ -752,7 +752,7 @@
 		},
 		{
 			"name": "Vacant Lot",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Space Land — Hallow",
 			"collector_number": "113",
@@ -762,7 +762,7 @@
 		},
 		{
 			"name": "Desecrated Graveyard",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Death Land — Hallow",
 			"collector_number": "142",
@@ -772,7 +772,7 @@
 		},
 		{
 			"name": "Contaminated Scrapyard",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Matter Land — Hallow",
 			"collector_number": "170",
@@ -782,7 +782,7 @@
 		},
 		{
 			"name": "Sacred Temple",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Prime Land — Hallow",
 			"collector_number": "199",
@@ -792,7 +792,7 @@
 		},
 		{
 			"name": "Thrumming Substation",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Forces Land — Hallow",
 			"collector_number": "227",
@@ -802,7 +802,7 @@
 		},
 		{
 			"name": "Pristine Parkland",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Spirit Land — Hallow",
 			"collector_number": "256",
@@ -812,7 +812,7 @@
 		},
 		{
 			"name": "Undeveloped Overgrowth",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Life Land — Hallow",
 			"collector_number": "284",
@@ -822,7 +822,7 @@
 		},
 		{
 			"name": "Lucifuge Descendent",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Creature — Human Hunter Devil",
 			"collector_number": "298",
@@ -832,7 +832,7 @@
 		},
 		{
 			"name": "Aegis Kai Doru Archivist",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Creature — Human Hunter Artificer",
 			"collector_number": "286",
@@ -842,7 +842,7 @@
 		},
 		{
 			"name": "Cheiron Grafter",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Creature — Human Hunter Scientist",
 			"collector_number": "293",
@@ -852,7 +852,7 @@
 		},
 		{
 			"name": "Task Force Commando",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Creature — Human Hunter Soldier",
 			"collector_number": "305",
@@ -862,7 +862,7 @@
 		},
 		{
 			"name": "Ashwood Abbot",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Creature — Human Hunter Cleric",
 			"collector_number": "287",
@@ -872,7 +872,7 @@
 		},
 		{
 			"name": "Zeka Monstrosity",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{5}",
 			"type": "Artifact Creature — Golem Horror",
 			"collector_number": "331",
@@ -882,7 +882,7 @@
 		},
 		{
 			"name": "Galateid Muse",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Golem Advisor",
 			"collector_number": "328",
@@ -892,7 +892,7 @@
 		},
 		{
 			"name": "Patchwork Wretched",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Golem Warrior",
 			"collector_number": "329",
@@ -902,7 +902,7 @@
 		},
 		{
 			"name": "Tammuz Golem",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Golem Soldier",
 			"collector_number": "330",
@@ -912,7 +912,7 @@
 		},
 		{
 			"name": "Distant Future",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{3}{W}{hazard.png}{hazard.png}",
 			"type": "Time Enchantment Creature — Epoch",
 			"collector_number": "50",
@@ -922,7 +922,7 @@
 		},
 		{
 			"name": "Leap Second",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Time Enchantment Creature — Moment",
 			"collector_number": "51",
@@ -932,7 +932,7 @@
 		},
 		{
 			"name": "Atlantean Age",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{5}{W}{W}{hazard.png}{hazard.png}",
 			"type": "Time Enchantment Creature — Epoch",
 			"collector_number": "49",
@@ -942,7 +942,7 @@
 		},
 		{
 			"name": "Solstice Sunset",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Time Enchantment Creature — Moment",
 			"collector_number": "54",
@@ -952,7 +952,7 @@
 		},
 		{
 			"name": "Mesozoic Era",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{4}{W}{hazard.png}{hazard.png}",
 			"type": "Time Enchantment Creature — Epoch",
 			"collector_number": "52",
@@ -962,7 +962,7 @@
 		},
 		{
 			"name": "Deepen Shadows",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Death Enchantment",
 			"collector_number": "117",
@@ -972,7 +972,7 @@
 		},
 		{
 			"name": "Forensic Gaze",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Death Instant",
 			"collector_number": "123",
@@ -982,7 +982,7 @@
 		},
 		{
 			"name": "Shadow Sculpting",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Death Sorcery",
 			"collector_number": "129",
@@ -992,7 +992,7 @@
 		},
 		{
 			"name": "Soul Marks",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Death Enchantment — Magesight",
 			"collector_number": "131",
@@ -1002,7 +1002,7 @@
 		},
 		{
 			"name": "Decay",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{B}{hazard.png}",
 			"type": "Death Sorcery",
 			"collector_number": "116",
@@ -1012,7 +1012,7 @@
 		},
 		{
 			"name": "Ghost Shield",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Death Kindred Enchantment — Ghost Aura",
 			"collector_number": "125",
@@ -1022,7 +1022,7 @@
 		},
 		{
 			"name": "Soul Armor",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{hazard.png}",
 			"type": "Death Enchantment — Aura",
 			"collector_number": "130",
@@ -1032,7 +1032,7 @@
 		},
 		{
 			"name": "Suppress Life",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{B}{hazard.png}",
 			"type": "Death Instant",
 			"collector_number": "132",
@@ -1042,7 +1042,7 @@
 		},
 		{
 			"name": "Devouring the Slain",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{hazard.png}",
 			"type": "Death Enchantment",
 			"collector_number": "119",
@@ -1052,7 +1052,7 @@
 		},
 		{
 			"name": "Ghost Gate",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{hazard.png}",
 			"type": "Death Kindred Sorcery — Ghost",
 			"collector_number": "124",
@@ -1062,7 +1062,7 @@
 		},
 		{
 			"name": "Quicken Corpse",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{B}{hazard.png}",
 			"type": "Death Sorcery",
 			"collector_number": "126",
@@ -1072,7 +1072,7 @@
 		},
 		{
 			"name": "Shadow Crafting",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{X}{B}{hazard.png}",
 			"type": "Death Sorcery",
 			"collector_number": "127",
@@ -1082,7 +1082,7 @@
 		},
 		{
 			"name": "Enervation",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{X}{B}{hazard.png}{hazard.png}",
 			"type": "Death Sorcery",
 			"collector_number": "121",
@@ -1092,7 +1092,7 @@
 		},
 		{
 			"name": "Exorcism",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{hazard.png}{hazard.png}",
 			"type": "Death Instant",
 			"collector_number": "122",
@@ -1102,7 +1102,7 @@
 		},
 		{
 			"name": "Unearth Revenant",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{B}{B}{B}{hazard.png}{hazard.png}",
 			"type": "Death Sorcery",
 			"collector_number": "133",
@@ -1112,7 +1112,7 @@
 		},
 		{
 			"name": "Shadow Flesh",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{B}{hazard.png}",
 			"type": "Death Enchantment — Aura",
 			"collector_number": "128",
@@ -1122,7 +1122,7 @@
 		},
 		{
 			"name": "Withering",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{X}{B}{B}{B}{hazard.png}{hazard.png}",
 			"type": "Death Sorcery",
 			"collector_number": "134",
@@ -1132,7 +1132,7 @@
 		},
 		{
 			"name": "Create Avernian Gate",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{3}{B}{hazard.png}{hazard.png}{hazard.png}",
 			"type": "Death Sorcery",
 			"collector_number": "115",
@@ -1142,7 +1142,7 @@
 		},
 		{
 			"name": "Deny the Reaper",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{2}{B}{hazard.png}{hazard.png}{hazard.png}",
 			"type": "Death Kindred Enchantment — Ghost",
 			"collector_number": "118",
@@ -1152,7 +1152,7 @@
 		},
 		{
 			"name": "Empty Presence",
-			"rarity": "special",
+			"rarity": "mythic",
 			"mana_cost": "{1}{B}{hazard.png}{hazard.png}{hazard.png}",
 			"type": "Death Sorcery",
 			"collector_number": "120",
@@ -1162,7 +1162,7 @@
 		},
 		{
 			"name": "Artisan's Eye",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Matter Instant",
 			"collector_number": "146",
@@ -1172,7 +1172,7 @@
 		},
 		{
 			"name": "Detect Substance",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Matter Enchantment — Magesight",
 			"collector_number": "148",
@@ -1182,7 +1182,7 @@
 		},
 		{
 			"name": "Remote Control",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{X}{B}",
 			"type": "Matter Sorcery",
 			"collector_number": "156",
@@ -1192,7 +1192,7 @@
 		},
 		{
 			"name": "Alchemist's Touch",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Matter Instant",
 			"collector_number": "143",
@@ -1202,7 +1202,7 @@
 		},
 		{
 			"name": "Hidden Hoard",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{B}{hazard.png}",
 			"type": "Matter Instant",
 			"collector_number": "153",
@@ -1212,7 +1212,7 @@
 		},
 		{
 			"name": "Machine Invisibility",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{B}{hazard.png}",
 			"type": "Matter Enchantment — Aura",
 			"collector_number": "154",
@@ -1222,7 +1222,7 @@
 		},
 		{
 			"name": "Shaping",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{2}{B}{hazard.png}",
 			"type": "Matter Sorcery",
 			"collector_number": "158",
@@ -1232,7 +1232,7 @@
 		},
 		{
 			"name": "Alter Conductivity",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{hazard.png}",
 			"type": "Matter Enchantment",
 			"collector_number": "144",
@@ -1242,7 +1242,7 @@
 		},
 		{
 			"name": "Crucible",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{hazard.png}",
 			"type": "Matter Enchantment",
 			"collector_number": "147",
@@ -1252,7 +1252,7 @@
 		},
 		{
 			"name": "Windstrike",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{B}{hazard.png}",
 			"type": "Matter Instant",
 			"collector_number": "161",
@@ -1262,7 +1262,7 @@
 		},
 		{
 			"name": "Golem",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{hazard.png}",
 			"type": "Matter Kindred Enchantment — Construct Aura",
 			"collector_number": "152",
@@ -1272,7 +1272,7 @@
 		},
 		{
 			"name": "Endless Bounty",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{hazard.png}",
 			"type": "Matter Enchantment",
 			"collector_number": "149",
@@ -1282,7 +1282,7 @@
 		},
 		{
 			"name": "Supernal Forging",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{hazard.png}{hazard.png}",
 			"type": "Matter Kindred Sorcery — Construct",
 			"collector_number": "159",
@@ -1292,7 +1292,7 @@
 		},
 		{
 			"name": "Ghostwall",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{3}{B}{hazard.png}{hazard.png}",
 			"type": "Matter Sorcery",
 			"collector_number": "151",
@@ -1302,7 +1302,7 @@
 		},
 		{
 			"name": "Wonderful Machine",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}{hazard.png}{hazard.png}",
 			"type": "Matter Kindred Instant — Construct",
 			"collector_number": "162",
@@ -1312,7 +1312,7 @@
 		},
 		{
 			"name": "Piercing Earth",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{4}{B}{hazard.png}{hazard.png}",
 			"type": "Matter Sorcery",
 			"collector_number": "155",
@@ -1322,7 +1322,7 @@
 		},
 		{
 			"name": "Transubstantiation",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{X}{B}{B}{hazard.png}{hazard.png}",
 			"type": "Matter Kindred Sorcery — Construct",
 			"collector_number": "160",
@@ -1332,7 +1332,7 @@
 		},
 		{
 			"name": "Annihilate Matter",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{B}{hazard.png}",
 			"type": "Matter Instant",
 			"collector_number": "145",
@@ -1342,7 +1342,7 @@
 		},
 		{
 			"name": "Ex Nihilo",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{B}{B}{B}{hazard.png}{hazard.png}{hazard.png}",
 			"type": "Matter Sorcery",
 			"collector_number": "150",
@@ -1352,7 +1352,7 @@
 		},
 		{
 			"name": "Self-Repairing Machine",
-			"rarity": "special",
+			"rarity": "mythic",
 			"mana_cost": "{2}{B}{hazard.png}{hazard.png}{hazard.png}",
 			"type": "Matter Enchantment — Aura",
 			"collector_number": "157",
@@ -1362,7 +1362,7 @@
 		},
 		{
 			"name": "Know Nature",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Mind Sorcery",
 			"collector_number": "61",
@@ -1372,7 +1372,7 @@
 		},
 		{
 			"name": "Mental Scan",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Mind Instant",
 			"collector_number": "63",
@@ -1382,7 +1382,7 @@
 		},
 		{
 			"name": "One Mind, Two Thoughts",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Mind Enchantment",
 			"collector_number": "67",
@@ -1392,7 +1392,7 @@
 		},
 		{
 			"name": "Perfect Recall",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Mind Enchantment — Magesight",
 			"collector_number": "68",
@@ -1402,7 +1402,7 @@
 		},
 		{
 			"name": "Alter Mental Pattern",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Mind Instant",
 			"collector_number": "58",
@@ -1412,7 +1412,7 @@
 		},
 		{
 			"name": "Memory Hole",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{hazard.png}",
 			"type": "Mind Sorcery",
 			"collector_number": "62",
@@ -1422,7 +1422,7 @@
 		},
 		{
 			"name": "Mental Shield",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{U}{hazard.png}",
 			"type": "Mind Enchantment",
 			"collector_number": "64",
@@ -1432,7 +1432,7 @@
 		},
 		{
 			"name": "Psychic Domination",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{hazard.png}",
 			"type": "Mind Sorcery",
 			"collector_number": "71",
@@ -1442,7 +1442,7 @@
 		},
 		{
 			"name": "Supernal Telepathy",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{2}{U}{U}{hazard.png}{hazard.png}",
 			"type": "Mind Sorcery",
 			"collector_number": "75",
@@ -1452,7 +1452,7 @@
 		},
 		{
 			"name": "Augment Mind",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{U}{hazard.png}{hazard.png}",
 			"type": "Mind Enchantment",
 			"collector_number": "59",
@@ -1462,7 +1462,7 @@
 		},
 		{
 			"name": "Psychic Assault",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{hazard.png}",
 			"type": "Mind Instant",
 			"collector_number": "70",
@@ -1472,7 +1472,7 @@
 		},
 		{
 			"name": "Read the Depths",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{4}{U}{hazard.png}",
 			"type": "Mind Sorcery",
 			"collector_number": "73",
@@ -1482,7 +1482,7 @@
 		},
 		{
 			"name": "Universal Language",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Mind Instant",
 			"collector_number": "77",
@@ -1492,7 +1492,7 @@
 		},
 		{
 			"name": "Mind Flay",
-			"rarity": "special",
+			"rarity": "mythic",
 			"mana_cost": "{3}{U}{U}{hazard.png}{hazard.png}",
 			"type": "Mind Sorcery",
 			"collector_number": "65",
@@ -1502,7 +1502,7 @@
 		},
 		{
 			"name": "Possession",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{X}{U}{U}{hazard.png}{hazard.png}",
 			"type": "Mind Kindred Sorcery — Nightmare",
 			"collector_number": "69",
@@ -1512,7 +1512,7 @@
 		},
 		{
 			"name": "Hallucination",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{2}{U}{U}{hazard.png}{hazard.png}",
 			"type": "Mind Kindred Enchantment — Nightmare Aura",
 			"collector_number": "60",
@@ -1522,7 +1522,7 @@
 		},
 		{
 			"name": "Terrorize",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{hazard.png}{hazard.png}",
 			"type": "Mind Kindred Enchantment — Nightmare",
 			"collector_number": "76",
@@ -1532,7 +1532,7 @@
 		},
 		{
 			"name": "Mind Wipe",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{U}{hazard.png}",
 			"type": "Mind Kindred Instant — Nightmare",
 			"collector_number": "66",
@@ -1542,7 +1542,7 @@
 		},
 		{
 			"name": "Psychic Genesis",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{U}{U}{hazard.png}{hazard.png}{hazard.png}",
 			"type": "Mind Kindred Sorcery — Nightmare",
 			"collector_number": "72",
@@ -1552,7 +1552,7 @@
 		},
 		{
 			"name": "Social Networking",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Mind Enchantment",
 			"collector_number": "74",
@@ -1562,7 +1562,7 @@
 		},
 		{
 			"name": "Correspondence",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Space Instant",
 			"collector_number": "91",
@@ -1572,7 +1572,7 @@
 		},
 		{
 			"name": "Ground Eater",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{U}",
 			"type": "Space Enchantment — Class",
 			"collector_number": "94",
@@ -1582,7 +1582,7 @@
 		},
 		{
 			"name": "Isolation",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Space Sorcery",
 			"collector_number": "95",
@@ -1592,7 +1592,7 @@
 		},
 		{
 			"name": "Locate Object",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Space Instant",
 			"collector_number": "96",
@@ -1602,7 +1602,7 @@
 		},
 		{
 			"name": "The Outward and Inward Eye",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Space Enchantment — Magesight",
 			"collector_number": "98",
@@ -1612,7 +1612,7 @@
 		},
 		{
 			"name": "Lying Maps",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{U}{hazard.png}",
 			"type": "Space Sorcery",
 			"collector_number": "97",
@@ -1622,7 +1622,7 @@
 		},
 		{
 			"name": "Break Boundary",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Space Sorcery",
 			"collector_number": "88",
@@ -1632,7 +1632,7 @@
 		},
 		{
 			"name": "Ward",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Space Enchantment",
 			"collector_number": "104",
@@ -1642,7 +1642,7 @@
 		},
 		{
 			"name": "Ban",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{hazard.png}",
 			"type": "Space Enchantment",
 			"collector_number": "87",
@@ -1652,7 +1652,7 @@
 		},
 		{
 			"name": "Co-Location",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{U}{hazard.png}",
 			"type": "Space Instant",
 			"collector_number": "89",
@@ -1662,7 +1662,7 @@
 		},
 		{
 			"name": "Perfect Sympathy",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{U}{hazard.png}",
 			"type": "Space Instant",
 			"collector_number": "99",
@@ -1672,7 +1672,7 @@
 		},
 		{
 			"name": "Warp",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{U}{U}{hazard.png}",
 			"type": "Space Sorcery",
 			"collector_number": "105",
@@ -1682,7 +1682,7 @@
 		},
 		{
 			"name": "Alter Direction",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Space Instant",
 			"collector_number": "86",
@@ -1692,7 +1692,7 @@
 		},
 		{
 			"name": "Collapse",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{U}{hazard.png}{hazard.png}",
 			"type": "Space Enchantment",
 			"collector_number": "90",
@@ -1702,7 +1702,7 @@
 		},
 		{
 			"name": "Cut Threads",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{U}{hazard.png}{hazard.png}",
 			"type": "Space Sorcery",
 			"collector_number": "92",
@@ -1712,7 +1712,7 @@
 		},
 		{
 			"name": "Teleportation",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{2}{U}{hazard.png}{hazard.png}",
 			"type": "Space Enchantment",
 			"collector_number": "102",
@@ -1722,7 +1722,7 @@
 		},
 		{
 			"name": "Forge No Chains",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{U}{hazard.png}{hazard.png}{hazard.png}",
 			"type": "Space Instant",
 			"collector_number": "93",
@@ -1732,7 +1732,7 @@
 		},
 		{
 			"name": "Pocket Dimension",
-			"rarity": "special",
+			"rarity": "mythic",
 			"mana_cost": "{3}{U}{U}{hazard.png}{hazard.png}{hazard.png}",
 			"type": "Space Enchantment",
 			"collector_number": "100",
@@ -1742,7 +1742,7 @@
 		},
 		{
 			"name": "Quarantine",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{U}{hazard.png}{hazard.png}{hazard.png}",
 			"type": "Space Sorcery",
 			"collector_number": "101",
@@ -1752,7 +1752,7 @@
 		},
 		{
 			"name": "Unnaming",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{2}{U}{hazard.png}{hazard.png}{hazard.png}",
 			"type": "Space Enchantment",
 			"collector_number": "103",
@@ -1762,7 +1762,7 @@
 		},
 		{
 			"name": "Dispel Magic",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{R}{R}",
 			"type": "Prime Instant",
 			"collector_number": "178",
@@ -1772,7 +1772,7 @@
 		},
 		{
 			"name": "Nimbus Tuning",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{R}{R}",
 			"type": "Prime Instant",
 			"collector_number": "184",
@@ -1782,7 +1782,7 @@
 		},
 		{
 			"name": "Pierce Deception",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Prime Enchantment",
 			"collector_number": "185",
@@ -1792,7 +1792,7 @@
 		},
 		{
 			"name": "Sacred Geometry",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Prime Instant",
 			"collector_number": "187",
@@ -1802,7 +1802,7 @@
 		},
 		{
 			"name": "Supernal Vision",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Prime Enchantment — Magesight",
 			"collector_number": "189",
@@ -1812,7 +1812,7 @@
 		},
 		{
 			"name": "As Above, So Below",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{R}{R}",
 			"type": "Prime Instant",
 			"collector_number": "173",
@@ -1822,7 +1822,7 @@
 		},
 		{
 			"name": "Invisible Runes",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Prime Enchantment",
 			"collector_number": "181",
@@ -1832,7 +1832,7 @@
 		},
 		{
 			"name": "Nimbus Forgery",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{R}{R}",
 			"type": "Prime Instant",
 			"collector_number": "183",
@@ -1842,7 +1842,7 @@
 		},
 		{
 			"name": "Words of Truth",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{R}{R}{hazard.png}",
 			"type": "Prime Instant",
 			"collector_number": "191",
@@ -1852,7 +1852,7 @@
 		},
 		{
 			"name": "Aetheric Winds",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{R}{hazard.png}",
 			"type": "Prime Instant",
 			"collector_number": "172",
@@ -1862,7 +1862,7 @@
 		},
 		{
 			"name": "Display of Gnosis",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{R}{hazard.png}",
 			"type": "Prime Sorcery",
 			"collector_number": "179",
@@ -1872,7 +1872,7 @@
 		},
 		{
 			"name": "Mana Battery",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}{hazard.png}{hazard.png}",
 			"type": "Prime Enchantment",
 			"collector_number": "182",
@@ -1882,7 +1882,7 @@
 		},
 		{
 			"name": "Celestial Fire",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{X}{X}{R}{R}{hazard.png}{hazard.png}",
 			"type": "Prime Sorcery",
 			"collector_number": "175",
@@ -1892,7 +1892,7 @@
 		},
 		{
 			"name": "Destroy Tass",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{R}{hazard.png}{hazard.png}",
 			"type": "Prime Sorcery",
 			"collector_number": "177",
@@ -1902,7 +1902,7 @@
 		},
 		{
 			"name": "Hallow Dance",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{R}{hazard.png}{hazard.png}",
 			"type": "Prime Enchantment — Aura Class",
 			"collector_number": "180",
@@ -1912,7 +1912,7 @@
 		},
 		{
 			"name": "Primal Transfer",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{R}{hazard.png}{hazard.png}",
 			"type": "Prime Sorcery",
 			"collector_number": "186",
@@ -1922,7 +1922,7 @@
 		},
 		{
 			"name": "Supernal Dispellation",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{hazard.png}{hazard.png}",
 			"type": "Prime Enchantment",
 			"collector_number": "188",
@@ -1932,7 +1932,7 @@
 		},
 		{
 			"name": "Blasphemy",
-			"rarity": "special",
+			"rarity": "mythic",
 			"mana_cost": "{6}{R}{hazard.png}{hazard.png}{hazard.png}",
 			"type": "Prime Sorcery",
 			"collector_number": "174",
@@ -1942,7 +1942,7 @@
 		},
 		{
 			"name": "Create Truth",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{2}{R}{R}{hazard.png}{hazard.png}{hazard.png}",
 			"type": "Prime Sorcery",
 			"collector_number": "176",
@@ -1952,7 +1952,7 @@
 		},
 		{
 			"name": "Word of Unmaking",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{R}{hazard.png}",
 			"type": "Prime Instant",
 			"collector_number": "190",
@@ -1962,7 +1962,7 @@
 		},
 		{
 			"name": "Arcadian Robes",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{2/W}{2/W}",
 			"type": "Fate Time Artifact — Equipment",
 			"collector_number": "57",
@@ -1972,7 +1972,7 @@
 		},
 		{
 			"name": "Pandemonic Casque",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{2/U}{2/U}",
 			"type": "Mind Space Artifact — Equipment",
 			"collector_number": "114",
@@ -1982,7 +1982,7 @@
 		},
 		{
 			"name": "Aethereal Targe",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{2/R}{2/R}",
 			"type": "Prime Forces Artifact — Equipment",
 			"collector_number": "228",
@@ -1992,7 +1992,7 @@
 		},
 		{
 			"name": "Stygian Gauntlet",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{2/B}{2/B}",
 			"type": "Death Matter Artifact — Equipment",
 			"collector_number": "171",
@@ -2002,7 +2002,7 @@
 		},
 		{
 			"name": "Primal Longbow",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{2/G}{2/G}",
 			"type": "Spirit Life Artifact — Equipment",
 			"collector_number": "285",
@@ -2012,7 +2012,7 @@
 		},
 		{
 			"name": "Supernal Divination",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Time Instant",
 			"collector_number": "42",
@@ -2022,67 +2022,67 @@
 		},
 		{
 			"name": "Green Light/Red Light",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Time Instant",
-			"collector_number": "35",
+			"collector_number": "34",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/202.jpg"
 			}
 		},
 		{
 			"name": "Momentary Flux",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Time Enchantment",
-			"collector_number": "36",
+			"collector_number": "35",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/203.jpg"
 			}
 		},
 		{
 			"name": "Perfect Timing",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Time Enchantment — Magesight",
-			"collector_number": "37",
+			"collector_number": "36",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/204.jpg"
 			}
 		},
 		{
 			"name": "Choose the Thread",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{X}{W}{hazard.png}",
 			"type": "Time Instant",
-			"collector_number": "31",
+			"collector_number": "30",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/205.jpg"
 			}
 		},
 		{
 			"name": "Constant Presence",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{W}",
 			"type": "Time Enchantment",
-			"collector_number": "33",
+			"collector_number": "32",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/206.jpg"
 			}
 		},
 		{
 			"name": "Shield of Chronos",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{hazard.png}",
 			"type": "Time Enchantment",
-			"collector_number": "40",
+			"collector_number": "39",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/207.jpg"
 			}
 		},
 		{
 			"name": "Veil of Moments",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{W}{hazard.png}",
 			"type": "Time Instant",
 			"collector_number": "47",
@@ -2092,7 +2092,7 @@
 		},
 		{
 			"name": "Acceleration",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{W}{hazard.png}",
 			"type": "Time Instant",
 			"collector_number": "29",
@@ -2102,27 +2102,27 @@
 		},
 		{
 			"name": "Chronos' Curse",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{hazard.png}",
 			"type": "Time Enchantment",
-			"collector_number": "32",
+			"collector_number": "31",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/210.jpg"
 			}
 		},
 		{
 			"name": "Shifting Sands",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}{hazard.png}{hazard.png}",
 			"type": "Time Instant",
-			"collector_number": "41",
+			"collector_number": "40",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/211.jpg"
 			}
 		},
 		{
 			"name": "Temporal Summoning",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{hazard.png}",
 			"type": "Time Enchantment",
 			"collector_number": "46",
@@ -2132,7 +2132,7 @@
 		},
 		{
 			"name": "Weight of Years",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{hazard.png}",
 			"type": "Time Enchantment",
 			"collector_number": "48",
@@ -2142,17 +2142,17 @@
 		},
 		{
 			"name": "Present as Past",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{W}{W}{hazard.png}{hazard.png}",
 			"type": "Time Instant",
-			"collector_number": "38",
+			"collector_number": "37",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/214.jpg"
 			}
 		},
 		{
 			"name": "Supernal Prophecy",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{W}{W}{hazard.png}{hazard.png}",
 			"type": "Time Enchantment",
 			"collector_number": "43",
@@ -2162,7 +2162,7 @@
 		},
 		{
 			"name": "Temporal Stutter",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{hazard.png}{hazard.png}",
 			"type": "Time Instant",
 			"collector_number": "45",
@@ -2172,37 +2172,37 @@
 		},
 		{
 			"name": "Corridors of Time",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{W}{hazard.png}{hazard.png}",
 			"type": "Time Instant",
-			"collector_number": "34",
+			"collector_number": "33",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/217.jpg"
 			}
 		},
 		{
 			"name": "Rewrite History",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{3}{W}{W}{hazard.png}{hazard.png}{hazard.png}",
 			"type": "Time Instant",
-			"collector_number": "39",
+			"collector_number": "38",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/218.jpg"
 			}
 		},
 		{
-			"name": "Blink of an Eye",
-			"rarity": "special",
+			"name": "Split Second",
+			"rarity": "mythic",
 			"mana_cost": "{1}{W}{hazard.png}{hazard.png}",
 			"type": "Time Enchantment",
-			"collector_number": "30",
+			"collector_number": "41",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/219.jpg"
 			}
 		},
 		{
 			"name": "Temporal Pocket",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{W}{W}{W}{hazard.png}{hazard.png}{hazard.png}",
 			"type": "Time Instant",
 			"collector_number": "44",
@@ -2212,7 +2212,7 @@
 		},
 		{
 			"name": "Influence Electricity",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Forces Instant",
 			"collector_number": "209",
@@ -2222,27 +2222,27 @@
 		},
 		{
 			"name": "Kinetic Efficiency",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Forces Sorcery",
-			"collector_number": "212",
+			"collector_number": "211",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/222.jpg"
 			}
 		},
 		{
 			"name": "Nightvision",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Forces Enchantment — Magesight",
-			"collector_number": "213",
+			"collector_number": "212",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/223.jpg"
 			}
 		},
 		{
 			"name": "Tune In",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Forces Instant",
 			"collector_number": "218",
@@ -2252,7 +2252,7 @@
 		},
 		{
 			"name": "Control Electricity",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Forces Enchantment",
 			"collector_number": "202",
@@ -2262,7 +2262,7 @@
 		},
 		{
 			"name": "Control Fire",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Forces Enchantment",
 			"collector_number": "203",
@@ -2272,7 +2272,7 @@
 		},
 		{
 			"name": "Control Gravity",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Forces Enchantment",
 			"collector_number": "204",
@@ -2282,7 +2282,7 @@
 		},
 		{
 			"name": "Environmental Shield",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{hazard.png}",
 			"type": "Forces Enchantment",
 			"collector_number": "206",
@@ -2291,28 +2291,28 @@
 			}
 		},
 		{
-			"name": "Invisibility",
-			"rarity": "special",
+			"name": "Supernal Invisibility",
+			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Forces Enchantment — Aura",
-			"collector_number": "210",
+			"collector_number": "215",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/229.jpg"
 			}
 		},
 		{
 			"name": "Kinetic Blow",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{X}{R}{hazard.png}",
 			"type": "Forces Instant",
-			"collector_number": "211",
+			"collector_number": "210",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/230.jpg"
 			}
 		},
 		{
 			"name": "Call Lightning",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{R}{hazard.png}",
 			"type": "Forces Sorcery",
 			"collector_number": "201",
@@ -2322,7 +2322,7 @@
 		},
 		{
 			"name": "Telekinetic Strike",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{hazard.png}",
 			"type": "Forces Instant",
 			"collector_number": "216",
@@ -2332,7 +2332,7 @@
 		},
 		{
 			"name": "Velocity Control",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{3}{R}{hazard.png}",
 			"type": "Forces Enchantment",
 			"collector_number": "219",
@@ -2342,7 +2342,7 @@
 		},
 		{
 			"name": "Gravitic Levitation",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{R}{hazard.png}",
 			"type": "Forces Instant",
 			"collector_number": "208",
@@ -2352,17 +2352,17 @@
 		},
 		{
 			"name": "Rend Friction",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}{hazard.png}{hazard.png}",
 			"type": "Forces Enchantment",
-			"collector_number": "214",
+			"collector_number": "213",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/235.jpg"
 			}
 		},
 		{
 			"name": "Transform Energy",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{R}{R}{hazard.png}{hazard.png}",
 			"type": "Forces Instant",
 			"collector_number": "217",
@@ -2372,7 +2372,7 @@
 		},
 		{
 			"name": "Adverse Weather",
-			"rarity": "special",
+			"rarity": "mythic",
 			"mana_cost": "{1}{R}{R}{hazard.png}{hazard.png}",
 			"type": "Forces Enchantment",
 			"collector_number": "200",
@@ -2382,7 +2382,7 @@
 		},
 		{
 			"name": "Create Energy",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{X}{R}{hazard.png}{hazard.png}{hazard.png}",
 			"type": "Forces Sorcery",
 			"collector_number": "205",
@@ -2392,17 +2392,17 @@
 		},
 		{
 			"name": "Seismic Tremors",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{R}{hazard.png}{hazard.png}{hazard.png}",
 			"type": "Forces Sorcery",
-			"collector_number": "215",
+			"collector_number": "214",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/239.jpg"
 			}
 		},
 		{
 			"name": "Eradicate Energy",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{R}{R}{hazard.png}{hazard.png}{hazard.png}",
 			"type": "Forces Instant",
 			"collector_number": "207",
@@ -2412,7 +2412,7 @@
 		},
 		{
 			"name": "Shifting Anachronism",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Time Creature — Supernal Fae",
 			"collector_number": "53",
@@ -2422,7 +2422,7 @@
 		},
 		{
 			"name": "Splitting Anachronism",
-			"rarity": "special",
+			"rarity": "mythic",
 			"mana_cost": "{2}{W}{W}{W}",
 			"type": "Time Creature — Supernal Fae",
 			"collector_number": "55",
@@ -2432,7 +2432,7 @@
 		},
 		{
 			"name": "Psychic Wraith",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Mind Creature — Supernal Demon",
 			"collector_number": "84",
@@ -2442,7 +2442,7 @@
 		},
 		{
 			"name": "Noetic Wraith",
-			"rarity": "special",
+			"rarity": "mythic",
 			"mana_cost": "{3}{U}{U}{U}",
 			"type": "Mind Creature — Supernal Demon",
 			"collector_number": "83",
@@ -2452,7 +2452,7 @@
 		},
 		{
 			"name": "Disintegrating Spectre",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Death Creature — Supernal Shade",
 			"collector_number": "135",
@@ -2462,7 +2462,7 @@
 		},
 		{
 			"name": "Pernicious Spectre",
-			"rarity": "special",
+			"rarity": "mythic",
 			"mana_cost": "{1}{B}{B}{B}",
 			"type": "Death Creature — Supernal Shade",
 			"collector_number": "138",
@@ -2472,7 +2472,7 @@
 		},
 		{
 			"name": "Resilient Apeiron",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Matter Creature — Supernal Shade",
 			"collector_number": "168",
@@ -2482,7 +2482,7 @@
 		},
 		{
 			"name": "Replicating Apeiron",
-			"rarity": "special",
+			"rarity": "mythic",
 			"mana_cost": "{2}{B}{B}{B}",
 			"type": "Matter Creature — Supernal Shade",
 			"collector_number": "167",
@@ -2492,7 +2492,7 @@
 		},
 		{
 			"name": "Intransigent Cherub",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Prime Creature — Supernal Angel",
 			"collector_number": "198",
@@ -2502,7 +2502,7 @@
 		},
 		{
 			"name": "Exuberant Cherub",
-			"rarity": "special",
+			"rarity": "mythic",
 			"mana_cost": "{3}{R}{R}{R}",
 			"type": "Prime Creature — Supernal Angel",
 			"collector_number": "192",
@@ -2512,7 +2512,7 @@
 		},
 		{
 			"name": "Amplifying Seraph",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Forces Creature — Supernal Angel",
 			"collector_number": "220",
@@ -2522,7 +2522,7 @@
 		},
 		{
 			"name": "Vengeful Seraph",
-			"rarity": "special",
+			"rarity": "mythic",
 			"mana_cost": "{3}{R}{R}{R}",
 			"type": "Forces Creature — Supernal Angel",
 			"collector_number": "226",
@@ -2532,7 +2532,7 @@
 		},
 		{
 			"name": "Barbarous Totem",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Spirit Creature — Supernal Beast",
 			"collector_number": "249",
@@ -2542,7 +2542,7 @@
 		},
 		{
 			"name": "Rapacious Totem",
-			"rarity": "special",
+			"rarity": "mythic",
 			"mana_cost": "{3}{G}{G}{G}",
 			"type": "Spirit Creature — Supernal Beast",
 			"collector_number": "254",
@@ -2552,7 +2552,7 @@
 		},
 		{
 			"name": "Flourishing Atavism",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Life Creature — Supernal Beast",
 			"collector_number": "281",
@@ -2562,7 +2562,7 @@
 		},
 		{
 			"name": "Proliferant Atavism",
-			"rarity": "special",
+			"rarity": "mythic",
 			"mana_cost": "{2}{G}{G}{G}",
 			"type": "Life Creature — Supernal Beast",
 			"collector_number": "282",
@@ -2572,7 +2572,7 @@
 		},
 		{
 			"name": "Scourge of Oblation",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{4}",
 			"type": "Artifact",
 			"collector_number": "353",
@@ -2582,7 +2582,7 @@
 		},
 		{
 			"name": "Profane Urim",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{5}",
 			"type": "Artifact",
 			"collector_number": "352",
@@ -2592,7 +2592,7 @@
 		},
 		{
 			"name": "Astral Astrolabe",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{7}",
 			"type": "Artifact",
 			"collector_number": "348",
@@ -2602,7 +2602,7 @@
 		},
 		{
 			"name": "Coaxing the Spirits",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Spirit Instant",
 			"collector_number": "233",
@@ -2612,7 +2612,7 @@
 		},
 		{
 			"name": "Exorcist's Eye",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Spirit Enchantment — Magesight",
 			"collector_number": "238",
@@ -2622,7 +2622,7 @@
 		},
 		{
 			"name": "Invoke Bane",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Spirit Enchantment — Aura",
 			"collector_number": "240",
@@ -2632,7 +2632,7 @@
 		},
 		{
 			"name": "Know Spirit",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Spirit Instant",
 			"collector_number": "241",
@@ -2642,7 +2642,7 @@
 		},
 		{
 			"name": "Channel Essence",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{G}{hazard.png}",
 			"type": "Spirit Sorcery",
 			"collector_number": "232",
@@ -2652,7 +2652,7 @@
 		},
 		{
 			"name": "Command Spirit",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{X}{G}{hazard.png}",
 			"type": "Spirit Sorcery",
 			"collector_number": "234",
@@ -2662,7 +2662,7 @@
 		},
 		{
 			"name": "Gossamer Touch",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{hazard.png}",
 			"type": "Spirit Enchantment",
 			"collector_number": "239",
@@ -2672,7 +2672,7 @@
 		},
 		{
 			"name": "Slumber",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{G}{hazard.png}",
 			"type": "Spirit Instant",
 			"collector_number": "246",
@@ -2682,7 +2682,7 @@
 		},
 		{
 			"name": "Bolster Spirit",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{X}{G}{hazard.png}",
 			"type": "Spirit Instant",
 			"collector_number": "231",
@@ -2692,7 +2692,7 @@
 		},
 		{
 			"name": "Erode Resonance",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{G}{hazard.png}",
 			"type": "Spirit Instant",
 			"collector_number": "236",
@@ -2702,7 +2702,7 @@
 		},
 		{
 			"name": "Place of Power",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{G}{hazard.png}",
 			"type": "Spirit Enchantment — Aura",
 			"collector_number": "242",
@@ -2712,7 +2712,7 @@
 		},
 		{
 			"name": "Rouse Spirit",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{X}{G}{hazard.png}",
 			"type": "Spirit Instant",
 			"collector_number": "243",
@@ -2722,7 +2722,7 @@
 		},
 		{
 			"name": "Spirit Summons",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{X}{G}{hazard.png}",
 			"type": "Spirit Sorcery",
 			"collector_number": "247",
@@ -2732,7 +2732,7 @@
 		},
 		{
 			"name": "Bind Spirit",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{hazard.png}{hazard.png}",
 			"type": "Spirit Enchantment — Aura",
 			"collector_number": "230",
@@ -2742,7 +2742,7 @@
 		},
 		{
 			"name": "Shadow Scream",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{hazard.png}{hazard.png}",
 			"type": "Spirit Sorcery",
 			"collector_number": "244",
@@ -2752,7 +2752,7 @@
 		},
 		{
 			"name": "Shape Spirit",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{G}{hazard.png}{hazard.png}",
 			"type": "Spirit Sorcery",
 			"collector_number": "245",
@@ -2762,7 +2762,7 @@
 		},
 		{
 			"name": "Twilit Body",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{G}{hazard.png}{hazard.png}",
 			"type": "Spirit Instant",
 			"collector_number": "248",
@@ -2772,7 +2772,7 @@
 		},
 		{
 			"name": "Annihilate Spirit",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{G}{hazard.png}{hazard.png}{hazard.png}",
 			"type": "Spirit Instant",
 			"collector_number": "229",
@@ -2782,7 +2782,7 @@
 		},
 		{
 			"name": "Create Locus",
-			"rarity": "special",
+			"rarity": "mythic",
 			"mana_cost": "{1}{G}{hazard.png}{hazard.png}{hazard.png}",
 			"type": "Spirit Sorcery",
 			"collector_number": "235",
@@ -2792,7 +2792,7 @@
 		},
 		{
 			"name": "Essence Fountain",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{G}{G}{hazard.png}{hazard.png}{hazard.png}",
 			"type": "Spirit Enchantment",
 			"collector_number": "237",
@@ -2802,7 +2802,7 @@
 		},
 		{
 			"name": "Cleanse the Body",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Life Sorcery",
 			"collector_number": "259",
@@ -2812,27 +2812,27 @@
 		},
 		{
 			"name": "Heightened Senses",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Life Instant",
-			"collector_number": "264",
+			"collector_number": "263",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/281.jpg"
 			}
 		},
 		{
 			"name": "Speak With Beasts",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Life Enchantment — Magesight",
-			"collector_number": "274",
+			"collector_number": "273",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/282.jpg"
 			}
 		},
 		{
 			"name": "Web of Life",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Life Instant",
 			"collector_number": "276",
@@ -2842,37 +2842,37 @@
 		},
 		{
 			"name": "Control Instincts",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{G}{G}{hazard.png}",
 			"type": "Life Enchantment — Aura",
-			"collector_number": "261",
+			"collector_number": "260",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/284.jpg"
 			}
 		},
 		{
 			"name": "Lure and Repel",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{G}{hazard.png}",
 			"type": "Life Enchantment — Aura",
-			"collector_number": "267",
+			"collector_number": "266",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/285.jpg"
 			}
 		},
 		{
 			"name": "Mutable Mask",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{hazard.png}",
 			"type": "Life Enchantment — Aura",
-			"collector_number": "270",
+			"collector_number": "269",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/286.jpg"
 			}
 		},
 		{
 			"name": "Bruise Flesh",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{G}{hazard.png}",
 			"type": "Life Sorcery",
 			"collector_number": "258",
@@ -2882,37 +2882,37 @@
 		},
 		{
 			"name": "Degrading the Form",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{G}{hazard.png}",
 			"type": "Life Enchantment — Aura",
-			"collector_number": "263",
+			"collector_number": "262",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/288.jpg"
 			}
 		},
 		{
 			"name": "Honing the Form",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{X}{G}{hazard.png}",
 			"type": "Life Sorcery",
-			"collector_number": "265",
+			"collector_number": "264",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/289.jpg"
 			}
 		},
 		{
 			"name": "Many Faces",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{G}{hazard.png}",
 			"type": "Life Enchantment — Aura",
-			"collector_number": "268",
+			"collector_number": "267",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/290.jpg"
 			}
 		},
 		{
 			"name": "Transform Life",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}{hazard.png}",
 			"type": "Life Enchantment",
 			"collector_number": "275",
@@ -2922,7 +2922,7 @@
 		},
 		{
 			"name": "Accelerate Growth",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{4}{G}{G}{hazard.png}{hazard.png}",
 			"type": "Life Enchantment",
 			"collector_number": "257",
@@ -2932,77 +2932,77 @@
 		},
 		{
 			"name": "Life-Force Assault",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Life Sorcery",
-			"collector_number": "266",
+			"collector_number": "265",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/293.jpg"
 			}
 		},
 		{
 			"name": "Mend",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{G}{G}{hazard.png}{hazard.png}",
 			"type": "Life Instant",
-			"collector_number": "269",
+			"collector_number": "268",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/294.jpg"
 			}
 		},
 		{
-			"name": "Regeneration",
-			"rarity": "special",
+			"name": "Supernal Regeneration",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{hazard.png}",
 			"type": "Life Instant",
-			"collector_number": "271",
+			"collector_number": "274",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/295.jpg"
 			}
 		},
 		{
 			"name": "Shapechanging",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{3}{G}{hazard.png}{hazard.png}",
 			"type": "Life Enchantment — Aura",
-			"collector_number": "273",
+			"collector_number": "272",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/296.jpg"
 			}
 		},
 		{
-			"name": "Contagion",
-			"rarity": "special",
+			"name": "Pandemic",
+			"rarity": "mythic",
 			"mana_cost": "{2}{G}{G}{hazard.png}{hazard.png}{hazard.png}",
 			"type": "Life Enchantment",
-			"collector_number": "260",
+			"collector_number": "270",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/297.jpg"
 			}
 		},
 		{
 			"name": "Create Life",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{G}{G}{G}{hazard.png}{hazard.png}{hazard.png}",
 			"type": "Life Sorcery",
-			"collector_number": "262",
+			"collector_number": "261",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/298.jpg"
 			}
 		},
 		{
 			"name": "Salt the Earth",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{3}{G}{G}{hazard.png}{hazard.png}{hazard.png}",
 			"type": "Life Sorcery",
-			"collector_number": "272",
+			"collector_number": "271",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/299.jpg"
 			}
 		},
 		{
 			"name": "Trained Marine",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Creature — Human Sleeper Soldier",
 			"collector_number": "326",
@@ -3012,7 +3012,7 @@
 		},
 		{
 			"name": "Martial Artist",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Creature — Human Sleeper Monk",
 			"collector_number": "320",
@@ -3022,7 +3022,7 @@
 		},
 		{
 			"name": "Security Guard",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Creature — Human Sleeper Mercenary",
 			"collector_number": "324",
@@ -3032,7 +3032,7 @@
 		},
 		{
 			"name": "Street Thug",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Creature — Human Sleeper Rogue",
 			"collector_number": "325",
@@ -3042,7 +3042,7 @@
 		},
 		{
 			"name": "Mystery Cult Leader",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Creature — Human Sleeper Ally",
 			"collector_number": "321",
@@ -3052,7 +3052,7 @@
 		},
 		{
 			"name": "City Bureaucrat",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Creature — Human Sleeper Citizen",
 			"collector_number": "318",
@@ -3062,7 +3062,7 @@
 		},
 		{
 			"name": "Corrupt Cop",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Creature — Human Sleeper Detective",
 			"collector_number": "319",
@@ -3072,7 +3072,7 @@
 		},
 		{
 			"name": "Rummaging Vagrant",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Creature — Human Sleeper Nomad",
 			"collector_number": "323",
@@ -3082,7 +3082,7 @@
 		},
 		{
 			"name": "University Professor",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Creature — Human Sleeper Scientist",
 			"collector_number": "327",
@@ -3092,7 +3092,7 @@
 		},
 		{
 			"name": "Punk Vandal",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Creature — Human Sleeper Rebel",
 			"collector_number": "322",
@@ -3102,7 +3102,7 @@
 		},
 		{
 			"name": "Blessed Retainer",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Creature — Human Sleepwalker Ally",
 			"collector_number": "290",
@@ -3112,7 +3112,7 @@
 		},
 		{
 			"name": "Xenobiologist",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Sleepwalker Doctor",
 			"collector_number": "317",
@@ -3122,7 +3122,7 @@
 		},
 		{
 			"name": "Time Traveler",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Sleepwalker Advisor",
 			"collector_number": "309",
@@ -3132,7 +3132,7 @@
 		},
 		{
 			"name": "Zealous Interceptor",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Sleepwalker Hero",
 			"collector_number": "315",
@@ -3142,7 +3142,7 @@
 		},
 		{
 			"name": "Gruesome Graverobber",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Sleepwalker Scout",
 			"collector_number": "313",
@@ -3152,7 +3152,7 @@
 		},
 		{
 			"name": "Willing Test Subject",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Sleepwalker Survivor",
 			"collector_number": "316",
@@ -3162,7 +3162,7 @@
 		},
 		{
 			"name": "Destined One",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{2/W}",
 			"type": "Creature — Human Sleepwalker Mystic",
 			"collector_number": "308",
@@ -3172,7 +3172,7 @@
 		},
 		{
 			"name": "Psychic Medium",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Sleepwalker Shaman",
 			"collector_number": "311",
@@ -3182,7 +3182,7 @@
 		},
 		{
 			"name": "Paranormal Skeptic",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Sleepwalker Inquisitor",
 			"collector_number": "314",
@@ -3192,7 +3192,7 @@
 		},
 		{
 			"name": "Elite Hacker",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Creature — Human Sleepwalker Pirate",
 			"collector_number": "310",
@@ -3202,7 +3202,7 @@
 		},
 		{
 			"name": "Nosferatu Horror",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{4}",
 			"type": "Creature — Vampire Horror",
 			"collector_number": "300",
@@ -3212,7 +3212,7 @@
 		},
 		{
 			"name": "Mekhet Secret Trader",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{4}",
 			"type": "Creature — Vampire Rogue",
 			"collector_number": "299",
@@ -3222,7 +3222,7 @@
 		},
 		{
 			"name": "Gangrel Brawler",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{4}",
 			"type": "Creature — Vampire Warrior",
 			"collector_number": "295",
@@ -3232,7 +3232,7 @@
 		},
 		{
 			"name": "Daeva Acolyte",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{4}",
 			"type": "Creature — Vampire Warlock",
 			"collector_number": "294",
@@ -3242,7 +3242,7 @@
 		},
 		{
 			"name": "Ventrue Prince",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Creature — Vampire Noble",
 			"collector_number": "306",
@@ -3252,7 +3252,7 @@
 		},
 		{
 			"name": "Spring Court Beast",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Creature — Human Faerie Giant",
 			"collector_number": "301",
@@ -3262,7 +3262,7 @@
 		},
 		{
 			"name": "Autumn Court Elemental",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Creature — Human Faerie Ranger",
 			"collector_number": "288",
@@ -3272,7 +3272,7 @@
 		},
 		{
 			"name": "Winter Court Darkling",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Creature — Human Faerie Rogue",
 			"collector_number": "307",
@@ -3282,7 +3282,7 @@
 		},
 		{
 			"name": "Spring Court Fairest",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Creature — Human Faerie Shaman",
 			"collector_number": "302",
@@ -3292,7 +3292,7 @@
 		},
 		{
 			"name": "Summer Court Wizened",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Creature — Human Faerie Artificer",
 			"collector_number": "304",
@@ -3302,7 +3302,7 @@
 		},
 		{
 			"name": "Autumn Court Ogre",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Creature — Human Faerie Ogre",
 			"collector_number": "289",
@@ -3312,7 +3312,7 @@
 		},
 		{
 			"name": "Blood Talon Ripper",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{4}",
 			"type": "Creature — Human Shapeshifter",
 			"collector_number": "291",
@@ -3322,7 +3322,7 @@
 		},
 		{
 			"name": "Bone Shadow Binder",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{4}",
 			"type": "Creature — Human Shapeshifter",
 			"collector_number": "292",
@@ -3332,7 +3332,7 @@
 		},
 		{
 			"name": "Hunter in Darkness",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{4}",
 			"type": "Creature — Human Shapeshifter",
 			"collector_number": "296",
@@ -3342,7 +3342,7 @@
 		},
 		{
 			"name": "Iron Master Warden",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{4}",
 			"type": "Creature — Human Shapeshifter",
 			"collector_number": "297",
@@ -3352,7 +3352,7 @@
 		},
 		{
 			"name": "Storm Lord Howler",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{4}",
 			"type": "Creature — Human Shapeshifter",
 			"collector_number": "303",
@@ -3362,7 +3362,7 @@
 		},
 		{
 			"name": "Illusory Grizzly",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Prime Creature — Bear Illusion",
 			"collector_number": "194",
@@ -3372,7 +3372,7 @@
 		},
 		{
 			"name": "Illusory Tyrannosaur",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{2}{R}{R}{hazard.png}",
 			"type": "Prime Creature — Dinosaur Illusion",
 			"collector_number": "197",
@@ -3382,7 +3382,7 @@
 		},
 		{
 			"name": "Illusory Drake",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{R}{hazard.png}",
 			"type": "Prime Creature — Drake Illusion",
 			"collector_number": "193",
@@ -3392,7 +3392,7 @@
 		},
 		{
 			"name": "Illusory Monster",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{2}{R}{hazard.png}",
 			"type": "Prime Creature — Horror Illusion",
 			"collector_number": "195",
@@ -3402,7 +3402,7 @@
 		},
 		{
 			"name": "Illusory Recluse",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{R}{hazard.png}",
 			"type": "Prime Creature — Spider Illusion",
 			"collector_number": "196",
@@ -4012,7 +4012,7 @@
 		},
 		{
 			"name": "Tass",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Tass",
 			"collector_number": "23",
@@ -4022,7 +4022,7 @@
 		},
 		{
 			"name": "Human Sleeper Cult",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Human Sleeper Cult",
 			"collector_number": "13",
@@ -4032,7 +4032,7 @@
 		},
 		{
 			"name": "Familiar",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Legendary Spirit Creature — Familiar",
 			"collector_number": "3",
@@ -4042,7 +4042,7 @@
 		},
 		{
 			"name": "Insect",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Insect",
 			"collector_number": "6",
@@ -4052,7 +4052,7 @@
 		},
 		{
 			"name": "Mouse",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Mouse",
 			"collector_number": "7",
@@ -4062,7 +4062,7 @@
 		},
 		{
 			"name": "Dinosaur",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Dinosaur",
 			"collector_number": "5",
@@ -4072,7 +4072,7 @@
 		},
 		{
 			"name": "Nightmare",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Enchantment Creature — Nightmare",
 			"collector_number": "8",
@@ -4082,7 +4082,7 @@
 		},
 		{
 			"name": "Mote",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Spirit Creature — Mote",
 			"collector_number": "4",
@@ -4092,7 +4092,7 @@
 		},
 		{
 			"name": "Spider",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Spider",
 			"collector_number": "12",
@@ -4102,7 +4102,7 @@
 		},
 		{
 			"name": "Assault Rifle",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Equipment",
 			"collector_number": "17",
@@ -4112,7 +4112,7 @@
 		},
 		{
 			"name": "Human Sleeper Rogue",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Human Sleeper Rogue",
 			"collector_number": "14",
@@ -4122,7 +4122,7 @@
 		},
 		{
 			"name": "Residue of Viirrax",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Enchantment",
 			"collector_number": "24",
@@ -4132,7 +4132,7 @@
 		},
 		{
 			"name": "Spawn",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Spawn",
 			"collector_number": "26",
@@ -4142,7 +4142,7 @@
 		},
 		{
 			"name": "Scion",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Scion",
 			"collector_number": "25",
@@ -4152,7 +4152,7 @@
 		},
 		{
 			"name": "Junk",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Junk",
 			"collector_number": "21",
@@ -4162,7 +4162,7 @@
 		},
 		{
 			"name": "Food",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Food",
 			"collector_number": "20",
@@ -4172,7 +4172,7 @@
 		},
 		{
 			"name": "Map",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Map",
 			"collector_number": "22",
@@ -4182,7 +4182,7 @@
 		},
 		{
 			"name": "Blood",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Blood",
 			"collector_number": "19",
@@ -4192,7 +4192,7 @@
 		},
 		{
 			"name": "Copy",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token",
 			"collector_number": "18",
@@ -4202,7 +4202,7 @@
 		},
 		{
 			"name": "Ooze",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Ooze",
 			"collector_number": "9",
@@ -4212,17 +4212,17 @@
 		},
 		{
 			"name": "Sever Oaths",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{2}{W}{hazard.png}",
 			"type": "Fate Enchantment — Class",
-			"collector_number": "15",
+			"collector_number": "14",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/421.jpg"
 			}
 		},
 		{
 			"name": "Illusion",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Illusion",
 			"collector_number": "11",
@@ -4232,7 +4232,7 @@
 		},
 		{
 			"name": "Vampire",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Vampire",
 			"collector_number": "10",
@@ -4242,7 +4242,7 @@
 		},
 		{
 			"name": "Brain Donor",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Sleepwalker Artificer",
 			"collector_number": "312",
@@ -4252,7 +4252,7 @@
 		},
 		{
 			"name": "Familiar Merit",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Merit",
 			"collector_number": "338",
@@ -4262,7 +4262,7 @@
 		},
 		{
 			"name": "Bibliotheca Occulta",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Merit",
 			"collector_number": "334",
@@ -4272,7 +4272,7 @@
 		},
 		{
 			"name": "City Hall",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Merit",
 			"collector_number": "335",
@@ -4282,7 +4282,7 @@
 		},
 		{
 			"name": "Dining District",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Merit",
 			"collector_number": "337",
@@ -4292,7 +4292,7 @@
 		},
 		{
 			"name": "Consilium Convocation",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Merit",
 			"collector_number": "336",
@@ -4302,7 +4302,7 @@
 		},
 		{
 			"name": "Mob Hideout",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Merit",
 			"collector_number": "341",
@@ -4312,7 +4312,7 @@
 		},
 		{
 			"name": "News Outlet",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Merit",
 			"collector_number": "343",
@@ -4322,7 +4322,7 @@
 		},
 		{
 			"name": "Precinct Headquarters",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Merit",
 			"collector_number": "344",
@@ -4332,7 +4332,7 @@
 		},
 		{
 			"name": "Sanctum Sanctorum",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Merit",
 			"collector_number": "345",
@@ -4342,7 +4342,7 @@
 		},
 		{
 			"name": "Sanitation Plant",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Merit",
 			"collector_number": "346",
@@ -4352,7 +4352,7 @@
 		},
 		{
 			"name": "Bantam Imp",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Space Creature — Supernal Demon",
 			"collector_number": "106",
@@ -4362,17 +4362,17 @@
 		},
 		{
 			"name": "Fools Rush In",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{W}{hazard.png}",
 			"type": "Fate Sorcery",
-			"collector_number": "7",
+			"collector_number": "6",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/436.jpg"
 			}
 		},
 		{
 			"name": "Void",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Land",
 			"collector_number": "27",
@@ -4382,7 +4382,7 @@
 		},
 		{
 			"name": "Wisdom",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "",
 			"collector_number": "2",
@@ -4392,7 +4392,7 @@
 		},
 		{
 			"name": "Hubris",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "",
 			"collector_number": "1",
@@ -4402,7 +4402,7 @@
 		},
 		{
 			"name": "Construct",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Construct",
 			"collector_number": "15",
@@ -4412,7 +4412,7 @@
 		},
 		{
 			"name": "Locus",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Land — Plains Island Swamp Mountain Forest",
 			"collector_number": "16",
@@ -4422,419 +4422,361 @@
 		}
 	]
 
-[cube(15)]
-	1 Interconnections
-	1 Oaths Fulfilled
-	1 Serendipity
-	1 Exceptional Luck
-	1 Fabricate Fortune
-	1 Shifting the Odds
-	1 Grave Misfortune
-	1 Monkey's Paw
-	1 Shared Fate
-	1 Sworn Oaths
-	1 Atonement
-	1 Chaos Mastery
-	1 Divine Intervention
-	1 Strings of Fate
-	1 Forge Destiny
-	1 Miracle
-	1 Anathema
-	1 Swarm of Locusts
-	1 Bonis Avibus
-	1 Quo Fata Ferunt
-	1 Ceteris Paribus
-	1 Terminus Ad Quem
-	1 Audentes Fortuna Iuvat
-	1 Capricious Moira
-	1 Volatile Moira
-	1 Capacious Imp
-	1 Mercurian Mantis
-	1 Nibiruan Cnidomorph
-	1 Enceladean Slime
-	1 Pleiadian Explorer
-	1 Ionian Arcanophage
-	1 Light Elemental
-	1 Sonic Elemental
-	1 Gravity Elemental
-	1 Electricity Elemental
-	1 Heat Elemental
-	1 A Forgotten Memory
-	1 A Gruesome Murder
-	1 A Poor Child's Hunger
-	1 An Implacable Angst
-	1 An Untold Secret
-	1 Ambrosial Behemoth
-	1 Bloodpetal Bramble
-	1 Rampaging Rhinoceros
-	1 Carcinizing Crustacean
-	1 Broodling Mother
-	1 Goetia of Pride
-	1 Goetia of Wrath
-	1 Goetia of Gluttony
-	1 Goetia of Sloth
-	1 Goetia of Envy
-	1 Erupting Carcass
-	1 Resonant Corpse
-	1 Pesky Poltergeist
-	1 Tethered Soul
-	1 Insatiable Ghast
-	1 Surveillance Drone Mark IV
-	1 Autoguardian Mark VI
-	1 Antimatter Field
-	1 Brick Barricade
-	1 Crystalline Seal
-	1 The Adamantine Arrow
-	1 The Silver Ladder
-	1 The Free Council
-	1 The Guardians of the Veil
-	1 The Mysterium
-	1 Talon Medal
-	1 Théarch Badge
-	1 Libertine Invitation
-	1 Guardian Memento
-	1 Mystagogue Trinket
-	1 Abandoned Wending
-	1 Historical Monument
-	1 Languid Cul-de-sac
-	1 Psionic Skyscraper
-	1 Vacant Lot
-	1 Desecrated Graveyard
-	1 Contaminated Scrapyard
-	1 Sacred Temple
-	1 Thrumming Substation
-	1 Pristine Parkland
-	1 Undeveloped Overgrowth
-	1 Lucifuge Descendent
-	1 Aegis Kai Doru Archivist
-	1 Cheiron Grafter
-	1 Task Force Commando
-	1 Ashwood Abbot
-	1 Zeka Monstrosity
-	1 Galateid Muse
-	1 Patchwork Wretched
-	1 Tammuz Golem
-	1 Distant Future
-	1 Leap Second
-	1 Atlantean Age
-	1 Solstice Sunset
-	1 Mesozoic Era
-	1 Deepen Shadows
-	1 Forensic Gaze
-	1 Shadow Sculpting
-	1 Soul Marks
-	1 Decay
-	1 Ghost Shield
-	1 Soul Armor
-	1 Suppress Life
-	1 Devouring the Slain
-	1 Ghost Gate
-	1 Quicken Corpse
-	1 Shadow Crafting
-	1 Enervation
-	1 Exorcism
-	1 Unearth Revenant
-	1 Shadow Flesh
-	1 Withering
-	1 Create Avernian Gate
-	1 Deny the Reaper
-	1 Empty Presence
-	1 Artisan's Eye
-	1 Detect Substance
-	1 Remote Control
-	1 Alchemist's Touch
-	1 Hidden Hoard
-	1 Machine Invisibility
-	1 Shaping
-	1 Alter Conductivity
-	1 Crucible
-	1 Windstrike
-	1 Golem
-	1 Endless Bounty
-	1 Supernal Forging
-	1 Ghostwall
-	1 Wonderful Machine
-	1 Piercing Earth
-	1 Transubstantiation
-	1 Annihilate Matter
-	1 Ex Nihilo
-	1 Self-Repairing Machine
-	1 Know Nature
-	1 Mental Scan
-	1 One Mind, Two Thoughts
-	1 Perfect Recall
-	1 Alter Mental Pattern
-	1 Memory Hole
-	1 Mental Shield
-	1 Psychic Domination
-	1 Supernal Telepathy
-	1 Augment Mind
-	1 Psychic Assault
-	1 Read the Depths
-	1 Universal Language
-	1 Mind Flay
-	1 Possession
-	1 Hallucination
-	1 Terrorize
-	1 Mind Wipe
-	1 Psychic Genesis
-	1 Social Networking
-	1 Correspondence
-	1 Ground Eater
-	1 Isolation
-	1 Locate Object
-	1 The Outward and Inward Eye
-	1 Lying Maps
-	1 Break Boundary
-	1 Ward
-	1 Ban
-	1 Co-Location
-	1 Perfect Sympathy
-	1 Warp
-	1 Alter Direction
-	1 Collapse
-	1 Cut Threads
-	1 Teleportation
-	1 Forge No Chains
-	1 Pocket Dimension
-	1 Quarantine
-	1 Unnaming
-	1 Dispel Magic
-	1 Nimbus Tuning
-	1 Pierce Deception
-	1 Sacred Geometry
-	1 Supernal Vision
-	1 As Above, So Below
-	1 Invisible Runes
-	1 Nimbus Forgery
-	1 Words of Truth
-	1 Aetheric Winds
-	1 Display of Gnosis
-	1 Mana Battery
-	1 Celestial Fire
-	1 Destroy Tass
-	1 Hallow Dance
-	1 Primal Transfer
-	1 Supernal Dispellation
-	1 Blasphemy
-	1 Create Truth
-	1 Word of Unmaking
-	1 Arcadian Robes
-	1 Pandemonic Casque
-	1 Aethereal Targe
-	1 Stygian Gauntlet
-	1 Primal Longbow
-	1 Supernal Divination
-	1 Green Light/Red Light
-	1 Momentary Flux
-	1 Perfect Timing
-	1 Choose the Thread
-	1 Constant Presence
-	1 Shield of Chronos
-	1 Veil of Moments
-	1 Acceleration
-	1 Chronos' Curse
-	1 Shifting Sands
-	1 Temporal Summoning
-	1 Weight of Years
-	1 Present as Past
-	1 Supernal Prophecy
-	1 Temporal Stutter
-	1 Corridors of Time
-	1 Rewrite History
-	1 Blink of an Eye
-	1 Temporal Pocket
-	1 Influence Electricity
-	1 Kinetic Efficiency
-	1 Nightvision
-	1 Tune In
-	1 Control Electricity
-	1 Control Fire
-	1 Control Gravity
-	1 Environmental Shield
-	1 Invisibility
-	1 Kinetic Blow
-	1 Call Lightning
-	1 Telekinetic Strike
-	1 Velocity Control
-	1 Gravitic Levitation
-	1 Rend Friction
-	1 Transform Energy
-	1 Adverse Weather
-	1 Create Energy
-	1 Seismic Tremors
-	1 Eradicate Energy
-	1 Shifting Anachronism
-	1 Splitting Anachronism
-	1 Psychic Wraith
-	1 Noetic Wraith
-	1 Disintegrating Spectre
-	1 Pernicious Spectre
-	1 Resilient Apeiron
-	1 Replicating Apeiron
-	1 Intransigent Cherub
-	1 Exuberant Cherub
-	1 Amplifying Seraph
-	1 Vengeful Seraph
-	1 Barbarous Totem
-	1 Rapacious Totem
-	1 Flourishing Atavism
-	1 Proliferant Atavism
-	1 Scourge of Oblation
-	1 Profane Urim
-	1 Astral Astrolabe
-	1 Coaxing the Spirits
-	1 Exorcist's Eye
-	1 Invoke Bane
-	1 Know Spirit
-	1 Channel Essence
-	1 Command Spirit
-	1 Gossamer Touch
-	1 Slumber
-	1 Bolster Spirit
-	1 Erode Resonance
-	1 Place of Power
-	1 Rouse Spirit
-	1 Spirit Summons
-	1 Bind Spirit
-	1 Shadow Scream
-	1 Shape Spirit
-	1 Twilit Body
-	1 Annihilate Spirit
-	1 Create Locus
-	1 Essence Fountain
-	1 Cleanse the Body
-	1 Heightened Senses
-	1 Speak With Beasts
-	1 Web of Life
-	1 Control Instincts
-	1 Lure and Repel
-	1 Mutable Mask
-	1 Bruise Flesh
-	1 Degrading the Form
-	1 Honing the Form
-	1 Many Faces
-	1 Transform Life
-	1 Accelerate Growth
-	1 Life-Force Assault
-	1 Mend
-	1 Regeneration
-	1 Shapechanging
-	1 Contagion
-	1 Create Life
-	1 Salt the Earth
-	1 Trained Marine
-	1 Martial Artist
-	1 Security Guard
-	1 Street Thug
-	1 Mystery Cult Leader
-	1 City Bureaucrat
-	1 Corrupt Cop
-	1 Rummaging Vagrant
-	1 University Professor
-	1 Punk Vandal
-	1 Blessed Retainer
-	1 Xenobiologist
-	1 Time Traveler
-	1 Zealous Interceptor
-	1 Gruesome Graverobber
-	1 Willing Test Subject
-	1 Destined One
-	1 Psychic Medium
-	1 Paranormal Skeptic
-	1 Elite Hacker
-	1 Nosferatu Horror
-	1 Mekhet Secret Trader
-	1 Gangrel Brawler
-	1 Daeva Acolyte
-	1 Ventrue Prince
-	1 Spring Court Beast
-	1 Autumn Court Elemental
-	1 Winter Court Darkling
-	1 Spring Court Fairest
-	1 Summer Court Wizened
-	1 Autumn Court Ogre
-	1 Blood Talon Ripper
-	1 Bone Shadow Binder
-	1 Hunter in Darkness
-	1 Iron Master Warden
-	1 Storm Lord Howler
-	1 Illusory Grizzly
-	1 Illusory Tyrannosaur
-	1 Illusory Drake
-	1 Illusory Monster
-	1 Illusory Recluse
-	1 Abyssal Backlash
-	1 Abyssal Rebuke
-	1 Abyssal Shock
-	1 Mental Aberration
-	1 Mental Anomaly
-	1 Mental Regression
-	1 Void Pocket
-	1 Void Bubble
-	1 Void Episode
-	1 Creeping End
-	1 Seeping End
-	1 Weeping End
-	1 Null Resonance
-	1 Reality Erasure
-	1 Reality Decay
-	1 Reality Erosion
-	1 Faulty Imago
-	1 Nothingness
-	1 Abyssal Wave
-	1 Cognitive Dissonance
-	1 Cerebral Dissonance
-	1 Flawed Imago
-	1 Voidwrought Reckoning
-	1 Spraxedar's Soul
-	1 Kurkemach, Hastened End
-	1 Inviolate Substance
-	1 Ixa, Recursive Void
-	1 Engraneg, Thrice Nothing
-	1 Noalmaunun, Moment Eater
-	1 Narrowing
-	1 Prince of 100,000 Leaves
-	1 Supervene Reality
-	1 Nimbus Fragment
-	1 Nimbus Shard
-	1 Nimbus Shrapnel
-	1 Dorrarech, Soul Drinker
-	1 Abyssal Pox
-	1 Abyssal Blight
-	1 Abyssal Drain
-	1 Annuledes, Veiled Unthing
-	1 Irrememberance
-	1 Soul Nullifier
-	1 Expose Soul
-	1 Fwdre, Viral Assertion
-	1 Goroldoth, Marrow Borrower
-	1 Oracle's Will
-	1 Deletion
-	1 Essence Inversion
-	1 Thought Drought
-	1 Nrôrn, Truth Denied
-	1 Oun, Bifurcation Dæmon
-	1 Mental Flush
-	1 Idea Infection
-	1 Viirrax, Imago Collapse
-	1 Yytromox, from Without
-	1 Watchtower of the Lunargent Thorn
-	1 Watchtower of the Iron Gauntlet
-	1 Watchtower of the Lead Coin
-	1 Watchtower of the Singing Stone
-	1 Watchtower of the Golden Key
-	1 Sever Oaths
-	1 Brain Donor
-	1 Familiar Merit
-	1 Bibliotheca Occulta
-	1 City Hall
-	1 Dining District
-	1 Consilium Convocation
-	1 Mob Hideout
-	1 News Outlet
-	1 Precinct Headquarters
-	1 Sanctum Sanctorum
-	1 Sanitation Plant
-	1 Bantam Imp
-	1 Fools Rush In
+[rare(1)]
+	5 Exceptional Luck
+	5 Monkey's Paw
+	5 Supernal Intervention
+	5 Miracle
+	5 Quo Fata Ferunt
+	5 Volatile Moira
+	5 Capacious Imp
+	5 Pleiadian Explorer
+	5 Sonic Elemental
+	5 An Untold Secret
+	5 Rampaging Rhinoceros
+	5 Goetia of Gluttony
+	5 Resonant Corpse
+	5 Autoguardian Mark VI
+	5 Abandoned Wending
+	5 Task Force Commando
+	5 Zeka Monstrosity
+	5 Atlantean Age
+	5 Decay
+	5 Quicken Corpse
+	5 Enervation
+	5 Shadow Flesh
+	5 Empty Presence
+	5 Machine Invisibility
+	5 Shaping
+	5 Ghostwall
+	5 Wonderful Machine
+	5 Self-Repairing Machine
+	5 Supernal Telepathy
+	5 Read the Depths
+	5 Universal Language
+	5 Mind Flay
+	5 Possession
+	5 Ground Eater
+	5 Co-Location
+	5 Collapse
+	5 Teleportation
+	5 Pocket Dimension
+	5 Aetheric Winds
+	5 Mana Battery
+	5 Celestial Fire
+	5 Hallow Dance
+	5 Blasphemy
+	5 Momentary Flux
+	5 Constant Presence
+	5 Acceleration
+	5 Shifting Sands
+	5 Split Second
+	5 Control Gravity
+	5 Kinetic Blow
+	5 Velocity Control
+	5 Rend Friction
+	5 Adverse Weather
+	5 Splitting Anachronism
+	5 Noetic Wraith
+	5 Pernicious Spectre
+	5 Replicating Apeiron
+	5 Exuberant Cherub
+	5 Vengeful Seraph
+	5 Rapacious Totem
+	5 Proliferant Atavism
+	5 Astral Astrolabe
+	5 Channel Essence
+	5 Place of Power
+	5 Spirit Summons
+	5 Shape Spirit
+	5 Create Locus
+	5 Control Instincts
+	5 Honing the Form
+	5 Accelerate Growth
+	5 Shapechanging
+	5 Pandemic
+	5 Ventrue Prince
+	5 Illusory Monster
+	5 Sever Oaths
+[uncommon(3)]
+	5 Oaths Fulfilled
+	5 Fabricate Fortune
+	5 Shifting the Odds
+	5 Grave Misfortune
+	5 Shared Destinies
+	5 Sworn Oaths
+	5 Atonement
+	5 Strings of Fate
+	5 Forge Destiny
+	5 Historical Monument
+	5 Languid Cul-de-sac
+	5 Psionic Skyscraper
+	5 Vacant Lot
+	5 Desecrated Graveyard
+	5 Contaminated Scrapyard
+	5 Sacred Temple
+	5 Thrumming Substation
+	5 Pristine Parkland
+	5 Undeveloped Overgrowth
+	5 Galateid Muse
+	5 Patchwork Wretched
+	5 Tammuz Golem
+	5 Deepen Shadows
+	5 Shadow Sculpting
+	5 Ghost Shield
+	5 Soul Armor
+	5 Suppress Life
+	5 Devouring the Slain
+	5 Ghost Gate
+	5 Shadow Crafting
+	5 Exorcism
+	5 Withering
+	5 Remote Control
+	5 Alchemist's Touch
+	5 Hidden Hoard
+	5 Alter Conductivity
+	5 Crucible
+	5 Windstrike
+	5 Golem
+	5 Endless Bounty
+	5 Supernal Forging
+	5 Piercing Earth
+	5 Mental Scan
+	5 One Mind, Two Thoughts
+	5 Alter Mental Pattern
+	5 Memory Hole
+	5 Mental Shield
+	5 Psychic Domination
+	5 Augment Mind
+	5 Psychic Assault
+	5 Terrorize
+	5 Social Networking
+	5 Isolation
+	5 Locate Object
+	5 Lying Maps
+	5 Break Boundary
+	5 Ward
+	5 Ban
+	5 Perfect Sympathy
+	5 Alter Direction
+	5 Cut Threads
+	5 Quarantine
+	5 Nimbus Tuning
+	5 Pierce Deception
+	5 Sacred Geometry
+	5 As Above, So Below
+	5 Invisible Runes
+	5 Nimbus Forgery
+	5 Words of Truth
+	5 Display of Gnosis
+	5 Primal Transfer
+	5 Supernal Dispellation
+	5 Arcadian Robes
+	5 Pandemonic Casque
+	5 Aethereal Targe
+	5 Stygian Gauntlet
+	5 Primal Longbow
+	5 Green Light/Red Light
+	5 Choose the Thread
+	5 Shield of Chronos
+	5 Veil of Moments
+	5 Chronos' Curse
+	5 Temporal Summoning
+	5 Weight of Years
+	5 Supernal Prophecy
+	5 Temporal Stutter
+	5 Corridors of Time
+	5 Influence Electricity
+	5 Kinetic Efficiency
+	5 Control Electricity
+	5 Control Fire
+	5 Environmental Shield
+	5 Supernal Invisibility
+	5 Call Lightning
+	5 Telekinetic Strike
+	5 Gravitic Levitation
+	5 Seismic Tremors
+	5 Scourge of Oblation
+	5 Coaxing the Spirits
+	5 Invoke Bane
+	5 Command Spirit
+	5 Gossamer Touch
+	5 Slumber
+	5 Bolster Spirit
+	5 Erode Resonance
+	5 Rouse Spirit
+	5 Bind Spirit
+	5 Shadow Scream
+	5 Cleanse the Body
+	5 Heightened Senses
+	5 Lure and Repel
+	5 Mutable Mask
+	5 Bruise Flesh
+	5 Degrading the Form
+	5 Many Faces
+	5 Transform Life
+	5 Life-Force Assault
+	5 Supernal Regeneration
+	5 Blessed Retainer
+	5 Xenobiologist
+	5 Time Traveler
+	5 Zealous Interceptor
+	5 Gruesome Graverobber
+	5 Willing Test Subject
+	5 Destined One
+	5 Psychic Medium
+	5 Paranormal Skeptic
+	5 Elite Hacker
+	5 Brain Donor
+	5 Familiar Merit
+	5 Bibliotheca Occulta
+	5 City Hall
+	5 Dining District
+	5 Consilium Convocation
+	5 Mob Hideout
+	5 News Outlet
+	5 Precinct Headquarters
+	5 Sanctum Sanctorum
+	5 Sanitation Plant
+	5 Fools Rush In
+[common(10)]
+	5 Interconnections
+	5 Serendipity
+	5 Chaos Mastery
+	5 Anathema
+	5 Swarm of Locusts
+	5 Bonis Avibus
+	5 Ceteris Paribus
+	5 Terminus Ad Quem
+	5 Audentes Fortuna Iuvat
+	5 Capricious Moira
+	5 Mercurian Mantis
+	5 Nibiruan Cnidomorph
+	5 Enceladean Slime
+	5 Ionian Arcanophage
+	5 Light Elemental
+	5 Gravity Elemental
+	5 Electricity Elemental
+	5 Heat Elemental
+	5 A Forgotten Memory
+	5 A Gruesome Murder
+	5 A Poor Child's Hunger
+	5 An Implacable Angst
+	5 Ambrosial Behemoth
+	5 Bloodpetal Bramble
+	5 Carcinizing Crustacean
+	5 Broodling Mother
+	5 Goetia of Pride
+	5 Goetia of Wrath
+	5 Goetia of Sloth
+	5 Goetia of Envy
+	5 Erupting Carcass
+	5 Pesky Poltergeist
+	5 Tethered Soul
+	5 Insatiable Ghast
+	5 Surveillance Drone Mark IV
+	5 Antimatter Field
+	5 Brick Barricade
+	5 Crystalline Seal
+	5 The Adamantine Arrow
+	5 The Silver Ladder
+	5 The Free Council
+	5 The Guardians of the Veil
+	5 The Mysterium
+	5 Talon Medal
+	5 Théarch Badge
+	5 Libertine Invitation
+	5 Guardian Memento
+	5 Mystagogue Trinket
+	5 Lucifuge Descendent
+	5 Aegis Kai Doru Archivist
+	5 Cheiron Grafter
+	5 Ashwood Abbot
+	5 Distant Future
+	5 Leap Second
+	5 Solstice Sunset
+	5 Mesozoic Era
+	5 Forensic Gaze
+	5 Soul Marks
+	5 Unearth Revenant
+	5 Create Avernian Gate
+	5 Deny the Reaper
+	5 Artisan's Eye
+	5 Detect Substance
+	5 Transubstantiation
+	5 Annihilate Matter
+	5 Ex Nihilo
+	5 Know Nature
+	5 Perfect Recall
+	5 Hallucination
+	5 Mind Wipe
+	5 Psychic Genesis
+	5 Correspondence
+	5 The Outward and Inward Eye
+	5 Warp
+	5 Forge No Chains
+	5 Unnaming
+	5 Dispel Magic
+	5 Supernal Vision
+	5 Destroy Tass
+	5 Create Truth
+	5 Word of Unmaking
+	5 Supernal Divination
+	5 Perfect Timing
+	5 Present as Past
+	5 Rewrite History
+	5 Temporal Pocket
+	5 Nightvision
+	5 Tune In
+	5 Transform Energy
+	5 Create Energy
+	5 Eradicate Energy
+	5 Shifting Anachronism
+	5 Psychic Wraith
+	5 Disintegrating Spectre
+	5 Resilient Apeiron
+	5 Intransigent Cherub
+	5 Amplifying Seraph
+	5 Barbarous Totem
+	5 Flourishing Atavism
+	5 Profane Urim
+	5 Exorcist's Eye
+	5 Know Spirit
+	5 Twilit Body
+	5 Annihilate Spirit
+	5 Essence Fountain
+	5 Speak With Beasts
+	5 Web of Life
+	5 Mend
+	5 Create Life
+	5 Salt the Earth
+	5 Trained Marine
+	5 Martial Artist
+	5 Security Guard
+	5 Street Thug
+	5 Mystery Cult Leader
+	5 City Bureaucrat
+	5 Corrupt Cop
+	5 Rummaging Vagrant
+	5 University Professor
+	5 Punk Vandal
+	5 Nosferatu Horror
+	5 Mekhet Secret Trader
+	5 Gangrel Brawler
+	5 Daeva Acolyte
+	5 Spring Court Beast
+	5 Autumn Court Elemental
+	5 Winter Court Darkling
+	5 Spring Court Fairest
+	5 Summer Court Wizened
+	5 Autumn Court Ogre
+	5 Blood Talon Ripper
+	5 Bone Shadow Binder
+	5 Hunter in Darkness
+	5 Iron Master Warden
+	5 Storm Lord Howler
+	5 Illusory Grizzly
+	5 Illusory Tyrannosaur
+	5 Illusory Drake
+	5 Illusory Recluse
+	5 Bantam Imp
