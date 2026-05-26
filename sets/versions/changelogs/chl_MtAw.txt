@@ -1,4 +1,1108 @@
-﻿VERSION 13 CHANGELOG
+﻿VERSION 14 CHANGELOG
+====================
+
+Voluntary Trial Subject added.
+Municipal Center added.
+
+Willing Test Subject removed.
+City Hall removed.
+
+Exceptional Luck
+cost: {2}{W}{hazard.png} => {2}{W}{V}
+
+Fabricate Fortune
+cost: {1}{W}{hazard.png} => {1}{W}{V}
+
+Grave Misfortune
+cost: {1}{W}{hazard.png} => {1}{W}{V}
+
+Monkey's Paw
+cost: {W}{hazard.png} => {W}{V}
+
+Shared Destinies
+cost: {2}{W}{hazard.png} => {2}{W}{V}
+rules_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+Whenever you lose life, each opponent loses 1 life.
+{1}{W}: Level 2
+Whenever a creature you control dies for the first time each turn, each opponent sacrifices a creature.
+{1}{W}: Level 3
+Whenever a creature an opponent controls enters for the first time each turn, you may cast a creature spell from your hand without paying its mana cost. [i](You still pay any {hazard.png} cost.)[/i] => [i](Gain the next level as a sorcery to add its ability.)[/i]
+Whenever you lose life, each opponent loses 1 life.
+{1}{W}: Level 2
+Whenever a creature you control dies for the first time each turn, each opponent sacrifices a creature.
+{1}{W}: Level 3
+Whenever a creature an opponent controls enters for the first time each turn, you may cast a creature spell from your hand without paying its mana cost. [i](You still pay any {V} cost.)[/i]
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+Whenever you lose life, each opponent loses 1 life.
+{1}{W}: Level 2
+Whenever a creature you control dies for the first time each turn, each opponent sacrifices a creature.
+{1}{W}: Level 3
+Whenever a creature an opponent controls enters for the first time each turn, you may cast a creature spell from your hand without paying its mana cost. [i](You still pay any {hazard.png} cost.)[/i] => [i](Gain the next level as a sorcery to add its ability.)[/i]
+Whenever you lose life, each opponent loses 1 life.
+{1}{W}: Level 2
+Whenever a creature you control dies for the first time each turn, each opponent sacrifices a creature.
+{1}{W}: Level 3
+Whenever a creature an opponent controls enters for the first time each turn, you may cast a creature spell from your hand without paying its mana cost. [i](You still pay any {V} cost.)[/i]
+
+Atonement
+cost: {2}{W}{W}{hazard.png}{hazard.png} => {2}{W}{W}{V}{V}
+
+Chaos Mastery
+cost: {2}{W}{W}{hazard.png}{hazard.png} => {2}{W}{W}{V}{V}
+
+Supernal Intervention
+cost: {2}{W}{W}{hazard.png}{hazard.png} => {2}{W}{W}{V}{V}
+
+Strings of Fate
+cost: {2}{W}{hazard.png}{hazard.png} => {2}{W}{V}{V}
+
+Forge Destiny
+cost: {1}{W}{W}{hazard.png}{hazard.png}{hazard.png} => {1}{W}{W}{V}{V}{V}
+
+Miracle
+cost: {1}{W}{W}{hazard.png}{hazard.png}{hazard.png} => {1}{W}{W}{V}{V}{V}
+rules_text: This spell can't be countered.
+Until the end of your next turn, you can't lose life, you can't lose the game, and your opponents can't win the game. If this spell was foretold, permanents you control gain hexproof and indestructible until end of turn.
+Foretell {hazard.png}{hazard.png}, Discard a Fate card. => This spell can't be countered.
+Until the end of your next turn, you can't lose life, you can't lose the game, and your opponents can't win the game. If this spell was foretold, permanents you control gain hexproof and indestructible until end of turn.
+Foretell {V}{V}, Discard a Fate card.
+
+Anathema
+cost: {2}{W}{hazard.png}{hazard.png}{hazard.png} => {2}{W}{V}{V}{V}
+rules_text: This spell has flash as long as it is foretold.
+Enchant creature
+All damage that would be dealt to you is dealt to enchanted creature instead.
+Foretell {2}{W}{hazard.png}{hazard.png}{hazard.png} [i](During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)[/i] => This spell has flash as long as it is foretold.
+Enchant creature
+All damage that would be dealt to you is dealt to enchanted creature instead.
+Foretell {2}{W}{V}{V}{V} [i](During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)[/i]
+
+Swarm of Locusts
+cost: {2}{W}{W}{hazard.png}{hazard.png}{hazard.png} => {2}{W}{W}{V}{V}{V}
+
+Bonis Avibus
+cost: {2}{W}{hazard.png} => {2}{W}{V}
+
+Quo Fata Ferunt
+cost: {3}{W}{hazard.png} => {3}{W}{V}
+
+Ceteris Paribus
+cost: {1}{W}{hazard.png} => {1}{W}{V}
+
+Terminus Ad Quem
+cost: {W}{hazard.png} => {W}{V}
+
+Audentes Fortuna Iuvat
+cost: {2}{W}{hazard.png} => {2}{W}{V}
+
+Mercurian Mantis
+cost: {3}{U}{hazard.png} => {3}{U}{V}
+
+Nibiruan Cnidomorph
+cost: {2}{U}{hazard.png} => {2}{U}{V}
+
+Enceladean Slime
+cost: {3}{U}{U}{hazard.png} => {3}{U}{U}{V}
+rules_text: When Enceladean Slime enters, create a 2/2 blue Ooze creature token.
+Whenever an Ooze you control leaves the battlefield without dying, put a number of +1/+1 counters equal to its power on each Ooze you control.
+Warp {3}{U}{U}{hazard.png} [i](You may cast this spell from your hand for its warp cost. Exile this creature at the beginning of your next end step, then you may cast it from exile on a later turn.)[/i] => When Enceladean Slime enters, create a 2/2 blue Ooze creature token.
+Whenever an Ooze you control leaves the battlefield without dying, put a number of +1/+1 counters equal to its power on each Ooze you control.
+Warp {3}{U}{U}{V} [i](You may cast this spell from your hand for its warp cost. Exile this creature at the beginning of your next end step, then you may cast it from exile on a later turn.)[/i]
+
+Ionian Arcanophage
+cost: {2}{U}{hazard.png} => {2}{U}{V}
+rules_text: Ionian Arcanophage enters tapped.
+When Ionian Arcanophage enters or leaves the battlefield, destroy target enchantment.
+Warp {3}{U}{hazard.png} [i](You may cast this spell from your hand for its warp cost. Exile this creature at the beginning of your next end step, then you may cast it from exile on a later turn.)[/i] => Ionian Arcanophage enters tapped.
+When Ionian Arcanophage enters or leaves the battlefield, destroy target enchantment.
+Warp {3}{U}{V} [i](You may cast this spell from your hand for its warp cost. Exile this creature at the beginning of your next end step, then you may cast it from exile on a later turn.)[/i]
+
+Light Elemental
+cost: {R}{hazard.png} => {R}{V}
+
+Sonic Elemental
+cost: {1}{R}{hazard.png} => {1}{R}{V}
+
+Gravity Elemental
+cost: {2}{R}{hazard.png} => {2}{R}{V}
+
+Electricity Elemental
+cost: {2}{R}{hazard.png} => {2}{R}{V}
+
+Heat Elemental
+cost: {2}{R}{R}{hazard.png} => {2}{R}{R}{V}
+
+A Gruesome Murder
+cost: {2}{G}{hazard.png} => {2}{G}{V}
+
+A Poor Child's Hunger
+cost: {3}{G}{hazard.png} => {3}{G}{V}
+
+An Untold Secret
+cost: {3}{G}{hazard.png} => {3}{G}{V}
+
+Ambrosial Behemoth
+cost: {4}{G}{G}{hazard.png} => {4}{G}{G}{V}
+
+Rampaging Rhinoceros
+cost: {2}{G}{G}{hazard.png} => {2}{G}{G}{V}
+
+Goetia of Wrath
+cost: {3}{U}{U}{hazard.png} => {3}{U}{U}{V}
+
+Goetia of Gluttony
+cost: {X}{1}{U}{U}{hazard.png} => {X}{1}{U}{U}{V}
+
+Goetia of Envy
+cost: {3}{U}{hazard.png} => {3}{U}{V}
+rules_text: {U}{hazard.png}: Exchange control of Goetia of Envy and target spell. You may choose new targets for the spell.
+Madness {2}{U}{U} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i] => {U}{V}: Exchange control of Goetia of Envy and target spell. You may choose new targets for the spell.
+Madness {2}{U}{U} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Erupting Carcass
+rules_text: Emerge {3}{B} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Escape {3}{B}{hazard.png}, Sacrifice a creature. [i](You may cast this card from your graveyard for its escape cost.)[/i]
+This creature escapes with +1/+1 counters on it equal to the sacrificed creature's toughness. => Emerge {3}{B} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Escape {3}{B}{V}, Sacrifice a creature. [i](You may cast this card from your graveyard for its escape cost.)[/i]
+This creature escapes with +1/+1 counters on it equal to the sacrificed creature's toughness.
+
+Resonant Corpse
+rules_text: Resonant Corpse's power is equal to the mana value of the last spell cast.
+Escape {2}{B}{B}{hazard.png}, Exile a card from your graveyard with mana value 4 or greater. => Resonant Corpse's power is equal to the mana value of the last spell cast.
+Escape {2}{B}{B}{V}, Exile a card from your graveyard with mana value 4 or greater.
+
+Surveillance Drone Mark IV
+cost: {B}{hazard.png} => {B}{V}
+
+Autoguardian Mark VI
+cost: {2}{B}{hazard.png} => {2}{B}{V}
+
+Antimatter Field
+cost: {B}{hazard.png} => {B}{V}
+
+Crystalline Seal
+cost: {2}{B}{hazard.png} => {2}{B}{V}
+
+Distant Future
+cost: {3}{W}{hazard.png}{hazard.png} => {3}{W}{V}{V}
+
+Atlantean Age
+cost: {5}{W}{W}{hazard.png}{hazard.png} => {5}{W}{W}{V}{V}
+
+Mesozoic Era
+cost: {4}{W}{hazard.png}{hazard.png} => {4}{W}{V}{V}
+
+Shadow Sculpting
+rules_text: Put target card from your graveyard onto the battlefield face down. It's a black artifact Equipment with “Equipped creature gets +1/+0 and has shadow”, equip {3}, and “When equipped creature deals combat damage to a player, you may exile this card and you may play it this turn without paying its mana cost.” [i](You still pay any {hazard.png} cost.)[/i] => Put target card from your graveyard onto the battlefield face down. It's a black artifact Equipment with “Equipped creature gets +1/+0 and has shadow”, equip {3}, and “When equipped creature deals combat damage to a player, you may exile this card and you may play it this turn without paying its mana cost.” [i](You still pay any {V} cost.)[/i]
+
+Decay
+cost: {B}{hazard.png} => {B}{V}
+rules_text: Kicker {B}
+Put a −1/−1 counter on target creature.
+If this spell was kicked, put two −1/−1 counters on another target creature.
+If this spell was cast from a graveyard, put three −1/−1 counters on another target creature.
+Flashback {2}{B}{B}{hazard.png} => Kicker {B}
+Put a −1/−1 counter on target creature.
+If this spell was kicked, put two −1/−1 counters on another target creature.
+If this spell was cast from a graveyard, put three −1/−1 counters on another target creature.
+Flashback {2}{B}{B}{V}
+
+Ghost Shield
+rules_text: Enchanted creature gets +0/+2, can block creatures with shadow as though they didn't have shadow, and has protection from deathtouch. [i](It can't be dealt damage, enchanted, equipped, blocked, or targeted by anything with deathtouch.)[/i]
+Escape—{1}{B}{hazard.png}, Exile another Aura or Ghost card from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i] => Enchanted creature gets +0/+2, can block creatures with shadow as though they didn't have shadow, and has protection from deathtouch. [i](It can't be dealt damage, enchanted, equipped, blocked, or targeted by anything with deathtouch.)[/i]
+Escape—{1}{B}{V}, Exile another Aura or Ghost card from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]
+
+Soul Armor
+cost: {1}{B}{hazard.png} => {1}{B}{V}
+
+Suppress Life
+cost: {B}{hazard.png} => {B}{V}
+rules_text: Target creature gains “When this creature dies, return it to the battlefield at the beginning of the next end step under its owner's control.” Destroy it.
+Flashback {2}{B}{hazard.png} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Target creature gains “When this creature dies, return it to the battlefield at the beginning of the next end step under its owner's control.” Destroy it.
+Flashback {2}{B}{V} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Devouring the Slain
+cost: {2}{B}{hazard.png} => {2}{B}{V}
+
+Ghost Gate
+cost: {1}{B}{hazard.png} => {1}{B}{V}
+rules_text: Target creature gets +2/+0 and gains shadow until end of turn. [i](That creature can block or be blocked by only creatures with shadow.)[/i]
+Flashback {2}{B}{B}{hazard.png} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Target creature gets +2/+0 and gains shadow until end of turn. [i](That creature can block or be blocked by only creatures with shadow.)[/i]
+Flashback {2}{B}{B}{V} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Quicken Corpse
+cost: {1}{B}{hazard.png} => {1}{B}{V}
+rules_text: Return target creature card from a graveyard to the battlefield under your control. It's a black Zombie in addition to its other colors and types with base power and toughness 2/2.
+If this spell was cast from a graveyard, copy it. You may choose new targets for the copy.
+Flashback {3}{B}{B}{hazard.png} => Return target creature card from a graveyard to the battlefield under your control. It's a black Zombie in addition to its other colors and types with base power and toughness 2/2.
+If this spell was cast from a graveyard, copy it. You may choose new targets for the copy.
+Flashback {3}{B}{B}{V}
+
+Shadow Crafting
+cost: {X}{B}{hazard.png} => {X}{B}{V}
+
+Enervation
+cost: {X}{B}{hazard.png}{hazard.png} => {X}{B}{V}{V}
+rules_text: Choose any number —
+• Put a −1/−1 counter on each of any number of target creatures you control.
+• Put a −1/−1 counter on each of up to X target creatures you don't control.
+• Destroy target creature if it has a counter on it.
+Flashback {X}{X}{B}{B}{hazard.png}{hazard.png} => Choose any number —
+• Put a −1/−1 counter on each of any number of target creatures you control.
+• Put a −1/−1 counter on each of up to X target creatures you don't control.
+• Destroy target creature if it has a counter on it.
+Flashback {X}{X}{B}{B}{V}{V}
+
+Exorcism
+cost: {1}{B}{hazard.png}{hazard.png} => {1}{B}{V}{V}
+rules_text: This spell costs {1}{B}{hazard.png} less to cast if it targets a Ghost or a creature with shadow.
+Choose one —
+• Destroy target non-Human creature.
+• Destroy all Auras attached to target creature.
+• Destroy target Aura.
+Flashback {3}{B}{hazard.png}{hazard.png} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => This spell costs {1}{B}{V} less to cast if it targets a Ghost or a creature with shadow.
+Choose one —
+• Destroy target non-Human creature.
+• Destroy all Auras attached to target creature.
+• Destroy target Aura.
+Flashback {3}{B}{V}{V} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Unearth Revenant
+cost: {B}{B}{B}{hazard.png}{hazard.png} => {B}{B}{B}{V}{V}
+rules_text: When you cast this spell from your graveyard, gain 2 Wisdom.
+Return target creature card from your graveyard to the battlefield.
+Flashback {hazard.png}{hazard.png}, Pay life equal to the card's mana value. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => When you cast this spell from your graveyard, gain 2 Wisdom.
+Return target creature card from your graveyard to the battlefield.
+Flashback {V}{V}, Pay life equal to the card's mana value. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Shadow Flesh
+cost: {1}{B}{hazard.png} => {1}{B}{V}
+rules_text: Enchant creature
+Enchanted creature gets +1/+0 and has protection from shadow.
+{B}: Enchanted creature gains your choice of shadow or deathtouch until end of turn.
+Escape—{2}{B}{hazard.png}{hazard.png}, Pay 2 life, Exile two other cards from your graveyard. => Enchant creature
+Enchanted creature gets +1/+0 and has protection from shadow.
+{B}: Enchanted creature gains your choice of shadow or deathtouch until end of turn.
+Escape—{2}{B}{V}{V}, Pay 2 life, Exile two other cards from your graveyard.
+
+Withering
+cost: {X}{B}{B}{B}{hazard.png}{hazard.png} => {X}{B}{B}{B}{V}{V}
+rules_text: Sacrifice up to X creatures. Until end of turn, creatures get −2/−2 for each creature sacrificed this way.
+Flashback {3}{B}{B}{hazard.png}{hazard.png}, Pay X life. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Sacrifice up to X creatures. Until end of turn, creatures get −2/−2 for each creature sacrificed this way.
+Flashback {3}{B}{B}{V}{V}, Pay X life. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Create Avernian Gate
+cost: {3}{B}{hazard.png}{hazard.png}{hazard.png} => {3}{B}{V}{V}{V}
+
+Deny the Reaper
+cost: {2}{B}{hazard.png}{hazard.png}{hazard.png} => {2}{B}{V}{V}{V}
+
+Empty Presence
+cost: {1}{B}{hazard.png}{hazard.png}{hazard.png} => {1}{B}{V}{V}{V}
+
+Hidden Hoard
+cost: {B}{hazard.png} => {B}{V}
+
+Machine Invisibility
+cost: {1}{B}{hazard.png} => {1}{B}{V}
+
+Shaping
+cost: {2}{B}{hazard.png} => {2}{B}{V}
+
+Alter Conductivity
+cost: {1}{B}{hazard.png} => {1}{B}{V}
+
+Crucible
+cost: {2}{B}{hazard.png} => {2}{B}{V}
+
+Windstrike
+cost: {B}{hazard.png} => {B}{V}
+
+Golem
+cost: {3}{B}{hazard.png} => {3}{B}{V}
+
+Endless Bounty
+cost: {2}{B}{hazard.png} => {2}{B}{V}
+
+Supernal Forging
+cost: {3}{B}{hazard.png}{hazard.png} => {3}{B}{V}{V}
+
+Ghostwall
+cost: {3}{B}{hazard.png}{hazard.png} => {3}{B}{V}{V}
+
+Wonderful Machine
+cost: {2}{B}{B}{hazard.png}{hazard.png} => {2}{B}{B}{V}{V}
+
+Piercing Earth
+cost: {4}{B}{hazard.png}{hazard.png} => {4}{B}{V}{V}
+
+Transubstantiation
+cost: {X}{B}{B}{hazard.png}{hazard.png} => {X}{B}{B}{V}{V}
+
+Annihilate Matter
+cost: {B}{hazard.png} => {B}{V}
+rules_text: Exile target artifact you don't control. Artifacts leaving the battlefield this way don't cause abilities to trigger.
+Overload {3}{B}{B}{hazard.png}{hazard.png}{hazard.png} [i](You may cast this spell for its overload cost. If you do, change “target” in its text to “each.”)[/i] => Exile target artifact you don't control. Artifacts leaving the battlefield this way don't cause abilities to trigger.
+Overload {3}{B}{B}{V}{V}{V} [i](You may cast this spell for its overload cost. If you do, change “target” in its text to “each.”)[/i]
+
+Ex Nihilo
+cost: {B}{B}{B}{hazard.png}{hazard.png}{hazard.png} => {B}{B}{B}{V}{V}{V}
+
+Self-Repairing Machine
+cost: {2}{B}{hazard.png}{hazard.png}{hazard.png} => {2}{B}{V}{V}{V}
+
+One Mind, Two Thoughts
+rules_text: Whenever you cast a spell, you may exile a nonland card with lesser mana value from your hand. If you do, it becomes plotted. Do this only once each turn. [i](You may cast it as a sorcery on a later turn without paying its mana cost. You still pay any {hazard.png} cost.)[/i] => Whenever you cast a spell, you may exile a nonland card with lesser mana value from your hand. If you do, it becomes plotted. Do this only once each turn. [i](You may cast it as a sorcery on a later turn without paying its mana cost. You still pay any {V} cost.)[/i]
+
+Memory Hole
+cost: {1}{U}{hazard.png} => {1}{U}{V}
+rules_text: Each opponent reveals their hand and discards a nonland card of your choice.
+Madness {2}{U}{hazard.png} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i] => Each opponent reveals their hand and discards a nonland card of your choice.
+Madness {2}{U}{V} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Mental Shield
+cost: {1}{U}{U}{hazard.png} => {1}{U}{U}{V}
+
+Psychic Domination
+cost: {2}{U}{hazard.png} => {2}{U}{V}
+rules_text: Gain control of target creature until end of turn. Untap each creature you control but don't own, and those creatures gain haste until end of turn.
+Overload {4}{U}{U}{hazard.png}{hazard.png}{hazard.png} [i](You may cast this spell for its overload cost. If you do, change “target” in its text to “each.”)[/i] => Gain control of target creature until end of turn. Untap each creature you control but don't own, and those creatures gain haste until end of turn.
+Overload {4}{U}{U}{V}{V}{V} [i](You may cast this spell for its overload cost. If you do, change “target” in its text to “each.”)[/i]
+
+Supernal Telepathy
+cost: {2}{U}{U}{hazard.png}{hazard.png} => {2}{U}{U}{V}{V}
+rules_text: Kicker—Discard a card.
+Look at the top seven cards of each opponent's library. You may cast an instant or sorcery spell from among them without paying its mana cost. Put the rest on the bottom of their owners' libraries in a random order. [i](You still pay any {hazard.png} cost.)[/i]
+If this spell was kicked, you may cast up to two instant and/or sorcery spells from among the revealed cards instead of one. => Kicker—Discard a card.
+Look at the top seven cards of each opponent's library. You may cast an instant or sorcery spell from among them without paying its mana cost. Put the rest on the bottom of their owners' libraries in a random order. [i](You still pay any {V} cost.)[/i]
+If this spell was kicked, you may cast up to two instant and/or sorcery spells from among the revealed cards instead of one.
+
+Augment Mind
+cost: {3}{U}{U}{hazard.png}{hazard.png} => {3}{U}{U}{V}{V}
+
+Psychic Assault
+cost: {1}{U}{hazard.png} => {1}{U}{V}
+
+Read the Depths
+cost: {4}{U}{hazard.png} => {4}{U}{V}
+
+Mind Flay
+cost: {3}{U}{U}{hazard.png}{hazard.png} => {3}{U}{U}{V}{V}
+
+Possession
+cost: {X}{U}{U}{hazard.png}{hazard.png} => {X}{U}{U}{V}{V}
+rules_text: Gain control of target creature with mana value X or less. If X is 5 or more, create a token that's a copy of that creature except it isn't legendary and it's a blue enchantment Nightmare in addition to its other colors and types.
+Madness {3}{U}{U}{hazard.png}, Pay X life. => Gain control of target creature with mana value X or less. If X is 5 or more, create a token that's a copy of that creature except it isn't legendary and it's a blue enchantment Nightmare in addition to its other colors and types.
+Madness {3}{U}{U}{V}, Pay X life.
+
+Hallucination
+cost: {2}{U}{U}{hazard.png}{hazard.png} => {2}{U}{U}{V}{V}
+
+Terrorize
+cost: {1}{U}{hazard.png}{hazard.png} => {1}{U}{V}{V}
+rules_text: Creatures you control have menace.
+Madness {hazard.png}{hazard.png}, Pay 3 life. [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i] => Creatures you control have menace.
+Madness {V}{V}, Pay 3 life. [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Mind Wipe
+cost: {U}{hazard.png} => {U}{V}
+rules_text: Target non-Nightmare creature loses all abilities until end of turn.
+Overload {U}{U}{hazard.png}{hazard.png} [i](You may cast this spell for its overload cost. If you do, change “target” in its text to “each.”)[/i] => Target non-Nightmare creature loses all abilities until end of turn.
+Overload {U}{U}{V}{V} [i](You may cast this spell for its overload cost. If you do, change “target” in its text to “each.”)[/i]
+
+Psychic Genesis
+cost: {1}{U}{U}{hazard.png}{hazard.png}{hazard.png} => {1}{U}{U}{V}{V}{V}
+
+Ground Eater
+rules_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+[i][/i]Discard a land card: Target creature you control explores. Activate only once each turn.[i][/i]
+{1}{U}{hazard.png}: Level 2
+Exile three land cards from your graveyard: Exile target attacking creature until end of combat.
+{2}{U}{hazard.png}: Level 3
+No more than one creature without flying can attack you each combat. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+[i][/i]Discard a land card: Target creature you control explores. Activate only once each turn.[i][/i]
+{1}{U}{V}: Level 2
+Exile three land cards from your graveyard: Exile target attacking creature until end of combat.
+{2}{U}{V}: Level 3
+No more than one creature without flying can attack you each combat.
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+[i][/i]Discard a land card: Target creature you control explores. Activate only once each turn.[i][/i]
+{1}{U}{hazard.png}: Level 2
+Exile three land cards from your graveyard: Exile target attacking creature until end of combat.
+{2}{U}{hazard.png}: Level 3
+No more than one creature without flying can attack you each combat. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+[i][/i]Discard a land card: Target creature you control explores. Activate only once each turn.[i][/i]
+{1}{U}{V}: Level 2
+Exile three land cards from your graveyard: Exile target attacking creature until end of combat.
+{2}{U}{V}: Level 3
+No more than one creature without flying can attack you each combat.
+
+Lying Maps
+cost: {2}{U}{U}{hazard.png} => {2}{U}{U}{V}
+
+Ban
+cost: {2}{U}{hazard.png} => {2}{U}{V}
+
+Co-Location
+cost: {U}{hazard.png} => {U}{V}
+
+Perfect Sympathy
+cost: {U}{hazard.png} => {U}{V}
+
+Warp
+cost: {1}{U}{U}{hazard.png} => {1}{U}{U}{V}
+rules_text: This spell costs {U}{hazard.png} less to cast if it targets a permanent you control.
+When you cast this spell, gain 2 Wisdom.
+Return target nonland permanent to its owner's hand. Warp deals damage to another target creature equal to that permanent's mana value. => This spell costs {U}{V} less to cast if it targets a permanent you control.
+When you cast this spell, gain 2 Wisdom.
+Return target nonland permanent to its owner's hand. Warp deals damage to another target creature equal to that permanent's mana value.
+
+Collapse
+cost: {1}{U}{hazard.png}{hazard.png} => {1}{U}{V}{V}
+rules_text: No more than one creature can attack each combat.
+No more than one creature can block each combat.
+{2}{U}{hazard.png}, Sacrifice Collapse: Each creature you control explores. Activate only as a sorcery. => No more than one creature can attack each combat.
+No more than one creature can block each combat.
+{2}{U}{V}, Sacrifice Collapse: Each creature you control explores. Activate only as a sorcery.
+
+Cut Threads
+cost: {U}{hazard.png}{hazard.png} => {U}{V}{V}
+
+Teleportation
+cost: {2}{U}{hazard.png}{hazard.png} => {2}{U}{V}{V}
+
+Forge No Chains
+cost: {U}{hazard.png}{hazard.png}{hazard.png} => {U}{V}{V}{V}
+
+Pocket Dimension
+cost: {3}{U}{U}{hazard.png}{hazard.png}{hazard.png} => {3}{U}{U}{V}{V}{V}
+rules_text: Ward {hazard.png}{hazard.png}
+When Pocket Dimension enters, exile any number of nonland permanents you control until it leaves the battlefield. For each permanent exiled this way, exile up to one target nonland permanent until Pocket Dimension leaves the battlefield.
+Sacrifice Pocket Dimension: Draw a card. => Ward {V}{V}
+When Pocket Dimension enters, exile any number of nonland permanents you control until it leaves the battlefield. For each permanent exiled this way, exile up to one target nonland permanent until Pocket Dimension leaves the battlefield.
+Sacrifice Pocket Dimension: Draw a card.
+
+Quarantine
+cost: {1}{U}{U}{hazard.png}{hazard.png}{hazard.png} => {1}{U}{U}{V}{V}{V}
+
+Unnaming
+cost: {2}{U}{hazard.png}{hazard.png}{hazard.png} => {2}{U}{V}{V}{V}
+rules_text: When Unnaming enters and at the beginning of your upkeep, turn up to one target creature face down. [i](It's a 2/2 creature.)[/i]
+{U}{U}{hazard.png}, Sacrifice Unnaming: Exile all permanents that don't have a name. => When Unnaming enters and at the beginning of your upkeep, turn up to one target creature face down. [i](It's a 2/2 creature.)[/i]
+{U}{U}{V}, Sacrifice Unnaming: Exile all permanents that don't have a name.
+
+Nimbus Tuning
+rules_text: This spell costs {hazard.png} more to cast if it targets a vulgar spell. [i](Vulgar spells have {hazard.png} in their casting cost.)[/i]
+This spell can't be copied.
+Copy target instant or sorcery spell you control. You may choose new targets for the copy. => This spell costs {V} more to cast if it targets a vulgar spell. [i](Vulgar spells have {V} in their casting cost.)[/i]
+This spell can't be copied.
+Copy target instant or sorcery spell you control. You may choose new targets for the copy.
+
+As Above, So Below
+rules_text: This spell costs {hazard.png} more to cast if it targets a vulgar spell or vulgar ability. [i](Vulgar spells and abilities have {hazard.png} in their casting cost.)[/i]
+Copy target instant spell or activated ability you don't control. You may choose new targets for the copy. => This spell costs {V} more to cast if it targets a vulgar spell or vulgar ability. [i](Vulgar spells and abilities have {V} in their casting cost.)[/i]
+Copy target instant spell or activated ability you don't control. You may choose new targets for the copy.
+
+Nimbus Forgery
+rules_text: This spell costs {hazard.png} more to cast if it targets a vulgar spell or vulgar ability. [i](Vulgar spells and abilities have {hazard.png} in their casting cost.)[/i]
+You may choose new targets for target spell or ability. => This spell costs {V} more to cast if it targets a vulgar spell or vulgar ability. [i](Vulgar spells and abilities have {V} in their casting cost.)[/i]
+You may choose new targets for target spell or ability.
+
+Words of Truth
+cost: {R}{R}{hazard.png} => {R}{R}{V}
+rules_text: This spell costs {hazard.png} more to cast if it targets a vulgar spell. [i](Vulgar spells have {hazard.png} in their casting cost.)[/i]
+Copy target permanent spell you control. You may choose new targets for the copy. [i](The copy becomes a token.)[/i] => This spell costs {V} more to cast if it targets a vulgar spell. [i](Vulgar spells have {V} in their casting cost.)[/i]
+Copy target permanent spell you control. You may choose new targets for the copy. [i](The copy becomes a token.)[/i]
+
+Aetheric Winds
+cost: {1}{R}{hazard.png} => {1}{R}{V}
+
+Display of Gnosis
+cost: {3}{R}{R}{hazard.png} => {3}{R}{R}{V}
+rules_text: Demonstrate [i](When you cast this spell, you may copy it. If you do, choose an opponent to also copy it. Players may choose new targets for their copies.)[/i]
+Target opponent reveals cards from the top of their library until they reveal an instant, sorcery, or enchantment card. You may cast that spell without paying its mana cost. [i](You still pay any {hazard.png} cost.)[/i] Then they put all revealed cards not cast this way on the bottom of their library in a random order. => Demonstrate [i](When you cast this spell, you may copy it. If you do, choose an opponent to also copy it. Players may choose new targets for their copies.)[/i]
+Target opponent reveals cards from the top of their library until they reveal an instant, sorcery, or enchantment card. You may cast that spell without paying its mana cost. [i](You still pay any {V} cost.)[/i] Then they put all revealed cards not cast this way on the bottom of their library in a random order.
+
+Mana Battery
+cost: {2}{R}{R}{hazard.png}{hazard.png} => {2}{R}{R}{V}{V}
+
+Celestial Fire
+cost: {X}{X}{R}{R}{hazard.png}{hazard.png} => {X}{X}{R}{R}{V}{V}
+
+Destroy Tass
+cost: {1}{R}{hazard.png}{hazard.png} => {1}{R}{V}{V}
+
+Hallow Dance
+cost: {R}{hazard.png}{hazard.png} => {R}{V}{V}
+rules_text: Enchant land
+This spell costs {hazard.png}{hazard.png} less to cast if it targets a Hallow.
+[i](Gain the next level as a sorcery to gain its ability)[/i]
+Whenever enchanted land becomes tapped, crystallize.
+{1}{R}: Level 2
+Whenever enchanted land is tapped for mana, its controller adds an additional {C}.
+{2}{R}: Level 3
+Whenever enchanted land is tapped for mana, its controller adds an additional one mana of any color. => Enchant land
+This spell costs {V}{V} less to cast if it targets a Hallow.
+[i](Gain the next level as a sorcery to gain its ability)[/i]
+Whenever enchanted land becomes tapped, crystallize.
+{1}{R}: Level 2
+Whenever enchanted land is tapped for mana, its controller adds an additional {C}.
+{2}{R}: Level 3
+Whenever enchanted land is tapped for mana, its controller adds an additional one mana of any color.
+special_text: Enchant land
+This spell costs {hazard.png}{hazard.png} less to cast if it targets a Hallow.
+[i](Gain the next level as a sorcery to gain its ability)[/i]
+Whenever enchanted land becomes tapped, crystallize.
+{1}{R}: Level 2
+Whenever enchanted land is tapped for mana, its controller adds an additional {C}.
+{2}{R}: Level 3
+Whenever enchanted land is tapped for mana, its controller adds an additional one mana of any color. => Enchant land
+This spell costs {V}{V} less to cast if it targets a Hallow.
+[i](Gain the next level as a sorcery to gain its ability)[/i]
+Whenever enchanted land becomes tapped, crystallize.
+{1}{R}: Level 2
+Whenever enchanted land is tapped for mana, its controller adds an additional {C}.
+{2}{R}: Level 3
+Whenever enchanted land is tapped for mana, its controller adds an additional one mana of any color.
+
+Primal Transfer
+cost: {3}{R}{R}{hazard.png}{hazard.png} => {3}{R}{R}{V}{V}
+
+Supernal Dispellation
+cost: {1}{R}{hazard.png}{hazard.png} => {1}{R}{V}{V}
+
+Blasphemy
+cost: {6}{R}{hazard.png}{hazard.png}{hazard.png} => {6}{R}{V}{V}{V}
+
+Create Truth
+cost: {2}{R}{R}{hazard.png}{hazard.png}{hazard.png} => {2}{R}{R}{V}{V}{V}
+
+Word of Unmaking
+cost: {1}{R}{hazard.png} => {1}{R}{V}
+rules_text: Choose one —
+• Exile target artifact.
+• Exile target creature.
+• Exile target enchantment.
+Overload {3}{R}{hazard.png}{hazard.png}{hazard.png} [i](You may cast this spell for its overload cost. If you do, change “target” in its text to “each.”)[/i] => Choose one —
+• Exile target artifact.
+• Exile target creature.
+• Exile target enchantment.
+Overload {3}{R}{V}{V}{V} [i](You may cast this spell for its overload cost. If you do, change “target” in its text to “each.”)[/i]
+
+Choose the Thread
+cost: {X}{W}{hazard.png} => {X}{W}{V}
+
+Shield of Chronos
+cost: {2}{W}{hazard.png} => {2}{W}{V}
+
+Veil of Moments
+cost: {W}{hazard.png} => {W}{V}
+
+Acceleration
+cost: {1}{W}{hazard.png} => {1}{W}{V}
+rules_text: Target creature you control gains haste until end of turn.
+Target creature you control gains first strike until end of turn.
+Untap target creature you control.
+Overload {3}{W}{W}{hazard.png}{hazard.png} => Target creature you control gains haste until end of turn.
+Target creature you control gains first strike until end of turn.
+Untap target creature you control.
+Overload {3}{W}{W}{V}{V}
+
+Chronos' Curse
+cost: {1}{W}{hazard.png} => {1}{W}{V}
+
+Shifting Sands
+cost: {2}{W}{W}{hazard.png}{hazard.png} => {2}{W}{W}{V}{V}
+
+Temporal Summoning
+cost: {2}{W}{hazard.png} => {2}{W}{V}
+rules_text: Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+At the beginning of your upkeep, put a time counter on Temporal Summoning.
+Once during each of your turns, you may cast a creature spell from your hand with mana value X or less without paying its mana cost, where X is the number of time counters on Temporal Summoning. [i](You still pay any {hazard.png} cost.)[/i] => Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+At the beginning of your upkeep, put a time counter on Temporal Summoning.
+Once during each of your turns, you may cast a creature spell from your hand with mana value X or less without paying its mana cost, where X is the number of time counters on Temporal Summoning. [i](You still pay any {V} cost.)[/i]
+
+Weight of Years
+cost: {1}{W}{hazard.png} => {1}{W}{V}
+
+Present as Past
+cost: {1}{W}{W}{hazard.png}{hazard.png} => {1}{W}{W}{V}{V}
+
+Supernal Prophecy
+cost: {W}{W}{hazard.png}{hazard.png} => {W}{W}{V}{V}
+
+Temporal Stutter
+cost: {1}{W}{hazard.png}{hazard.png} => {1}{W}{V}{V}
+
+Corridors of Time
+cost: {2}{W}{W}{hazard.png}{hazard.png} => {2}{W}{W}{V}{V}
+
+Rewrite History
+cost: {3}{W}{W}{hazard.png}{hazard.png}{hazard.png} => {3}{W}{W}{V}{V}{V}
+rules_text: As long as it's your turn, this spell costs {2}{W}{hazard.png} less to cast.
+End the turn. [i](Exile all spells and abilities from the stack, including this card. The player whose turn it is discards down to their maximum hand size. Damage wears off, and “this turn” and “until end of turn” effects end.)[/i] => As long as it's your turn, this spell costs {2}{W}{V} less to cast.
+End the turn. [i](Exile all spells and abilities from the stack, including this card. The player whose turn it is discards down to their maximum hand size. Damage wears off, and “this turn” and “until end of turn” effects end.)[/i]
+
+Split Second
+cost: {1}{W}{hazard.png}{hazard.png} => {1}{W}{V}{V}
+rules_text: Flash
+You may cast each spell from your hand as though it had flash if you pay {hazard.png} more to cast it.
+Instant spells you cast cost {1} less to cast. => Flash
+You may cast each spell from your hand as though it had flash if you pay {V} more to cast it.
+Instant spells you cast cost {1} less to cast.
+
+Temporal Pocket
+cost: {W}{W}{W}{hazard.png}{hazard.png}{hazard.png} => {W}{W}{W}{V}{V}{V}
+rules_text: Take an extra turn after this one. Skip the combat phase of that turn. During that turn, Time spells you cast cost {hazard.png}{hazard.png}{hazard.png} less to cast.
+Exile Temporal Pocket. => Take an extra turn after this one. Skip the combat phase of that turn. During that turn, Time spells you cast cost {V}{V}{V} less to cast.
+Exile Temporal Pocket.
+
+Control Electricity
+rules_text: Whenever an opponent casts a noncreature spell, Control Electricity deals 1 damage to that player.
+{1}{R}{hazard.png}, Sacrifice Control Electricity: Destroy target enchantment. Control Electricity deals 2 damage to that enchantment's controller. => Whenever an opponent casts a noncreature spell, Control Electricity deals 1 damage to that player.
+{1}{R}{V}, Sacrifice Control Electricity: Destroy target enchantment. Control Electricity deals 2 damage to that enchantment's controller.
+
+Control Fire
+rules_text: Whenever a creature deals combat damage to you or a permanent you control, Control Fire deals 1 damage to that creature.
+{R}{R}{hazard.png}{hazard.png}, Sacrifice Control Fire: Destroy each creature that was dealt damage this turn. => Whenever a creature deals combat damage to you or a permanent you control, Control Fire deals 1 damage to that creature.
+{R}{R}{V}{V}, Sacrifice Control Fire: Destroy each creature that was dealt damage this turn.
+
+Control Gravity
+rules_text: Creatures your opponents control lose flying and can't have or gain flying.
+{1}{R}{hazard.png}: Creatures you control gain flying until end of turn. Sacrifice Control Gravity at the beginning of the next end step. => Creatures your opponents control lose flying and can't have or gain flying.
+{1}{R}{V}: Creatures you control gain flying until end of turn. Sacrifice Control Gravity at the beginning of the next end step.
+
+Environmental Shield
+cost: {2}{R}{hazard.png} => {2}{R}{V}
+
+Kinetic Blow
+cost: {X}{R}{hazard.png} => {X}{R}{V}
+rules_text: Kinetic Blow deals X damage to any target. You may cast a noncreature spell with mana value X or less from your hand without paying its mana cost. [i](You still pay any {hazard.png} cost.)[/i] => Kinetic Blow deals X damage to any target. You may cast a noncreature spell with mana value X or less from your hand without paying its mana cost. [i](You still pay any {V} cost.)[/i]
+
+Call Lightning
+cost: {R}{hazard.png} => {R}{V}
+
+Telekinetic Strike
+cost: {1}{R}{hazard.png} => {1}{R}{V}
+
+Velocity Control
+cost: {3}{R}{hazard.png} => {3}{R}{V}
+
+Gravitic Levitation
+cost: {R}{hazard.png} => {R}{V}
+rules_text: Target creature you control gains flying until end of turn.
+Overload {2}{R}{hazard.png}{hazard.png} [i](You may cast this spell for its overload cost. If you do, change “target” in its text to “each.”)[/i] => Target creature you control gains flying until end of turn.
+Overload {2}{R}{V}{V} [i](You may cast this spell for its overload cost. If you do, change “target” in its text to “each.”)[/i]
+
+Rend Friction
+cost: {1}{R}{R}{hazard.png}{hazard.png} => {1}{R}{R}{V}{V}
+
+Transform Energy
+cost: {1}{R}{R}{hazard.png}{hazard.png} => {1}{R}{R}{V}{V}
+
+Adverse Weather
+cost: {1}{R}{R}{hazard.png}{hazard.png} => {1}{R}{R}{V}{V}
+rules_text: Forces spells cost {hazard.png}{hazard.png}{hazard.png} less to cast.
+[i]Channel[/i] — {1}{R}, Discard this card: Adverse Weather deals 1 damage to each player. Draw a card. => Forces spells cost {V}{V}{V} less to cast.
+[i]Channel[/i] — {1}{R}, Discard this card: Adverse Weather deals 1 damage to each player. Draw a card.
+
+Create Energy
+cost: {X}{R}{hazard.png}{hazard.png}{hazard.png} => {X}{R}{V}{V}{V}
+
+Seismic Tremors
+cost: {1}{R}{R}{hazard.png}{hazard.png}{hazard.png} => {1}{R}{R}{V}{V}{V}
+
+Eradicate Energy
+cost: {R}{R}{hazard.png}{hazard.png}{hazard.png} => {R}{R}{V}{V}{V}
+
+Noetic Wraith
+rules_text: When you cast this spell, gain 2 Wisdom.
+Noetic Wraith has base power and toughness equal to your Wisdom.
+Flying
+Whenever Noetic Wraith deals combat damage to a player, look at the top card of their library. You may play it without paying its mana cost. [i](You still pay any {hazard.png} cost.)[/i] => When you cast this spell, gain 2 Wisdom.
+Noetic Wraith has base power and toughness equal to your Wisdom.
+Flying
+Whenever Noetic Wraith deals combat damage to a player, look at the top card of their library. You may play it without paying its mana cost. [i](You still pay any {V} cost.)[/i]
+
+Channel Essence
+cost: {1}{G}{hazard.png} => {1}{G}{V}
+
+Command Spirit
+cost: {X}{G}{hazard.png} => {X}{G}{V}
+
+Gossamer Touch
+cost: {1}{G}{hazard.png} => {1}{G}{V}
+
+Slumber
+cost: {G}{hazard.png} => {G}{V}
+
+Bolster Spirit
+cost: {X}{G}{hazard.png} => {X}{G}{V}
+
+Erode Resonance
+cost: {G}{hazard.png} => {G}{V}
+
+Place of Power
+cost: {1}{G}{hazard.png} => {1}{G}{V}
+rules_text: Enchant land
+Whenever enchanted land is tapped for mana, its controller adds an additional {G}, and the next Spirit spell they cast this turn costs {hazard.png} less to cast. => Enchant land
+Whenever enchanted land is tapped for mana, its controller adds an additional {G}, and the next Spirit spell they cast this turn costs {V} less to cast.
+
+Rouse Spirit
+cost: {X}{G}{hazard.png} => {X}{G}{V}
+
+Spirit Summons
+cost: {X}{G}{hazard.png} => {X}{G}{V}
+
+Bind Spirit
+cost: {1}{G}{hazard.png}{hazard.png} => {1}{G}{V}{V}
+
+Shadow Scream
+cost: {1}{G}{hazard.png}{hazard.png} => {1}{G}{V}{V}
+
+Shape Spirit
+cost: {G}{hazard.png}{hazard.png} => {G}{V}{V}
+
+Twilit Body
+cost: {G}{hazard.png}{hazard.png} => {G}{V}{V}
+
+Annihilate Spirit
+cost: {G}{hazard.png}{hazard.png}{hazard.png} => {G}{V}{V}{V}
+
+Create Locus
+cost: {1}{G}{hazard.png}{hazard.png}{hazard.png} => {1}{G}{V}{V}{V}
+
+Essence Fountain
+cost: {1}{G}{G}{hazard.png}{hazard.png}{hazard.png} => {1}{G}{G}{V}{V}{V}
+
+Control Instincts
+cost: {1}{G}{G}{hazard.png} => {1}{G}{G}{V}
+
+Lure and Repel
+cost: {1}{G}{G}{hazard.png} => {1}{G}{G}{V}
+
+Mutable Mask
+cost: {1}{G}{hazard.png} => {1}{G}{V}
+
+Bruise Flesh
+cost: {G}{hazard.png} => {G}{V}
+
+Degrading the Form
+cost: {G}{hazard.png} => {G}{V}
+
+Honing the Form
+cost: {X}{G}{hazard.png} => {X}{G}{V}
+
+Many Faces
+cost: {1}{G}{G}{hazard.png} => {1}{G}{G}{V}
+
+Transform Life
+cost: {3}{G}{G}{hazard.png} => {3}{G}{G}{V}
+rules_text: At the beginning of combat on your turn, you may pay {hazard.png}. If you do, choose deathtouch, first strike, haste, lifelink, menace, trample, or vigilance. Creatures you control gain that ability until end of turn. => At the beginning of combat on your turn, you may pay {V}. If you do, choose deathtouch, first strike, haste, lifelink, menace, trample, or vigilance. Creatures you control gain that ability until end of turn.
+
+Accelerate Growth
+cost: {4}{G}{G}{hazard.png}{hazard.png} => {4}{G}{G}{V}{V}
+rules_text: At the beginning of combat on your turn, you may pay {hazard.png}. If you do, choose power or toughness. Double that characteristic of each creature you control until end of turn. => At the beginning of combat on your turn, you may pay {V}. If you do, choose power or toughness. Double that characteristic of each creature you control until end of turn.
+
+Life-Force Assault
+rules_text: As an additional cost to cast this spell, sacrifice a creature.
+Life-Force Assault deals damage equal to the sacrificed creature's power to target creature you don't control.
+Overload {3}{G}{G}{hazard.png}{hazard.png} [i](You may cast this spell for its overload cost. If you do, change “target” in its text to “each.”)[/i] => As an additional cost to cast this spell, sacrifice a creature.
+Life-Force Assault deals damage equal to the sacrificed creature's power to target creature you don't control.
+Overload {3}{G}{G}{V}{V} [i](You may cast this spell for its overload cost. If you do, change “target” in its text to “each.”)[/i]
+
+Mend
+cost: {G}{G}{hazard.png}{hazard.png} => {G}{G}{V}{V}
+
+Supernal Regeneration
+cost: {1}{G}{hazard.png} => {1}{G}{V}
+rules_text: Put a shield counter on target creature you control. You gain 5 life. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+Overload {3}{G}{hazard.png}{hazard.png} [i](You may cast this spell for its overload cost. If you do, change “target” in its text to “each.”)[/i] => Put a shield counter on target creature you control. You gain 5 life. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+Overload {3}{G}{V}{V} [i](You may cast this spell for its overload cost. If you do, change “target” in its text to “each.”)[/i]
+
+Shapechanging
+cost: {3}{G}{hazard.png}{hazard.png} => {3}{G}{V}{V}
+
+Pandemic
+cost: {2}{G}{G}{hazard.png}{hazard.png}{hazard.png} => {2}{G}{G}{V}{V}{V}
+
+Create Life
+cost: {1}{G}{G}{G}{hazard.png}{hazard.png}{hazard.png} => {1}{G}{G}{G}{V}{V}{V}
+
+Salt the Earth
+cost: {3}{G}{G}{hazard.png}{hazard.png}{hazard.png} => {3}{G}{G}{V}{V}{V}
+
+Time Traveler
+rules_text: You can't cast Time Traveler during your first, second, or third turns of the game.
+{2}{W}{hazard.png}, {T}: Exile this creature with three time counters on it. It gains suspend. Target creature phases out and can't phase in while Time Traveler is suspended. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i] => You can't cast Time Traveler during your first, second, or third turns of the game.
+{2}{W}{V}, {T}: Exile this creature with three time counters on it. It gains suspend. Target creature phases out and can't phase in while Time Traveler is suspended. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i]
+
+Paranormal Skeptic
+rules_text: Vulgar spells cost {hazard.png} more to cast. [i](A spell is vulgar if it has {hazard.png} in its casting cost.)[/i]
+Whenever a player casts a vulgar spell, put a disbelief counter on Paranormal Skeptic. 
+When Paranormal Skeptic dies, it deals 1 damage to any target for each disbelief counter on it. => Vulgar spells cost {V} more to cast. [i](A spell is vulgar if it has {V} in its casting cost.)[/i]
+Whenever a player casts a vulgar spell, put a disbelief counter on Paranormal Skeptic. 
+When Paranormal Skeptic dies, it deals 1 damage to any target for each disbelief counter on it.
+
+Illusory Tyrannosaur
+cost: {2}{R}{R}{hazard.png} => {2}{R}{R}{V}
+
+Illusory Drake
+cost: {1}{R}{hazard.png} => {1}{R}{V}
+
+Illusory Monster
+cost: {2}{R}{hazard.png} => {2}{R}{V}
+
+Illusory Recluse
+cost: {1}{R}{hazard.png} => {1}{R}{V}
+
+Abyssal Backlash
+cost: {hazard.png} => {V}
+
+Abyssal Rebuke
+cost: {hazard.png} => {V}
+
+Abyssal Shock
+cost: {hazard.png} => {V}
+
+Mental Aberration
+cost: {hazard.png} => {V}
+
+Mental Anomaly
+cost: {hazard.png} => {V}
+
+Mental Regression
+cost: {hazard.png} => {V}
+
+Void Pocket
+cost: {hazard.png} => {V}
+
+Void Bubble
+cost: {hazard.png} => {V}
+
+Void Episode
+cost: {hazard.png} => {V}
+
+Creeping End
+cost: {hazard.png} => {V}
+
+Seeping End
+cost: {hazard.png} => {V}
+
+Weeping End
+cost: {hazard.png} => {V}
+
+Null Resonance
+cost: {hazard.png} => {V}
+
+Reality Erasure
+cost: {hazard.png} => {V}
+
+Reality Decay
+cost: {hazard.png} => {V}
+
+Reality Erosion
+cost: {hazard.png} => {V}
+
+Faulty Imago
+cost: {hazard.png} => {V}
+
+Abyssal Wave
+cost: {hazard.png}{hazard.png} => {V}{V}
+
+Cognitive Dissonance
+cost: {hazard.png}{hazard.png} => {V}{V}
+
+Cerebral Dissonance
+cost: {hazard.png}{hazard.png} => {V}{V}
+
+Flawed Imago
+cost: {hazard.png}{hazard.png}{hazard.png} => {V}{V}{V}
+
+Voidwrought Reckoning
+cost: {hazard.png}{hazard.png}{hazard.png} => {V}{V}{V}
+
+Spraxedar's Soul
+cost: {hazard.png}{hazard.png}{hazard.png} => {V}{V}{V}
+
+Ixa, Recursive Void
+cost: {hazard.png}{hazard.png}{hazard.png}{hazard.png} => {V}{V}{V}{V}
+
+Engraneg, Thrice Nothing
+cost: {hazard.png}{hazard.png}{hazard.png} => {V}{V}{V}
+
+Narrowing
+cost: {hazard.png}{hazard.png} => {V}{V}
+
+Prince of 100,000 Leaves
+cost: {hazard.png}{hazard.png}{hazard.png}{hazard.png}{hazard.png}{hazard.png} => {V}{V}{V}{V}{V}{V}
+
+Supervene Reality
+cost: {hazard.png}{hazard.png}{hazard.png}{hazard.png}{hazard.png} => {V}{V}{V}{V}{V}
+
+Nimbus Fragment
+cost: {hazard.png} => {V}
+
+Nimbus Shard
+cost: {hazard.png} => {V}
+
+Nimbus Shrapnel
+cost: {hazard.png} => {V}
+
+Dorrarech, Soul Drinker
+cost: {hazard.png}{hazard.png}{hazard.png} => {V}{V}{V}
+
+Abyssal Pox
+cost: {hazard.png}{hazard.png}{hazard.png}{hazard.png}{hazard.png} => {V}{V}{V}{V}{V}
+
+Abyssal Blight
+cost: {hazard.png}{hazard.png}{hazard.png}{hazard.png} => {V}{V}{V}{V}
+
+Irrememberance
+cost: {hazard.png}{hazard.png} => {V}{V}
+
+Soul Nullifier
+cost: {hazard.png}{hazard.png} => {V}{V}
+
+Expose Soul
+cost: {hazard.png}{hazard.png}{hazard.png}{hazard.png} => {V}{V}{V}{V}
+
+Fwdre, Viral Assertion
+cost: {hazard.png}{hazard.png} => {V}{V}
+
+Deletion
+cost: {hazard.png}{hazard.png}{hazard.png} => {V}{V}{V}
+
+Nrôrn, Truth Denied
+rules_text: Whenever a player discards a card, they lose life equal to its mana value. If it's a land card, they put an essence counter on Nrôrn, Truth Denied instead.
+When Nrôrn dies, the active player may cast a spell from their hand without paying its mana cost. [i](They still pay any {hazard.png} cost.)[/i]
+[level +2] The active player draws six cards.
+ => Whenever a player discards a card, they lose life equal to its mana value. If it's a land card, they put an essence counter on Nrôrn, Truth Denied instead.
+When Nrôrn dies, the active player may cast a spell from their hand without paying its mana cost. [i](They still pay any {V} cost.)[/i]
+[level +2] The active player draws six cards.
+
+special_text: Whenever a player discards a card, they lose life equal to its mana value. If it's a land card, they put an essence counter on Nrôrn, Truth Denied instead.
+When Nrôrn dies, the active player may cast a spell from their hand without paying its mana cost. [i](They still pay any {hazard.png} cost.)[/i]
+[level +2] The active player draws six cards.
+ => Whenever a player discards a card, they lose life equal to its mana value. If it's a land card, they put an essence counter on Nrôrn, Truth Denied instead.
+When Nrôrn dies, the active player may cast a spell from their hand without paying its mana cost. [i](They still pay any {V} cost.)[/i]
+[level +2] The active player draws six cards.
+
+
+Mental Flush
+cost: {hazard.png}{hazard.png} => {V}{V}
+
+Idea Infection
+cost: {hazard.png}{hazard.png} => {V}{V}
+
+Viirrax, Imago Collapse
+cost: {hazard.png}{hazard.png} => {V}{V}
+
+Sever Oaths
+cost: {2}{W}{hazard.png} => {2}{W}{V}
+rules_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+[i][/i]Activated abilities of creatures your opponents control cost {1} more to activate.[i][/i]
+{1}{W}{hazard.png}: Level 2
+Creatures attacking or dying don't cause abilities of permanents your opponents control to trigger.
+{1}{W}{hazard.png}: Level 3
+Creatures entering or leaving the battlefield don't cause abilities of permanents your opponents control to trigger. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+[i][/i]Activated abilities of creatures your opponents control cost {1} more to activate.[i][/i]
+{1}{W}{V}: Level 2
+Creatures attacking or dying don't cause abilities of permanents your opponents control to trigger.
+{1}{W}{V}: Level 3
+Creatures entering or leaving the battlefield don't cause abilities of permanents your opponents control to trigger.
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+[i][/i]Activated abilities of creatures your opponents control cost {1} more to activate.[i][/i]
+{1}{W}{hazard.png}: Level 2
+Creatures attacking or dying don't cause abilities of permanents your opponents control to trigger.
+{1}{W}{hazard.png}: Level 3
+Creatures entering or leaving the battlefield don't cause abilities of permanents your opponents control to trigger. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+[i][/i]Activated abilities of creatures your opponents control cost {1} more to activate.[i][/i]
+{1}{W}{V}: Level 2
+Creatures attacking or dying don't cause abilities of permanents your opponents control to trigger.
+{1}{W}{V}: Level 3
+Creatures entering or leaving the battlefield don't cause abilities of permanents your opponents control to trigger.
+
+Sanctum Sanctorum
+rules_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+Hideaway 5 [i](When this land enters, look at the top five cards of your library, exile one face down, then put the rest on the bottom in a random order.)[/i]
+{T}: Add {C}.
+{2}: Level 2
+The first spell you cast each turn costs {hazard.png} less to cast.
+{3}: Level 3
+When this Merit becomes level 3, turn the exiled card face up.
+
+{T}: Copy the exiled card. You may cast the copy. Activate only as a sorcery. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+Hideaway 5 [i](When this land enters, look at the top five cards of your library, exile one face down, then put the rest on the bottom in a random order.)[/i]
+{T}: Add {C}.
+{2}: Level 2
+The first spell you cast each turn costs {V} less to cast.
+{3}: Level 3
+When this Merit becomes level 3, turn the exiled card face up.
+
+{T}: Copy the exiled card. You may cast the copy. Activate only as a sorcery.
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+Hideaway 5 [i](When this land enters, look at the top five cards of your library, exile one face down, then put the rest on the bottom in a random order.)[/i]
+{T}: Add {C}.
+{2}: Level 2
+The first spell you cast each turn costs {hazard.png} less to cast.
+{3}: Level 3
+When this Merit becomes level 3, turn the exiled card face up.
+
+{T}: Copy the exiled card. You may cast the copy. Activate only as a sorcery. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+Hideaway 5 [i](When this land enters, look at the top five cards of your library, exile one face down, then put the rest on the bottom in a random order.)[/i]
+{T}: Add {C}.
+{2}: Level 2
+The first spell you cast each turn costs {V} less to cast.
+{3}: Level 3
+When this Merit becomes level 3, turn the exiled card face up.
+
+{T}: Copy the exiled card. You may cast the copy. Activate only as a sorcery.
+
+Sanitation Plant
+rules_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+{T}: Add {C}.
+{2}: Level 2
+{T}, Sacrifice a creature or artifact: Add one mana of any color.
+{2}: Level 3
+{2}, {T}: Put target card from your graveyard on top of your library.
+{2}: Level 4
+Spells you cast from your graveyard cost {hazard.png} less to cast. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+{T}: Add {C}.
+{2}: Level 2
+{T}, Sacrifice a creature or artifact: Add one mana of any color.
+{2}: Level 3
+{2}, {T}: Put target card from your graveyard on top of your library.
+{2}: Level 4
+Spells you cast from your graveyard cost {V} less to cast.
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+{T}: Add {C}.
+{2}: Level 2
+{T}, Sacrifice a creature or artifact: Add one mana of any color.
+{2}: Level 3
+{2}, {T}: Put target card from your graveyard on top of your library.
+{2}: Level 4
+Spells you cast from your graveyard cost {hazard.png} less to cast. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+{T}: Add {C}.
+{2}: Level 2
+{T}, Sacrifice a creature or artifact: Add one mana of any color.
+{2}: Level 3
+{2}, {T}: Put target card from your graveyard on top of your library.
+{2}: Level 4
+Spells you cast from your graveyard cost {V} less to cast.
+
+Fools Rush In
+cost: {1}{W}{W}{hazard.png} => {1}{W}{W}{V}
+
+Hubris
+rules_text: {hazard.png} represents paradox. Pay {hazard.png} by paying {1}, or by paying 2 Wisdom, or by gaining a Hubris counter.
+
+At the beginning of your Breach step, if you have gained Hubris since the beginning of your last Breach step, the Abyss casts spells with that much total paradox value from the top of the Abyss deck. => {V} represents paradox. Pay {V} by paying {1}, or by paying 2 Wisdom, or by gaining a Hubris counter.
+
+At the beginning of your Breach step, if you have gained Hubris since the beginning of your last Breach step, the Abyss casts spells with that much total paradox value from the top of the Abyss deck.
+
+
+VERSION 13 CHANGELOG
 ====================
 
 Shared Destinies added.

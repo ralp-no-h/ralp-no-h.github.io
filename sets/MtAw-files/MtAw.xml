@@ -73,7 +73,7 @@ Foretell {W}{W}</text>
 				<side>front</side>
 				<type>Fate Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>2Wh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>2WV</manacost>
 				<cmc>4</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -90,7 +90,7 @@ Foretell {W} (During your turn, you may pay {2} and exile this card from your ha
 				<side>front</side>
 				<type>Fate Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>1Wh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1WV</manacost>
 				<cmc>3</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -131,7 +131,7 @@ V — Grave Misfortune deals 1 damage to enchanted creature for each lore counte
 				<side>front</side>
 				<type>Fate Enchantment — Aura Saga</type>
 				<maintype>Enchantment</maintype>
-				<manacost>1Wh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1WV</manacost>
 				<cmc>3</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -150,7 +150,7 @@ III — Exile Monkey&apos;s Paw and return it to the battlefield under an oppone
 				<side>front</side>
 				<type>Fate Enchantment — Saga</type>
 				<maintype>Enchantment</maintype>
-				<manacost>Wh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>WV</manacost>
 				<cmc>2</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -164,14 +164,14 @@ Whenever you lose life, each opponent loses 1 life.
 {1}{W}: Level 2
 Whenever a creature you control dies for the first time each turn, each opponent sacrifices a creature.
 {1}{W}: Level 3
-Whenever a creature an opponent controls enters for the first time each turn, you may cast a creature spell from your hand without paying its mana cost. (You still pay any {hazard.png} cost.)</text>
+Whenever a creature an opponent controls enters for the first time each turn, you may cast a creature spell from your hand without paying its mana cost. (You still pay any {V} cost.)</text>
 			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/8.jpg" num="15">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Fate Enchantment — Class</type>
 				<maintype>Enchantment</maintype>
-				<manacost>2Wh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>2WV</manacost>
 				<cmc>4</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -208,7 +208,7 @@ III — Destroy target enchantment, then Atonement deals damage to each opponent
 				<side>front</side>
 				<type>Fate Enchantment — Saga</type>
 				<maintype>Enchantment</maintype>
-				<manacost>2WWh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>2WWVV</manacost>
 				<cmc>6</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -227,7 +227,7 @@ I, II, III, IV — Scry X, draw a card, then shuffle, where X is the number of l
 				<side>front</side>
 				<type>Fate Enchantment — Saga</type>
 				<maintype>Enchantment</maintype>
-				<manacost>2WWh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>2WWVV</manacost>
 				<cmc>6</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -246,7 +246,7 @@ III — Creatures your opponents control lose all abilities. Destroy all creatur
 				<side>front</side>
 				<type>Fate Enchantment — Saga</type>
 				<maintype>Enchantment</maintype>
-				<manacost>2WWh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>2WWVV</manacost>
 				<cmc>6</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -266,7 +266,7 @@ Whenever a player discards a card this way, they lose life equal to that card&ap
 				<side>front</side>
 				<type>Fate Enchantment — Saga</type>
 				<maintype>Enchantment</maintype>
-				<manacost>2Wh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>2WVV</manacost>
 				<cmc>5</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -285,7 +285,7 @@ III — Whenever you sacrifice a Saga this turn, add {W}{W}. Spend this mana onl
 				<side>front</side>
 				<type>Fate Enchantment — Saga</type>
 				<maintype>Enchantment</maintype>
-				<manacost>1WWh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1WWVVV</manacost>
 				<cmc>6</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -296,14 +296,14 @@ III — Whenever you sacrifice a Saga this turn, add {W}{W}. Spend this mana onl
 			<name>Miracle</name>
 			<text>This spell can&apos;t be countered.
 Until the end of your next turn, you can&apos;t lose life, you can&apos;t lose the game, and your opponents can&apos;t win the game. If this spell was foretold, permanents you control gain hexproof and indestructible until end of turn.
-Foretell {hazard.png}{hazard.png}, Discard a Fate card.</text>
+Foretell {V}{V}, Discard a Fate card.</text>
 			<set rarity="mythic" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/15.jpg" num="10">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Fate Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>1WWh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1WWVVV</manacost>
 				<cmc>6</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -315,14 +315,14 @@ Foretell {hazard.png}{hazard.png}, Discard a Fate card.</text>
 			<text>This spell has flash as long as it is foretold.
 Enchant creature
 All damage that would be dealt to you is dealt to enchanted creature instead.
-Foretell {2}{W}{hazard.png}{hazard.png}{hazard.png} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell {2}{W}{V}{V}{V} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
 			<set rarity="common" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/16.jpg" num="1">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Fate Enchantment — Aura</type>
 				<maintype>Enchantment</maintype>
-				<manacost>2Wh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>2WVVV</manacost>
 				<cmc>6</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -342,7 +342,7 @@ You may sacrifice a Food. If you do, remove a lore counter from Swarm of Locusts
 				<side>front</side>
 				<type>Fate Enchantment — Saga</type>
 				<maintype>Enchantment</maintype>
-				<manacost>2WWh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>2WWVVV</manacost>
 				<cmc>7</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -362,7 +362,7 @@ Foretell—Tap four untapped creatures and/or lands you control. (During your tu
 				<side>front</side>
 				<type>Fate Creature — Bird Knight</type>
 				<maintype>Creature</maintype>
-				<manacost>2Wh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>2WV</manacost>
 				<cmc>4</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -381,7 +381,7 @@ Foretell {3}{W}</text>
 				<side>front</side>
 				<type>Fate Creature — Dog Archer</type>
 				<maintype>Creature</maintype>
-				<manacost>3Wh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>3WV</manacost>
 				<cmc>5</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -402,7 +402,7 @@ Foretell {W} (During your turn, you may pay {2} and exile this card from your ha
 				<side>front</side>
 				<type>Fate Creature — Mouse Cleric</type>
 				<maintype>Creature</maintype>
-				<manacost>1Wh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1WV</manacost>
 				<cmc>3</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -422,7 +422,7 @@ Foretell {W}, Pay 1 life (During your turn, you may pay {2} and exile this card 
 				<side>front</side>
 				<type>Fate Creature — Rat Assassin</type>
 				<maintype>Creature</maintype>
-				<manacost>Wh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>WV</manacost>
 				<cmc>2</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -441,7 +441,7 @@ Foretell {2}{W} (During your turn, you may pay {2} and exile this card from your
 				<side>front</side>
 				<type>Fate Creature — Wolverine Berserker</type>
 				<maintype>Creature</maintype>
-				<manacost>2Wh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>2WV</manacost>
 				<cmc>4</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -517,7 +517,7 @@ Warp {2}{U} (You may cast this spell from your hand for its warp cost. Exile thi
 				<side>front</side>
 				<type>Space Creature — Alien Insect</type>
 				<maintype>Creature</maintype>
-				<manacost>3Uh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>3UV</manacost>
 				<cmc>5</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
@@ -536,7 +536,7 @@ Warp {1}{U} (You may cast this spell from your hand for its warp cost. Exile thi
 				<side>front</side>
 				<type>Space Creature — Alien Jellyfish</type>
 				<maintype>Creature</maintype>
-				<manacost>2Uh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>2UV</manacost>
 				<cmc>4</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
@@ -548,14 +548,14 @@ Warp {1}{U} (You may cast this spell from your hand for its warp cost. Exile thi
 			<name>Enceladean Slime</name>
 			<text>When Enceladean Slime enters, create a 2/2 blue Ooze creature token.
 Whenever an Ooze you control leaves the battlefield without dying, put a number of +1/+1 counters equal to its power on each Ooze you control.
-Warp {3}{U}{U}{hazard.png} (You may cast this spell from your hand for its warp cost. Exile this creature at the beginning of your next end step, then you may cast it from exile on a later turn.)</text>
+Warp {3}{U}{U}{V} (You may cast this spell from your hand for its warp cost. Exile this creature at the beginning of your next end step, then you may cast it from exile on a later turn.)</text>
 			<set rarity="common" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/28.jpg" num="108">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Space Creature — Alien Ooze</type>
 				<maintype>Creature</maintype>
-				<manacost>3UUh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>3UUV</manacost>
 				<cmc>6</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
@@ -588,14 +588,14 @@ Warp {1}{U}</text>
 			<name>Ionian Arcanophage</name>
 			<text>Ionian Arcanophage enters tapped.
 When Ionian Arcanophage enters or leaves the battlefield, destroy target enchantment.
-Warp {3}{U}{hazard.png} (You may cast this spell from your hand for its warp cost. Exile this creature at the beginning of your next end step, then you may cast it from exile on a later turn.)</text>
+Warp {3}{U}{V} (You may cast this spell from your hand for its warp cost. Exile this creature at the beginning of your next end step, then you may cast it from exile on a later turn.)</text>
 			<set rarity="common" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/30.jpg" num="109">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Space Creature — Alien Slug</type>
 				<maintype>Creature</maintype>
-				<manacost>2Uh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>2UV</manacost>
 				<cmc>4</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
@@ -613,7 +613,7 @@ Protection from Space and from Time (This creature can&apos;t be blocked, target
 				<side>front</side>
 				<type>Forces Creature — Elemental</type>
 				<maintype>Creature</maintype>
-				<manacost>Rh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>RV</manacost>
 				<cmc>2</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
@@ -631,7 +631,7 @@ As long as Sonic Elemental is attacking, you may cast Forces spells and noncreat
 				<side>front</side>
 				<type>Forces Creature — Elemental</type>
 				<maintype>Creature</maintype>
-				<manacost>1Rh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1RV</manacost>
 				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
@@ -649,7 +649,7 @@ Protection from flying (This creature can&apos;t be blocked, targeted, dealt dam
 				<side>front</side>
 				<type>Forces Creature — Elemental</type>
 				<maintype>Creature</maintype>
-				<manacost>2Rh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>2RV</manacost>
 				<cmc>4</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
@@ -666,7 +666,7 @@ Protection from flying (This creature can&apos;t be blocked, targeted, dealt dam
 				<side>front</side>
 				<type>Forces Creature — Elemental</type>
 				<maintype>Creature</maintype>
-				<manacost>2Rh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>2RV</manacost>
 				<cmc>4</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
@@ -683,7 +683,7 @@ Protection from flying (This creature can&apos;t be blocked, targeted, dealt dam
 				<side>front</side>
 				<type>Forces Creature — Elemental</type>
 				<maintype>Creature</maintype>
-				<manacost>2RRh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>2RRV</manacost>
 				<cmc>5</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
@@ -721,7 +721,7 @@ Whenever a creature dies, put a +1/+1 counter on A Gruesome Murder. This ability
 				<side>front</side>
 				<type>Spirit Creature — Avatar</type>
 				<maintype>Creature</maintype>
-				<manacost>2Gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>2GV</manacost>
 				<cmc>4</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -739,7 +739,7 @@ Bane — {2}, Sacrifice a Food: Destroy A Poor Child&apos;s Hunger. Its controll
 				<side>front</side>
 				<type>Spirit Creature — Avatar</type>
 				<maintype>Creature</maintype>
-				<manacost>3Gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>3GV</manacost>
 				<cmc>5</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -777,7 +777,7 @@ Bane — {1}: Destroy An Untold Secret. Its controller may play the exiled card 
 				<side>front</side>
 				<type>Spirit Creature — Avatar</type>
 				<maintype>Creature</maintype>
-				<manacost>3Gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>3GV</manacost>
 				<cmc>5</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -795,7 +795,7 @@ Whenever you sacrifice a Food, put a +1/+1 counter on Ambrosial Behemoth.</text>
 				<side>front</side>
 				<type>Life Creature — Hydra</type>
 				<maintype>Creature</maintype>
-				<manacost>4GGh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>4GGV</manacost>
 				<cmc>7</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -832,7 +832,7 @@ When Rampaging Rhinoceros dies, create two Food tokens.</text>
 				<side>front</side>
 				<type>Life Creature — Rhino</type>
 				<maintype>Creature</maintype>
-				<manacost>2GGh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>2GGV</manacost>
 				<cmc>5</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -907,7 +907,7 @@ Madness {3}{U}{U} (If you discard this card, discard it into exile. When you do,
 				<side>front</side>
 				<type>Mind Creature — Nightmare Cat</type>
 				<maintype>Creature</maintype>
-				<manacost>3UUh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>3UUV</manacost>
 				<cmc>6</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
@@ -926,7 +926,7 @@ If one or more counters would be put on Goetia of Gluttony, its controller creat
 				<side>front</side>
 				<type>Mind Creature — Nightmare Shark</type>
 				<maintype>Creature</maintype>
-				<manacost>X1UUh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>X1UUV</manacost>
 				<cmc>4</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
@@ -956,7 +956,7 @@ Creatures your opponents control can&apos;t have or gain haste.</text>
 		</card>
 		<card>
 			<name>Goetia of Envy</name>
-			<text>{U}{hazard.png}: Exchange control of Goetia of Envy and target spell. You may choose new targets for the spell.
+			<text>{U}{V}: Exchange control of Goetia of Envy and target spell. You may choose new targets for the spell.
 Madness {2}{U}{U} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</text>
 			<set rarity="common" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/50.jpg" num="78">MtAw</set>
 			<prop>
@@ -964,7 +964,7 @@ Madness {2}{U}{U} (If you discard this card, discard it into exile. When you do,
 				<side>front</side>
 				<type>Mind Creature — Nightmare Snake</type>
 				<maintype>Creature</maintype>
-				<manacost>3Uh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>3UV</manacost>
 				<cmc>5</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
@@ -975,7 +975,7 @@ Madness {2}{U}{U} (If you discard this card, discard it into exile. When you do,
 		<card>
 			<name>Erupting Carcass</name>
 			<text>Emerge {3}{B} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature&apos;s mana value.)
-Escape {3}{B}{hazard.png}, Sacrifice a creature. (You may cast this card from your graveyard for its escape cost.)
+Escape {3}{B}{V}, Sacrifice a creature. (You may cast this card from your graveyard for its escape cost.)
 This creature escapes with +1/+1 counters on it equal to the sacrificed creature&apos;s toughness.</text>
 			<set rarity="common" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/51.jpg" num="136">MtAw</set>
 			<prop>
@@ -994,7 +994,7 @@ This creature escapes with +1/+1 counters on it equal to the sacrificed creature
 		<card>
 			<name>Resonant Corpse</name>
 			<text>Resonant Corpse&apos;s power is equal to the mana value of the last spell cast.
-Escape {2}{B}{B}{hazard.png}, Exile a card from your graveyard with mana value 4 or greater.</text>
+Escape {2}{B}{B}{V}, Exile a card from your graveyard with mana value 4 or greater.</text>
 			<set rarity="rare" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/52.jpg" num="140">MtAw</set>
 			<prop>
 				<layout>normal</layout>
@@ -1074,7 +1074,7 @@ At the beginning of combat, you may sacrifice a Blood, Food, or creature. If you
 				<side>front</side>
 				<type>Matter Artifact Creature — Drone Construct</type>
 				<maintype>Creature</maintype>
-				<manacost>Bh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>BV</manacost>
 				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -1094,7 +1094,7 @@ At the beginning of combat, you may sacrifice a Blood, Food, or creature. If you
 				<side>front</side>
 				<type>Matter Artifact Creature — Robot Construct</type>
 				<maintype>Creature</maintype>
-				<manacost>2Bh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>2BV</manacost>
 				<cmc>4</cmc>
 				<colors>B</colors>
 				<coloridentity>WUB</coloridentity>
@@ -1113,7 +1113,7 @@ Sacrifice an artifact: Antimatter Field gets +1/+0 and loses defender until end 
 				<side>front</side>
 				<type>Matter Artifact Creature — Wall</type>
 				<maintype>Creature</maintype>
-				<manacost>Bh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>BV</manacost>
 				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -1150,7 +1150,7 @@ Prevent all damage that would be dealt to Crystalline Seal. When damage is preve
 				<side>front</side>
 				<type>Matter Artifact Creature — Wall</type>
 				<maintype>Creature</maintype>
-				<manacost>2Bh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>2BV</manacost>
 				<cmc>4</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -1202,7 +1202,7 @@ At the beginning of your end step, inculcate. (Put a +1/+1 counter on a Cult you
 {T}: Add {R} or {G}.
 Tap an untapped Human you control: Add {C}.
 At the beginning of your end step, if a Human entered under your control this turn, gain 1 Wisdom.</text>
-			<set rarity="common" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/63.jpg" num="339">MtAw</set>
+			<set rarity="common" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/63.jpg" num="338">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1220,7 +1220,7 @@ At the beginning of your end step, if a Human entered under your control this tu
 {T}: Add {W} or {B}.
 Put a −1/−1 counter on a Sleeper you control: Counter target vulgar spell or vulgar ability. Activate only once each turn.
 At the beginning of your end step, if you gained no Hubris since your last end step, gain 1 Wisdom.</text>
-			<set rarity="common" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/64.jpg" num="340">MtAw</set>
+			<set rarity="common" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/64.jpg" num="339">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1689,7 +1689,7 @@ Prevent all combat damage Distant Future would deal to a player. When damage is 
 				<side>front</side>
 				<type>Time Enchantment Creature — Epoch</type>
 				<maintype>Creature</maintype>
-				<manacost>3Wh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>3WVV</manacost>
 				<cmc>6</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -1725,7 +1725,7 @@ Prevent all combat damage Atlantean Age would deal to a player. When damage is p
 				<side>front</side>
 				<type>Time Enchantment Creature — Epoch</type>
 				<maintype>Creature</maintype>
-				<manacost>5WWh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>5WWVV</manacost>
 				<cmc>9</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -1761,7 +1761,7 @@ Prevent all combat damage Mesozoic Era would deal to a player. When damage is pr
 				<side>front</side>
 				<type>Time Enchantment Creature — Epoch</type>
 				<maintype>Creature</maintype>
-				<manacost>4Wh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>4WVV</manacost>
 				<cmc>7</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -1807,7 +1807,7 @@ Flashback {1}{B} (You may cast this card from your graveyard for its flashback c
 		</card>
 		<card>
 			<name>Shadow Sculpting</name>
-			<text>Put target card from your graveyard onto the battlefield face down. It&apos;s a black artifact Equipment with &quot;Equipped creature gets +1/+0 and has shadow&quot;, equip {3}, and &quot;When equipped creature deals combat damage to a player, you may exile this card and you may play it this turn without paying its mana cost.&quot; (You still pay any {hazard.png} cost.)</text>
+			<text>Put target card from your graveyard onto the battlefield face down. It&apos;s a black artifact Equipment with &quot;Equipped creature gets +1/+0 and has shadow&quot;, equip {3}, and &quot;When equipped creature deals combat damage to a player, you may exile this card and you may play it this turn without paying its mana cost.&quot; (You still pay any {V} cost.)</text>
 			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/98.jpg" num="129">MtAw</set>
 			<prop>
 				<layout>normal</layout>
@@ -1843,14 +1843,14 @@ Flashback {1}{B} (You may cast this card from your graveyard for its flashback c
 Put a −1/−1 counter on target creature.
 If this spell was kicked, put two −1/−1 counters on another target creature.
 If this spell was cast from a graveyard, put three −1/−1 counters on another target creature.
-Flashback {2}{B}{B}{hazard.png}</text>
+Flashback {2}{B}{B}{V}</text>
 			<set rarity="rare" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/100.jpg" num="116">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Death Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>Bh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>BV</manacost>
 				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -1860,7 +1860,7 @@ Flashback {2}{B}{B}{hazard.png}</text>
 		<card>
 			<name>Ghost Shield</name>
 			<text>Enchanted creature gets +0/+2, can block creatures with shadow as though they didn&apos;t have shadow, and has protection from deathtouch. (It can&apos;t be dealt damage, enchanted, equipped, blocked, or targeted by anything with deathtouch.)
-Escape—{1}{B}{hazard.png}, Exile another Aura or Ghost card from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
+Escape—{1}{B}{V}, Exile another Aura or Ghost card from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
 			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/101.jpg" num="125">MtAw</set>
 			<prop>
 				<layout>normal</layout>
@@ -1885,7 +1885,7 @@ When enchanted creature dies, return that card to the battlefield under its owne
 				<side>front</side>
 				<type>Death Enchantment — Aura</type>
 				<maintype>Enchantment</maintype>
-				<manacost>1Bh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1BV</manacost>
 				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -1895,14 +1895,14 @@ When enchanted creature dies, return that card to the battlefield under its owne
 		<card>
 			<name>Suppress Life</name>
 			<text>Target creature gains &quot;When this creature dies, return it to the battlefield at the beginning of the next end step under its owner&apos;s control.&quot; Destroy it.
-Flashback {2}{B}{hazard.png} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+Flashback {2}{B}{V} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
 			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/103.jpg" num="132">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Death Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>Bh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>BV</manacost>
 				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -1919,7 +1919,7 @@ Whenever a creature card is put into your graveyard from anywhere, you gain 1 li
 				<side>front</side>
 				<type>Death Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>2Bh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>2BV</manacost>
 				<cmc>4</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -1929,14 +1929,14 @@ Whenever a creature card is put into your graveyard from anywhere, you gain 1 li
 		<card>
 			<name>Ghost Gate</name>
 			<text>Target creature gets +2/+0 and gains shadow until end of turn. (That creature can block or be blocked by only creatures with shadow.)
-Flashback {2}{B}{B}{hazard.png} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+Flashback {2}{B}{B}{V} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
 			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/105.jpg" num="124">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Death Kindred Sorcery — Ghost</type>
 				<maintype>Sorcery</maintype>
-				<manacost>1Bh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1BV</manacost>
 				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -1947,14 +1947,14 @@ Flashback {2}{B}{B}{hazard.png} (You may cast this card from your graveyard for 
 			<name>Quicken Corpse</name>
 			<text>Return target creature card from a graveyard to the battlefield under your control. It&apos;s a black Zombie in addition to its other colors and types with base power and toughness 2/2.
 If this spell was cast from a graveyard, copy it. You may choose new targets for the copy.
-Flashback {3}{B}{B}{hazard.png}</text>
+Flashback {3}{B}{B}{V}</text>
 			<set rarity="rare" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/106.jpg" num="126">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Death Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>1Bh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1BV</manacost>
 				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -1970,7 +1970,7 @@ Flashback {3}{B}{B}{hazard.png}</text>
 				<side>front</side>
 				<type>Death Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>XBh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>XBV</manacost>
 				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -1983,14 +1983,14 @@ Flashback {3}{B}{B}{hazard.png}</text>
 • Put a −1/−1 counter on each of any number of target creatures you control.
 • Put a −1/−1 counter on each of up to X target creatures you don&apos;t control.
 • Destroy target creature if it has a counter on it.
-Flashback {X}{X}{B}{B}{hazard.png}{hazard.png}</text>
+Flashback {X}{X}{B}{B}{V}{V}</text>
 			<set rarity="rare" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/108.jpg" num="121">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Death Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>XBh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>XBVV</manacost>
 				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -1999,19 +1999,19 @@ Flashback {X}{X}{B}{B}{hazard.png}{hazard.png}</text>
 		</card>
 		<card>
 			<name>Exorcism</name>
-			<text>This spell costs {1}{B}{hazard.png} less to cast if it targets a Ghost or a creature with shadow.
+			<text>This spell costs {1}{B}{V} less to cast if it targets a Ghost or a creature with shadow.
 Choose one —
 • Destroy target non-Human creature.
 • Destroy all Auras attached to target creature.
 • Destroy target Aura.
-Flashback {3}{B}{hazard.png}{hazard.png} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+Flashback {3}{B}{V}{V} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
 			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/109.jpg" num="122">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Death Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>1Bh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1BVV</manacost>
 				<cmc>4</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -2022,14 +2022,14 @@ Flashback {3}{B}{hazard.png}{hazard.png} (You may cast this card from your grave
 			<name>Unearth Revenant</name>
 			<text>When you cast this spell from your graveyard, gain 2 Wisdom.
 Return target creature card from your graveyard to the battlefield.
-Flashback {hazard.png}{hazard.png}, Pay life equal to the card&apos;s mana value. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+Flashback {V}{V}, Pay life equal to the card&apos;s mana value. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
 			<set rarity="common" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/110.jpg" num="133">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Death Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>BBBh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>BBBVV</manacost>
 				<cmc>5</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -2041,14 +2041,14 @@ Flashback {hazard.png}{hazard.png}, Pay life equal to the card&apos;s mana value
 			<text>Enchant creature
 Enchanted creature gets +1/+0 and has protection from shadow.
 {B}: Enchanted creature gains your choice of shadow or deathtouch until end of turn.
-Escape—{2}{B}{hazard.png}{hazard.png}, Pay 2 life, Exile two other cards from your graveyard.</text>
+Escape—{2}{B}{V}{V}, Pay 2 life, Exile two other cards from your graveyard.</text>
 			<set rarity="rare" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/111.jpg" num="128">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Death Enchantment — Aura</type>
 				<maintype>Enchantment</maintype>
-				<manacost>1Bh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1BV</manacost>
 				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -2058,14 +2058,14 @@ Escape—{2}{B}{hazard.png}{hazard.png}, Pay 2 life, Exile two other cards from 
 		<card>
 			<name>Withering</name>
 			<text>Sacrifice up to X creatures. Until end of turn, creatures get −2/−2 for each creature sacrificed this way.
-Flashback {3}{B}{B}{hazard.png}{hazard.png}, Pay X life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+Flashback {3}{B}{B}{V}{V}, Pay X life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
 			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/112.jpg" num="134">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Death Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>XBBBh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>XBBBVV</manacost>
 				<cmc>5</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -2082,7 +2082,7 @@ Return any number of target creature cards from your graveyard to the battlefiel
 				<side>front</side>
 				<type>Death Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>3Bh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>3BVVV</manacost>
 				<cmc>7</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -2098,7 +2098,7 @@ Return any number of target creature cards from your graveyard to the battlefiel
 				<side>front</side>
 				<type>Death Kindred Enchantment — Ghost</type>
 				<maintype>Enchantment</maintype>
-				<manacost>2Bh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>2BVVV</manacost>
 				<cmc>6</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -2116,7 +2116,7 @@ Until the end of your next turn, spells your opponents cast that share a type wi
 				<side>front</side>
 				<type>Death Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>1Bh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1BVVV</manacost>
 				<cmc>5</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -2204,7 +2204,7 @@ Return target artifact card from your graveyard to your hand. If this spell was 
 				<side>front</side>
 				<type>Matter Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>Bh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>BV</manacost>
 				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -2222,7 +2222,7 @@ Enchanted creature gets +2/+2 and has protection from artifacts and from equippe
 				<side>front</side>
 				<type>Matter Enchantment — Aura</type>
 				<maintype>Enchantment</maintype>
-				<manacost>1Bh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1BV</manacost>
 				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -2241,7 +2241,7 @@ Entwine {1}{B}</text>
 				<side>front</side>
 				<type>Matter Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>2Bh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>2BV</manacost>
 				<cmc>4</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -2258,7 +2258,7 @@ Each creature you control gets +1/+1 for each Equipment attached to it.</text>
 				<side>front</side>
 				<type>Matter Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>1Bh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1BV</manacost>
 				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -2274,7 +2274,7 @@ Each creature you control gets +1/+1 for each Equipment attached to it.</text>
 				<side>front</side>
 				<type>Matter Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>2Bh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>2BV</manacost>
 				<cmc>4</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -2291,7 +2291,7 @@ Metalcraft—Windstrike deals 4 damage to that target instead if you control thr
 				<side>front</side>
 				<type>Matter Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>Bh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>BV</manacost>
 				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -2309,7 +2309,7 @@ As long as enchanted artifact is a creature, it has trample and gets +2/+2.</tex
 				<side>front</side>
 				<type>Matter Kindred Enchantment — Construct Aura</type>
 				<maintype>Enchantment</maintype>
-				<manacost>3Bh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>3BV</manacost>
 				<cmc>5</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -2328,7 +2328,7 @@ As long as enchanted artifact is a creature, it has trample and gets +2/+2.</tex
 				<side>front</side>
 				<type>Matter Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>2Bh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>2BV</manacost>
 				<cmc>4</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -2351,7 +2351,7 @@ Turn it face up any time for its mana cost if it&apos;s an artifact card.</text>
 				<side>front</side>
 				<type>Matter Kindred Sorcery — Construct</type>
 				<maintype>Sorcery</maintype>
-				<manacost>3Bh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>3BVV</manacost>
 				<cmc>6</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -2369,7 +2369,7 @@ If this spell was kicked, whenever an artifact creature deals combat damage to a
 				<side>front</side>
 				<type>Matter Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>3Bh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>3BVV</manacost>
 				<cmc>6</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -2387,7 +2387,7 @@ Put a +1/+1 counter on it for each artifact token sacrificed this way.</text>
 				<side>front</side>
 				<type>Matter Kindred Instant — Construct</type>
 				<maintype>Instant</maintype>
-				<manacost>2BBh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>2BBVV</manacost>
 				<cmc>6</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -2405,7 +2405,7 @@ Target creature without flying loses indestructible until end of turn. Piercing 
 				<side>front</side>
 				<type>Matter Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>4Bh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>4BVV</manacost>
 				<cmc>7</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -2422,7 +2422,7 @@ Each of up to twice X target artifacts you control becomes a 3/3 Construct artif
 				<side>front</side>
 				<type>Matter Kindred Sorcery — Construct</type>
 				<maintype>Sorcery</maintype>
-				<manacost>XBBh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>XBBVV</manacost>
 				<cmc>4</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -2432,14 +2432,14 @@ Each of up to twice X target artifacts you control becomes a 3/3 Construct artif
 		<card>
 			<name>Annihilate Matter</name>
 			<text>Exile target artifact you don&apos;t control. Artifacts leaving the battlefield this way don&apos;t cause abilities to trigger.
-Overload {3}{B}{B}{hazard.png}{hazard.png}{hazard.png} (You may cast this spell for its overload cost. If you do, change &quot;target&quot; in its text to &quot;each.&quot;)</text>
+Overload {3}{B}{B}{V}{V}{V} (You may cast this spell for its overload cost. If you do, change &quot;target&quot; in its text to &quot;each.&quot;)</text>
 			<set rarity="common" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/133.jpg" num="145">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Matter Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>Bh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>BV</manacost>
 				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -2456,7 +2456,7 @@ Exile Ex Nihilo.</text>
 				<side>front</side>
 				<type>Matter Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>BBBh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>BBBVVV</manacost>
 				<cmc>6</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -2475,7 +2475,7 @@ Whenever enchanted creature attacks, Self-Repairing Machine deals 1 damage to it
 				<side>front</side>
 				<type>Matter Enchantment — Aura</type>
 				<maintype>Enchantment</maintype>
-				<manacost>2Bh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>2BVVV</manacost>
 				<cmc>6</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -2518,7 +2518,7 @@ Madness {1}{U} (If you discard this card, discard it into exile. When you do, ca
 		</card>
 		<card>
 			<name>One Mind, Two Thoughts</name>
-			<text>Whenever you cast a spell, you may exile a nonland card with lesser mana value from your hand. If you do, it becomes plotted. Do this only once each turn. (You may cast it as a sorcery on a later turn without paying its mana cost. You still pay any {hazard.png} cost.)</text>
+			<text>Whenever you cast a spell, you may exile a nonland card with lesser mana value from your hand. If you do, it becomes plotted. Do this only once each turn. (You may cast it as a sorcery on a later turn without paying its mana cost. You still pay any {V} cost.)</text>
 			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/138.jpg" num="67">MtAw</set>
 			<prop>
 				<layout>normal</layout>
@@ -2571,14 +2571,14 @@ Madness {0} (If you discard this card, discard it into exile. When you do, cast 
 		<card>
 			<name>Memory Hole</name>
 			<text>Each opponent reveals their hand and discards a nonland card of your choice.
-Madness {2}{U}{hazard.png} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</text>
+Madness {2}{U}{V} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</text>
 			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/141.jpg" num="62">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Mind Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>1Uh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1UV</manacost>
 				<cmc>3</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
@@ -2595,7 +2595,7 @@ Whenever you discard one or more cards for the first time each turn, draw that m
 				<side>front</side>
 				<type>Mind Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>1UUh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1UUV</manacost>
 				<cmc>4</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
@@ -2605,14 +2605,14 @@ Whenever you discard one or more cards for the first time each turn, draw that m
 		<card>
 			<name>Psychic Domination</name>
 			<text>Gain control of target creature until end of turn. Untap each creature you control but don&apos;t own, and those creatures gain haste until end of turn.
-Overload {4}{U}{U}{hazard.png}{hazard.png}{hazard.png} (You may cast this spell for its overload cost. If you do, change &quot;target&quot; in its text to &quot;each.&quot;)</text>
+Overload {4}{U}{U}{V}{V}{V} (You may cast this spell for its overload cost. If you do, change &quot;target&quot; in its text to &quot;each.&quot;)</text>
 			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/143.jpg" num="71">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Mind Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>2Uh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>2UV</manacost>
 				<cmc>4</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
@@ -2622,7 +2622,7 @@ Overload {4}{U}{U}{hazard.png}{hazard.png}{hazard.png} (You may cast this spell 
 		<card>
 			<name>Supernal Telepathy</name>
 			<text>Kicker—Discard a card.
-Look at the top seven cards of each opponent&apos;s library. You may cast an instant or sorcery spell from among them without paying its mana cost. Put the rest on the bottom of their owners&apos; libraries in a random order. (You still pay any {hazard.png} cost.)
+Look at the top seven cards of each opponent&apos;s library. You may cast an instant or sorcery spell from among them without paying its mana cost. Put the rest on the bottom of their owners&apos; libraries in a random order. (You still pay any {V} cost.)
 If this spell was kicked, you may cast up to two instant and/or sorcery spells from among the revealed cards instead of one.</text>
 			<set rarity="rare" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/144.jpg" num="75">MtAw</set>
 			<prop>
@@ -2630,7 +2630,7 @@ If this spell was kicked, you may cast up to two instant and/or sorcery spells f
 				<side>front</side>
 				<type>Mind Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>2UUh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>2UUVV</manacost>
 				<cmc>6</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
@@ -2648,7 +2648,7 @@ You may play lands and cast spells from the top of your library.
 				<side>front</side>
 				<type>Mind Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>3UUh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>3UUVV</manacost>
 				<cmc>7</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
@@ -2666,7 +2666,7 @@ Draw a card.</text>
 				<side>front</side>
 				<type>Mind Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>1Uh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1UV</manacost>
 				<cmc>3</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
@@ -2684,7 +2684,7 @@ Madness {3}{U}{U}</text>
 				<side>front</side>
 				<type>Mind Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>4Uh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>4UV</manacost>
 				<cmc>6</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
@@ -2719,7 +2719,7 @@ Madness {4}{U}{U}</text>
 				<side>front</side>
 				<type>Mind Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>3UUh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>3UUVV</manacost>
 				<cmc>7</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
@@ -2729,14 +2729,14 @@ Madness {4}{U}{U}</text>
 		<card>
 			<name>Possession</name>
 			<text>Gain control of target creature with mana value X or less. If X is 5 or more, create a token that&apos;s a copy of that creature except it isn&apos;t legendary and it&apos;s a blue enchantment Nightmare in addition to its other colors and types.
-Madness {3}{U}{U}{hazard.png}, Pay X life.</text>
+Madness {3}{U}{U}{V}, Pay X life.</text>
 			<set rarity="rare" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/150.jpg" num="69">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Mind Kindred Sorcery — Nightmare</type>
 				<maintype>Sorcery</maintype>
-				<manacost>XUUh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>XUUVV</manacost>
 				<cmc>4</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
@@ -2756,7 +2756,7 @@ Whenever a creature an opponent controls enters, attach this Aura to that creatu
 				<side>front</side>
 				<type>Mind Kindred Enchantment — Nightmare Aura</type>
 				<maintype>Enchantment</maintype>
-				<manacost>2UUh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>2UUVV</manacost>
 				<cmc>6</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
@@ -2766,14 +2766,14 @@ Whenever a creature an opponent controls enters, attach this Aura to that creatu
 		<card>
 			<name>Terrorize</name>
 			<text>Creatures you control have menace.
-Madness {hazard.png}{hazard.png}, Pay 3 life. (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</text>
+Madness {V}{V}, Pay 3 life. (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</text>
 			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/152.jpg" num="76">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Mind Kindred Enchantment — Nightmare</type>
 				<maintype>Enchantment</maintype>
-				<manacost>1Uh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1UVV</manacost>
 				<cmc>4</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
@@ -2783,14 +2783,14 @@ Madness {hazard.png}{hazard.png}, Pay 3 life. (If you discard this card, discard
 		<card>
 			<name>Mind Wipe</name>
 			<text>Target non-Nightmare creature loses all abilities until end of turn.
-Overload {U}{U}{hazard.png}{hazard.png} (You may cast this spell for its overload cost. If you do, change &quot;target&quot; in its text to &quot;each.&quot;)</text>
+Overload {U}{U}{V}{V} (You may cast this spell for its overload cost. If you do, change &quot;target&quot; in its text to &quot;each.&quot;)</text>
 			<set rarity="common" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/153.jpg" num="66">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Mind Kindred Instant — Nightmare</type>
 				<maintype>Instant</maintype>
-				<manacost>Uh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>UV</manacost>
 				<cmc>2</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
@@ -2807,7 +2807,7 @@ Create a token that&apos;s a copy of that creature except it isn&apos;t legendar
 				<side>front</side>
 				<type>Mind Kindred Sorcery — Nightmare</type>
 				<maintype>Sorcery</maintype>
-				<manacost>1UUh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1UUVVV</manacost>
 				<cmc>6</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
@@ -2853,9 +2853,9 @@ Exile target permanent you control, then return it to the battlefield under its 
 			<name>Ground Eater</name>
 			<text>(Gain the next level as a sorcery to add its ability.)
 Discard a land card: Target creature you control explores. Activate only once each turn.
-{1}{U}{hazard.png}: Level 2
+{1}{U}{V}: Level 2
 Exile three land cards from your graveyard: Exile target attacking creature until end of combat.
-{2}{U}{hazard.png}: Level 3
+{2}{U}{V}: Level 3
 No more than one creature without flying can attack you each combat.</text>
 			<set rarity="rare" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/157.jpg" num="94">MtAw</set>
 			<prop>
@@ -2933,7 +2933,7 @@ Whenever a creature blocks this turn, create a Map token. (It&apos;s an artifact
 				<side>front</side>
 				<type>Space Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>2UUh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>2UUV</manacost>
 				<cmc>5</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
@@ -2987,7 +2987,7 @@ Whenever a player pays the ward cost, draw a card.</text>
 				<side>front</side>
 				<type>Space Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>2Uh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>2UV</manacost>
 				<cmc>4</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
@@ -3004,7 +3004,7 @@ Exile target permanent or spell that shares a type with that permanent or spell.
 				<side>front</side>
 				<type>Space Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>Uh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>UV</manacost>
 				<cmc>2</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
@@ -3021,7 +3021,7 @@ Until end of turn, spells and abilities you cast or activate that target one or 
 				<side>front</side>
 				<type>Space Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>Uh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>UV</manacost>
 				<cmc>2</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
@@ -3030,7 +3030,7 @@ Until end of turn, spells and abilities you cast or activate that target one or 
 		</card>
 		<card>
 			<name>Warp</name>
-			<text>This spell costs {U}{hazard.png} less to cast if it targets a permanent you control.
+			<text>This spell costs {U}{V} less to cast if it targets a permanent you control.
 When you cast this spell, gain 2 Wisdom.
 Return target nonland permanent to its owner&apos;s hand. Warp deals damage to another target creature equal to that permanent&apos;s mana value.</text>
 			<set rarity="common" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/167.jpg" num="105">MtAw</set>
@@ -3039,7 +3039,7 @@ Return target nonland permanent to its owner&apos;s hand. Warp deals damage to a
 				<side>front</side>
 				<type>Space Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>1UUh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1UUV</manacost>
 				<cmc>4</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
@@ -3066,14 +3066,14 @@ Return target nonland permanent to its owner&apos;s hand. Warp deals damage to a
 			<name>Collapse</name>
 			<text>No more than one creature can attack each combat.
 No more than one creature can block each combat.
-{2}{U}{hazard.png}, Sacrifice Collapse: Each creature you control explores. Activate only as a sorcery.</text>
+{2}{U}{V}, Sacrifice Collapse: Each creature you control explores. Activate only as a sorcery.</text>
 			<set rarity="rare" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/169.jpg" num="90">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Space Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>1Uh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1UVV</manacost>
 				<cmc>4</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
@@ -3092,7 +3092,7 @@ Choose one —
 				<side>front</side>
 				<type>Space Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>Uh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>UVV</manacost>
 				<cmc>3</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
@@ -3108,7 +3108,7 @@ Choose one —
 				<side>front</side>
 				<type>Space Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>2Uh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>2UVV</manacost>
 				<cmc>5</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
@@ -3128,7 +3128,7 @@ Choose one —
 				<side>front</side>
 				<type>Space Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>Uh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>UVVV</manacost>
 				<cmc>4</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
@@ -3137,7 +3137,7 @@ Choose one —
 		</card>
 		<card>
 			<name>Pocket Dimension</name>
-			<text>Ward {hazard.png}{hazard.png}
+			<text>Ward {V}{V}
 When Pocket Dimension enters, exile any number of nonland permanents you control until it leaves the battlefield. For each permanent exiled this way, exile up to one target nonland permanent until Pocket Dimension leaves the battlefield.
 Sacrifice Pocket Dimension: Draw a card.</text>
 			<set rarity="mythic" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/173.jpg" num="100">MtAw</set>
@@ -3146,7 +3146,7 @@ Sacrifice Pocket Dimension: Draw a card.</text>
 				<side>front</side>
 				<type>Space Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>3UUh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>3UUVVV</manacost>
 				<cmc>8</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
@@ -3163,7 +3163,7 @@ Until your next turn, your opponents can&apos;t cast spells from anywhere other 
 				<side>front</side>
 				<type>Space Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>1UUh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1UUVVV</manacost>
 				<cmc>6</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
@@ -3173,14 +3173,14 @@ Until your next turn, your opponents can&apos;t cast spells from anywhere other 
 		<card>
 			<name>Unnaming</name>
 			<text>When Unnaming enters and at the beginning of your upkeep, turn up to one target creature face down. (It&apos;s a 2/2 creature.)
-{U}{U}{hazard.png}, Sacrifice Unnaming: Exile all permanents that don&apos;t have a name.</text>
+{U}{U}{V}, Sacrifice Unnaming: Exile all permanents that don&apos;t have a name.</text>
 			<set rarity="common" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/175.jpg" num="103">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Space Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>2Uh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>2UVVV</manacost>
 				<cmc>6</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
@@ -3208,7 +3208,7 @@ Choose one —
 		</card>
 		<card>
 			<name>Nimbus Tuning</name>
-			<text>This spell costs {hazard.png} more to cast if it targets a vulgar spell. (Vulgar spells have {hazard.png} in their casting cost.)
+			<text>This spell costs {V} more to cast if it targets a vulgar spell. (Vulgar spells have {V} in their casting cost.)
 This spell can&apos;t be copied.
 Copy target instant or sorcery spell you control. You may choose new targets for the copy.</text>
 			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/177.jpg" num="184">MtAw</set>
@@ -3279,7 +3279,7 @@ Whenever you copy a spell one or more times, gain 1 Wisdom.</text>
 		</card>
 		<card>
 			<name>As Above, So Below</name>
-			<text>This spell costs {hazard.png} more to cast if it targets a vulgar spell or vulgar ability. (Vulgar spells and abilities have {hazard.png} in their casting cost.)
+			<text>This spell costs {V} more to cast if it targets a vulgar spell or vulgar ability. (Vulgar spells and abilities have {V} in their casting cost.)
 Copy target instant spell or activated ability you don&apos;t control. You may choose new targets for the copy.</text>
 			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/181.jpg" num="173">MtAw</set>
 			<prop>
@@ -3313,7 +3313,7 @@ Sacrifice Invisible Runes, Reveal the exiled card: You may play the exiled card.
 		</card>
 		<card>
 			<name>Nimbus Forgery</name>
-			<text>This spell costs {hazard.png} more to cast if it targets a vulgar spell or vulgar ability. (Vulgar spells and abilities have {hazard.png} in their casting cost.)
+			<text>This spell costs {V} more to cast if it targets a vulgar spell or vulgar ability. (Vulgar spells and abilities have {V} in their casting cost.)
 You may choose new targets for target spell or ability.</text>
 			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/183.jpg" num="183">MtAw</set>
 			<prop>
@@ -3330,7 +3330,7 @@ You may choose new targets for target spell or ability.</text>
 		</card>
 		<card>
 			<name>Words of Truth</name>
-			<text>This spell costs {hazard.png} more to cast if it targets a vulgar spell. (Vulgar spells have {hazard.png} in their casting cost.)
+			<text>This spell costs {V} more to cast if it targets a vulgar spell. (Vulgar spells have {V} in their casting cost.)
 Copy target permanent spell you control. You may choose new targets for the copy. (The copy becomes a token.)</text>
 			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/184.jpg" num="191">MtAw</set>
 			<prop>
@@ -3338,7 +3338,7 @@ Copy target permanent spell you control. You may choose new targets for the copy
 				<side>front</side>
 				<type>Prime Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>RRh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>RRV</manacost>
 				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
@@ -3357,7 +3357,7 @@ Copy target permanent spell you control. You may choose new targets for the copy
 				<side>front</side>
 				<type>Prime Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>1Rh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1RV</manacost>
 				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
@@ -3367,14 +3367,14 @@ Copy target permanent spell you control. You may choose new targets for the copy
 		<card>
 			<name>Display of Gnosis</name>
 			<text>Demonstrate (When you cast this spell, you may copy it. If you do, choose an opponent to also copy it. Players may choose new targets for their copies.)
-Target opponent reveals cards from the top of their library until they reveal an instant, sorcery, or enchantment card. You may cast that spell without paying its mana cost. (You still pay any {hazard.png} cost.) Then they put all revealed cards not cast this way on the bottom of their library in a random order.</text>
+Target opponent reveals cards from the top of their library until they reveal an instant, sorcery, or enchantment card. You may cast that spell without paying its mana cost. (You still pay any {V} cost.) Then they put all revealed cards not cast this way on the bottom of their library in a random order.</text>
 			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/186.jpg" num="179">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Prime Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>3RRh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>3RRV</manacost>
 				<cmc>6</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
@@ -3391,7 +3391,7 @@ Target opponent reveals cards from the top of their library until they reveal an
 				<side>front</side>
 				<type>Prime Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>2RRh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>2RRVV</manacost>
 				<cmc>6</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
@@ -3412,7 +3412,7 @@ Entwine {R}{R}</text>
 				<side>front</side>
 				<type>Prime Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>XXRRh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>XXRRVV</manacost>
 				<cmc>4</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
@@ -3430,7 +3430,7 @@ Channel — {R}, Sacrifice a Tass, Discard this card: Draw a card.</text>
 				<side>front</side>
 				<type>Prime Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>1Rh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1RVV</manacost>
 				<cmc>4</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
@@ -3440,7 +3440,7 @@ Channel — {R}, Sacrifice a Tass, Discard this card: Draw a card.</text>
 		<card>
 			<name>Hallow Dance</name>
 			<text>Enchant land
-This spell costs {hazard.png}{hazard.png} less to cast if it targets a Hallow.
+This spell costs {V}{V} less to cast if it targets a Hallow.
 (Gain the next level as a sorcery to gain its ability)
 Whenever enchanted land becomes tapped, crystallize.
 {1}{R}: Level 2
@@ -3453,7 +3453,7 @@ Whenever enchanted land is tapped for mana, its controller adds an additional on
 				<side>front</side>
 				<type>Prime Enchantment — Aura Class</type>
 				<maintype>Enchantment</maintype>
-				<manacost>Rh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>RVV</manacost>
 				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
@@ -3471,7 +3471,7 @@ Gain control of target enchantment. If it&apos;s an Aura that&apos;s attached to
 				<side>front</side>
 				<type>Prime Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>3RRh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>3RRVV</manacost>
 				<cmc>7</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
@@ -3488,7 +3488,7 @@ When Supernal Dispellation enters, exile target nonprime enchantment until this 
 				<side>front</side>
 				<type>Prime Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>1Rh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1RVV</manacost>
 				<cmc>4</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
@@ -3506,7 +3506,7 @@ Blasphemy deals 1 damage to each creature for each enchantment destroyed this wa
 				<side>front</side>
 				<type>Prime Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>6Rh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>6RVVV</manacost>
 				<cmc>10</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
@@ -3523,7 +3523,7 @@ Scry 1. Discover 5. (Exile cards from the top of your library until you exile a 
 				<side>front</side>
 				<type>Prime Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>2RRh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>2RRVVV</manacost>
 				<cmc>7</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
@@ -3536,14 +3536,14 @@ Scry 1. Discover 5. (Exile cards from the top of your library until you exile a 
 • Exile target artifact.
 • Exile target creature.
 • Exile target enchantment.
-Overload {3}{R}{hazard.png}{hazard.png}{hazard.png} (You may cast this spell for its overload cost. If you do, change &quot;target&quot; in its text to &quot;each.&quot;)</text>
+Overload {3}{R}{V}{V}{V} (You may cast this spell for its overload cost. If you do, change &quot;target&quot; in its text to &quot;each.&quot;)</text>
 			<set rarity="common" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/195.jpg" num="190">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Prime Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>1Rh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1RV</manacost>
 				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
@@ -3722,7 +3722,7 @@ Counter target spell. If a spell is countered this way, exile it with X time cou
 				<side>front</side>
 				<type>Time Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>XWh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>XWV</manacost>
 				<cmc>2</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -3758,7 +3758,7 @@ Whenever a creature you control blocks or becomes blocked by another creature, t
 				<side>front</side>
 				<type>Time Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>2Wh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>2WV</manacost>
 				<cmc>4</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -3775,7 +3775,7 @@ Put two time counters on each of any number of target nonland permanents. They g
 				<side>front</side>
 				<type>Time Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>Wh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>WV</manacost>
 				<cmc>2</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -3787,14 +3787,14 @@ Put two time counters on each of any number of target nonland permanents. They g
 			<text>Target creature you control gains haste until end of turn.
 Target creature you control gains first strike until end of turn.
 Untap target creature you control.
-Overload {3}{W}{W}{hazard.png}{hazard.png}</text>
+Overload {3}{W}{W}{V}{V}</text>
 			<set rarity="rare" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/209.jpg" num="29">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Time Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>1Wh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1WV</manacost>
 				<cmc>3</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -3811,7 +3811,7 @@ Your opponents can&apos;t cast spells during your turn.</text>
 				<side>front</side>
 				<type>Time Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>1Wh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1WV</manacost>
 				<cmc>3</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -3829,7 +3829,7 @@ Return each permanent card that was put into a graveyard from the battlefield th
 				<side>front</side>
 				<type>Time Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>2WWh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>2WWVV</manacost>
 				<cmc>6</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -3840,14 +3840,14 @@ Return each permanent card that was put into a graveyard from the battlefield th
 			<name>Temporal Summoning</name>
 			<text>Flash (You may cast this spell any time you could cast an instant.)
 At the beginning of your upkeep, put a time counter on Temporal Summoning.
-Once during each of your turns, you may cast a creature spell from your hand with mana value X or less without paying its mana cost, where X is the number of time counters on Temporal Summoning. (You still pay any {hazard.png} cost.)</text>
+Once during each of your turns, you may cast a creature spell from your hand with mana value X or less without paying its mana cost, where X is the number of time counters on Temporal Summoning. (You still pay any {V} cost.)</text>
 			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/212.jpg" num="46">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Time Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>2Wh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>2WV</manacost>
 				<cmc>4</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -3865,7 +3865,7 @@ When you sacrifice Weight of Years, you gain life equal to the number of age cou
 				<side>front</side>
 				<type>Time Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>1Wh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1WV</manacost>
 				<cmc>3</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -3882,7 +3882,7 @@ Return each card that entered your graveyard this turn to your hand. Each perman
 				<side>front</side>
 				<type>Time Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>1WWh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1WWVV</manacost>
 				<cmc>5</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -3900,7 +3900,7 @@ When you sacrifice Supernal Prophecy, if it had no time counters on it, take an 
 				<side>front</side>
 				<type>Time Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>WWh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>WWVV</manacost>
 				<cmc>4</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -3918,7 +3918,7 @@ End the combat phase. (Remove all attackers and blockers from combat. Exile all 
 				<side>front</side>
 				<type>Time Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>1Wh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1WVV</manacost>
 				<cmc>4</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -3934,7 +3934,7 @@ End the combat phase. (Remove all attackers and blockers from combat. Exile all 
 				<side>front</side>
 				<type>Time Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>2WWh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>2WWVV</manacost>
 				<cmc>6</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -3943,7 +3943,7 @@ End the combat phase. (Remove all attackers and blockers from combat. Exile all 
 		</card>
 		<card>
 			<name>Rewrite History</name>
-			<text>As long as it&apos;s your turn, this spell costs {2}{W}{hazard.png} less to cast.
+			<text>As long as it&apos;s your turn, this spell costs {2}{W}{V} less to cast.
 End the turn. (Exile all spells and abilities from the stack, including this card. The player whose turn it is discards down to their maximum hand size. Damage wears off, and &quot;this turn&quot; and &quot;until end of turn&quot; effects end.)</text>
 			<set rarity="common" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/218.jpg" num="38">MtAw</set>
 			<prop>
@@ -3951,7 +3951,7 @@ End the turn. (Exile all spells and abilities from the stack, including this car
 				<side>front</side>
 				<type>Time Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>3WWh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>3WWVVV</manacost>
 				<cmc>8</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -3961,7 +3961,7 @@ End the turn. (Exile all spells and abilities from the stack, including this car
 		<card>
 			<name>Split Second</name>
 			<text>Flash
-You may cast each spell from your hand as though it had flash if you pay {hazard.png} more to cast it.
+You may cast each spell from your hand as though it had flash if you pay {V} more to cast it.
 Instant spells you cast cost {1} less to cast.</text>
 			<set rarity="mythic" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/219.jpg" num="41">MtAw</set>
 			<prop>
@@ -3969,7 +3969,7 @@ Instant spells you cast cost {1} less to cast.</text>
 				<side>front</side>
 				<type>Time Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>1Wh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1WVV</manacost>
 				<cmc>4</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -3978,7 +3978,7 @@ Instant spells you cast cost {1} less to cast.</text>
 		</card>
 		<card>
 			<name>Temporal Pocket</name>
-			<text>Take an extra turn after this one. Skip the combat phase of that turn. During that turn, Time spells you cast cost {hazard.png}{hazard.png}{hazard.png} less to cast.
+			<text>Take an extra turn after this one. Skip the combat phase of that turn. During that turn, Time spells you cast cost {V}{V}{V} less to cast.
 Exile Temporal Pocket.</text>
 			<set rarity="common" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/220.jpg" num="44">MtAw</set>
 			<prop>
@@ -3986,7 +3986,7 @@ Exile Temporal Pocket.</text>
 				<side>front</side>
 				<type>Time Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>WWWh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>WWWVVV</manacost>
 				<cmc>6</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -4061,7 +4061,7 @@ Each opponent reveals a card from their hand at random. For each land card revea
 		<card>
 			<name>Control Electricity</name>
 			<text>Whenever an opponent casts a noncreature spell, Control Electricity deals 1 damage to that player.
-{1}{R}{hazard.png}, Sacrifice Control Electricity: Destroy target enchantment. Control Electricity deals 2 damage to that enchantment&apos;s controller.</text>
+{1}{R}{V}, Sacrifice Control Electricity: Destroy target enchantment. Control Electricity deals 2 damage to that enchantment&apos;s controller.</text>
 			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/225.jpg" num="202">MtAw</set>
 			<prop>
 				<layout>normal</layout>
@@ -4078,7 +4078,7 @@ Each opponent reveals a card from their hand at random. For each land card revea
 		<card>
 			<name>Control Fire</name>
 			<text>Whenever a creature deals combat damage to you or a permanent you control, Control Fire deals 1 damage to that creature.
-{R}{R}{hazard.png}{hazard.png}, Sacrifice Control Fire: Destroy each creature that was dealt damage this turn.</text>
+{R}{R}{V}{V}, Sacrifice Control Fire: Destroy each creature that was dealt damage this turn.</text>
 			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/226.jpg" num="203">MtAw</set>
 			<prop>
 				<layout>normal</layout>
@@ -4095,7 +4095,7 @@ Each opponent reveals a card from their hand at random. For each land card revea
 		<card>
 			<name>Control Gravity</name>
 			<text>Creatures your opponents control lose flying and can&apos;t have or gain flying.
-{1}{R}{hazard.png}: Creatures you control gain flying until end of turn. Sacrifice Control Gravity at the beginning of the next end step.</text>
+{1}{R}{V}: Creatures you control gain flying until end of turn. Sacrifice Control Gravity at the beginning of the next end step.</text>
 			<set rarity="rare" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/227.jpg" num="204">MtAw</set>
 			<prop>
 				<layout>normal</layout>
@@ -4119,7 +4119,7 @@ Channel — {R}, Discard this card: Put a shield counter on target creature. (If
 				<side>front</side>
 				<type>Forces Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>2Rh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>2RV</manacost>
 				<cmc>4</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
@@ -4146,14 +4146,14 @@ At the end of combat, if enchanted creature attacked or blocked this turn, sacri
 		</card>
 		<card>
 			<name>Kinetic Blow</name>
-			<text>Kinetic Blow deals X damage to any target. You may cast a noncreature spell with mana value X or less from your hand without paying its mana cost. (You still pay any {hazard.png} cost.)</text>
+			<text>Kinetic Blow deals X damage to any target. You may cast a noncreature spell with mana value X or less from your hand without paying its mana cost. (You still pay any {V} cost.)</text>
 			<set rarity="rare" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/230.jpg" num="210">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Forces Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>XRh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>XRV</manacost>
 				<cmc>2</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
@@ -4170,7 +4170,7 @@ Storm (When you cast this spell, copy it for each spell cast before it this turn
 				<side>front</side>
 				<type>Forces Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>Rh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>RV</manacost>
 				<cmc>2</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
@@ -4188,7 +4188,7 @@ If you sacrificed a noncreature artifact this way, Telekinetic Strike deals 2 da
 				<side>front</side>
 				<type>Forces Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>1Rh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1RV</manacost>
 				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
@@ -4205,7 +4205,7 @@ Creatures you control have haste.</text>
 				<side>front</side>
 				<type>Forces Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>3Rh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>3RV</manacost>
 				<cmc>5</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
@@ -4215,14 +4215,14 @@ Creatures you control have haste.</text>
 		<card>
 			<name>Gravitic Levitation</name>
 			<text>Target creature you control gains flying until end of turn.
-Overload {2}{R}{hazard.png}{hazard.png} (You may cast this spell for its overload cost. If you do, change &quot;target&quot; in its text to &quot;each.&quot;)</text>
+Overload {2}{R}{V}{V} (You may cast this spell for its overload cost. If you do, change &quot;target&quot; in its text to &quot;each.&quot;)</text>
 			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/234.jpg" num="208">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Forces Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>Rh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>RV</manacost>
 				<cmc>2</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
@@ -4239,7 +4239,7 @@ If a source would deal combat damage to you or a permanent you control, prevent 
 				<side>front</side>
 				<type>Forces Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>1RRh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1RRVV</manacost>
 				<cmc>5</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
@@ -4256,7 +4256,7 @@ Counter target noncreature spell. Transform Energy deals damage equal to the man
 				<side>front</side>
 				<type>Forces Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>1RRh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1RRVV</manacost>
 				<cmc>5</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
@@ -4265,7 +4265,7 @@ Counter target noncreature spell. Transform Energy deals damage equal to the man
 		</card>
 		<card>
 			<name>Adverse Weather</name>
-			<text>Forces spells cost {hazard.png}{hazard.png}{hazard.png} less to cast.
+			<text>Forces spells cost {V}{V}{V} less to cast.
 Channel — {1}{R}, Discard this card: Adverse Weather deals 1 damage to each player. Draw a card.</text>
 			<set rarity="mythic" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/237.jpg" num="200">MtAw</set>
 			<prop>
@@ -4273,7 +4273,7 @@ Channel — {1}{R}, Discard this card: Adverse Weather deals 1 damage to each pl
 				<side>front</side>
 				<type>Forces Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>1RRh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1RRVV</manacost>
 				<cmc>5</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
@@ -4290,7 +4290,7 @@ Create Energy deals X damage to each of any number of targets.</text>
 				<side>front</side>
 				<type>Forces Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>XRh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>XRVVV</manacost>
 				<cmc>4</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
@@ -4307,7 +4307,7 @@ Seismic Tremors deals damage to each creature without flying and each player equ
 				<side>front</side>
 				<type>Forces Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>1RRh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1RRVVV</manacost>
 				<cmc>6</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
@@ -4323,7 +4323,7 @@ Seismic Tremors deals damage to each creature without flying and each player equ
 				<side>front</side>
 				<type>Forces Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>RRh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>RRVVV</manacost>
 				<cmc>5</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
@@ -4391,7 +4391,7 @@ Channel — {U}{U}, Discard this card: Gain 1 Wisdom. Search your library for a 
 			<text>When you cast this spell, gain 2 Wisdom.
 Noetic Wraith has base power and toughness equal to your Wisdom.
 Flying
-Whenever Noetic Wraith deals combat damage to a player, look at the top card of their library. You may play it without paying its mana cost. (You still pay any {hazard.png} cost.)</text>
+Whenever Noetic Wraith deals combat damage to a player, look at the top card of their library. You may play it without paying its mana cost. (You still pay any {V} cost.)</text>
 			<set rarity="mythic" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/244.jpg" num="83">MtAw</set>
 			<prop>
 				<layout>normal</layout>
@@ -4767,7 +4767,7 @@ You gain 1 life for each counter removed this way. Draw a card.</text>
 				<side>front</side>
 				<type>Spirit Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>1Gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1GV</manacost>
 				<cmc>3</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -4783,7 +4783,7 @@ You gain 1 life for each counter removed this way. Draw a card.</text>
 				<side>front</side>
 				<type>Spirit Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>XGh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>XGV</manacost>
 				<cmc>2</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -4800,7 +4800,7 @@ Spirit creatures you control get +1/+1.</text>
 				<side>front</side>
 				<type>Spirit Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>1Gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1GV</manacost>
 				<cmc>3</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -4817,7 +4817,7 @@ Tap any number of target non-Human creatures. Put a stun counter on each of them
 				<side>front</side>
 				<type>Spirit Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>Gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>GV</manacost>
 				<cmc>2</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -4833,7 +4833,7 @@ Tap any number of target non-Human creatures. Put a stun counter on each of them
 				<side>front</side>
 				<type>Spirit Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>XGh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>XGV</manacost>
 				<cmc>2</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -4851,7 +4851,7 @@ If this spell was kicked, you may attach that permanent to a non-Human creature 
 				<side>front</side>
 				<type>Spirit Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>Gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>GV</manacost>
 				<cmc>2</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -4861,14 +4861,14 @@ If this spell was kicked, you may attach that permanent to a non-Human creature 
 		<card>
 			<name>Place of Power</name>
 			<text>Enchant land
-Whenever enchanted land is tapped for mana, its controller adds an additional {G}, and the next Spirit spell they cast this turn costs {hazard.png} less to cast.</text>
+Whenever enchanted land is tapped for mana, its controller adds an additional {G}, and the next Spirit spell they cast this turn costs {V} less to cast.</text>
 			<set rarity="rare" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/270.jpg" num="242">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Spirit Enchantment — Aura</type>
 				<maintype>Enchantment</maintype>
-				<manacost>1Gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1GV</manacost>
 				<cmc>3</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -4884,7 +4884,7 @@ Whenever enchanted land is tapped for mana, its controller adds an additional {G
 				<side>front</side>
 				<type>Spirit Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>XGh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>XGV</manacost>
 				<cmc>2</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -4902,7 +4902,7 @@ If X is 5 or more, draw a card.</text>
 				<side>front</side>
 				<type>Spirit Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>XGh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>XGV</manacost>
 				<cmc>2</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -4920,7 +4920,7 @@ Enchanted creature can&apos;t attack or block, and its controller can&apos;t act
 				<side>front</side>
 				<type>Spirit Enchantment — Aura</type>
 				<maintype>Enchantment</maintype>
-				<manacost>1Gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1GVV</manacost>
 				<cmc>4</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -4936,7 +4936,7 @@ Enchanted creature can&apos;t attack or block, and its controller can&apos;t act
 				<side>front</side>
 				<type>Spirit Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>1Gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1GVV</manacost>
 				<cmc>4</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -4952,7 +4952,7 @@ Enchanted creature can&apos;t attack or block, and its controller can&apos;t act
 				<side>front</side>
 				<type>Spirit Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>Gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>GVV</manacost>
 				<cmc>3</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -4971,7 +4971,7 @@ Choose one or both —
 				<side>front</side>
 				<type>Spirit Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>Gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>GVV</manacost>
 				<cmc>3</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -4987,7 +4987,7 @@ Choose one or both —
 				<side>front</side>
 				<type>Spirit Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>Gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>GVVV</manacost>
 				<cmc>4</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -5003,7 +5003,7 @@ Choose one or both —
 				<side>front</side>
 				<type>Spirit Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>1Gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1GVVV</manacost>
 				<cmc>5</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -5020,7 +5020,7 @@ Choose one or both —
 				<side>front</side>
 				<type>Spirit Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>1GGh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1GGVVV</manacost>
 				<cmc>6</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -5105,7 +5105,7 @@ At the beginning of each combat, choose one —
 				<side>front</side>
 				<type>Life Enchantment — Aura</type>
 				<maintype>Enchantment</maintype>
-				<manacost>1GGh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1GGV</manacost>
 				<cmc>4</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -5123,7 +5123,7 @@ All creatures able to block enchanted creature do so.</text>
 				<side>front</side>
 				<type>Life Enchantment — Aura</type>
 				<maintype>Enchantment</maintype>
-				<manacost>1GGh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1GGV</manacost>
 				<cmc>4</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -5140,7 +5140,7 @@ Enchanted creature gets +2/+2, has reach, and is a Mutant in addition to its oth
 				<side>front</side>
 				<type>Life Enchantment — Aura</type>
 				<maintype>Enchantment</maintype>
-				<manacost>1Gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1GV</manacost>
 				<cmc>3</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -5156,7 +5156,7 @@ Enchanted creature gets +2/+2, has reach, and is a Mutant in addition to its oth
 				<side>front</side>
 				<type>Life Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>Gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>GV</manacost>
 				<cmc>2</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -5173,7 +5173,7 @@ Enchanted creature loses flying and trample, can&apos;t have or gain flying or t
 				<side>front</side>
 				<type>Life Enchantment — Aura</type>
 				<maintype>Enchantment</maintype>
-				<manacost>Gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>GV</manacost>
 				<cmc>2</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -5192,7 +5192,7 @@ That creature fights up to one target creature you don&apos;t control.</text>
 				<side>front</side>
 				<type>Life Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>XGh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>XGV</manacost>
 				<cmc>2</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -5209,7 +5209,7 @@ Whenever enchanted creature attacks, look at the top six cards of your library. 
 				<side>front</side>
 				<type>Life Enchantment — Aura</type>
 				<maintype>Enchantment</maintype>
-				<manacost>1GGh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1GGV</manacost>
 				<cmc>4</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -5218,14 +5218,14 @@ Whenever enchanted creature attacks, look at the top six cards of your library. 
 		</card>
 		<card>
 			<name>Transform Life</name>
-			<text>At the beginning of combat on your turn, you may pay {hazard.png}. If you do, choose deathtouch, first strike, haste, lifelink, menace, trample, or vigilance. Creatures you control gain that ability until end of turn.</text>
+			<text>At the beginning of combat on your turn, you may pay {V}. If you do, choose deathtouch, first strike, haste, lifelink, menace, trample, or vigilance. Creatures you control gain that ability until end of turn.</text>
 			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/291.jpg" num="275">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Life Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>3GGh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>3GGV</manacost>
 				<cmc>6</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -5234,14 +5234,14 @@ Whenever enchanted creature attacks, look at the top six cards of your library. 
 		</card>
 		<card>
 			<name>Accelerate Growth</name>
-			<text>At the beginning of combat on your turn, you may pay {hazard.png}. If you do, choose power or toughness. Double that characteristic of each creature you control until end of turn.</text>
+			<text>At the beginning of combat on your turn, you may pay {V}. If you do, choose power or toughness. Double that characteristic of each creature you control until end of turn.</text>
 			<set rarity="rare" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/292.jpg" num="257">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Life Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>4GGh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>4GGVV</manacost>
 				<cmc>8</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -5252,7 +5252,7 @@ Whenever enchanted creature attacks, look at the top six cards of your library. 
 			<name>Life-Force Assault</name>
 			<text>As an additional cost to cast this spell, sacrifice a creature.
 Life-Force Assault deals damage equal to the sacrificed creature&apos;s power to target creature you don&apos;t control.
-Overload {3}{G}{G}{hazard.png}{hazard.png} (You may cast this spell for its overload cost. If you do, change &quot;target&quot; in its text to &quot;each.&quot;)</text>
+Overload {3}{G}{G}{V}{V} (You may cast this spell for its overload cost. If you do, change &quot;target&quot; in its text to &quot;each.&quot;)</text>
 			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/293.jpg" num="265">MtAw</set>
 			<prop>
 				<layout>normal</layout>
@@ -5276,7 +5276,7 @@ Prevent all combat damage that would be dealt this turn. You gain 1 life for eac
 				<side>front</side>
 				<type>Life Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>GGh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>GGVV</manacost>
 				<cmc>4</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -5286,14 +5286,14 @@ Prevent all combat damage that would be dealt this turn. You gain 1 life for eac
 		<card>
 			<name>Supernal Regeneration</name>
 			<text>Put a shield counter on target creature you control. You gain 5 life. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
-Overload {3}{G}{hazard.png}{hazard.png} (You may cast this spell for its overload cost. If you do, change &quot;target&quot; in its text to &quot;each.&quot;)</text>
+Overload {3}{G}{V}{V} (You may cast this spell for its overload cost. If you do, change &quot;target&quot; in its text to &quot;each.&quot;)</text>
 			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/295.jpg" num="274">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Life Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>1Gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1GV</manacost>
 				<cmc>3</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -5310,7 +5310,7 @@ When enchanted creature dies, reveal cards from the top of your library until yo
 				<side>front</side>
 				<type>Life Enchantment — Aura</type>
 				<maintype>Enchantment</maintype>
-				<manacost>3Gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>3GVV</manacost>
 				<cmc>6</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -5326,7 +5326,7 @@ When enchanted creature dies, reveal cards from the top of your library until yo
 				<side>front</side>
 				<type>Life Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>2GGh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>2GGVVV</manacost>
 				<cmc>7</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -5342,7 +5342,7 @@ When enchanted creature dies, reveal cards from the top of your library until yo
 				<side>front</side>
 				<type>Life Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>1GGGh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1GGGVVV</manacost>
 				<cmc>7</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -5358,7 +5358,7 @@ When enchanted creature dies, reveal cards from the top of your library until yo
 				<side>front</side>
 				<type>Life Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>3GGh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>3GGVVV</manacost>
 				<cmc>8</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -5580,7 +5580,7 @@ At the beginning of your upkeep, you may pay {2} or sacrifice a Tass. If you do,
 		<card>
 			<name>Time Traveler</name>
 			<text>You can&apos;t cast Time Traveler during your first, second, or third turns of the game.
-{2}{W}{hazard.png}, {T}: Exile this creature with three time counters on it. It gains suspend. Target creature phases out and can&apos;t phase in while Time Traveler is suspended. (Treat it and anything attached to it as though they don&apos;t exist until its controller&apos;s next turn.)</text>
+{2}{W}{V}, {T}: Exile this creature with three time counters on it. It gains suspend. Target creature phases out and can&apos;t phase in while Time Traveler is suspended. (Treat it and anything attached to it as though they don&apos;t exist until its controller&apos;s next turn.)</text>
 			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/312.jpg" num="309">MtAw</set>
 			<prop>
 				<layout>normal</layout>
@@ -5632,9 +5632,9 @@ When Gruesome Graverobber enters or becomes tapped, mill two cards.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Willing Test Subject</name>
-			<text>When one or more counters of a type are put on another non-Human creature you control, you may put one counter of that type on Willing Test Subject.
-As long as Willing Test Subject has three or more counters on it, it has trample and it&apos;s a Mutant in addition to its other types.</text>
+			<name>Voluntary Trial Subject</name>
+			<text>When one or more counters of a type are put on another non-Human creature you control, you may put one counter of that type on Voluntary Trial Subject.
+As long as Voluntary Trial Subject has three or more counters on it, it has trample and it&apos;s a Mutant in addition to its other types.</text>
 			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/315.jpg" num="316">MtAw</set>
 			<prop>
 				<layout>normal</layout>
@@ -5687,7 +5687,7 @@ As long as Willing Test Subject has three or more counters on it, it has trample
 		</card>
 		<card>
 			<name>Paranormal Skeptic</name>
-			<text>Vulgar spells cost {hazard.png} more to cast. (A spell is vulgar if it has {hazard.png} in its casting cost.)
+			<text>Vulgar spells cost {V} more to cast. (A spell is vulgar if it has {V} in its casting cost.)
 Whenever a player casts a vulgar spell, put a disbelief counter on Paranormal Skeptic. 
 When Paranormal Skeptic dies, it deals 1 damage to any target for each disbelief counter on it.</text>
 			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/318.jpg" num="314">MtAw</set>
@@ -6035,7 +6035,7 @@ When Illusory Tyrannosaur becomes the target of a spell, sacrifice it.</text>
 				<side>front</side>
 				<type>Prime Creature — Dinosaur Illusion</type>
 				<maintype>Creature</maintype>
-				<manacost>2RRh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>2RRV</manacost>
 				<cmc>5</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
@@ -6054,7 +6054,7 @@ When Illusory Drake becomes the target of a spell, sacrifice it.</text>
 				<side>front</side>
 				<type>Prime Creature — Drake Illusion</type>
 				<maintype>Creature</maintype>
-				<manacost>1Rh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1RV</manacost>
 				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
@@ -6073,7 +6073,7 @@ When Illusory Monster becomes the target of a spell, sacrifice it.</text>
 				<side>front</side>
 				<type>Prime Creature — Horror Illusion</type>
 				<maintype>Creature</maintype>
-				<manacost>2Rh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>2RV</manacost>
 				<cmc>4</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
@@ -6092,7 +6092,7 @@ When Illusory Recluse becomes the target of a spell, sacrifice it.</text>
 				<side>front</side>
 				<type>Prime Creature — Spider Illusion</type>
 				<maintype>Creature</maintype>
-				<manacost>1Rh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1RV</manacost>
 				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
@@ -6109,7 +6109,7 @@ When Illusory Recluse becomes the target of a spell, sacrifice it.</text>
 				<side>front</side>
 				<type>Instant — Anomaly</type>
 				<maintype>Instant</maintype>
-				<manacost>h/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>V</manacost>
 				<cmc>1</cmc>
 			</prop>
 			<tablerow>3</tablerow>
@@ -6123,7 +6123,7 @@ When Illusory Recluse becomes the target of a spell, sacrifice it.</text>
 				<side>front</side>
 				<type>Instant — Anomaly</type>
 				<maintype>Instant</maintype>
-				<manacost>h/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>V</manacost>
 				<cmc>1</cmc>
 			</prop>
 			<tablerow>3</tablerow>
@@ -6137,7 +6137,7 @@ When Illusory Recluse becomes the target of a spell, sacrifice it.</text>
 				<side>front</side>
 				<type>Instant — Anomaly</type>
 				<maintype>Instant</maintype>
-				<manacost>h/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>V</manacost>
 				<cmc>1</cmc>
 			</prop>
 			<tablerow>3</tablerow>
@@ -6151,7 +6151,7 @@ When Illusory Recluse becomes the target of a spell, sacrifice it.</text>
 				<side>front</side>
 				<type>Instant — Anomaly</type>
 				<maintype>Instant</maintype>
-				<manacost>h/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>V</manacost>
 				<cmc>1</cmc>
 			</prop>
 			<tablerow>3</tablerow>
@@ -6165,7 +6165,7 @@ When Illusory Recluse becomes the target of a spell, sacrifice it.</text>
 				<side>front</side>
 				<type>Instant — Anomaly</type>
 				<maintype>Instant</maintype>
-				<manacost>h/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>V</manacost>
 				<cmc>1</cmc>
 			</prop>
 			<tablerow>3</tablerow>
@@ -6179,7 +6179,7 @@ When Illusory Recluse becomes the target of a spell, sacrifice it.</text>
 				<side>front</side>
 				<type>Instant — Anomaly</type>
 				<maintype>Instant</maintype>
-				<manacost>h/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>V</manacost>
 				<cmc>1</cmc>
 			</prop>
 			<tablerow>3</tablerow>
@@ -6193,7 +6193,7 @@ When Illusory Recluse becomes the target of a spell, sacrifice it.</text>
 				<side>front</side>
 				<type>Instant — Anomaly</type>
 				<maintype>Instant</maintype>
-				<manacost>h/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>V</manacost>
 				<cmc>1</cmc>
 			</prop>
 			<tablerow>3</tablerow>
@@ -6207,7 +6207,7 @@ When Illusory Recluse becomes the target of a spell, sacrifice it.</text>
 				<side>front</side>
 				<type>Instant — Anomaly</type>
 				<maintype>Instant</maintype>
-				<manacost>h/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>V</manacost>
 				<cmc>1</cmc>
 			</prop>
 			<tablerow>3</tablerow>
@@ -6221,7 +6221,7 @@ When Illusory Recluse becomes the target of a spell, sacrifice it.</text>
 				<side>front</side>
 				<type>Instant — Anomaly</type>
 				<maintype>Instant</maintype>
-				<manacost>h/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>V</manacost>
 				<cmc>1</cmc>
 			</prop>
 			<tablerow>3</tablerow>
@@ -6235,7 +6235,7 @@ When Illusory Recluse becomes the target of a spell, sacrifice it.</text>
 				<side>front</side>
 				<type>Instant — Anomaly</type>
 				<maintype>Instant</maintype>
-				<manacost>h/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>V</manacost>
 				<cmc>1</cmc>
 			</prop>
 			<tablerow>3</tablerow>
@@ -6249,7 +6249,7 @@ When Illusory Recluse becomes the target of a spell, sacrifice it.</text>
 				<side>front</side>
 				<type>Instant — Anomaly</type>
 				<maintype>Instant</maintype>
-				<manacost>h/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>V</manacost>
 				<cmc>1</cmc>
 			</prop>
 			<tablerow>3</tablerow>
@@ -6263,7 +6263,7 @@ When Illusory Recluse becomes the target of a spell, sacrifice it.</text>
 				<side>front</side>
 				<type>Instant — Anomaly</type>
 				<maintype>Instant</maintype>
-				<manacost>h/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>V</manacost>
 				<cmc>1</cmc>
 			</prop>
 			<tablerow>3</tablerow>
@@ -6277,7 +6277,7 @@ When Illusory Recluse becomes the target of a spell, sacrifice it.</text>
 				<side>front</side>
 				<type>Instant — Anomaly</type>
 				<maintype>Instant</maintype>
-				<manacost>h/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>V</manacost>
 				<cmc>1</cmc>
 			</prop>
 			<tablerow>3</tablerow>
@@ -6291,7 +6291,7 @@ When Illusory Recluse becomes the target of a spell, sacrifice it.</text>
 				<side>front</side>
 				<type>Instant — Anomaly</type>
 				<maintype>Instant</maintype>
-				<manacost>h/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>V</manacost>
 				<cmc>1</cmc>
 			</prop>
 			<tablerow>3</tablerow>
@@ -6305,7 +6305,7 @@ When Illusory Recluse becomes the target of a spell, sacrifice it.</text>
 				<side>front</side>
 				<type>Instant — Anomaly</type>
 				<maintype>Instant</maintype>
-				<manacost>h/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>V</manacost>
 				<cmc>1</cmc>
 			</prop>
 			<tablerow>3</tablerow>
@@ -6319,7 +6319,7 @@ When Illusory Recluse becomes the target of a spell, sacrifice it.</text>
 				<side>front</side>
 				<type>Instant — Anomaly</type>
 				<maintype>Instant</maintype>
-				<manacost>h/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>V</manacost>
 				<cmc>1</cmc>
 			</prop>
 			<tablerow>3</tablerow>
@@ -6335,7 +6335,7 @@ When enchanted player casts a spell, sacrifice Faulty Imago.</text>
 				<side>front</side>
 				<type>Enchantment — Aura Bedlam</type>
 				<maintype>Enchantment</maintype>
-				<manacost>h/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>V</manacost>
 				<cmc>1</cmc>
 			</prop>
 			<tablerow>1</tablerow>
@@ -6363,7 +6363,7 @@ When enchanted player casts a spell, sacrifice Faulty Imago.</text>
 				<side>front</side>
 				<type>Instant — Anomaly</type>
 				<maintype>Instant</maintype>
-				<manacost>h/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>VV</manacost>
 				<cmc>2</cmc>
 			</prop>
 			<tablerow>3</tablerow>
@@ -6377,7 +6377,7 @@ When enchanted player casts a spell, sacrifice Faulty Imago.</text>
 				<side>front</side>
 				<type>Instant — Anomaly</type>
 				<maintype>Instant</maintype>
-				<manacost>h/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>VV</manacost>
 				<cmc>2</cmc>
 			</prop>
 			<tablerow>3</tablerow>
@@ -6391,7 +6391,7 @@ When enchanted player casts a spell, sacrifice Faulty Imago.</text>
 				<side>front</side>
 				<type>Instant — Anomaly</type>
 				<maintype>Instant</maintype>
-				<manacost>h/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>VV</manacost>
 				<cmc>2</cmc>
 			</prop>
 			<tablerow>3</tablerow>
@@ -6406,7 +6406,7 @@ When enchanted player casts a spell, counter it and sacrifice Flawed Imago.</tex
 				<side>front</side>
 				<type>Enchantment — Aura Bedlam</type>
 				<maintype>Enchantment</maintype>
-				<manacost>h/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>VVV</manacost>
 				<cmc>3</cmc>
 			</prop>
 			<tablerow>1</tablerow>
@@ -6420,7 +6420,7 @@ When enchanted player casts a spell, counter it and sacrifice Flawed Imago.</tex
 				<side>front</side>
 				<type>Battle — Havoc</type>
 				<maintype>Battle</maintype>
-				<manacost>h/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>VVV</manacost>
 				<cmc>3</cmc>
 				<loyalty>5</loyalty>
 			</prop>
@@ -6436,7 +6436,7 @@ Activated abilities of artifacts and creatures cost {T} more to activate. (Costs
 				<side>front</side>
 				<type>Battle — Havoc</type>
 				<maintype>Battle</maintype>
-				<manacost>h/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>VVV</manacost>
 				<cmc>3</cmc>
 				<loyalty>4</loyalty>
 			</prop>
@@ -6487,7 +6487,7 @@ When Ixa dies during the Abyss phase, each player with the most Hubris loses 4 l
 				<side>front</side>
 				<type>Manifestation — Gulmoth</type>
 				<maintype>Manifestation</maintype>
-				<manacost>h/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>VVVV</manacost>
 				<cmc>4</cmc>
 				<loyalty>12</loyalty>
 			</prop>
@@ -6505,7 +6505,7 @@ When Engraneg, Thrice Nothing dies, the active player gains 3 Wisdom.
 				<side>front</side>
 				<type>Manifestation — Acamoth</type>
 				<maintype>Manifestation</maintype>
-				<manacost>h/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>VVV</manacost>
 				<cmc>3</cmc>
 				<loyalty>3</loyalty>
 			</prop>
@@ -6537,7 +6537,7 @@ When Noalmaunun dies, the active player removes all stun counters from permanent
 				<side>front</side>
 				<type>Battle — Havoc</type>
 				<maintype>Battle</maintype>
-				<manacost>h/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>VV</manacost>
 				<cmc>2</cmc>
 				<loyalty>3</loyalty>
 			</prop>
@@ -6552,7 +6552,7 @@ When Noalmaunun dies, the active player removes all stun counters from permanent
 				<side>front</side>
 				<type>Battle — Havoc</type>
 				<maintype>Battle</maintype>
-				<manacost>h/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>VVVVVV</manacost>
 				<cmc>6</cmc>
 				<loyalty>10</loyalty>
 			</prop>
@@ -6569,7 +6569,7 @@ If a player would discard a card, they exile a card at random from their hand in
 				<side>front</side>
 				<type>Battle — Havoc</type>
 				<maintype>Battle</maintype>
-				<manacost>h/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>VVVVV</manacost>
 				<cmc>5</cmc>
 				<loyalty>7</loyalty>
 			</prop>
@@ -6584,7 +6584,7 @@ If a player would discard a card, they exile a card at random from their hand in
 				<side>front</side>
 				<type>Instant — Anomaly</type>
 				<maintype>Instant</maintype>
-				<manacost>h/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>V</manacost>
 				<cmc>1</cmc>
 			</prop>
 			<tablerow>3</tablerow>
@@ -6598,7 +6598,7 @@ If a player would discard a card, they exile a card at random from their hand in
 				<side>front</side>
 				<type>Instant — Anomaly</type>
 				<maintype>Instant</maintype>
-				<manacost>h/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>V</manacost>
 				<cmc>1</cmc>
 			</prop>
 			<tablerow>3</tablerow>
@@ -6612,7 +6612,7 @@ If a player would discard a card, they exile a card at random from their hand in
 				<side>front</side>
 				<type>Instant — Anomaly</type>
 				<maintype>Instant</maintype>
-				<manacost>h/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>V</manacost>
 				<cmc>1</cmc>
 			</prop>
 			<tablerow>3</tablerow>
@@ -6628,7 +6628,7 @@ When Dorrarech dies during the Abyss phase, each player with the most Hubris exi
 				<side>front</side>
 				<type>Manifestation — Gulmoth</type>
 				<maintype>Manifestation</maintype>
-				<manacost>h/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>VVV</manacost>
 				<cmc>3</cmc>
 				<loyalty>7</loyalty>
 			</prop>
@@ -6643,7 +6643,7 @@ When Dorrarech dies during the Abyss phase, each player with the most Hubris exi
 				<side>front</side>
 				<type>Instant — Anomaly</type>
 				<maintype>Instant</maintype>
-				<manacost>h/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>VVVVV</manacost>
 				<cmc>5</cmc>
 			</prop>
 			<tablerow>3</tablerow>
@@ -6657,7 +6657,7 @@ When Dorrarech dies during the Abyss phase, each player with the most Hubris exi
 				<side>front</side>
 				<type>Instant — Anomaly</type>
 				<maintype>Instant</maintype>
-				<manacost>h/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>VVVV</manacost>
 				<cmc>4</cmc>
 			</prop>
 			<tablerow>3</tablerow>
@@ -6703,7 +6703,7 @@ Spawns are goaded.
 				<side>front</side>
 				<type>Battle — Havoc</type>
 				<maintype>Battle</maintype>
-				<manacost>h/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>VV</manacost>
 				<cmc>2</cmc>
 				<loyalty>3</loyalty>
 			</prop>
@@ -6719,7 +6719,7 @@ At the beginning of enchanted player&apos;s upkeep, they lose 2 life. Then if th
 				<side>front</side>
 				<type>Enchantment — Aura Bedlam</type>
 				<maintype>Enchantment</maintype>
-				<manacost>h/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>VV</manacost>
 				<cmc>2</cmc>
 			</prop>
 			<tablerow>1</tablerow>
@@ -6735,7 +6735,7 @@ At the end of combat, if enchanted player was dealt combat damage this turn, sac
 				<side>front</side>
 				<type>Enchantment — Aura Bedlam</type>
 				<maintype>Enchantment</maintype>
-				<manacost>h/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>VVVV</manacost>
 				<cmc>4</cmc>
 			</prop>
 			<tablerow>1</tablerow>
@@ -6751,7 +6751,7 @@ Whenever a player pays Fwdre&apos;s ward cost, it loses ward until end of turn.
 				<side>front</side>
 				<type>Manifestation — Acamoth</type>
 				<maintype>Manifestation</maintype>
-				<manacost>h/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>VV</manacost>
 				<cmc>2</cmc>
 				<loyalty>4</loyalty>
 			</prop>
@@ -6799,7 +6799,7 @@ When Deletion leaves the battlefield, return each card exiled by it to the battl
 				<side>front</side>
 				<type>Battle — Havoc</type>
 				<maintype>Battle</maintype>
-				<manacost>h/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>VVV</manacost>
 				<cmc>3</cmc>
 				<loyalty>5</loyalty>
 			</prop>
@@ -6840,7 +6840,7 @@ If you would gain life, you lose that much life instead.</text>
 		<card>
 			<name>Nrôrn, Truth Denied</name>
 			<text>Whenever a player discards a card, they lose life equal to its mana value. If it&apos;s a land card, they put an essence counter on Nrôrn, Truth Denied instead.
-When Nrôrn dies, the active player may cast a spell from their hand without paying its mana cost. (They still pay any {hazard.png} cost.)
+When Nrôrn dies, the active player may cast a spell from their hand without paying its mana cost. (They still pay any {V} cost.)
 [level +2] The active player draws six cards.</text>
 			<set rarity="special" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/390.jpg" num="395">MtAw</set>
 			<prop>
@@ -6882,7 +6882,7 @@ If enchanted player would discard a card, instead exile it, then if there are th
 				<side>front</side>
 				<type>Enchantment — Aura Bedlam</type>
 				<maintype>Enchantment</maintype>
-				<manacost>h/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>VV</manacost>
 				<cmc>2</cmc>
 			</prop>
 			<tablerow>1</tablerow>
@@ -6896,7 +6896,7 @@ If enchanted player would discard a card, instead exile it, then if there are th
 				<side>front</side>
 				<type>Instant — Anomaly</type>
 				<maintype>Instant</maintype>
-				<manacost>h/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>VV</manacost>
 				<cmc>2</cmc>
 			</prop>
 			<tablerow>3</tablerow>
@@ -6911,7 +6911,7 @@ If enchanted player would discard a card, instead exile it, then if there are th
 				<side>front</side>
 				<type>Manifestation — Gulmoth</type>
 				<maintype>Manifestation</maintype>
-				<manacost>h/a/z/a/r/d/./p/n/gh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>VV</manacost>
 				<cmc>2</cmc>
 				<loyalty>5</loyalty>
 			</prop>
@@ -7365,9 +7365,9 @@ Decayed (This creature can&apos;t block. When it attacks, sacrifice it at end of
 			<name>Sever Oaths</name>
 			<text>(Gain the next level as a sorcery to add its ability.)
 Activated abilities of creatures your opponents control cost {1} more to activate.
-{1}{W}{hazard.png}: Level 2
+{1}{W}{V}: Level 2
 Creatures attacking or dying don&apos;t cause abilities of permanents your opponents control to trigger.
-{1}{W}{hazard.png}: Level 3
+{1}{W}{V}: Level 3
 Creatures entering or leaving the battlefield don&apos;t cause abilities of permanents your opponents control to trigger.</text>
 			<set rarity="rare" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/421.jpg" num="14">MtAw</set>
 			<prop>
@@ -7375,7 +7375,7 @@ Creatures entering or leaving the battlefield don&apos;t cause abilities of perm
 				<side>front</side>
 				<type>Fate Enchantment — Class</type>
 				<maintype>Enchantment</maintype>
-				<manacost>2Wh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>2WV</manacost>
 				<cmc>4</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -7445,7 +7445,7 @@ Creatures with the chosen name get +1/+1.
 Creatures with the chosen name get +2/+2 and have lifelink and vigilance.
 {3}: Level 3
 Creatures with the chosen name get +2/+2 and have flying and trample.</text>
-			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/425.jpg" num="338">MtAw</set>
+			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/425.jpg" num="337">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7479,7 +7479,7 @@ Your maximum hand size is increased by one for each level of this Merit.
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>City Hall</name>
+			<name>Municipal Center</name>
 			<text>(Gain the next level as a sorcery to add its ability.)
 {T}: Add {C}.
 {1}: Level 2
@@ -7488,7 +7488,7 @@ Your maximum hand size is increased by one for each level of this Merit.
 Whenever you tap another Merit for mana, add an additional mana of any color.
 {2}: Level 4
 Lands your opponents control enter tapped.</text>
-			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/427.jpg" num="335">MtAw</set>
+			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/427.jpg" num="341">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7509,7 +7509,7 @@ Lands your opponents control enter tapped.</text>
 Activated abilities of Foods you control cost {1} less to activate.
 {2}: Level 4
 Tap two untapped Foods you control: Add one mana of any color.</text>
-			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/428.jpg" num="337">MtAw</set>
+			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/428.jpg" num="336">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7531,7 +7531,7 @@ When this Merit becomes level 2, search your library for a Pentacle Order card, 
 {T}: Add one mana of any color.
 {3}: Level 4
 Abilities of Pentacle Orders you control trigger an additional time.</text>
-			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/429.jpg" num="336">MtAw</set>
+			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/429.jpg" num="335">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7550,7 +7550,7 @@ Abilities of Pentacle Orders you control trigger an additional time.</text>
 {3}, {T}: Create a 1/1 Human Sleeper Rogue creature token that&apos;s all colors. It has &quot;When this creature attacks, target creature gets +1/+0 until end of turn&quot; and skulk. (It can&apos;t be blocked by creatures with greater power.)
 {2}: Level 3
 Whenever you commit a crime, untap this Merit. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)</text>
-			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/430.jpg" num="341">MtAw</set>
+			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/430.jpg" num="340">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7612,7 +7612,7 @@ When a Human you control deals excess damage to a creature, untap this land.</te
 Hideaway 5 (When this land enters, look at the top five cards of your library, exile one face down, then put the rest on the bottom in a random order.)
 {T}: Add {C}.
 {2}: Level 2
-The first spell you cast each turn costs {hazard.png} less to cast.
+The first spell you cast each turn costs {V} less to cast.
 {3}: Level 3
 When this Merit becomes level 3, turn the exiled card face up.
 
@@ -7637,7 +7637,7 @@ When this Merit becomes level 3, turn the exiled card face up.
 {2}: Level 3
 {2}, {T}: Put target card from your graveyard on top of your library.
 {2}: Level 4
-Spells you cast from your graveyard cost {hazard.png} less to cast.</text>
+Spells you cast from your graveyard cost {V} less to cast.</text>
 			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/434.jpg" num="346">MtAw</set>
 			<prop>
 				<layout>normal</layout>
@@ -7679,7 +7679,7 @@ Foretell {W} (During your turn, you may pay {2} and exile this card from your ha
 				<side>front</side>
 				<type>Fate Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>1WWh/a/z/a/r/d/./p/n/g</manacost>
+				<manacost>1WWV</manacost>
 				<cmc>4</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -7719,7 +7719,7 @@ Foretell {W} (During your turn, you may pay {2} and exile this card from your ha
 		</card>
 		<card>
 			<name>Hubris MtAw</name>
-			<text>{hazard.png} represents paradox. Pay {hazard.png} by paying {1}, or by paying 2 Wisdom, or by gaining a Hubris counter.
+			<text>{V} represents paradox. Pay {V} by paying {1}, or by paying 2 Wisdom, or by gaining a Hubris counter.
 
 At the beginning of your Breach step, if you have gained Hubris since the beginning of your last Breach step, the Abyss casts spells with that much total paradox value from the top of the Abyss deck.</text>
 			<set rarity="common" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/439.jpg" num="1">MtAw</set>
