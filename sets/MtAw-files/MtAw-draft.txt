@@ -4422,361 +4422,393 @@
 		}
 	]
 
-[rare(1)]
-	5 Exceptional Luck
-	5 Monkey's Paw
-	5 Supernal Intervention
-	5 Miracle
-	5 Quo Fata Ferunt
-	5 Volatile Moira
-	5 Capacious Imp
-	5 Pleiadian Explorer
-	5 Sonic Elemental
-	5 An Untold Secret
-	5 Rampaging Rhinoceros
-	5 Goetia of Gluttony
-	5 Resonant Corpse
-	5 Autoguardian Mark VI
-	5 Abandoned Wending
-	5 Task Force Commando
-	5 Zeka Monstrosity
-	5 Atlantean Age
-	5 Decay
-	5 Quicken Corpse
-	5 Enervation
-	5 Shadow Flesh
-	5 Empty Presence
-	5 Machine Invisibility
-	5 Shaping
-	5 Ghostwall
-	5 Wonderful Machine
-	5 Self-Repairing Machine
-	5 Supernal Telepathy
-	5 Read the Depths
-	5 Universal Language
-	5 Mind Flay
-	5 Possession
-	5 Ground Eater
-	5 Co-Location
-	5 Collapse
-	5 Teleportation
-	5 Pocket Dimension
-	5 Aetheric Winds
-	5 Mana Battery
-	5 Celestial Fire
-	5 Hallow Dance
-	5 Blasphemy
-	5 Momentary Flux
-	5 Constant Presence
-	5 Acceleration
-	5 Shifting Sands
-	5 Split Second
-	5 Control Gravity
-	5 Kinetic Blow
-	5 Velocity Control
-	5 Rend Friction
-	5 Adverse Weather
-	5 Splitting Anachronism
-	5 Noetic Wraith
-	5 Pernicious Spectre
-	5 Replicating Apeiron
-	5 Exuberant Cherub
-	5 Vengeful Seraph
-	5 Rapacious Totem
-	5 Proliferant Atavism
-	5 Astral Astrolabe
-	5 Channel Essence
-	5 Place of Power
-	5 Spirit Summons
-	5 Shape Spirit
-	5 Create Locus
-	5 Control Instincts
-	5 Honing the Form
-	5 Accelerate Growth
-	5 Shapechanging
-	5 Pandemic
-	5 Ventrue Prince
-	5 Illusory Monster
-	5 Sever Oaths
-[uncommon(3)]
-	5 Oaths Fulfilled
-	5 Fabricate Fortune
-	5 Shifting the Odds
-	5 Grave Misfortune
-	5 Shared Destinies
-	5 Sworn Oaths
-	5 Atonement
-	5 Strings of Fate
-	5 Forge Destiny
-	5 Historical Monument
-	5 Languid Cul-de-sac
-	5 Psionic Skyscraper
-	5 Vacant Lot
-	5 Desecrated Graveyard
-	5 Contaminated Scrapyard
-	5 Sacred Temple
-	5 Thrumming Substation
-	5 Pristine Parkland
-	5 Undeveloped Overgrowth
-	5 Galateid Muse
-	5 Patchwork Wretched
-	5 Tammuz Golem
-	5 Deepen Shadows
-	5 Shadow Sculpting
-	5 Ghost Shield
-	5 Soul Armor
-	5 Suppress Life
-	5 Devouring the Slain
-	5 Ghost Gate
-	5 Shadow Crafting
-	5 Exorcism
-	5 Withering
-	5 Remote Control
-	5 Alchemist's Touch
-	5 Hidden Hoard
-	5 Alter Conductivity
-	5 Crucible
-	5 Windstrike
-	5 Golem
-	5 Endless Bounty
-	5 Supernal Forging
-	5 Piercing Earth
-	5 Mental Scan
-	5 One Mind, Two Thoughts
-	5 Alter Mental Pattern
-	5 Memory Hole
-	5 Mental Shield
-	5 Psychic Domination
-	5 Augment Mind
-	5 Psychic Assault
-	5 Terrorize
-	5 Social Networking
-	5 Isolation
-	5 Locate Object
-	5 Lying Maps
-	5 Break Boundary
-	5 Ward
-	5 Ban
-	5 Perfect Sympathy
-	5 Alter Direction
-	5 Cut Threads
-	5 Quarantine
-	5 Nimbus Tuning
-	5 Pierce Deception
-	5 Sacred Geometry
-	5 As Above, So Below
-	5 Invisible Runes
-	5 Nimbus Forgery
-	5 Words of Truth
-	5 Display of Gnosis
-	5 Primal Transfer
-	5 Supernal Dispellation
-	5 Arcadian Robes
-	5 Pandemonic Casque
-	5 Aethereal Targe
-	5 Stygian Gauntlet
-	5 Primal Longbow
-	5 Green Light/Red Light
-	5 Choose the Thread
-	5 Shield of Chronos
-	5 Veil of Moments
-	5 Chronos' Curse
-	5 Temporal Summoning
-	5 Weight of Years
-	5 Supernal Prophecy
-	5 Temporal Stutter
-	5 Corridors of Time
-	5 Influence Electricity
-	5 Kinetic Efficiency
-	5 Control Electricity
-	5 Control Fire
-	5 Environmental Shield
-	5 Supernal Invisibility
-	5 Call Lightning
-	5 Telekinetic Strike
-	5 Gravitic Levitation
-	5 Seismic Tremors
-	5 Scourge of Oblation
-	5 Coaxing the Spirits
-	5 Invoke Bane
-	5 Command Spirit
-	5 Gossamer Touch
-	5 Slumber
-	5 Bolster Spirit
-	5 Erode Resonance
-	5 Rouse Spirit
-	5 Bind Spirit
-	5 Shadow Scream
-	5 Cleanse the Body
-	5 Heightened Senses
-	5 Lure and Repel
-	5 Mutable Mask
-	5 Bruise Flesh
-	5 Degrading the Form
-	5 Many Faces
-	5 Transform Life
-	5 Life-Force Assault
-	5 Supernal Regeneration
-	5 Blessed Retainer
-	5 Xenobiologist
-	5 Time Traveler
-	5 Zealous Interceptor
-	5 Gruesome Graverobber
-	5 Voluntary Trial Subject
-	5 Destined One
-	5 Psychic Medium
-	5 Paranormal Skeptic
-	5 Elite Hacker
-	5 Brain Donor
-	5 Familiar Merit
-	5 Bibliotheca Occulta
-	5 Municipal Center
-	5 Dining District
-	5 Consilium Convocation
-	5 Mob Hideout
-	5 News Outlet
-	5 Precinct Headquarters
-	5 Sanctum Sanctorum
-	5 Sanitation Plant
-	5 Fools Rush In
-[common(10)]
-	5 Interconnections
-	5 Serendipity
-	5 Chaos Mastery
-	5 Anathema
-	5 Swarm of Locusts
-	5 Bonis Avibus
-	5 Ceteris Paribus
-	5 Terminus Ad Quem
-	5 Audentes Fortuna Iuvat
-	5 Capricious Moira
-	5 Mercurian Mantis
-	5 Nibiruan Cnidomorph
-	5 Enceladean Slime
-	5 Ionian Arcanophage
-	5 Light Elemental
-	5 Gravity Elemental
-	5 Electricity Elemental
-	5 Heat Elemental
-	5 A Forgotten Memory
-	5 A Gruesome Murder
-	5 A Poor Child's Hunger
-	5 An Implacable Angst
-	5 Ambrosial Behemoth
-	5 Bloodpetal Bramble
-	5 Carcinizing Crustacean
-	5 Broodling Mother
-	5 Goetia of Pride
-	5 Goetia of Wrath
-	5 Goetia of Sloth
-	5 Goetia of Envy
-	5 Erupting Carcass
-	5 Pesky Poltergeist
-	5 Tethered Soul
-	5 Insatiable Ghast
-	5 Surveillance Drone Mark IV
-	5 Antimatter Field
-	5 Brick Barricade
-	5 Crystalline Seal
-	5 The Adamantine Arrow
-	5 The Silver Ladder
-	5 The Free Council
-	5 The Guardians of the Veil
-	5 The Mysterium
-	5 Talon Medal
-	5 Théarch Badge
-	5 Libertine Invitation
-	5 Guardian Memento
-	5 Mystagogue Trinket
-	5 Lucifuge Descendent
-	5 Aegis Kai Doru Archivist
-	5 Cheiron Grafter
-	5 Ashwood Abbot
-	5 Distant Future
-	5 Leap Second
-	5 Solstice Sunset
-	5 Mesozoic Era
-	5 Forensic Gaze
-	5 Soul Marks
-	5 Unearth Revenant
-	5 Create Avernian Gate
-	5 Deny the Reaper
-	5 Artisan's Eye
-	5 Detect Substance
-	5 Transubstantiation
-	5 Annihilate Matter
-	5 Ex Nihilo
-	5 Know Nature
-	5 Perfect Recall
-	5 Hallucination
-	5 Mind Wipe
-	5 Psychic Genesis
-	5 Correspondence
-	5 The Outward and Inward Eye
-	5 Warp
-	5 Forge No Chains
-	5 Unnaming
-	5 Dispel Magic
-	5 Supernal Vision
-	5 Destroy Tass
-	5 Create Truth
-	5 Word of Unmaking
-	5 Supernal Divination
-	5 Perfect Timing
-	5 Present as Past
-	5 Rewrite History
-	5 Temporal Pocket
-	5 Nightvision
-	5 Tune In
-	5 Transform Energy
-	5 Create Energy
-	5 Eradicate Energy
-	5 Shifting Anachronism
-	5 Psychic Wraith
-	5 Disintegrating Spectre
-	5 Resilient Apeiron
-	5 Intransigent Cherub
-	5 Amplifying Seraph
-	5 Barbarous Totem
-	5 Flourishing Atavism
-	5 Profane Urim
-	5 Exorcist's Eye
-	5 Know Spirit
-	5 Twilit Body
-	5 Annihilate Spirit
-	5 Essence Fountain
-	5 Speak With Beasts
-	5 Web of Life
-	5 Mend
-	5 Create Life
-	5 Salt the Earth
-	5 Trained Marine
-	5 Martial Artist
-	5 Security Guard
-	5 Street Thug
-	5 Mystery Cult Leader
-	5 City Bureaucrat
-	5 Corrupt Cop
-	5 Rummaging Vagrant
-	5 University Professor
-	5 Punk Vandal
-	5 Nosferatu Horror
-	5 Mekhet Secret Trader
-	5 Gangrel Brawler
-	5 Daeva Acolyte
-	5 Spring Court Beast
-	5 Autumn Court Elemental
-	5 Winter Court Darkling
-	5 Spring Court Fairest
-	5 Summer Court Wizened
-	5 Autumn Court Ogre
-	5 Blood Talon Ripper
-	5 Bone Shadow Binder
-	5 Hunter in Darkness
-	5 Iron Master Warden
-	5 Storm Lord Howler
-	5 Illusory Grizzly
-	5 Illusory Tyrannosaur
-	5 Illusory Drake
-	5 Illusory Recluse
-	5 Bantam Imp
+[nonbasic land(1)]
+	1 The Adamantine Arrow
+	1 The Silver Ladder
+	1 The Free Council
+	1 The Guardians of the Veil
+	1 The Mysterium
+	1 Abandoned Wending
+	1 Historical Monument
+	1 Languid Cul-de-sac
+	1 Psionic Skyscraper
+	1 Vacant Lot
+	1 Desecrated Graveyard
+	1 Contaminated Scrapyard
+	1 Sacred Temple
+	1 Thrumming Substation
+	1 Pristine Parkland
+	1 Undeveloped Overgrowth
+	1 Watchtower of the Lunargent Thorn
+	1 Watchtower of the Iron Gauntlet
+	1 Watchtower of the Lead Coin
+	1 Watchtower of the Singing Stone
+	1 Watchtower of the Golden Key
+	1 Familiar Merit
+	1 Bibliotheca Occulta
+	1 Municipal Center
+	1 Dining District
+	1 Consilium Convocation
+	1 Mob Hideout
+	1 News Outlet
+	1 Precinct Headquarters
+	1 Sanctum Sanctorum
+	1 Sanitation Plant
+[rare(2)]
+	1 Exceptional Luck
+	1 Monkey's Paw
+	1 Supernal Intervention
+	1 Miracle
+	1 Quo Fata Ferunt
+	1 Volatile Moira
+	1 Capacious Imp
+	1 Pleiadian Explorer
+	1 Sonic Elemental
+	1 An Untold Secret
+	1 Rampaging Rhinoceros
+	1 Goetia of Gluttony
+	1 Resonant Corpse
+	1 Autoguardian Mark VI
+	1 Abandoned Wending
+	1 Task Force Commando
+	1 Zeka Monstrosity
+	1 Atlantean Age
+	1 Decay
+	1 Quicken Corpse
+	1 Enervation
+	1 Shadow Flesh
+	1 Empty Presence
+	1 Machine Invisibility
+	1 Shaping
+	1 Ghostwall
+	1 Wonderful Machine
+	1 Self-Repairing Machine
+	1 Supernal Telepathy
+	1 Read the Depths
+	1 Universal Language
+	1 Mind Flay
+	1 Possession
+	1 Ground Eater
+	1 Co-Location
+	1 Collapse
+	1 Teleportation
+	1 Pocket Dimension
+	1 Aetheric Winds
+	1 Mana Battery
+	1 Celestial Fire
+	1 Hallow Dance
+	1 Blasphemy
+	1 Momentary Flux
+	1 Constant Presence
+	1 Acceleration
+	1 Shifting Sands
+	1 Split Second
+	1 Control Gravity
+	1 Kinetic Blow
+	1 Velocity Control
+	1 Rend Friction
+	1 Adverse Weather
+	1 Splitting Anachronism
+	1 Noetic Wraith
+	1 Pernicious Spectre
+	1 Replicating Apeiron
+	1 Exuberant Cherub
+	1 Vengeful Seraph
+	1 Rapacious Totem
+	1 Proliferant Atavism
+	1 Astral Astrolabe
+	1 Channel Essence
+	1 Place of Power
+	1 Spirit Summons
+	1 Shape Spirit
+	1 Create Locus
+	1 Control Instincts
+	1 Honing the Form
+	1 Accelerate Growth
+	1 Shapechanging
+	1 Pandemic
+	1 Ventrue Prince
+	1 Illusory Monster
+	1 Sever Oaths
+[uncommon(4)]
+	1 Oaths Fulfilled
+	1 Fabricate Fortune
+	1 Shifting the Odds
+	1 Grave Misfortune
+	1 Shared Destinies
+	1 Sworn Oaths
+	1 Atonement
+	1 Strings of Fate
+	1 Forge Destiny
+	1 Historical Monument
+	1 Languid Cul-de-sac
+	1 Psionic Skyscraper
+	1 Vacant Lot
+	1 Desecrated Graveyard
+	1 Contaminated Scrapyard
+	1 Sacred Temple
+	1 Thrumming Substation
+	1 Pristine Parkland
+	1 Undeveloped Overgrowth
+	1 Galateid Muse
+	1 Patchwork Wretched
+	1 Tammuz Golem
+	1 Deepen Shadows
+	1 Shadow Sculpting
+	1 Ghost Shield
+	1 Soul Armor
+	1 Suppress Life
+	1 Devouring the Slain
+	1 Ghost Gate
+	1 Shadow Crafting
+	1 Exorcism
+	1 Withering
+	1 Remote Control
+	1 Alchemist's Touch
+	1 Hidden Hoard
+	1 Alter Conductivity
+	1 Crucible
+	1 Windstrike
+	1 Golem
+	1 Endless Bounty
+	1 Supernal Forging
+	1 Piercing Earth
+	1 Mental Scan
+	1 One Mind, Two Thoughts
+	1 Alter Mental Pattern
+	1 Memory Hole
+	1 Mental Shield
+	1 Psychic Domination
+	1 Augment Mind
+	1 Psychic Assault
+	1 Terrorize
+	1 Social Networking
+	1 Isolation
+	1 Locate Object
+	1 Lying Maps
+	1 Break Boundary
+	1 Ward
+	1 Ban
+	1 Perfect Sympathy
+	1 Alter Direction
+	1 Cut Threads
+	1 Quarantine
+	1 Nimbus Tuning
+	1 Pierce Deception
+	1 Sacred Geometry
+	1 As Above, So Below
+	1 Invisible Runes
+	1 Nimbus Forgery
+	1 Words of Truth
+	1 Display of Gnosis
+	1 Primal Transfer
+	1 Supernal Dispellation
+	1 Arcadian Robes
+	1 Pandemonic Casque
+	1 Aethereal Targe
+	1 Stygian Gauntlet
+	1 Primal Longbow
+	1 Green Light/Red Light
+	1 Choose the Thread
+	1 Shield of Chronos
+	1 Veil of Moments
+	1 Chronos' Curse
+	1 Temporal Summoning
+	1 Weight of Years
+	1 Supernal Prophecy
+	1 Temporal Stutter
+	1 Corridors of Time
+	1 Influence Electricity
+	1 Kinetic Efficiency
+	1 Control Electricity
+	1 Control Fire
+	1 Environmental Shield
+	1 Supernal Invisibility
+	1 Call Lightning
+	1 Telekinetic Strike
+	1 Gravitic Levitation
+	1 Seismic Tremors
+	1 Scourge of Oblation
+	1 Coaxing the Spirits
+	1 Invoke Bane
+	1 Command Spirit
+	1 Gossamer Touch
+	1 Slumber
+	1 Bolster Spirit
+	1 Erode Resonance
+	1 Rouse Spirit
+	1 Bind Spirit
+	1 Shadow Scream
+	1 Cleanse the Body
+	1 Heightened Senses
+	1 Lure and Repel
+	1 Mutable Mask
+	1 Bruise Flesh
+	1 Degrading the Form
+	1 Many Faces
+	1 Transform Life
+	1 Life-Force Assault
+	1 Supernal Regeneration
+	1 Blessed Retainer
+	1 Xenobiologist
+	1 Time Traveler
+	1 Zealous Interceptor
+	1 Gruesome Graverobber
+	1 Voluntary Trial Subject
+	1 Destined One
+	1 Psychic Medium
+	1 Paranormal Skeptic
+	1 Elite Hacker
+	1 Brain Donor
+	1 Familiar Merit
+	1 Bibliotheca Occulta
+	1 Municipal Center
+	1 Dining District
+	1 Consilium Convocation
+	1 Mob Hideout
+	1 News Outlet
+	1 Precinct Headquarters
+	1 Sanctum Sanctorum
+	1 Sanitation Plant
+	1 Fools Rush In
+[common(8)]
+	1 Interconnections
+	1 Serendipity
+	1 Chaos Mastery
+	1 Anathema
+	1 Swarm of Locusts
+	1 Bonis Avibus
+	1 Ceteris Paribus
+	1 Terminus Ad Quem
+	1 Audentes Fortuna Iuvat
+	1 Capricious Moira
+	1 Mercurian Mantis
+	1 Nibiruan Cnidomorph
+	1 Enceladean Slime
+	1 Ionian Arcanophage
+	1 Light Elemental
+	1 Gravity Elemental
+	1 Electricity Elemental
+	1 Heat Elemental
+	1 A Forgotten Memory
+	1 A Gruesome Murder
+	1 A Poor Child's Hunger
+	1 An Implacable Angst
+	1 Ambrosial Behemoth
+	1 Bloodpetal Bramble
+	1 Carcinizing Crustacean
+	1 Broodling Mother
+	1 Goetia of Pride
+	1 Goetia of Wrath
+	1 Goetia of Sloth
+	1 Goetia of Envy
+	1 Erupting Carcass
+	1 Pesky Poltergeist
+	1 Tethered Soul
+	1 Insatiable Ghast
+	1 Surveillance Drone Mark IV
+	1 Antimatter Field
+	1 Brick Barricade
+	1 Crystalline Seal
+	1 The Adamantine Arrow
+	1 The Silver Ladder
+	1 The Free Council
+	1 The Guardians of the Veil
+	1 The Mysterium
+	1 Talon Medal
+	1 Théarch Badge
+	1 Libertine Invitation
+	1 Guardian Memento
+	1 Mystagogue Trinket
+	1 Lucifuge Descendent
+	1 Aegis Kai Doru Archivist
+	1 Cheiron Grafter
+	1 Ashwood Abbot
+	1 Distant Future
+	1 Leap Second
+	1 Solstice Sunset
+	1 Mesozoic Era
+	1 Forensic Gaze
+	1 Soul Marks
+	1 Unearth Revenant
+	1 Create Avernian Gate
+	1 Deny the Reaper
+	1 Artisan's Eye
+	1 Detect Substance
+	1 Transubstantiation
+	1 Annihilate Matter
+	1 Ex Nihilo
+	1 Know Nature
+	1 Perfect Recall
+	1 Hallucination
+	1 Mind Wipe
+	1 Psychic Genesis
+	1 Correspondence
+	1 The Outward and Inward Eye
+	1 Warp
+	1 Forge No Chains
+	1 Unnaming
+	1 Dispel Magic
+	1 Supernal Vision
+	1 Destroy Tass
+	1 Create Truth
+	1 Word of Unmaking
+	1 Supernal Divination
+	1 Perfect Timing
+	1 Present as Past
+	1 Rewrite History
+	1 Temporal Pocket
+	1 Nightvision
+	1 Tune In
+	1 Transform Energy
+	1 Create Energy
+	1 Eradicate Energy
+	1 Shifting Anachronism
+	1 Psychic Wraith
+	1 Disintegrating Spectre
+	1 Resilient Apeiron
+	1 Intransigent Cherub
+	1 Amplifying Seraph
+	1 Barbarous Totem
+	1 Flourishing Atavism
+	1 Profane Urim
+	1 Exorcist's Eye
+	1 Know Spirit
+	1 Twilit Body
+	1 Annihilate Spirit
+	1 Essence Fountain
+	1 Speak With Beasts
+	1 Web of Life
+	1 Mend
+	1 Create Life
+	1 Salt the Earth
+	1 Trained Marine
+	1 Martial Artist
+	1 Security Guard
+	1 Street Thug
+	1 Mystery Cult Leader
+	1 City Bureaucrat
+	1 Corrupt Cop
+	1 Rummaging Vagrant
+	1 University Professor
+	1 Punk Vandal
+	1 Nosferatu Horror
+	1 Mekhet Secret Trader
+	1 Gangrel Brawler
+	1 Daeva Acolyte
+	1 Spring Court Beast
+	1 Autumn Court Elemental
+	1 Winter Court Darkling
+	1 Spring Court Fairest
+	1 Summer Court Wizened
+	1 Autumn Court Ogre
+	1 Blood Talon Ripper
+	1 Bone Shadow Binder
+	1 Hunter in Darkness
+	1 Iron Master Warden
+	1 Storm Lord Howler
+	1 Illusory Grizzly
+	1 Illusory Tyrannosaur
+	1 Illusory Drake
+	1 Illusory Recluse
+	1 Bantam Imp

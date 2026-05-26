@@ -1,0 +1,6 @@
+﻿[
+	{ "name": "nonbasic land", "count": 1, "balanced": "c", "custom": false, "filtered": false },
+	{ "name": "rare", "count": 2, "balanced": "c", "custom": false, "filtered": false },
+	{ "name": "uncommon", "count": 4, "balanced": "c", "custom": false, "filtered": false },
+	{ "name": "common", "count": 8, "balanced": "c", "custom": false, "filtered": false }
+]
