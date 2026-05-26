@@ -2215,6 +2215,22 @@
         "position": "243"
     },
     {
+        "card_name": "Bantam Imp",
+        "number": 106,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "435"
+    },
+    {
+        "card_name": "Capacious Imp",
+        "number": 107,
+        "shape": "normal",
+        "set": "MtAw",
+        "rotated": false,
+        "position": "25"
+    },
+    {
         "card_name": "Disintegrating Spectre",
         "number": 135,
         "shape": "normal",
