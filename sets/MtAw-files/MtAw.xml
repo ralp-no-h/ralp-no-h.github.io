@@ -5,7 +5,7 @@
 			<name>MtAw</name>
 			<longname>Mage the Awakening</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-26</releasedate>
+			<releasedate>2026-05-28</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -119,11 +119,11 @@ I, II, III — Choose creature, enchantment, land, or life. If you chose life, y
 		<card>
 			<name>Grave Misfortune</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)
-I, II, III, IV — Enchant creature
+Enchant creature
 When enchanted creature is dealt damage, it deals that much damage to its controller.
 When Grave Misfortune is put into a graveyard from the battle-
 field, draw a card.
-V — Grave Misfortune deals 1 damage to enchanted creature for each lore counter on it.
+I, II, III, IV, V — Grave Misfortune deals 1 damage to enchanted creature for each lore counter on it.
 ​</text>
 			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/6.jpg" num="8">MtAw</set>
 			<prop>
@@ -659,7 +659,7 @@ Protection from flying (This creature can&apos;t be blocked, targeted, dealt dam
 		</card>
 		<card>
 			<name>Electricity Elemental</name>
-			<text>{R}: Electricity Elemental deals 1 damage to any target. Activate only if Electricity Elemental is attacking.</text>
+			<text>When Electricity Elemental enters or attacks, it deals 1 damage to any target.</text>
 			<set rarity="common" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/34.jpg" num="221">MtAw</set>
 			<prop>
 				<layout>normal</layout>
@@ -938,8 +938,8 @@ If one or more counters would be put on Goetia of Gluttony, its controller creat
 		<card>
 			<name>Goetia of Sloth</name>
 			<text>When Goetia of Sloth enters, you may tap it.
-When Goetia of Sloth becomes tapped, put a stun counter on up to one target creature.
-Creatures your opponents control can&apos;t have or gain haste.</text>
+When Goetia of Sloth becomes tapped, tap target creature.
+{U}: Creatures lose haste until end of turn.</text>
 			<set rarity="common" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/49.jpg" num="81">MtAw</set>
 			<prop>
 				<layout>normal</layout>
@@ -975,9 +975,9 @@ Madness {2}{U}{U} (If you discard this card, discard it into exile. When you do,
 		<card>
 			<name>Erupting Carcass</name>
 			<text>Emerge {3}{B} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature&apos;s mana value.)
-Escape {3}{B}{V}, Sacrifice a creature. (You may cast this card from your graveyard for its escape cost.)
-This creature escapes with +1/+1 counters on it equal to the sacrificed creature&apos;s toughness.</text>
-			<set rarity="common" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/51.jpg" num="136">MtAw</set>
+Escape {3}{B}{V}, Exile another creature card from your graveyard.
+This creature escapes with a number of +1/+1 counters on it equal to the exiled card&apos;s toughness.</text>
+			<set rarity="rare" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/51.jpg" num="136">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -994,8 +994,8 @@ This creature escapes with +1/+1 counters on it equal to the sacrificed creature
 		<card>
 			<name>Resonant Corpse</name>
 			<text>Resonant Corpse&apos;s power is equal to the mana value of the last spell cast.
-Escape {2}{B}{B}{V}, Exile a card from your graveyard with mana value 4 or greater.</text>
-			<set rarity="rare" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/52.jpg" num="140">MtAw</set>
+Escape {2}{B}{B}{V}, Exile a card from your graveyard with mana value 4 or greater. (You may cast this card from your graveyard for its escape cost.)</text>
+			<set rarity="common" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/52.jpg" num="140">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1456,7 +1456,7 @@ You have no maximum Wisdom.
 		<card>
 			<name>Sacred Temple</name>
 			<text>{T}: Add {R}.
-{T}: The next noncreature spell you cast this turn can&apos;t be countered. Crystallize. (Create a Tass token. It&apos;s an artifact with &quot;When you sacrifice this, the next spell you cast this turn costs one mana less of any color.&quot; Whenever you sacrifice a non-Tass permanent, you may also sacrifice a Tass.)</text>
+{T}: The next sorcery spell you cast this turn can&apos;t be countered. Crystallize. (Create a Tass token. It&apos;s an artifact with &quot;When you sacrifice this, the next spell you cast this turn costs one mana less of any color.&quot; Whenever you sacrifice a non-Tass permanent, you may also sacrifice a Tass.)</text>
 			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/78.jpg" num="199">MtAw</set>
 			<prop>
 				<layout>normal</layout>
@@ -1807,7 +1807,7 @@ Flashback {1}{B} (You may cast this card from your graveyard for its flashback c
 		</card>
 		<card>
 			<name>Shadow Sculpting</name>
-			<text>Put target card from your graveyard onto the battlefield face down. It&apos;s a black artifact Equipment with &quot;Equipped creature gets +1/+0 and has shadow&quot;, equip {3}, and &quot;When equipped creature deals combat damage to a player, you may exile this card and you may play it this turn without paying its mana cost.&quot; (You still pay any {V} cost.)</text>
+			<text>Put target permanent card from your graveyard onto the battlefield face down. It&apos;s a black artifact Equipment with &quot;Equipped creature gets +1/+0 and has shadow&quot;, equip {3}, and &quot;When equipped creature deals combat damage to a player, you may turn this card face up.&quot;</text>
 			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/98.jpg" num="129">MtAw</set>
 			<prop>
 				<layout>normal</layout>
@@ -1963,7 +1963,7 @@ Flashback {3}{B}{B}{V}</text>
 		</card>
 		<card>
 			<name>Shadow Crafting</name>
-			<text>Put target card from your graveyard onto the battlefield face down with X potency counters on it. It&apos;s a black artifact Equipment with &quot;Equipped creature has menace and gets +1/+1 for each potency counter on this artifact,&quot; equip {2}, and &quot;When equipped creature dies, you may return this Equipment to its owner&apos;s hand.&quot;</text>
+			<text>Put target card from your graveyard onto the battlefield face down with X potency counters on it. It&apos;s a black artifact Equipment with &quot;Equipped creature has menace and gets +1/+1 for each potency counter on this artifact,&quot; equip {2}, and &quot;When equipped creature dies, you may return this artifact to its owner&apos;s hand.&quot;</text>
 			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/107.jpg" num="127">MtAw</set>
 			<prop>
 				<layout>normal</layout>
@@ -2250,7 +2250,7 @@ Entwine {1}{B}</text>
 		</card>
 		<card>
 			<name>Alter Conductivity</name>
-			<text>Activated abilities of artifacts you control cost {1} less.
+			<text>Activated abilities of artifacts you control cost {1} less to activate.
 Each creature you control gets +1/+1 for each Equipment attached to it.</text>
 			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/123.jpg" num="144">MtAw</set>
 			<prop>
@@ -2535,8 +2535,7 @@ Madness {1}{U} (If you discard this card, discard it into exile. When you do, ca
 		<card>
 			<name>Perfect Recall</name>
 			<text>You may look at the top card of your library any time.
-You may cast Nightmare spells from the top of your library.
-Once each turn, you may cast a noncreature spell from the top of your library.
+Once each turn, you may cast a Nightmare spell or noncreature spell from the top of your library.
 Whenever you cast a spell from a library, gain 1 Wisdom.</text>
 			<set rarity="common" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/139.jpg" num="68">MtAw</set>
 			<prop>
@@ -2639,10 +2638,11 @@ If this spell was kicked, you may cast up to two instant and/or sorcery spells f
 		</card>
 		<card>
 			<name>Augment Mind</name>
-			<text>Play with the top card of your library revealed.
+			<text>When you cast this spell, gain 2 Wisdom.
+Play with the top card of your library revealed.
 You may play lands and cast spells from the top of your library.
 {1}{U}: Scry 1.</text>
-			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/145.jpg" num="59">MtAw</set>
+			<set rarity="common" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/145.jpg" num="59">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2746,11 +2746,10 @@ Madness {3}{U}{U}{V}, Pay X life.</text>
 		</card>
 		<card>
 			<name>Hallucination</name>
-			<text>When you cast this spell, gain 2 Wisdom.
-Enchant creature
+			<text>Enchant creature
 You control enchanted creature. It&apos;s a Nightmare in addition to its other types.
 Whenever a creature an opponent controls enters, attach this Aura to that creature.</text>
-			<set rarity="common" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/151.jpg" num="60">MtAw</set>
+			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/151.jpg" num="60">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3553,7 +3552,7 @@ Overload {3}{R}{V}{V}{V} (You may cast this spell for its overload cost. If you 
 		<card>
 			<name>Arcadian Robes</name>
 			<text>Equipped creature has first strike and haste.
-Whenever equipped creature attacks, you may exile a card from your hand face down. It becomes foretold. Its foretell cost is its mana cost reduced by {2}. If you exiled a card this way, draw a card.
+Whenever equipped creature attacks, you may exile a card from your hand face down. It becomes foretold. Its foretell cost is its mana cost reduced by {2}. When you exile a card this way, draw a card.
 Equip {2}</text>
 			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/196.jpg" num="57">MtAw</set>
 			<prop>
@@ -4640,7 +4639,7 @@ Whenever another creature enters, you gain 1 life. If you control that creature,
 			<name>Scourge of Oblation</name>
 			<text>{T}, Pay 2 life: Add {C}{C}.
 {T}, Sacrifice a creature: Add {C}{C}.
-When Scourge of Oblation becomes tapped, if you control a Hallow, crystallize. (Create a Tass token. It&apos;s an artifact with &quot;When you sacrifice this, the next spell you cast this turn costs one mana less of any color.&quot; Whenever you sacrifice a non-Tass permanent, you may also sacrifice a Tass.)</text>
+{T}: You may sacrifice a Tass.</text>
 			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/257.jpg" num="353">MtAw</set>
 			<prop>
 				<layout>normal</layout>
@@ -4962,9 +4961,9 @@ Enchanted creature can&apos;t attack or block, and its controller can&apos;t act
 		<card>
 			<name>Twilit Body</name>
 			<text>When you cast this spell, gain 2 Wisdom.
-Choose one or both —
-• Target non-Human creature gains shadow until end of turn. (That creature can block or be blocked by only creatures with shadow.)
-• Target non-Human creature loses shadow until end of turn.</text>
+Up to one target non-Human creature gains shadow until end of turn. (That creature can block or be blocked by only creatures with shadow.)
+Up to one target non-Human creature loses shadow until end of turn.
+Up to one target non-Human creature gets +0/+3 until end of turn.</text>
 			<set rarity="common" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/276.jpg" num="248">MtAw</set>
 			<prop>
 				<layout>normal</layout>
@@ -5632,9 +5631,9 @@ When Gruesome Graverobber enters or becomes tapped, mill two cards.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Voluntary Trial Subject</name>
-			<text>When one or more counters of a type are put on another non-Human creature you control, you may put one counter of that type on Voluntary Trial Subject.
-As long as Voluntary Trial Subject has three or more counters on it, it has trample and it&apos;s a Mutant in addition to its other types.</text>
+			<name>Volunteer Test Subject</name>
+			<text>When one or more counters of a type are put on another non-Human creature you control, you may put one counter of that type on Volunteer Test Subject.
+As long as Volunteer Test Subject has three or more counters on it, it has trample and it&apos;s a Mutant in addition to its other types.</text>
 			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/315.jpg" num="316">MtAw</set>
 			<prop>
 				<layout>normal</layout>
@@ -5687,8 +5686,7 @@ As long as Voluntary Trial Subject has three or more counters on it, it has tram
 		</card>
 		<card>
 			<name>Paranormal Skeptic</name>
-			<text>Vulgar spells cost {V} more to cast. (A spell is vulgar if it has {V} in its casting cost.)
-Whenever a player casts a vulgar spell, put a disbelief counter on Paranormal Skeptic. 
+			<text>Whenever a player casts a vulgar spell, put a disbelief counter on Paranormal Skeptic. 
 When Paranormal Skeptic dies, it deals 1 damage to any target for each disbelief counter on it.</text>
 			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/318.jpg" num="314">MtAw</set>
 			<prop>
@@ -6008,9 +6006,9 @@ This creature can block creatures with shadow as though they didn&apos;t have sh
 		</card>
 		<card>
 			<name>Illusory Grizzly</name>
-			<text>When Illusory Grizzly attacks, you may pay {R}. If you do, whenever it becomes blocked this turn, it gets +1/+1 until end of turn for each creature blocking it.
-When Illusory Grizzly becomes the target of a spell, sacrifice it.</text>
-			<set rarity="common" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/336.jpg" num="194">MtAw</set>
+			<text>Whenever this creature attacks, you may pay {R}. If you do, it gains &quot;Whenever this creature becomes blocked, it gets +1/+1 until end of turn for each creature blocking it&quot; until end of turn.
+When this creature becomes the target of a spell, sacrifice it.</text>
+			<set rarity="rare" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/336.jpg" num="194">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6027,7 +6025,6 @@ When Illusory Grizzly becomes the target of a spell, sacrifice it.</text>
 		<card>
 			<name>Illusory Tyrannosaur</name>
 			<text>Trample
-{R}: Illusory Tyrannosaur gains haste until end of turn. Sacrifice it at end of combat.
 When Illusory Tyrannosaur becomes the target of a spell, sacrifice it.</text>
 			<set rarity="common" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/337.jpg" num="197">MtAw</set>
 			<prop>
@@ -6064,10 +6061,10 @@ When Illusory Drake becomes the target of a spell, sacrifice it.</text>
 		</card>
 		<card>
 			<name>Illusory Monster</name>
-			<text>Illusory Monster has first strike when attacking.
+			<text>During your turn, Illusory Monster has first strike.
 {1}{R}: Illusory Monster gains menace until end of turn.
 When Illusory Monster becomes the target of a spell, sacrifice it.</text>
-			<set rarity="rare" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/339.jpg" num="195">MtAw</set>
+			<set rarity="common" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/339.jpg" num="195">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6468,7 +6465,7 @@ If a player would draw a card when their library has no cards in it, all players
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Enchantment Artifact</type>
+				<type>Enchantment Artifact — Bedlam</type>
 				<maintype>Artifact</maintype>
 				<manacost>6</manacost>
 				<cmc>6</cmc>

@@ -512,7 +512,7 @@
 		},
 		{
 			"name": "Erupting Carcass",
-			"rarity": "common",
+			"rarity": "rare",
 			"mana_cost": "{3}{B}",
 			"type": "Death Creature — Skeleton",
 			"collector_number": "136",
@@ -522,7 +522,7 @@
 		},
 		{
 			"name": "Resonant Corpse",
-			"rarity": "rare",
+			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Death Creature — Skeleton",
 			"collector_number": "140",
@@ -1452,7 +1452,7 @@
 		},
 		{
 			"name": "Augment Mind",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{3}{U}{U}{V}{V}",
 			"type": "Mind Enchantment",
 			"collector_number": "59",
@@ -1512,7 +1512,7 @@
 		},
 		{
 			"name": "Hallucination",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{U}{V}{V}",
 			"type": "Mind Kindred Enchantment — Nightmare Aura",
 			"collector_number": "60",
@@ -3151,7 +3151,7 @@
 			}
 		},
 		{
-			"name": "Voluntary Trial Subject",
+			"name": "Volunteer Test Subject",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Sleepwalker Survivor",
@@ -3362,7 +3362,7 @@
 		},
 		{
 			"name": "Illusory Grizzly",
-			"rarity": "common",
+			"rarity": "rare",
 			"mana_cost": "{R}",
 			"type": "Prime Creature — Bear Illusion",
 			"collector_number": "194",
@@ -3392,7 +3392,7 @@
 		},
 		{
 			"name": "Illusory Monster",
-			"rarity": "rare",
+			"rarity": "common",
 			"mana_cost": "{2}{R}{V}",
 			"type": "Prime Creature — Horror Illusion",
 			"collector_number": "195",
@@ -3664,7 +3664,7 @@
 			"name": "Inviolate Substance",
 			"rarity": "special",
 			"mana_cost": "{6}",
-			"type": "Enchantment Artifact",
+			"type": "Enchantment Artifact — Bedlam",
 			"collector_number": "415",
 			"image_uris": {
 				"en": "https://ralp-no-h.github.io/sets/MtAw-files/img/366.jpg"
@@ -4462,7 +4462,7 @@
 	1 An Untold Secret
 	1 Rampaging Rhinoceros
 	1 Goetia of Gluttony
-	1 Resonant Corpse
+	1 Erupting Carcass
 	1 Autoguardian Mark VI
 	1 Task Force Commando
 	1 Zeka Monstrosity
@@ -4522,7 +4522,7 @@
 	1 Shapechanging
 	1 Pandemic
 	1 Ventrue Prince
-	1 Illusory Monster
+	1 Illusory Grizzly
 	1 Sever Oaths
 [uncommon(4)]
 	1 Oaths Fulfilled
@@ -4563,8 +4563,8 @@
 	1 Memory Hole
 	1 Mental Shield
 	1 Psychic Domination
-	1 Augment Mind
 	1 Psychic Assault
+	1 Hallucination
 	1 Terrorize
 	1 Social Networking
 	1 Isolation
@@ -4638,7 +4638,7 @@
 	1 Time Traveler
 	1 Zealous Interceptor
 	1 Gruesome Graverobber
-	1 Voluntary Trial Subject
+	1 Volunteer Test Subject
 	1 Destined One
 	1 Psychic Medium
 	1 Paranormal Skeptic
@@ -4676,7 +4676,7 @@
 	1 Goetia of Wrath
 	1 Goetia of Sloth
 	1 Goetia of Envy
-	1 Erupting Carcass
+	1 Resonant Corpse
 	1 Pesky Poltergeist
 	1 Tethered Soul
 	1 Insatiable Ghast
@@ -4709,7 +4709,7 @@
 	1 Ex Nihilo
 	1 Know Nature
 	1 Perfect Recall
-	1 Hallucination
+	1 Augment Mind
 	1 Mind Wipe
 	1 Psychic Genesis
 	1 Correspondence
@@ -4776,8 +4776,8 @@
 	1 Hunter in Darkness
 	1 Iron Master Warden
 	1 Storm Lord Howler
-	1 Illusory Grizzly
 	1 Illusory Tyrannosaur
 	1 Illusory Drake
+	1 Illusory Monster
 	1 Illusory Recluse
 	1 Bantam Imp

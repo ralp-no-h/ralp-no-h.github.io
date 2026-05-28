@@ -135,12 +135,12 @@
         "position": "136"
     },
     {
-        "card_name": "Hallucination",
-        "number": 60,
+        "card_name": "Augment Mind",
+        "number": 59,
         "shape": "normal",
         "set": "MtAw",
         "rotated": false,
-        "position": "151"
+        "position": "145"
     },
     {
         "card_name": "Correspondence",
@@ -324,12 +324,12 @@
         "position": "10"
     },
     {
-        "card_name": "Augment Mind",
-        "number": 59,
+        "card_name": "Hallucination",
+        "number": 60,
         "shape": "normal",
         "set": "MtAw",
         "rotated": false,
-        "position": "145"
+        "position": "151"
     },
     {
         "card_name": "Decay",
@@ -2611,7 +2611,7 @@
         "position": "313"
     },
     {
-        "card_name": "Voluntary Trial Subject",
+        "card_name": "Volunteer Test Subject",
         "number": 316,
         "shape": "normal",
         "set": "MtAw",
