@@ -1,4 +1,185 @@
-﻿VERSION 18 CHANGELOG
+﻿VERSION 19 CHANGELOG
+====================
+
+
+
+Oaths Fulfilled
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Fateseal 1 [i](To fateseal X, look at the top X cards of an opponent's library, then put any number of them on the bottom of that player's library and the rest on top in any order.)[/i]
+Fateseal 2
+III — Fateseal 3, then draw a card. => 
+Fateseal 1 [i](To fateseal X, look at the top X cards of an opponent's library, then put any number of them on the bottom of that player's library and the rest on top in any order.)[/i]
+Fateseal 2
+Fateseal 3, then draw a card.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Fateseal 1 [i](To fateseal X, look at the top X cards of an opponent's library, then put any number of them on the bottom of that player's library and the rest on top in any order.)[/i]
+Fateseal 2
+III — Fateseal 3, then draw a card. => 
+Fateseal 1 [i](To fateseal X, look at the top X cards of an opponent's library, then put any number of them on the bottom of that player's library and the rest on top in any order.)[/i]
+Fateseal 2
+Fateseal 3, then draw a card.
+
+Shifting the Odds
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Choose creature, enchantment, land, or life. If you chose life, you gain 3 life for each opponent who has more life than you. Otherwise, if an opponent controls more permanents of the chosen type than you, reveal cards from the top of your library until you reveal a card of the chosen type. Put it into your hand and the rest on the bottom of your library in a random order.
+​
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Choose creature, enchantment, land, or life. If you chose life, you gain 3 life for each opponent who has more life than you. Otherwise, if an opponent controls more permanents of the chosen type than you, reveal cards from the top of your library until you reveal a card of the chosen type. Put it into your hand and the rest on the bottom of your library in a random order.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Choose creature, enchantment, land, or life. If you chose life, you gain 3 life for each opponent who has more life than you. Otherwise, if an opponent controls more permanents of the chosen type than you, reveal cards from the top of your library until you reveal a card of the chosen type. Put it into your hand and the rest on the bottom of your library in a random order.
+​
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Choose creature, enchantment, land, or life. If you chose life, you gain 3 life for each opponent who has more life than you. Otherwise, if an opponent controls more permanents of the chosen type than you, reveal cards from the top of your library until you reveal a card of the chosen type. Put it into your hand and the rest on the bottom of your library in a random order.
+
+Grave Misfortune
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]
+Enchant creature
+When enchanted creature is dealt damage, it deals that much damage to its controller.
+When Grave Misfortune is put into a graveyard from the battle-
+field, draw a card.
+I, II, III, IV, V — Grave Misfortune deals 1 damage to enchanted creature for each lore counter on it.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]
+Enchant creature
+When enchanted creature is dealt damage, it deals that much damage to its controller.
+When Grave Misfortune is put into a graveyard from the battle-
+field, draw a card.
+Grave Misfortune deals 1 damage to enchanted creature for each lore counter on it.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]
+Enchant creature
+When enchanted creature is dealt damage, it deals that much damage to its controller.
+When Grave Misfortune is put into a graveyard from the battle-
+field, draw a card.
+I, II, III, IV, V — Grave Misfortune deals 1 damage to enchanted creature for each lore counter on it.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]
+Enchant creature
+When enchanted creature is dealt damage, it deals that much damage to its controller.
+When Grave Misfortune is put into a graveyard from the battle-
+field, draw a card.
+Grave Misfortune deals 1 damage to enchanted creature for each lore counter on it.
+​
+
+Monkey's Paw
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I, II — Search your library for a card, then shuffle and put that card on top.
+III — Exile Monkey's Paw and return it to the battlefield under an opponent's control.
+​ => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Search your library for a card, then shuffle and put that card on top.
+Exile Monkey's Paw and return it to the battlefield under an opponent's control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I, II — Search your library for a card, then shuffle and put that card on top.
+III — Exile Monkey's Paw and return it to the battlefield under an opponent's control.
+​ => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Search your library for a card, then shuffle and put that card on top.
+Exile Monkey's Paw and return it to the battlefield under an opponent's control.
+
+Atonement
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Destroy target enchantment.
+III — Destroy target enchantment, then Atonement deals damage to each opponent equal to the greatest mana value among enchantment cards in their graveyard.
+​ => 
+Destroy target enchantment.
+Destroy target enchantment, then Atonement deals damage to each opponent equal to the greatest mana value among enchantment cards in their graveyard.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Destroy target enchantment.
+III — Destroy target enchantment, then Atonement deals damage to each opponent equal to the greatest mana value among enchantment cards in their graveyard.
+​ => 
+Destroy target enchantment.
+Destroy target enchantment, then Atonement deals damage to each opponent equal to the greatest mana value among enchantment cards in their graveyard.
+
+Chaos Mastery
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+When you cast this spell, gain 2 Wisdom.
+I, II, III, IV — Scry X, draw a card, then shuffle, where X is the number of lore counters on Chaos Mastery.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+When you cast this spell, gain 2 Wisdom.
+Scry X, draw a card, then shuffle, where X is the number of lore counters on Chaos Mastery.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+When you cast this spell, gain 2 Wisdom.
+I, II, III, IV — Scry X, draw a card, then shuffle, where X is the number of lore counters on Chaos Mastery.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+When you cast this spell, gain 2 Wisdom.
+Scry X, draw a card, then shuffle, where X is the number of lore counters on Chaos Mastery.
+
+Supernal Intervention
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Up to one target creature phases out. It can't phase in for as long as you control Supernal Intervention.
+III — Creatures your opponents control lose all abilities. Destroy all creatures.
+​ => 
+Up to one target creature phases out. It can't phase in for as long as you control Supernal Intervention.
+Creatures your opponents control lose all abilities. Destroy all creatures.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Up to one target creature phases out. It can't phase in for as long as you control Supernal Intervention.
+III — Creatures your opponents control lose all abilities. Destroy all creatures.
+​ => 
+Up to one target creature phases out. It can't phase in for as long as you control Supernal Intervention.
+Creatures your opponents control lose all abilities. Destroy all creatures.
+
+Strings of Fate
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Look at target opponent's hand. Choose a card name. At the beginning of that player's next end step, they reveal their hand and discard all nonland cards with the chosen name and mana value less than or equal to the number of lands they control.
+Whenever a player discards a card this way, they lose life equal to that card's mana value and you may draw two cards.
+​
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Look at target opponent's hand. Choose a card name. At the beginning of that player's next end step, they reveal their hand and discard all nonland cards with the chosen name and mana value less than or equal to the number of lands they control.
+Whenever a player discards a card this way, they lose life equal to that card's mana value and you may draw two cards.
+​
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Look at target opponent's hand. Choose a card name. At the beginning of that player's next end step, they reveal their hand and discard all nonland cards with the chosen name and mana value less than or equal to the number of lands they control.
+Whenever a player discards a card this way, they lose life equal to that card's mana value and you may draw two cards.
+​
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Look at target opponent's hand. Choose a card name. At the beginning of that player's next end step, they reveal their hand and discard all nonland cards with the chosen name and mana value less than or equal to the number of lands they control.
+Whenever a player discards a card this way, they lose life equal to that card's mana value and you may draw two cards.
+​
+​
+
+Forge Destiny
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Remove a lore counter from each of any number of other Sagas you control.
+I — Put a lore counter on each of any number of other Sagas you control.
+Whenever you sacrifice a Saga this turn, add {W}{W}. Spend this mana only to cast Fate spells. => 
+Remove a lore counter from each of any number of other Sagas you control.
+Put a lore counter on each of any number of other Sagas you control.
+Whenever you sacrifice a Saga this turn, add {W}{W}. Spend this mana only to cast Fate spells.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Remove a lore counter from each of any number of other Sagas you control.
+I — Put a lore counter on each of any number of other Sagas you control.
+Whenever you sacrifice a Saga this turn, add {W}{W}. Spend this mana only to cast Fate spells. => 
+Remove a lore counter from each of any number of other Sagas you control.
+Put a lore counter on each of any number of other Sagas you control.
+Whenever you sacrifice a Saga this turn, add {W}{W}. Spend this mana only to cast Fate spells.
+
+Swarm of Locusts
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Create two Food tokens.
+III — Create four 1/1 white Insect creature tokens with flying. 
+You may sacrifice a Food. If you do, remove a lore counter from Swarm of Locusts.
+​ => 
+Create two Food tokens.
+Create four 1/1 white Insect creature tokens with flying. 
+You may sacrifice a Food. If you do, remove a lore counter from Swarm of Locusts.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Create two Food tokens.
+III — Create four 1/1 white Insect creature tokens with flying. 
+You may sacrifice a Food. If you do, remove a lore counter from Swarm of Locusts.
+​ => 
+Create two Food tokens.
+Create four 1/1 white Insect creature tokens with flying. 
+You may sacrifice a Food. If you do, remove a lore counter from Swarm of Locusts.
+
+Goetia of Gluttony
+cost: {X}{1}{U}{U}{V} => {X}{U}{U}{V}
+rules_text: Ravenous [i](This creature enters with X +1/+1 counters on it. If X is 5 or more, draw a card when it enters.)[/i]
+Devour 2 [i](As this enters, you may sacrifice any number of creatures. This creature enters with twice that many +1/+1 counters on it.)[/i]
+If one or more counters would be put on Goetia of Gluttony, its controller creates that many Food tokens instead. => Ravenous, devour 2 [i](As this enters, you may sacrifice any number of creatures. This creature enters with twice that many plus X +1/+1 counters on it. If X is 5 or more, draw a card when it enters.)[/i]
+If one or more +1/+1 counters would be put on this creature, its controller creates that many Food tokens instead.
+This creature gets +1/+1 for each Food you control.
+pt: 4/3 => 1/0
+
+
+VERSION 18 CHANGELOG
 ====================
 
 

@@ -483,7 +483,7 @@
 		{
 			"name": "Goetia of Gluttony",
 			"rarity": "rare",
-			"mana_cost": "{X}{1}{U}{U}{V}",
+			"mana_cost": "{X}{U}{U}{V}",
 			"type": "Mind Creature — Nightmare Shark",
 			"collector_number": "79",
 			"image_uris": {

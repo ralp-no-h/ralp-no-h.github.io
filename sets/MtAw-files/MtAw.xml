@@ -28,10 +28,9 @@ Whenever you foretell a card, gain 1 Wisdom.</text>
 		</card>
 		<card>
 			<name>Oaths Fulfilled</name>
-			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I, II — Fateseal 1 (To fateseal X, look at the top X cards of an opponent&apos;s library, then put any number of them on the bottom of that player&apos;s library and the rest on top in any order.)
+			<text>Fateseal 1 (To fateseal X, look at the top X cards of an opponent&apos;s library, then put any number of them on the bottom of that player&apos;s library and the rest on top in any order.)
 Fateseal 2
-III — Fateseal 3, then draw a card.</text>
+Fateseal 3, then draw a card.</text>
 			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/1.jpg" num="12">MtAw</set>
 			<prop>
 				<layout>saga</layout>
@@ -100,9 +99,7 @@ Foretell {W} (During your turn, you may pay {2} and exile this card from your ha
 		<card>
 			<name>Shifting the Odds</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I, II, III — Choose creature, enchantment, land, or life. If you chose life, you gain 3 life for each opponent who has more life than you. Otherwise, if an opponent controls more permanents of the chosen type than you, reveal cards from the top of your library until you reveal a card of the chosen type. Put it into your hand and the rest on the bottom of your library in a random order.
-​
-​</text>
+Choose creature, enchantment, land, or life. If you chose life, you gain 3 life for each opponent who has more life than you. Otherwise, if an opponent controls more permanents of the chosen type than you, reveal cards from the top of your library until you reveal a card of the chosen type. Put it into your hand and the rest on the bottom of your library in a random order.</text>
 			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/5.jpg" num="16">MtAw</set>
 			<prop>
 				<layout>saga</layout>
@@ -123,7 +120,7 @@ Enchant creature
 When enchanted creature is dealt damage, it deals that much damage to its controller.
 When Grave Misfortune is put into a graveyard from the battle-
 field, draw a card.
-I, II, III, IV, V — Grave Misfortune deals 1 damage to enchanted creature for each lore counter on it.
+Grave Misfortune deals 1 damage to enchanted creature for each lore counter on it.
 ​</text>
 			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/6.jpg" num="8">MtAw</set>
 			<prop>
@@ -141,9 +138,8 @@ I, II, III, IV, V — Grave Misfortune deals 1 damage to enchanted creature for 
 		<card>
 			<name>Monkey&apos;s Paw</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter.)
-I, II — Search your library for a card, then shuffle and put that card on top.
-III — Exile Monkey&apos;s Paw and return it to the battlefield under an opponent&apos;s control.
-​</text>
+Search your library for a card, then shuffle and put that card on top.
+Exile Monkey&apos;s Paw and return it to the battlefield under an opponent&apos;s control.</text>
 			<set rarity="rare" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/7.jpg" num="11">MtAw</set>
 			<prop>
 				<layout>saga</layout>
@@ -198,10 +194,8 @@ Reveal your choice, Sacrifice Sworn Oaths: Counter target spell of the chosen ty
 		</card>
 		<card>
 			<name>Atonement</name>
-			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I, II — Destroy target enchantment.
-III — Destroy target enchantment, then Atonement deals damage to each opponent equal to the greatest mana value among enchantment cards in their graveyard.
-​</text>
+			<text>Destroy target enchantment.
+Destroy target enchantment, then Atonement deals damage to each opponent equal to the greatest mana value among enchantment cards in their graveyard.</text>
 			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/10.jpg" num="2">MtAw</set>
 			<prop>
 				<layout>saga</layout>
@@ -219,8 +213,7 @@ III — Destroy target enchantment, then Atonement deals damage to each opponent
 			<name>Chaos Mastery</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
 When you cast this spell, gain 2 Wisdom.
-I, II, III, IV — Scry X, draw a card, then shuffle, where X is the number of lore counters on Chaos Mastery.
-​</text>
+Scry X, draw a card, then shuffle, where X is the number of lore counters on Chaos Mastery.</text>
 			<set rarity="common" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/11.jpg" num="3">MtAw</set>
 			<prop>
 				<layout>saga</layout>
@@ -236,10 +229,8 @@ I, II, III, IV — Scry X, draw a card, then shuffle, where X is the number of l
 		</card>
 		<card>
 			<name>Supernal Intervention</name>
-			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I, II — Up to one target creature phases out. It can&apos;t phase in for as long as you control Supernal Intervention.
-III — Creatures your opponents control lose all abilities. Destroy all creatures.
-​</text>
+			<text>Up to one target creature phases out. It can&apos;t phase in for as long as you control Supernal Intervention.
+Creatures your opponents control lose all abilities. Destroy all creatures.</text>
 			<set rarity="rare" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/12.jpg" num="18">MtAw</set>
 			<prop>
 				<layout>saga</layout>
@@ -256,7 +247,7 @@ III — Creatures your opponents control lose all abilities. Destroy all creatur
 		<card>
 			<name>Strings of Fate</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I, II, III — Look at target opponent&apos;s hand. Choose a card name. At the beginning of that player&apos;s next end step, they reveal their hand and discard all nonland cards with the chosen name and mana value less than or equal to the number of lands they control.
+Look at target opponent&apos;s hand. Choose a card name. At the beginning of that player&apos;s next end step, they reveal their hand and discard all nonland cards with the chosen name and mana value less than or equal to the number of lands they control.
 Whenever a player discards a card this way, they lose life equal to that card&apos;s mana value and you may draw two cards.
 ​
 ​</text>
@@ -275,10 +266,9 @@ Whenever a player discards a card this way, they lose life equal to that card&ap
 		</card>
 		<card>
 			<name>Forge Destiny</name>
-			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I — Remove a lore counter from each of any number of other Sagas you control.
-II — Put a lore counter on each of any number of other Sagas you control.
-III — Whenever you sacrifice a Saga this turn, add {W}{W}. Spend this mana only to cast Fate spells.</text>
+			<text>Remove a lore counter from each of any number of other Sagas you control.
+Put a lore counter on each of any number of other Sagas you control.
+Whenever you sacrifice a Saga this turn, add {W}{W}. Spend this mana only to cast Fate spells.</text>
 			<set rarity="uncommon" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/14.jpg" num="7">MtAw</set>
 			<prop>
 				<layout>saga</layout>
@@ -331,11 +321,9 @@ Foretell {2}{W}{V}{V}{V} (During your turn, you may pay {2} and exile this card 
 		</card>
 		<card>
 			<name>Swarm of Locusts</name>
-			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I, II — Create two Food tokens.
-III — Create four 1/1 white Insect creature tokens with flying. 
-You may sacrifice a Food. If you do, remove a lore counter from Swarm of Locusts.
-​</text>
+			<text>Create two Food tokens.
+Create four 1/1 white Insect creature tokens with flying. 
+You may sacrifice a Food. If you do, remove a lore counter from Swarm of Locusts.</text>
 			<set rarity="common" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/17.jpg" num="19">MtAw</set>
 			<prop>
 				<layout>saga</layout>
@@ -917,20 +905,20 @@ Madness {3}{U}{U} (If you discard this card, discard it into exile. When you do,
 		</card>
 		<card>
 			<name>Goetia of Gluttony</name>
-			<text>Ravenous (This creature enters with X +1/+1 counters on it. If X is 5 or more, draw a card when it enters.)
-Devour 2 (As this enters, you may sacrifice any number of creatures. This creature enters with twice that many +1/+1 counters on it.)
-If one or more counters would be put on Goetia of Gluttony, its controller creates that many Food tokens instead.</text>
+			<text>Ravenous, devour 2 (As this enters, you may sacrifice any number of creatures. This creature enters with twice that many plus X +1/+1 counters on it. If X is 5 or more, draw a card when it enters.)
+If one or more +1/+1 counters would be put on this creature, its controller creates that many Food tokens instead.
+This creature gets +1/+1 for each Food you control.</text>
 			<set rarity="rare" picurl="https://ralp-no-h.github.io/sets/MtAw-files/img/48.jpg" num="79">MtAw</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Mind Creature — Nightmare Shark</type>
 				<maintype>Creature</maintype>
-				<manacost>X1UUV</manacost>
-				<cmc>4</cmc>
+				<manacost>XUUV</manacost>
+				<cmc>3</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>4/3</pt>
+				<pt>1/0</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<related count="1">Food</related>
